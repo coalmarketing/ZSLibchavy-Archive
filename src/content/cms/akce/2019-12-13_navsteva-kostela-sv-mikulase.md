@@ -1,0 +1,96 @@
+---
+title: Návštěva Kostela sv. Mikuláše
+post_id: '29205'
+date: '2019-12-13T15:09:56.000Z'
+author: Světlana Roubíčková
+section: Družina
+images:
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7170-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7171-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7172-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7173-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7175-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7176-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7177-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7178-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7179-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7180-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7181-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7183-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7184-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7185-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7188-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7189.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7192.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7193.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7199.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7200.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7201.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7204.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7220-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7243-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7244.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7245.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7246.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7247.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7248-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7249.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7250.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7251-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7268-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7281.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8365.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8366.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8369.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8370.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8371.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8372.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8373.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8374.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8375.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8376.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8377.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8379.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8380.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8381.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8382.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8383.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8384.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8385.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8388.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8389.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8390.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8391.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8392.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8393.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8396.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8397.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8399.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8401.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8402.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8403.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8408.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8409.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8410.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8412.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8413.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8414.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8415.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8416.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8417.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8418.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8419.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8420.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8421.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8422.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8423.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8427.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8429.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8430.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8436.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8438.jpg
+tags:
+- akce
+---
+
+Dne 12.12. jsme se vydali na faru a do kostela. Pan farář Vladislav Brokeš si pro nás připravil moc zajímavý program, ve kterém jsme se dozvěděli například: proč a od kdy se slaví ADVENT. Co je adventní kalendář, věnec, barborky a mikulášská nadílka. A především jaký je smysl adventních tradic. Druhou aktivitou bylo téma VÁNOCE a vyprávění vánočního biblického příběhu v lidových koledách. Co pro nás Vánoce znamenají. Také si děti měly možnost vyzkoušet hraní na varhanách a seznámily se i s tím, jak varhany fungují. Bylo to velice příjemné odpoledne a děti si odnesly nejen spoustu milých zážitků, ale i ponaučení a mnoho nových poznatků. 

@@ -1,0 +1,101 @@
+---
+title: II. ODDĚLENÍ  Únor
+post_id: '31608'
+date: '2020-03-02T12:58:01.000Z'
+author: Světlana Roubíčková
+section: Družina
+images:
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8639.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8640.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8641.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8642.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8643.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8645.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8646.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8647.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8648.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8649.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8650.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8651.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8652.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8653.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8654.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8656.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8657.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8658.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8659.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8660.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8661.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8663.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8664.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8666.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8667.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8668.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8669.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8670.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8671.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8672.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8673.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8674.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8677.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8678.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8679.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8680.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8681.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8682.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8683.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8684.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8685.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8686.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8695.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8696.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8697.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8698.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8699.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8700.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8701.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8702.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8703.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8704.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8705.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8706.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8707.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8708.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8709.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8710.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8711.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8712.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8713.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8714.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8715.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8716.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8717.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8718.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8719.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8720.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8721.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8722.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8723.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8724.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8725.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8726.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8727.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8728.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8729.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8730.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8731.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8732.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8733.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8734.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8735.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8736.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8737.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8738.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8739.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8740.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8741.jpg
+tags:
+- akce
+---
+
+V měsíci únoru nás navštívila paní učitelka Evička Adamcová a představila dětem různé deskové hry. Také jsme měli ve družince paní Kaplanovou, která nás seznámila se sázením semínek a rozmnožováním květin. Obě návštěvy byly pro žáky velkým přínosem a my jim tímto moc děkujeme. Spolu s prvňáčky jsme v měsíci únoru pořádali po návštěvě krytého bazénu "Čtenářské chvilky", které byly moc příjemné, a každý dostal příležitost ukázat všem svoje čtenářské dovednosti. 

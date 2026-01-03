@@ -1,0 +1,27 @@
+{
+    "layout": "layouts/post.njk",
+    "eleventyComputed": {
+        "permalink": "/akce/{{ page.fileSlug }}/index.html"
+    },
+    "tags": "akce",
+    "landing": {
+        "heading": "Proběhlá akce",
+        "breadcrumbs": [
+            {
+                "title": "Domů",
+                "url": "/"
+            },
+            {
+                "title": "Akce",
+                "url": "/akce"
+            },
+            {
+                "title": "Tento příspěvek"
+            }
+        ],
+        "image": {
+            "url": "/assets/images/services/skola/landing.jpg",
+            "alt": "Jazyková učebna"
+        }
+    }
+}

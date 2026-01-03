@@ -1,0 +1,14 @@
+---
+title: škola v přírodě
+post_id: '6094'
+date: '2016-05-31T22:00:00.000Z'
+author: ZŠ &amp; MŠ Libchavy
+section: Škola
+images: []
+tags:
+- akce
+---
+
+Jako již tradičně žaci 4. třidy absolvovali školu v přirodě. Tento rok se konala od.23. 5. do 27. 5. v nadherne krajině v okoli pastvinske přehrady. Žaci se nejen učili, ale byla pro ně nachystana exkurze do vodni elektrarny. Prožili nočni stezku odvahy, sportovni jarmark, který byl diky darům rodičů opravdu bohatý, a na zavěrečne diskotece, kterou pečlivě připravili Adam Žďarský, Bobeš Kalousek, Matyaš Adamec a Adam Kacalek, jim přijel ukazat sve triky i kouzelnik.Celý pobyt se nesl v duchu pišvorkových turnajů, kde na střidačku vyhrali Bobeš a Artur. Na zavěr jsme si vyhodnotili veškere prace. Všechny děti si ale zaslouži oceněni.  Byly velmi hodne, ukazněne a doufam, že i spokojene.  Chvalim je. Super třida, to jsme my! R. Kulhava
+
+[ ](/archive/kronika/akce/galerie/1223/obr/1223001.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223002.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223003.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223004.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223005.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223006.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223007.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223008.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223009.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223010.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223011.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223012.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223013.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223014.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223015.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223016.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223017.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223018.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223019.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223020.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223021.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223022.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223023.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223024.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223025.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223026.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223027.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223028.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223029.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223030.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223031.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223032.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223033.jpg "x")[ ](/archive/kronika/akce/galerie/1223/obr/1223034.jpg "x")

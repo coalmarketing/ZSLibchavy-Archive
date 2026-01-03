@@ -1,0 +1,83 @@
+<!-- LANDING -->
+<section class="relative flex items-end ~py-8/24 ~px-4/8 ~h-[24rem]/[36rem] z-10
+  before:absolute before:top-0 before:left-0 before:h-full before:w-full before:bg-gradient-to-t before:from-black/90 before:to-black/0 before:-z-10">
+    <div class="container mx-auto flex flex-col items-start ~gap-6/8">
+        <!-- BADGE + HEADING -->
+        <div class="flex flex-col items-start ~gap-1.5/3">
+            <span class="py-2 px-4 bg-category ~text-sm/base text-white font-medium !leading-none rounded-full" data-category="{{ category or section | slug }}">{{ landing.badge or section }}</span>
+            <h1 class="~text-2xl/5xl text-white font-extrabold leading-none">{{ landing.heading }}</h1>
+        </div>
+
+        <!-- BREADCRUMBS -->
+        <ul class="flex items-center ~gap-2/4">
+            {% for item in landing.breadcrumbs %}
+                {% if item.url %}
+                    <li>
+                        <a href="{{ item.url }}" class="~text-sm/base text-gray-200 hover:text-white truncate">{{ item.title }}</a>
+                    </li>
+
+                    {# Show the chevron icon if this is not the last item #}
+                    {% if loop.index != landing.breadcrumbs.length %}
+                        <li class="text-gray-200">
+                            <svg class="~h-4/5 ~w-4/5" width="18" height="18" viewBox="0 0 18 18" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M9.9,8.8L6.5,5.3l0.8-0.8l4.2,4.2L7.3,13l-0.8-0.8L9.9,8.8z"/>
+                            </svg>
+                        </li>
+                    {% endif %}
+
+                {% else %}
+                    {# Show the chevron icon if this is not the last item #}
+                    {% if loop.index != landing.breadcrumbs.length %}
+                        <li class="~text-sm/base text-gray-200">{{ item.title }}</li>
+
+                        <li class="text-gray-200">
+                            <svg class="~h-4/5 ~w-4/5" width="18" height="18" viewBox="0 0 18 18" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M9.9,8.8L6.5,5.3l0.8-0.8l4.2,4.2L7.3,13l-0.8-0.8L9.9,8.8z"/>
+                            </svg>
+                        </li>
+                    {% else %}
+                        <li class="~text-sm/base text-white line-clamp-1">{{ item.title }}</li>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+
+    <!-- BACKGROUND IMAGE -->
+    {# Get landing image from CMS if the content key exists #}
+    {% if landing.galleryKey %}
+        {% set cmsGallery = collections.fotogalerie | findWhere({key: landing.galleryKey}) %}
+
+        {% set image = {
+            url: cmsGallery.data.landing,
+            alt: cmsGallery.data.landingAlt
+        } %}
+    {% else %}
+        {% set image = landing.image %}
+    {% endif %}
+
+    <picture>
+        <!-- MOBILE IMAGE -->
+        <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 600, height: 576 }) | avif %}" type="image/avif">
+        <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 600, height: 576 }) | webp %}" type="image/webp">
+        <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 600, height: 576 }) | jpeg %}" type="image/jpeg">
+        <!-- TABLET IMAGE -->
+        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1200, height: 627 }) | avif %}" type="image/avif">
+        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1200, height: 627 }) | webp %}" type="image/webp">
+        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1200, height: 627 }) | jpeg %}" type="image/jpeg">
+        <!-- DESKTOP IMAGE -->
+        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 2880, height: 864 }) | avif %}" type="image/avif">
+        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 2880, height: 864 }) | webp %}" type="image/webp">
+        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 2880, height: 864 }) | jpeg %}" type="image/jpeg">
+        <img
+          class="object-cover absolute top-0 left-0 h-full w-full -z-20"
+          src="{% getUrl image.url | resize({ width: 2880, height: 864 }) | jpeg %}"
+          alt="{{ image.alt }}"
+          width="1920"
+          height="576"
+          loading="eager"
+          decoding="async"
+          aria-hidden="true"
+          draggable="false">
+    </picture>
+</section>

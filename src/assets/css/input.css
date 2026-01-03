@@ -1,0 +1,517 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  /* =================== */
+  /* === CTA BUTTONS === */
+  /* =================== */
+
+  .btn {
+    @apply flex items-center bg-gray-950 ~text-sm/base text-white font-medium leading-none rounded-full transition-[transform,_background-color] duration-300 hover:scale-95 hover:bg-primary;
+  }
+
+  .btn {
+    @apply gap-2 ~p-1.5/2 ~pl-3/4;
+  }
+
+  .btn {
+    div {
+      @apply p-1.5 bg-white rounded-full;
+    }
+
+    &.bg-white {
+      div {
+        @apply bg-gray-950;
+
+        img {
+          @apply ~h-4/5 ~w-4/5;
+        }
+      }
+    }
+  }
+
+  .btn-sm {
+    @apply gap-2 p-1.5 pl-4;
+  }
+
+  .btn-lg {
+    @apply ~gap-2/3 ~py-2/2.5 ~pl-4/6 ~pr-2/3 ~text-base/lg;
+  }
+
+  /* ============== */
+  /* === TOPPER === */
+  /* ============== */
+
+  .topper {
+    @apply font-kalam ~text-sm/base text-primary dark:text-primary-200 font-bold leading-none uppercase;
+  }
+
+  /* ===================== */
+  /* === PROSE CONTENT === */
+  /* ===================== */
+
+  .prose {
+    @apply prose-gray dark:prose-invert prose-p:~text-sm/base prose-li:~text-sm/base prose-td:~text-sm/base;
+  }
+
+
+  /* ================================ */
+  /* === DYNAMIC CATEGORY STYLING === */
+  /* ================================ */
+
+  /* === DYNAMIC BACKGROUND COLOR === */
+  .bg-category {
+    /* === DOMŮ === */
+    &[data-category="domu"] {
+      @apply bg-domu text-white;
+    }
+
+    /* === ŠKOLA === */
+    &[data-category="skola"] {
+      @apply bg-skola text-gray-950;
+    }
+
+    /* === MŠ KORÁLEK === */
+    &[data-category="ms-koralek"] {
+      @apply bg-koralek text-gray-950;
+    }
+  
+    /* === MŠ KAMARÁD === */
+    &[data-category="ms-kamarad"] {
+      @apply bg-kamarad text-gray-950;
+    }
+  
+    /* === DRUŽINA === */
+    &[data-category="druzina"] {
+      @apply bg-druzina text-gray-950;
+    }
+  
+    /* === JÍDELNA === */
+    &[data-category="jidelna"] {
+      @apply bg-jidelna text-white;
+    }
+  
+    /* === SPOLEČNÉ === */
+    &[data-category="spolecne"] {
+      @apply bg-spolecne text-white;
+    }
+
+    /* === ARCHIV === */
+    &[data-category="archiv"] {
+      @apply bg-spolecne text-white;
+    }
+  }
+
+  /* === DYNAMIC TEXT COLOR === */
+  .text-category {
+    /* === DOMŮ === */
+    &[data-category="domu"] {
+      @apply text-domu dark:text-domu-300;
+    }
+
+    /* === ŠKOLA === */
+    &[data-category="skola"] {
+      @apply text-skola dark:text-skola-300;
+    }
+
+    /* === MŠ KORÁLEK === */
+    &[data-category="ms-koralek"] {
+      @apply text-koralek dark:text-koralek-300;
+    }
+  
+    /* === MŠ KAMARÁD === */
+    &[data-category="ms-kamarad"] {
+      @apply text-kamarad dark:text-kamarad-300;
+    }
+  
+    /* === DRUŽINA === */
+    &[data-category="druzina"] {
+      @apply text-druzina dark:text-druzina-300;
+    }
+  
+    /* === JÍDELNA === */
+    &[data-category="jidelna"] {
+      @apply text-jidelna dark:text-jidelna-300;
+    }
+  
+    /* === SPOLEČNÉ === */
+    &[data-category="spolecne"] {
+      @apply text-spolecne dark:text-spolecne-300;
+    }
+
+    /* === ARCHIV === */
+    &[data-category="archiv"] {
+      @apply text-spolecne dark:text-spolecne-300;
+    }
+  }
+
+  /* === DYNAMIC BORDER COLOR === */
+  .border-category {
+    /* === DOMŮ === */
+    &[data-category="domu"] {
+      @apply border-domu;
+    }
+
+    /* === ŠKOLA === */
+    &[data-category="skola"] {
+      @apply border-skola;
+    }
+
+    /* === MŠ KORÁLEK === */
+    &[data-category="ms-koralek"] {
+      @apply border-koralek;
+    }
+  
+    /* === MŠ KAMARÁD === */
+    &[data-category="ms-kamarad"] {
+      @apply border-kamarad;
+    }
+  
+    /* === DRUŽINA === */
+    &[data-category="druzina"] {
+      @apply border-druzina;
+    }
+  
+    /* === JÍDELNA === */
+    &[data-category="jidelna"] {
+      @apply border-jidelna;
+    }
+  
+    /* === SPOLEČNÉ === */
+    &[data-category="spolecne"] {
+      @apply border-spolecne;
+    }
+
+    /* === ARCHIV === */
+    &[data-category="archiv"] {
+      @apply border-spolecne;
+    }
+  }
+
+  /* ======================================== */
+  /* === MAIN NAVIGATION CATEGORY STYLING === */
+  /* ======================================== */
+  header nav {
+    /* === DOMŮ === */
+    [data-category="domu"][aria-current="page"] {
+      @apply bg-domu-200/50 dark:bg-domu/50 text-domu dark:text-white;
+    }
+  
+    /* === ŠKOLA === */
+    [data-category="skola"][aria-current="page"] {
+      @apply bg-skola-200/50 dark:bg-skola/50 text-skola-800 dark:text-white;
+    }
+  
+    /* === MŠ KORÁLEK === */
+    [data-category="ms-koralek"][aria-current="page"] {
+      @apply bg-koralek-200/50 dark:bg-koralek/50 text-koralek-900 dark:text-white;
+    }
+  
+    /* === MŠ KAMARÁD === */
+    [data-category="ms-kamarad"][aria-current="page"] {
+      @apply bg-kamarad-200/50 dark:bg-kamarad/50 text-kamarad-800 dark:text-white;
+    }
+  
+    /* === DRUŽINA === */
+    [data-category="druzina"][aria-current="page"] {
+      @apply bg-druzina-200/50 dark:bg-druzina/50 text-druzina-700 dark:text-white;
+    }
+  
+    /* === JÍDELNA === */
+    [data-category="jidelna"][aria-current="page"] {
+      @apply bg-jidelna-200/50 dark:bg-jidelna/50 text-jidelna dark:text-white;
+    }
+  
+    /* === SPOLEČNÉ === */
+    [data-category="spolecne"][aria-current="page"] {
+        @apply bg-spolecne-200/50 dark:bg-spolecne/50 text-spolecne dark:text-white;
+    }
+  }
+
+  /* =========================================== */
+  /* === SIDEBAR NAVIGATION CATEGORY STYLING === */
+  /* =========================================== */
+  div#sidebar {
+    /* === SPOLEČNÉ === */
+    &[data-category="archiv"] {
+      @apply bg-spolecne-100 dark:bg-spolecne-950 border-spolecne-200 dark:border-spolecne-800;
+
+      a[aria-current="page"] {
+        @apply bg-spolecne-200 dark:bg-spolecne-800 text-spolecne-950 dark:text-spolecne-50;
+      }
+    }
+  }
+
+  /* ====================================== */
+  /* === SUBNAVIGATION CATEGORY STYLING === */
+  /* ====================================== */
+  ul#subnavigation {
+    /* === ACTIVE PAGE === */
+    a[aria-current="page"] {
+      @apply font-medium;
+    }
+
+    /* === ŠKOLA === */
+    a[data-category="skola"][aria-current="page"] {
+      @apply bg-skola-200 dark:bg-skola-800 text-skola-950 dark:text-skola-50;
+    }
+
+    /* === MŠ KORÁLEK === */
+    a[data-category="ms-koralek"][aria-current="page"] {
+      @apply bg-koralek-200 dark:bg-koralek-800 text-koralek-950 dark:text-koralek-50;
+    }
+
+    /* === MŠ KAMARÁD === */
+    a[data-category="ms-kamarad"][aria-current="page"] {
+      @apply bg-kamarad-200 dark:bg-kamarad-800 text-kamarad-950 dark:text-kamarad-50;
+    }
+
+    /* === DRUŽINA === */
+    a[data-category="druzina"][aria-current="page"] {
+      @apply bg-druzina-200 dark:bg-druzina-800 text-druzina-950 dark:text-druzina-50;
+    }
+
+    /* === JÍDELNA === */
+    a[data-category="jidelna"][aria-current="page"] {
+      @apply bg-jidelna-200 dark:bg-jidelna-800 text-jidelna-950 dark:text-jidelna-50;
+    }
+  }
+}
+
+/* poppins-regular - latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/poppins-v24-latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* poppins-500 - latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/poppins-v24-latin-ext-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* poppins-600 - latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/poppins-v24-latin-ext-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* poppins-800 - latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/poppins-v24-latin-ext-800.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* lora-regular - latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/lora-v37-latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* lora-700 - latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/lora-v37-latin-ext-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* kalam-700 - latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Kalam';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/kalam-v18-latin-ext-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* ====================================== */
+/* === DARKMODE SWITCH AND TRANSITION === */
+/* ====================================== */
+
+:root {
+  --bg-planet-bright: #ecd590;
+  --bg-polygon-bright: #f2a54c;
+  --bg-planet-shadow: #828894;
+  --bg-planet-lightshadow: #3a3a3a;
+  --dot-size: 0.25rem;
+}
+
+html {  
+  body {
+    label.darkmode-container {
+      height: 100%;
+      cursor: pointer;
+      position: relative;
+      /* To make outline on mobile invisible */
+      -webkit-tap-highlight-color:  rgba(255, 255, 255, 0);
+    
+      input[type="checkbox"] {
+          height: 0;
+          width: 0;
+          visibility: hidden;
+          position: absolute;
+      }
+    
+      .planet {
+        display: block;
+        width: 1.25rem;
+        height: 1.25rem;
+        border-radius: 50%;
+        overflow: hidden;
+        background:
+          radial-gradient(3.75em, 99%, transparent 100%);
+        background-color: var(--bg-planet-bright);
+        background-repeat: no-repeat;
+        position: relative;
+        will-change: background;
+        transition: all 400ms ease;
+        z-index: 11;
+      
+        /* Safari transition issue */
+        backface-visibility: hidden;
+        transform: translate3d(0, 0, 0);
+        
+        &::after {
+          content: "";
+          background-color: var(--bg-planet-shadow);
+          width: 1.25rem;
+          height: 1.25rem;
+          position: absolute;
+          border-radius: 50%;
+          will-change: opacity, transform, background-color;
+          opacity: 0;
+          transform: translate(2em, -2em);
+          transition: opacity 400ms ease, transform 400ms ease, background-color 400ms ease;
+        }
+      }
+    
+      .elements {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        transition: transform 400ms ease;
+        z-index: 10;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+        svg {
+          position: absolute;
+          width: 12px;
+          height: 12px;
+          opacity: 1;
+          transition: transform 400ms ease, opacity 200ms ease, width 200ms ease, height 200ms ease;
+          polygon {
+            fill: var(--bg-polygon-bright);
+            transition: fill 400ms ease;
+          }
+          &:first-child {
+            transform: translate(0, -0.8rem);
+          }
+          &:nth-child(2) {
+            transform: translate(0.55em, -0.55em) rotate(45deg);
+          }
+          &:nth-child(3) {
+            transform: translate(0.8em, 0) rotate(90deg);
+          }
+          &:nth-child(4) {
+            transform: translate(0.55em, 0.55em) rotate(135deg);
+          }
+          &:nth-child(5) {
+            transform: translate(0, 0.8em) rotate(180deg);
+          }
+          &:nth-child(6) {
+            transform: translate(-0.55em, 0.55em) rotate(225deg);
+          }
+          &:nth-child(7) {
+            transform: translate(-0.8em, 0) rotate(270deg);
+          }
+          &:nth-child(8) {
+            transform: translate(-0.55em, -0.55em) rotate(315deg);
+          }
+          &:nth-child(9) {
+            transform: translate(0em, -1em);
+            opacity: 0;
+          }
+          &:nth-child(10) {
+            transform: translate(0em, -1.5em);
+            opacity: 0;
+          }
+          &:nth-child(11) {
+            transform: translate(0em, -1.25em);
+            opacity: 0;
+          }
+        }
+      }
+    }
+  }
+
+  &.dark {
+      label.darkmode-container {
+          input[type="checkbox"] {
+            &+.planet {
+              --bg-planet-bright: #D7D7D8;
+      
+              &::after {
+                opacity: 1;
+                transform: translate(0.4em, -0.3em);
+              }
+            }
+      
+            &~.elements {
+              transform: rotate(180deg);
+              z-index: 12;
+      
+              svg {
+                transform: translate(0.5em, 1em);
+                opacity: 0;
+
+                &:nth-child(9) {
+                  transform: translate(-0.2em, 0.4em);
+                  width: 0.2em;
+                  height: 0.2em;
+                  opacity: 1;
+                  circle {
+                    fill: var(--bg-planet-lightshadow);
+                  }
+                }
+                &:nth-child(10) {
+                  transform: translate(-0.35em, 0);
+                  width: 0.45em;
+                  height: 0.45em;
+                  opacity: 1;
+                  circle {
+                    fill: var(--bg-planet-lightshadow);
+                  }
+                }
+                &:nth-child(11) {
+                  transform: translate(0, 0.2em);
+                  width: 0.25em;
+                  height: 0.25em;
+                  opacity: 1;
+                  circle {
+                    fill: var(--bg-planet-lightshadow);
+                  }
+                }
+              }
+            }
+          }
+      }
+  }
+}

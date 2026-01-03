@@ -1,0 +1,116 @@
+---
+title: 'Projektový den v MŠ: "Cesta do Pravěku"'
+post_id: '40080'
+date: '2020-06-10T19:55:08.000Z'
+author: Bc. Renata Krejčová, Dis
+section: MŠ Kamarád
+images:
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_090336.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_090356.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_090415.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_090440.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_090444.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_090449.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_090641.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_090818.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_090825.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_091955.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092003.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092013.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092019.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092027.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092034.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092042.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092048.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092056.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092104.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092113.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092120.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092131.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092136.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092144.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092149.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092155.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092159.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092203.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092208.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092217.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092229.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092237.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092300.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092307.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092341.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092533.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092539.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_092803.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_093002.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_093038.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_093130.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_093136.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_093214.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_093247.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_093326.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_093441.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_093444.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_093448.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_093451.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_093455.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_093724.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_094258.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095154.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095213.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095219.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095225.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095343.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095348.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095356.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095401.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095409.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095419.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095433.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095443.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095449.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095459.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095513.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095536.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095551.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095609.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095812.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095944.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_095948.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_100409.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_100423.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_100437.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_100449.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_100459.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_100511.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_100954.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_101053.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_101407.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_101917.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_102038.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_102056.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_102125.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_102330.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_102335.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_104655.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_104659.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_104701.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_104714.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_104718.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_104720.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_104733.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_105001.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_105747.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_105749.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_110153.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_110157.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_110204.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_110457.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_110532.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_110535.jpg
+tags:
+- akce
+---
+
+

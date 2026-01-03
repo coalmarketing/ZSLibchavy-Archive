@@ -1,0 +1,145 @@
+<!-- POSTS -->
+<ul class="grid grid-cols-1 lg:grid-cols-2 2xl:grid-cols-3 gap-y-8 gap-x-6">
+    {% for post in posts %}
+        <li class="flex flex-col items-center -space-y-8"
+            data-search-title="{{ post.data.title | e }}" 
+            data-search-content="{{ post.content | stripHtml | stripMarkdown | e }}" 
+            data-id="{{ post.url }}">
+
+            <!-- POST IMAGE -->
+            {% set defaultImages = {
+                "skola": {
+                    "url": "/assets/images/about-us/about-us.jpg",
+                    "alt": "Budova základní školy a mateřské školy Libchavy"
+                },
+                "ms-koralek": {
+                    "url": "/assets/images/services/ms-koralek/landing.jpg",
+                    "alt": "Herna námořníků MŠ Korálek"
+                },
+                "ms-kamarad": {
+                    "url": "/assets/images/services/ms-kamarad/landing.jpg",
+                    "alt": "Třída mladších dětí MŠ Kamarád"
+                },
+                "druzina": {
+                    "url": "/assets/images/services/druzina/landing.jpg",
+                    "alt": "Stolní fotbal v ZŠ Libchavy"
+                },
+                "jidelna": {
+                    "url": "/assets/images/services/jidelna/landing.jpg",
+                    "alt": "Jídelna ZŠ Libchavy"
+                }
+            } %}
+
+            {% if post.data.images | length > 0 %}
+                {% set image = post
+                    .data
+                    .images[0] %}
+            {% elif post.data.section | slug in defaultImages %}
+                {% set image = defaultImages[post.data.section | slug] %}
+            {% else %}
+                {% set image = {
+                    "url": "/assets/images/about-us/about-us.jpg",
+                    "alt": "Budova základní školy a mateřské školy Libchavy"
+                } %}
+            {% endif %}
+
+            {# Check whether the image's url is a link #}
+            {% set isExternal = image
+                .url
+                .startsWith('http') %}
+
+            <a href="{{ post.url }}" class="w-full">
+                <span class="sr-only">{{ post.data.title }}</span>
+                {% if not isExternal %}
+                    {# If the image is local, optimize it #}
+                    <picture>
+                        <!-- MOBILE IMAGE -->
+                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 552, height: 368 }) | avif %}" type="image/avif">
+                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 552, height: 368 }) | webp %}" type="image/webp">
+                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 552, height: 368 }) | jpeg %}" type="image/jpeg">
+                        <!-- TABLET IMAGE -->
+                        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1143, height: 762 }) | avif %}" type="image/avif">
+                        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1143, height: 762 }) | webp %}" type="image/webp">
+                        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1143, height: 762 }) | jpeg %}" type="image/jpeg">
+                        <!-- DESKTOP IMAGE -->
+                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 737, height: 491 }) | avif %}" type="image/avif">
+                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 737, height: 491 }) | webp %}" type="image/webp">
+                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 737, height: 491 }) | jpeg %}" type="image/jpeg">
+                        <img
+                            class="object-cover w-full aspect-[3/2] border-2 border-gray-200 dark:border-gray-800 rounded-4xl"
+                            src="{% getUrl image.url | resize({ width: 737, height: 491 }) | jpeg %}"
+                            alt="{{ image.alt or post.data.title }}"
+                            width="491"
+                            height="327" 
+                            loading="lazy"
+                            decoding="async"
+                            aria-hidden="true"
+                            draggable="false">
+                    </picture>
+                {% elif client.isProduction %}
+                    {# If the image is external link and 11ty is in production mode, optimize it via Netlify Images CDN #}
+                    <picture>
+                        <!-- MOBILE IMAGE -->
+                        <source media="(max-width: 600px)" srcset="/.netlify/images?url={{ image.url }}&w=552&h=368&fit=cover&fm=avif" type="image/avif">
+                        <source media="(max-width: 600px)" srcset="/.netlify/images?url={{ image.url }}&w=552&h=368&fit=cover&fm=webp" type="image/webp">
+                        <source media="(max-width: 600px)" srcset="/.netlify/images?url={{ image.url }}&w=552&h=368&fit=cover&fm=jpg" type="image/jpeg">
+                        <!-- TABLET IMAGE -->
+                        <source media="(max-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1143&h=762&fit=cover&fm=avif" type="image/avif">
+                        <source media="(max-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1143&h=762&fit=cover&fm=webp" type="image/webp">
+                        <source media="(max-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1143&h=762&fit=cover&fm=jpg" type="image/jpeg">
+                        <!-- DESKTOP IMAGE -->
+                        <source media="(min-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=737&h=491&fit=cover&fm=avif" type="image/avif">
+                        <source media="(min-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=737&h=491&fit=cover&fm=webp" type="image/webp">
+                        <source media="(min-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=737&h=491&fit=cover&fm=jpg" type="image/jpeg">
+                        <img
+                            class="object-cover w-full aspect-[3/2] border-2 border-gray-200 dark:border-gray-800 rounded-4xl"
+                            src="/.netlify/images?url={{ image.url }}&w=1344&h=896&fit=cover&fm=jpg"
+                            alt="{{ image.alt or post.data.title }}"
+                            width="896"
+                            height="597"
+                            loading="lazy"
+                            decoding="async"
+                            aria-hidden="true"
+                            draggable="false">
+                    </picture>
+                {% else %}
+                    {# If the image is external link and we're in a development mode, display it as is #}
+                    <img
+                        class="object-cover w-full aspect-[3/2] border-2 border-gray-200 dark:border-gray-800 rounded-4xl"
+                        src="{{ image.url }}"
+                        alt="{{ image.alt or post.data.title }}"
+                        width="491"
+                        height="327"
+                        loading="lazy"
+                        decoding="async"
+                        aria-hidden="true"
+                        draggable="false">
+                {% endif %}
+            </a>
+
+            <!-- POST CONTENT -->
+            <div class="flex flex-col gap-4 w-[calc(100%-1rem)] sm:w-[calc(100%-2rem)] p-5 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 rounded-4xl shadow-md">
+                <!-- POST METADATA -->
+                <div class="flex items-center gap-2">
+                    <!-- CATEGORY BADGE -->
+                    <span class="py-1.5 px-3 bg-category text-sm text-white leading-none rounded-full" data-category="{{ post.data.section | slug }}">
+                        {{ post.data.section }}
+                    </span>
+
+                    <span class="text-sm text-gray-800 dark:text-gray-200 font-medium">{{ post.date | postDate }}</span>
+                </div>
+
+                <!-- POST TITLE + TEXT -->
+                <div class="flex flex-col gap-1.5">
+                    <a href="{{ post.url }}" title="{{ post.data.title }}" class="text-gray-950 dark:text-white font-semibold line-clamp-2 first-letter:uppercase">
+                        {{ post.data.title }}
+                    </a>
+
+                    {% if post.content %}
+                        <p class="text-sm text-gray-800 dark:text-gray-200 line-clamp-2">{{ post.content | stripHtml | stripMarkdown }}</p>
+                    {% endif %}
+                </div>
+            </div>
+        </li>
+    {% endfor %}
+</ul>

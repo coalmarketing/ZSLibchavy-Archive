@@ -1,0 +1,171 @@
+{% extends "layouts/base.njk" %}
+
+{% block head %}
+    {% if images.length > 0 %}
+        <script defer src="/assets/js/fslightbox.js"></script>
+    {% endif %}
+
+    {% if images.length > 1 %}
+        <script defer src="/assets/js/embla-carousel.js"></script>
+    {% endif %}
+
+    <!-- To ensure proper validation, prevent errors, and encourage developers to check, schema's are an opt-in feature. They're very bespoke and requires some customising  -->
+    <!-- Uncomment the code below to enable Structured Data, and test it when you deploy to Netlify - https://developers.google.com/search/docs/appearance/structured-data -->
+    {% include "components/post-schema.njk" %}
+{% endblock %}
+
+{% block body %}
+    {% set category = section | slug %}
+    {% include "sections/landing.njk" %}
+
+    <!-- SECTION -->
+    <section class="embla ~py-16/24 ~px-4/8 bg-white dark:bg-gray-900">
+        <div class="container m-auto flex justify-center gap-24">
+            <!-- ARTICLE -->
+            <article class="flex flex-col gap-8 w-full max-w-4xl">
+                <!-- BLOG METADATA -->
+                <div class="flex flex-col gap-4">
+                    <!-- TOPPER + HEADING -->
+                    <div class="flex flex-col ~gap-0.5/1.5">
+                        <span class="topper text-category" data-category="{{ section | slug }}">{{ landing.heading }}</span>
+                        <h1 class="~text-2xl/4xl text-gray-950 dark:text-white font-extrabold">{{ title }}</h1>
+                    </div>
+
+                    <!-- BLOG METADATA -->
+                    <div class="flex items-center">
+                        <!-- AUTHOR -->
+                        <span class="text-sm text-gray-800 dark:text-gray-200 font-medium">{{ author }}</span>
+
+                        <!-- DIVIDER-->
+                        <svg class="text-gray-800 dark:text-gray-200" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                        </svg>
+
+                        <span class="text-sm text-gray-800 dark:text-gray-200 font-medium">{{ date | postDate }}</span>
+                    </div>
+                </div>
+
+                {% if images.length > 0 %}
+                    <!-- BLOG IMAGES -->
+                    <div class="flex flex-col gap-2">
+                        <div class="relative">
+                            <div class="embla__viewport border-2 border-gray-200 dark:border-gray-800 rounded-4xl overflow-hidden">
+                                <div class="embla__container flex hover:cursor-grab">
+                                    {% for image in images %}
+                                        <a href="{{ image.url }}" data-fslightbox="{{ title | slug }}" class="embla__slide flex-grow-0 flex-shrink-0 basis-full">
+                                            <span class="sr-only">{{ title }} - {{ loop.index }}</span>
+
+                                            {# Check whether the image's url is a link #}
+                                            {% set isExternal = image
+                                                .url
+                                                .startsWith('http') %}
+
+                                            {% if not isExternal %}
+                                                {# If the image is local, optimize it #}
+                                                <picture>
+                                                    <!-- MOBILE IMAGE -->
+                                                    <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 546 }) | avif %}" type="image/avif">
+                                                    <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 546 }) | webp %}" type="image/webp">
+                                                    <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 546 }) | jpeg %}" type="image/jpeg">
+                                                    <!-- TABLET IMAGE -->
+                                                    <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1137 }) | avif %}" type="image/avif">
+                                                    <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1137 }) | webp %}" type="image/webp">
+                                                    <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1137 }) | jpeg %}" type="image/jpeg">
+                                                    <!-- DESKTOP IMAGE -->
+                                                    <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1338 }) | avif %}" type="image/avif">
+                                                    <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1338 }) | webp %}" type="image/webp">
+                                                    <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1338 }) | jpeg %}" type="image/jpeg">
+                                                    <img
+                                                        class="{% if images.length === 1 -%} h-full {%- else -%} object-cover aspect-[4/3] {%- endif %}"
+                                                        src="{% getUrl image.url | resize({ width: 1344 }) | jpeg %}"
+                                                        alt="{% if image.alt %}{{ image.alt }}{% else %}{{ title }} - {{ loop.index }}{% endif %}"
+                                                        width="892"
+                                                        height="669"
+                                                        loading="lazy"
+                                                        decoding="async"
+                                                        aria-hidden="true"
+                                                        draggable="false">
+                                                </picture>
+                                            {% elif client.isProduction %}
+                                                {# If the image is external link, optimize it via Netlify Images CDN #}
+                                                <picture>
+                                                    <!-- MOBILE IMAGE -->
+                                                    <source media="(max-width: 600px)" srcset="/.netlify/images?url={{ image.url }}&w=546&fit=cover&fm=avif" type="image/avif">
+                                                    <source media="(max-width: 600px)" srcset="/.netlify/images?url={{ image.url }}&w=546&fit=cover&fm=webp" type="image/webp">
+                                                    <source media="(max-width: 600px)" srcset="/.netlify/images?url={{ image.url }}&w=546&fit=cover&fm=jpg" type="image/jpeg">
+                                                    <!-- TABLET IMAGE -->
+                                                    <source media="(max-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1143&fit=cover&fm=avif" type="image/avif">
+                                                    <source media="(max-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1143&fit=cover&fm=webp" type="image/webp">
+                                                    <source media="(max-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1143&fit=cover&fm=jpg" type="image/jpeg">
+                                                    <!-- DESKTOP IMAGE -->
+                                                    <source media="(min-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1338&fit=cover&fm=avif" type="image/avif">
+                                                    <source media="(min-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1338&fit=cover&fm=webp" type="image/webp">
+                                                    <source media="(min-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1338&fit=cover&fm=jpg" type="image/jpeg">
+                                                    <img
+                                                        class="{% if images.length === 1 -%} h-full {%- else -%} object-cover aspect-[4/3] {%- endif %}"
+                                                        src="/.netlify/images?url={{ image.url }}&w=1338&fit=cover&fm=jpg"
+                                                        alt="{% if image.alt %}{{ image.alt }}{% else %}{{ title }} - {{ loop.index }}{% endif %}"
+                                                        width="892"
+                                                        height="669"
+                                                        loading="lazy"
+                                                        decoding="async"
+                                                        aria-hidden="true"
+                                                        draggable="false">
+                                                </picture>
+                                            {% else %}
+                                                <img
+                                                    class="{% if images.length === 1 -%} h-full {%- else -%} object-cover aspect-[4/3] {%- endif %}"
+                                                    src="{{ image.url }}"
+                                                    alt="{{ title }} - {{ loop.index }}"
+                                                    width="892"
+                                                    height="669"
+                                                    loading="lazy"
+                                                    decoding="async"
+                                                    aria-hidden="true"
+                                                    draggable="false">
+                                            {% endif %}
+                                        </a>
+                                    {% endfor %}
+                                </div>
+                            </div>
+
+                            {% if images.length > 1 %}
+                                <!-- PREVIOUS BUTTON -->
+                                <button class="embla__button embla__button--prev group absolute top-1/2 -translate-y-1/2 left-0.5 p-6 pl-0 z-10" type="button">
+                                    <div class="p-2.5 bg-black/65 text-gray-200 backdrop-blur transition-colors duration-300 group-hover:text-white group-disabled:opacity-50 group-disabled:cursor-not-allowed">
+                                        <span class="sr-only">Předchozí snímek</span>
+                                        <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+                                            <path d="M18.271,9.212H3.615l4.184-4.184c0.306-0.306,0.306-0.801,0-1.107c-0.306-0.306-0.801-0.306-1.107,0L1.21,9.403C1.194,9.417,1.174,9.421,1.158,9.437c-0.181,0.181-0.242,0.425-0.209,0.66c0.005,0.038,0.012,0.071,0.022,0.109c0.028,0.098,0.075,0.188,0.142,0.271c0.021,0.026,0.021,0.061,0.045,0.085c0.015,0.016,0.034,0.02,0.05,0.033l5.484,5.483c0.306,0.307,0.801,0.307,1.107,0c0.306-0.305,0.306-0.801,0-1.105l-4.184-4.185h14.656c0.436,0,0.788-0.353,0.788-0.788S18.707,9.212,18.271,9.212z"></path>
+                                        </svg>
+                                    </div>
+                                </button>
+
+                                <!-- NEXT BUTTON -->
+                                <button class="embla__button embla__button--next group absolute top-1/2 -translate-y-1/2 right-0.5 p-6 pr-0 z-10" type="button">
+                                    <div class="p-2.5 bg-black/65 text-gray-200 backdrop-blur transition-colors duration-300 group-hover:text-white group-disabled:opacity-50 group-disabled:cursor-not-allowed">
+                                        <span class="sr-only">Další snímek</span>
+                                        <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+                                            <path d="M1.729,9.212h14.656l-4.184-4.184c-0.307-0.306-0.307-0.801,0-1.107c0.305-0.306,0.801-0.306,1.106,0l5.481,5.482c0.018,0.014,0.037,0.019,0.053,0.034c0.181,0.181,0.242,0.425,0.209,0.66c-0.004,0.038-0.012,0.071-0.021,0.109c-0.028,0.098-0.075,0.188-0.143,0.271c-0.021,0.026-0.021,0.061-0.045,0.085c-0.015,0.016-0.034,0.02-0.051,0.033l-5.483,5.483c-0.306,0.307-0.802,0.307-1.106,0c-0.307-0.305-0.307-0.801,0-1.105l4.184-4.185H1.729c-0.436,0-0.788-0.353-0.788-0.788S1.293,9.212,1.729,9.212z"></path>
+                                        </svg>
+                                    </div>
+                                </button>
+                            {% endif %}
+                        </div>
+
+                        {% if albumUrl %}
+                            <a href="albumUrl" target="_blank" class="btn btn-sm">Zobrazit více fotek</a>
+                        {% endif %}
+                    </div>
+                {% endif %}
+
+                {% if content %}
+                    <!-- BLOG POST -->
+                    <div class="prose prose-gray dark:prose-invert max-w-none">
+                        {{ content | safe }}
+                    </div>
+                {% endif %}
+            </article>
+        </div>
+    </section>
+
+{% endblock %}

@@ -1,0 +1,51 @@
+{
+    "archiv": {
+        "name": "Archiv",
+        "items": [
+            {
+                "text": "Aktuality",
+                "url": "/aktuality",
+                "subitems": [
+                    {
+                        "text": "Škola",
+                        "url": "/aktuality/skola"
+                    },
+                    {
+                        "text": "MŠ Korálek",
+                        "url": "/aktuality/ms-koralek"
+                    },
+                    {
+                        "text": "MŠ Kamarád",
+                        "url": "/aktuality/ms-kamarad"
+                    },
+                    {
+                        "text": "Družina",
+                        "url": "/aktuality/druzina"
+                    }
+                ]
+            },
+            {
+                "text": "Akce",
+                "url": "/akce",
+                "subitems": [
+                    {
+                        "text": "Škola",
+                        "url": "/akce/skola"
+                    },
+                    {
+                        "text": "MŠ Korálek",
+                        "url": "/akce/ms-koralek"
+                    },
+                    {
+                        "text": "MŠ Kamarád",
+                        "url": "/akce/ms-kamarad"
+                    },
+                    {
+                        "text": "Družina",
+                        "url": "/akce/druzina"
+                    }
+                ]
+            }
+        ]
+    }
+}

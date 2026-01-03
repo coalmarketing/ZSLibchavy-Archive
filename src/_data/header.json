@@ -1,0 +1,53 @@
+{
+    "topBar": {
+        "miscLinks": [
+            {
+                "url": "/spolecne/kontakty",
+                "target": "_self",
+                "icon": {
+                    "url": "/assets/svgs/header/call.svg",
+                    "alt": "Ikona telefonu"
+                },
+                "text": "Kontakty"
+            },
+            {
+                "url": "/jidelna/jidelni-listek",
+                "target": "_self",
+                "icon": {
+                    "url": "/assets/svgs/header/menu_book_2.svg",
+                    "alt": "Ikona jídelního lístku"
+                },
+                "text": "Jídelní lístek"
+            }
+        ],
+        "contacts": [
+            {
+                "url": "https://maps.app.goo.gl/ArFj6T9S9ih1TWbJ7",
+                "target": "_blank",
+                "icon": {
+                    "url": "/assets/svgs/header/location_on.svg",
+                    "alt": "Ikona lokace"
+                },
+                "text": "Dolní Libchavy 153, 561 16 Libchavy"
+            },
+            {
+                "url": "mailto:skola@zslibchavy.cz",
+                "target": "_self",
+                "icon": {
+                    "url": "/assets/svgs/header/mail.svg",
+                    "alt": "Ikona mailu"
+                },
+                "text": "skola@zslibchavy.cz"
+            },
+            {
+                "url": "https://www.facebook.com/ZSaMSLibchavy/",
+                "target": "_blank",
+                "icon": {
+                    "url": "/assets/svgs/header/facebook.svg",
+                    "alt": "Ikona Facebook"
+                },
+                "text": "fb.com/zsamslibchavy"
+            }
+        ]
+    }
+}

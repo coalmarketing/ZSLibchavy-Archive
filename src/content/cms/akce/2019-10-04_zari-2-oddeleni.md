@@ -1,0 +1,109 @@
+---
+title: ZÁŘÍ - 2. ODDĚLENÍ
+post_id: '26381'
+date: '2019-10-04T15:34:28.000Z'
+author: Světlana Roubíčková
+section: Družina
+images:
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8008.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8011.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8012.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8013.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8014.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8015.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8016.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8017.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8018.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8019.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8020.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8021.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8022.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8023.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8024.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8025.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8026.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8027.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8028.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8029.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8030.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8031.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8032.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8033.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8034.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8035.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8036.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8037.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8038.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8039.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8040.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8041.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8042.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8043.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8044.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8045.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8046.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8047.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8048.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8049.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8050.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8051.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8052.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8053.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8054.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8055.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8059.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8060.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8061.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8062.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8063.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8064.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8065.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8066.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8067.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8068.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8069.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8070.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8071.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8072.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8075.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8076.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8077.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8078.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8079.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8080.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8081.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8082.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8083.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8084.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8085.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8086.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8087.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8088.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8089.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8090.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8092.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8093.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8094.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8095.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8096.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8097.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8098.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8099.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8100.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8101.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8102.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8103.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8104.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8105.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8106.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8107.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8108.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8109.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8110.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8111.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_8112.jpg
+tags:
+- akce
+---
+
+V měsíci září jsme ve 2. oddělení přivítali nové prvňáčky. Pomalu se společně seznamujeme, zvykáme si na nové prostředí a režim ve školní družince. Poznáváme se při sportovních i volných hrách, ale i na vycházkách a ve družince, kde si vyprávíme a učíme se naslouchat druhým. Vyrobili jsme si papírové tričko, kde měly děti možnost namalovat něco o sobě. Pozorujeme změny v přírodě kolem sebe i na zahradách a v lese. Při společné akci s 1. oddělením jsme si vyšli kousek trasy po naučné stezce k lesu a kolem památného dubu zase zpátky do školy. Počasí se nám vydařilo a všichni jsme si přírodu krásně užili. Každý měsíc se věnujeme tématům z naší celoroční hry, která má tento školní rok název " CESTA ŽIVOTEM" a její obsah si můžete přečíst na stránkách školy v sekci DRUŽINA - Celoroční hra. Přejeme Vám krásný začátek podzimu:-) 

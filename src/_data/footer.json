@@ -1,0 +1,136 @@
+{
+    "description": "Jsme škola pro děti i&nbsp;rodiče, která spojuje hravost, moderní přístup a&nbsp;osobní podporu. Provázíme žáky od&nbsp;prvních krůčků až&nbsp;po&nbsp;devátou třídu.",
+    "links": [
+        {
+            "title": "Kontakt",
+            "items": [
+                {
+                    "icon": {
+                        "url": "/assets/svgs/header/location_on.svg",
+                        "alt": "Ikona lokace"
+                    },
+                    "text": "Dolní Libchavy 153<br>561 16 Libchavy",
+                    "url": "https://maps.app.goo.gl/ArFj6T9S9ih1TWbJ7",
+                    "target": "_blank"
+                },
+                {
+                    "icon": {
+                        "url": "/assets/svgs/footer/deskphone.svg",
+                        "alt": "Ikona pevné linky"
+                    },
+                    "text": "+420 465 582 203",
+                    "url": "tel:+420465582203",
+                    "target": "_self"
+                },
+                {
+                    "icon": {
+                        "url": "/assets/svgs/footer/call.svg",
+                        "alt": "Ikona telefonu"
+                    },
+                    "text": "+420 727 868 751",
+                    "url": "tel:+420727868751",
+                    "target": "_self"
+                },
+                {
+                    "icon": {
+                        "url": "/assets/svgs/header/mail.svg",
+                        "alt": "Ikona mailu"
+                    },
+                    "text": "skola@zslibchavy.cz",
+                    "url": "mailto:skola@zslibchavy.cz",
+                    "target": "_self"
+                },
+                {
+                    "icon": {
+                        "url": "/assets/svgs/header/facebook.svg",
+                        "alt": "Ikona Facebook"
+                    },
+                    "text": "fb.com/zsamslibchavy",
+                    "url": "https://www.facebook.com/ZSaMSLibchavy/",
+                    "target": "_blank"
+                },
+                {
+                    "icon": {
+                        "url": "/assets/svgs/footer/markunread_mailbox.svg",
+                        "alt": "Ikona poštovní schránky"
+                    },
+                    "text": "ID: gnimeyv"
+                }
+            ]
+        },
+        {
+            "title": "Navigace",
+            "items": [
+                {
+                    "text": "Škola",
+                    "url": "/skola",
+                    "target": "_self"
+                },
+                {
+                    "text": "MŠ Korálek",
+                    "url": "/ms-koralek",
+                    "target": "_self"
+                },
+                {
+                    "text": "MŠ Kamarád",
+                    "url": "/ms-kamarad",
+                    "target": "_self"
+                },
+                {
+                    "text": "Družina",
+                    "url": "/druzina",
+                    "target": "_self"
+                },
+                {
+                    "text": "Jídelna",
+                    "url": "/jidelna",
+                    "target": "_self"
+                },
+                {
+                    "text": "Společné",
+                    "url": "/spolecne",
+                    "target": "_self"
+                }
+            ]
+        },
+        {
+            "title": "Odkazy",
+            "items": [
+                {
+                    "text": "Jídelní lístek",
+                    "url": "/jidelna/jidelni-listek",
+                    "target": "_self"
+                },
+                {
+                    "text": "Kontakty",
+                    "url": "/spolecne/kontakty",
+                    "target": "_self"
+                },
+                {
+                    "text": "Aktuality",
+                    "url": "/spolecne/aktuality",
+                    "target": "_self"
+                },
+                {
+                    "text": "Akce",
+                    "url": "/spolecne/akce",
+                    "target": "_self"
+                },
+                {
+                    "text": "Bakaláři",
+                    "url": "https://zslibchavy.bakalari.cz/bakaweb/",
+                    "target": "_blank"
+                }
+            ]
+        }
+    ],
+    "copyright": "© 2025 Všechna práva vyhrazena - Vytvořeno s 💜 od",
+    "privacyPolicy": {
+        "url": "https://www.zslibchavy.cz/gdpr",
+        "text": "Zpracování osobních údajů"
+    },
+    "cookies": {
+        "url": "https://www.zslibchavy.cz/cookies",
+        "text": "Podmínky použití cookies"
+    }
+}

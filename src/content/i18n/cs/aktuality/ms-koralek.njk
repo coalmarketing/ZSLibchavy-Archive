@@ -1,0 +1,38 @@
+---js
+const layout = "pages/posts-page.njk";
+
+const title = 'Archiv aktualit • MŠ Korálek';
+const description = 'Nejnovější aktuality z MŠ Korálek v Libchavách. Přehled zpráv, oznámení a důležitých informací pro rodiče a děti.';
+const permalink = '/aktuality/ms-koralek/';
+  
+const category = 'archiv';
+
+const pagination = { 
+    data: 'collections.aktuality',
+    size: 9999999,
+    reverse: true,
+    alias: 'posts',
+    before: function (paginationData, fullData) {
+      return paginationData.filter((d) => d.data.section === "MŠ Korálek");
+    }
+  };
+  
+  const landing = {
+    badge: 'Archiv',
+    heading: 'Aktuality',
+    breadcrumbs: [
+      { title: 'Domů', url: '/' },
+      { title: 'Aktuality', url: '/aktuality' },
+      { title: 'MŠ Korálek' }
+    ],
+    image: {
+      url: '/assets/images/services/skola/landing.jpg',
+      alt: 'Jazyková učebna'
+    }
+  };
+
+  const contentOne = {
+    topper: 'Aktuality',
+    heading: 'Archiv aktualit'
+  };
+---

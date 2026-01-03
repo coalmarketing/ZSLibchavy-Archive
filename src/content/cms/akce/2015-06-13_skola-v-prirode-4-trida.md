@@ -1,0 +1,16 @@
+---
+title: Škola v přírodě - 4. třída
+post_id: '5894'
+date: '2015-06-13T22:00:00.000Z'
+author: ZŠ &amp; MŠ Libchavy
+section: Škola
+images: []
+tags:
+- akce
+---
+
+Žaci 4. třidy naši školy absolvovali týdenni pobyt v penzionu v Deštnem v Orlických horach ve dnech 25.-29. 5. 2015. V nabitem programu žaci navštivili muzeum s výkladem o sklařske tradici, zažili jizdu na konich na koňske farmě i s opekanim parků a dokazali zdolat nastrahy lanoveho parku v juniorskem okruhu. Vyšlapli si na celodenni výlet přes Velkou Deštnou až na Šerlišský mlýn. Celou trasu 15 km zvladli na výbornou. V týdnu nechybělo plněni bobřiků, psani deničků, sportovni hry, stezka odvahy i diskoteka. Děti se take mohly osvěžit ve vyhřivanem bazenu. Týden se velice vydařil, přinesl dětem řadu nových zažitků a prohloubil kamaradske vztahy mezi nimi. Všichni jsme se v pořadku vratili domů a můžeme vzpominat na společne zažitky.
+
+                                                                            Eva Krummer
+
+[ ](/archive/kronika/akce/galerie/997/obr/997001.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997002.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997003.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997004.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997005.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997006.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997007.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997008.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997009.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997010.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997011.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997012.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997013.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997014.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997015.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997016.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997017.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997018.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997019.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997020.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997021.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997022.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997023.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997024.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997025.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997026.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997027.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997028.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997029.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997030.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997031.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997032.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997033.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997034.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997035.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997036.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997037.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997038.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997039.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997040.jpg "x")[ ](/archive/kronika/akce/galerie/997/obr/997041.jpg "x")

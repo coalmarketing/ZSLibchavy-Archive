@@ -1,0 +1,229 @@
+<!-- TOP BAR + HEADER -->
+<div class="fixed flex flex-col ~gap-2/4 group-[.scroll]/body:~h-16/20 w-full z-50">
+  <!-- TOP BAR -->
+  <div class="relative ~px-4/8 bg-gray-900 dark:bg-gray-950 transition-transform duration-300 group-[.scroll]/body:-translate-y-full">
+    <div class="container m-auto flex justify-end gap-4 h-12">
+      <!-- CONTACTS -->
+      <ul class="flex items-center gap-2 lg:gap-4">
+        {% for item in header.topBar.contacts %}
+          <li>
+            <a href="{{ item.url }}" target="{{ item.target }}" class="group flex items-center gap-2">
+              <img
+                class="shrink-0"
+                src="{{ item.icon.url }}"
+                alt="{{ item.icon.alt }}"
+                width="18"
+                height="18"
+                loading="lazy"
+                decoding="async"
+                aria-hidden="true"
+                draggable="false">
+
+              <span class="max-lg:sr-only text-sm text-gray-200 font-medium group-hover:text-white">{{ item.text }}</span>
+            </a>
+          </li>
+
+          {% if not loop.last %}
+            <li class="max-lg:hidden h-5 w-px bg-gray-200/50"></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <!-- HEADER -->
+  <div class="~px-4/8 transition-[padding,_transform] duration-300 group-[.scroll]/body:px-0 group-[.scroll]/body:~-translate-y-14/16">
+    <header class="container m-auto relative flex ~h-16/20 max-xl:py-2.5 ~pl-4/8 pr-4 bg-white dark:bg-gray-900 border-2 border-gray-200 dark:border-gray-600 shadow-md rounded-3xl transition-[height,_max-width,_border-width,_border-radius] duration-300 group-[.scroll]/body:max-w-full group-[.scroll]/body:border-0 group-[.scroll]/body:border-b-2 group-[.scroll]/body:rounded-none">
+      <div class="container m-auto flex justify-between items-center h-[calc(100%-4px)] group-[.scroll]/body:h-full">
+        <!-- LOGO -->
+        <div class="xl:basis-1/3 flex">
+          <a href="/" class="flex items-center ~gap-3/4">
+            <img
+              class="~h-9/12 w-auto"
+              src="/assets/svgs/zsmslibchavy_logo.svg"
+              alt="Logo - {{ client.name }}"
+              width="74"
+              height="49"
+              loading="lazy"
+              decoding="async"
+              aria-hidden="true"
+              draggable="false">
+
+            <span class="max-[22rem]:hidden ~text-sm/base text-black dark:text-white font-medium ~leading-[0.875rem]/[1.125rem]">
+              Základní škola<br>a mateřská škola<br>Libchavy
+            </span>
+          </a>
+        </div>
+
+        <!-- NAVIGATION -->
+        <nav class="max-xl:hidden xl:basis-1/3 ~h-16/20">
+          <ul class="flex justify-center h-full mx-auto">
+            {% set navPages = collections.all | eleventyNavigation %}
+
+            {# Loop through all pages with a eleventyNavigation in the frontmatter #}
+            {% for entry in navPages %}
+              {# Check whether the page has any children #}
+              {% set sidebarItem = sidebar.archiv.items | findWhere({"text": entry.key}) %}
+
+              <li class="group relative">
+                <a href="{{ entry.url }}"
+                class="flex items-center h-full group-[.scroll]/body:h-full py-2 px-4 border-b-2 border-category text-center text-sm font-medium text-gray-800 dark:text-gray-200 whitespace-nowrap hover:text-gray-950 dark:hover:text-white transition-[height] duration-300"
+                data-category="{{ entry.data.category }}"
+                {%- if page.url.startsWith(entry.url) and entry.url !== "/" -%} aria-current="page" {% elif entry.url === page.url %} aria-current="page" {%- endif -%}>
+                  {{ entry.key }}
+                </a>
+
+                {% if sidebarItem.subitems %}
+                  {# Children have their own <ul> navigation #}
+                  <ul class="absolute top-full left-0 flex flex-col p-2 bg-white dark:bg-gray-900 border-b-2 border-category shadow-md transition-[transform,_opacity] duration-500 scale-y-0 origin-top opacity-0 group-hover:scale-y-100 group-hover:opacity-100" data-category="{{ entry.data.category }}">
+                    {% for child in sidebarItem.subitems %}
+                      <li>
+                        <a href="{{ child.url }}"
+                        class="inline-flex p-2 text-sm text-gray-800 dark:text-gray-200 whitespace-nowrap hover:text-gray-950 dark:hover:text-white"
+                        data-category="{{ entry.data.category }}"
+                        {%- if child.url === page.url -%}aria-current="page"{%- endif -%}>
+                          {{ child.text }}
+                        </a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </nav>
+
+        <!-- MOBILE NAVIGATION -->
+        <nav class="xl:hidden absolute top-[calc(100%+0.5rem)] left-1/2 -translate-x-1/2 w-full max-h-[calc(100vh-9rem)] group-[.scroll]:max-h-[calc(100vh-4.5rem)] overflow-y-auto max-w-[calc(100vw-2rem)] bg-white dark:bg-gray-900 p-4 border-2 border-gray-200 dark:border-gray-600 rounded-3xl transition-transform scale-y-0 origin-top group-[.mobile-menu]/body:scale-y-100">
+          <ul class="flex flex-col gap-1">
+            {# Loop through all pages with a eleventyNavigation in the frontmatter #}
+            {% for entry in navPages %}
+              {# Check whether the page has any children #}
+              {% set sidebarItem = sidebar[entry.key | slug] %}
+
+              <li class="group/li relative flex flex-col">
+                {% if not sidebarItem.items %}
+                  <a href="{{ entry.url }}"
+                  class="border-category flex items-center py-2 px-3 border-l-2 text-center text-sm font-medium text-gray-800 dark:text-gray-200 hover:text-gray-950 dark:hover:text-white whitespace-nowrap rounded-r-lg"
+                  data-category="{{ entry.data.category }}"
+                  {%- if page.url.startsWith(entry.url) and entry.url !== "/" -%} aria-current="page" {% elif entry.url === page.url %} aria-current="page" {%- endif -%}>
+                    {{ entry.key }}
+                  </a>
+
+                {% else %}
+                  {# Check if any of the subitems page is open #}
+                  {% set open = page
+                    .url
+                    .startsWith(entry.url) %}
+
+                  {% if item.subitems %}
+                    {% for subitem in sidebarItem.subitems %}
+                      {% if page
+                        .url
+                        .startsWith(subitem.url) %}
+                        {% set open = true %}
+                      {% endif %}
+                    {% endfor %}
+                  {% endif %}
+
+                  <details class="group/details" {%- if open %} open {%- endif %}>
+                    <summary class="border-category flex justify-between items-center py-2 px-3 border-l-2 text-center text-sm font-medium text-gray-800 dark:text-gray-200 hover:text-gray-950 dark:hover:text-white whitespace-nowrap rounded-r-lg" 
+                    aria-controls="{{ entry.key | slug }}-submenu" 
+                    data-category="{{ entry.data.category }}"
+                    {%- if page.url.startsWith(entry.url) and entry.url !== "/" -%} aria-current="page" {% elif entry.url === page.url %} aria-current="page" {%- endif -%}>
+                      <span>{{ entry.key }}</span>
+
+                      <svg class="transition-transform duration-300 group-open/details:rotate-90" xmlns="http://www.w3.org/2000/svg" height="20" width="20" viewBox="0 -960 960 960" fill="currentColor">
+                        <path d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/>
+                      </svg>
+                    </summary>
+
+                    {# Children have their own <ul> navigation #}
+                    <ul id="{{ entry.key | slug }}-submenu" class="my-1 ml-4">
+                      {% for child in sidebarItem.items %}
+                        <li class="flex">
+                          <a href="{{ child.url }}"
+                          class="w-full py-2 px-4 border-l-2 border-category text-sm text-gray-800 dark:text-gray-200 hover:text-gray-950 dark:hover:text-white whitespace-nowrap rounded-r-lg"
+                          data-category="{{ entry.data.category }}"
+                          {%- if child.url + "/" === page.url -%}aria-current="page"{%- endif -%}>
+                            {{ child.text }}
+                          </a>
+                        </li>
+                      {% endfor %}
+                    </ul>
+                  </details>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </nav>
+
+        <!-- DARKMODE + CTA -->
+        <div class="xl:basis-1/3 flex justify-end items-center lg:gap-2">
+          <!-- DARKMODE SWITCH -->
+          <label class="darkmode-container relative h-8 w-8 hover:cursor-pointer" for="dark-mode-toggle">
+            <span class="sr-only">Přepínač tmavého režimu</span>
+            <input id="dark-mode-toggle" type="checkbox">
+
+            <!-- LIGHTMODE -->
+            <img
+              class="absolute top-1/2 left-1/2 -translate-y-1/2 transition-[transform,_opacity] duration-300 -translate-x-1/2 opacity-100 dark:-translate-y-6 dark:opacity-0"
+              src="/assets/svgs/header/light_mode.svg"
+              alt="Ikona měsíce"
+              width="20"
+              height="20"
+              loading="eager"
+              decoding="async"
+              aria-hidden="true"
+              draggable="false">
+
+            <!-- LIGHTMODE -->
+            <img
+              class="absolute top-1/2 left-1/2 translate-y-6 -translate-x-1/2 transition-[transform,_opacity,_color] duration-300
+              opacity-0 dark:-translate-y-1/2 dark:opacity-100"
+              src="/assets/svgs/header/dark_mode.svg"
+              alt="Ikona měsíce"
+              width="20"
+              height="20"
+              loading="eager"
+              decoding="async"
+              aria-hidden="true"
+              draggable="false">
+          </label>
+
+          <!-- CTA -->
+          <a href="https://zslibchavy.cz/" target="_blank" class="btn max-lg:hidden">
+            <span>Hlavní web</span>
+
+            <div>
+              <img
+                src="/assets/svgs/arrow_outward_dark.svg"
+                alt="Ikona šipky směřující nahoru"
+                width="20"
+                height="20"
+                loading="lazy"
+                decoding="async"
+                aria-hidden="true"
+                draggable="false">
+            </div>
+          </a>
+
+          <!-- MOBILE MENU BUTTON -->
+          <button
+            id="mobile-menu-toggle"
+            class="group xl:hidden flex justify-center items-center gap-1 h-11 w-11 bg-secondary rounded-xl transition-transform duration-300 [&.active]:rotate-90"
+            type="button"
+            aria-expanded="false"
+          >
+            <span class="sr-only">Otevřít navigaci</span>
+            <span class="relative block h-3.5 w-5">
+              <span class="absolute top-0 block h-px w-full bg-gray-950 dark:bg-white rounded-full transition-transform duration-300 group-[.active]:rotate-45 group-[.active]:top-1/2 group-[.active]:-translate-y-1/2 group-[.active]:left-1/2 group-[.active]:-translate-x-1/2"></span>
+              <span class="absolute top-1/2 -translate-y-1/2 block h-px w-full bg-gray-950 dark:bg-white rounded-full transition-[opacity] duration-300 group-[.active]:opacity-0"></span>
+              <span class="absolute bottom-0 block h-px w-full bg-gray-950 dark:bg-white rounded-full transition-transform duration-300 group-[.active]:rotate-[315deg] group-[.active]:top-1/2 group-[.active]:-translate-y-1/2 group-[.active]:left-1/2 group-[.active]:-translate-x-1/2"></span>
+            </span>
+          </button>
+        </div>
+      </div>
+    </header>
+  </div>
+</div>

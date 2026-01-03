@@ -1,0 +1,101 @@
+---
+title: VÁNOČNÍ  BESÍDKA PRO  RODIČE
+post_id: '17663'
+date: '2018-12-21T14:30:37.000Z'
+author: Světlana Roubíčková
+section: Družina
+images:
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7089.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7090.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7091.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7092.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7093.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7094.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7095.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7096.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7102.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7103.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7104.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7105.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7106.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7107.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7108.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7109.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7110-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7111-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7112-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7112-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7112.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7113-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7114.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7115-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7116-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7117.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7118-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7118-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7118.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7119-kopie-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7120.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7121.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7122.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7123.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7124.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7125.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7127.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7129.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7130.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7131.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7132.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7133.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7134.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7135.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7136.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7137.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7139.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7140.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7141.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7142.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7143.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7144.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7145.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7146.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7147.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7149.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7152.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7153.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7155.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7156.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7157.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7158.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7159.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7161.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7162.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7163.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7164.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7165.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7166.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7167.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7168.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7169.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7170.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7171.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7172.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7173.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7174.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7175.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7176.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7177.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7178.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7181.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7182.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7183.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7184.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7185.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7186.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7187.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7188.jpg
+tags:
+- akce
+---
+
+Dne 11.12. jsme přivítali ve školní družině rodiče na VÁNOČNÍ BESÍDCE. Připravili jsme pro ně překvapení ve formě vystoupení dětí I. a II. oddělení-pásmem básniček, koled a tanců. Děkujeme dětem a všem co se podíleli spolu s nimi se vše naučit. Vlna neštovic nám malinko přípravu na besídku zpestřila mírnou nervozitou, zda se nám děti včas vrátí. Vše dobře dopadlo a většina z nich mohla rodičům udělat radost. Krásné Vánoce  

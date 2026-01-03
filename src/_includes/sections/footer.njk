@@ -1,0 +1,91 @@
+<footer class="relative pt-16 ~pb-16/24 ~px-4/8 bg-gray-900 dark:bg-gray-950">
+    <div class="container m-auto flex flex-col gap-16">
+        <!-- LOGO + NAVIGATION -->
+        <div class="flex max-xl:flex-col xl:justify-between gap-16">
+            <!-- LOGO + DESCRIPTION -->
+            <div class="flex flex-col gap-8">
+                <!-- LOGO -->
+                <div class="flex items-center ~gap-4/6">
+                    <img
+                        class="~h-16/20 w-auto"
+                        src="/assets/svgs/zsmslibchavy_logo.svg"
+                        alt="Logo - {{ client.name }}"
+                        width="99"
+                        height="64"
+                        loading="lazy"
+                        decoding="async"
+                        aria-hidden="true"
+                        draggable="false">
+
+                    <span class="~text-[1.125rem]/[1.375rem] text-white font-medium ~leading-5/7">Základní škola<br>a mateřská škola<br>Libchavy</span>
+                </div>
+
+                <p class="~max-w-sm/md ~text-sm/base text-gray-200">{{ footer.description | safe }}</p>
+            </div>
+
+            <!-- LINKS -->
+            <div class="flex max-md:flex-wrap gap-y-8 ~gap-x-16/24">
+                {% for links in footer.links %}
+                    <div class="flex flex-col gap-4">
+                        <span class="~text-base/lg text-white font-semibold">{{ links.title }}</span>
+
+                        <ul class="flex flex-col gap-2.5">
+                            {% for item in links.items %}
+                                <li class="group flex items-center gap-2 has-[br]:items-start">
+                                    {% if item.icon %}
+                                        <img
+                                            class="group-has-[br]:mt-0.5"
+                                            src="{{ item.icon.url }}"
+                                            alt="{{ item.icon.alt }}"
+                                            width="20"
+                                            height="20"
+                                            loading="lazy"
+                                            decoding="async"
+                                            aria-hidden="true"
+                                            draggable="false">
+                                    {% endif %}
+
+                                    {% if item.url %}
+                                        <a href="{{ item.url }}" target="{{ item.target }}" class="font-sora ~text-sm/base text-gray-200 leading-5 hover:text-white hover:underline">
+                                            {{ item.text | safe }}
+                                        </a>
+                                    {% else %}
+                                        <span class="font-sora ~text-sm/base text-gray-200 leading-5">
+                                            {{ item.text | safe }}
+                                        </span>
+                                    {% endif %}
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- DIVIDER + CREDITS -->
+        <div class="flex flex-col gap-4">
+            <!-- DIVIDER -->
+            <div class="h-px bg-gray-600"></div>
+
+            <!-- CREDITS + PRIVACY POLICY -->
+            <div class="flex max-lg:flex-col-reverse lg:justify-between items-center gap-4">
+                <p class="text-center text-sm text-gray-400">
+                    {{ footer.copyright }}
+                    <a href="https://coalmarketing.cz/" target="_blank" class="underline hover:text-white">coalmarketing.cz</a>
+                </p>
+
+                <!-- GDPR + COOKIES -->
+                <div class="flex flex-wrap justify-center gap-y-1 gap-x-4">
+                    <!-- GDPR -->
+                    <a href="{{ footer.privacyPolicy.url }}" target="_blank" class="text-sm text-gray-400 hover:underline hover:text-white">{{ footer.privacyPolicy.text }}</a>
+
+                    <!-- COOKIES -->
+                    <a href="{{ footer.cookies.url }}" target="_blank" class="text-sm text-gray-400 hover:underline hover:text-white">{{ footer.cookies.text }}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- BACKGROUND SHAPE -->
+    {% include "components/footer-shape.njk" %}
+</footer>

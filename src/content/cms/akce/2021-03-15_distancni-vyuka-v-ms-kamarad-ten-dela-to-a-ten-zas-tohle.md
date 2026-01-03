@@ -1,0 +1,119 @@
+---
+title: Distanční výuka v MŠ Kamarád (Ten dělá to a ten zas tohle:-))
+post_id: '53963'
+date: '2021-03-15T11:05:47.000Z'
+author: Bc. Renata Krejčová, Dis
+section: MŠ Kamarád
+images:
+- url: https://zslibchavycz.b-cdn.net/wp/1-1-4.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/10-11.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/11-1-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/12-1-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/13.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/1615284847615.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/1615284849405.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/2-6.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/2021-03-12_143621.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/2021-03-12_1436213.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/2021-03-12_14362136.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/2021-03-12_143726.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/2021-03-12_143804.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20210312_143252.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20210312_144309.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20210312_1443095.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20210312_144333.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20210312_1443334.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20210312_14433347.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20210312_14433348.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/3-5.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/4-14.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/5-1-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/6-1-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/7.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/8.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/9-1-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG20210308170220_00.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG20210311110352_00.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG20210311164644_00.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG20210311164840_00.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG20210311164847_00.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210308_123048.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210308_123105.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210308_123352.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210309_110409.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210309_164934.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210309_173723.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210309_173842.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210310_083316.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210310_084526171.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210310_085705.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210310_090214103.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210310_091801.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210310_104907.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210310_105151.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210310_113310.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210310_113644.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210310_140826_001_COVER.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210310_142720.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210310_144232.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210310_154039.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210311_142858445.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210311_143022574.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210311_143155073.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210311_150418151.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210312_125840.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210312_125850.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210312_125901.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210312_125910.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210312_125918.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210312_125925.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210312_125933.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210312_125945.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210312_125954.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210312_130006-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210312_141506.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20210313_111328.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2144-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2151-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2154-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2155-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2158-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2165-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2169.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2170-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2171-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2172.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2173-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2174.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2176.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2178-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_2179.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_3336.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_3339.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_3340.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_3341.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_3342-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/cim-budu.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/dort.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/geometricke-tvary.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/image_67218177-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/kolace.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/micham.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/najdi.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/puzzle.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/received_1436979576649501.jpeg
+- url: https://zslibchavycz.b-cdn.net/wp/received_143852497615450.jpeg
+- url: https://zslibchavycz.b-cdn.net/wp/received_185547299779867.jpeg
+- url: https://zslibchavycz.b-cdn.net/wp/received_234746415040493.jpeg
+- url: https://zslibchavycz.b-cdn.net/wp/received_439635533987160.jpeg
+- url: https://zslibchavycz.b-cdn.net/wp/received_452369662548281.jpeg
+- url: https://zslibchavycz.b-cdn.net/wp/received_744439493112649.jpeg
+- url: https://zslibchavycz.b-cdn.net/wp/rozdily.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/spoj-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/spoj.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/ukoly.jpg
+tags:
+- akce
+---
+
+

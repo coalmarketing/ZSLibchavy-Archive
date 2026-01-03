@@ -1,0 +1,91 @@
+---
+title: SPORTOVNÍ ODPOLEDNE S RODIČI
+post_id: '21280'
+date: '2019-04-26T15:22:25.000Z'
+author: Světlana Roubíčková
+section: Družina
+images:
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6349.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6356.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6359-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6363-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6364-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6369-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6370-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6371-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6375.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6378-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6384.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6387-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6388-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6393.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6395.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6400.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6409-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6410.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6411-2.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7660.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7661.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7663.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7667-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7667.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7668.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7669.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7670.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7671.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7672.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7673.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7677.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7679.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7680.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7682.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7686.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7692.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7693.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7694.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7696.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7697.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7698.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7701.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7703.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7704.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7708.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7709.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7711.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7714.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7725.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7726.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7727.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7729.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7730.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7736.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7741.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7742.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7744.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7746.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7753-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7754.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7756-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7758.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7763.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7764.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7765.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7766.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7767.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7768.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7769.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7770.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7779.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7780.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7781.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7782.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7783.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7784.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7786.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7787.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/jkp.jpg
+tags:
+- akce
+---
+
+Dne 25.4. jsme se sešli společně s rodiči na hřišti u naší školy. Počasí nám přálo a tak nebránilo nic v tom, abychom mohli zahájit naše sportovní odpoledne. Na začátku jsme všechny přivítali, seznámili je se stanovišti, bezpečností a organizací. Po splnění všech devíti zábavných stanovišť obdrželi rodiče diplom a děti sladkou odměnu. Odpoledne jsme zakončili opékáním buřtů a posezením u kávy. Děkujeme všem rodičům, že přišli podpořit své děti a nebáli se si zasoutěžit. Akce se až na pár "odřeninek" vydařila - viz foto: -:)) 

@@ -1,0 +1,21 @@
+[build]
+  publish = "public/"
+  command = "npm run build"
+
+[images]
+  remote_images = ["https://zslibchavy.b-cdn.net/.*", "https://zslibchavycz.b-cdn.net/.*"]
+
+[[plugins]]
+  # Installs the Lighthouse Build Plugin for all deploy contexts
+  package = "@netlify/plugin-lighthouse"
+
+
+[[plugins]]
+  package = "netlify-plugin-cache"
+
+  [plugins.inputs]
+  paths = [
+    "public/assets/images",
+    "public/assets/cms",
+    ".cache"
+  ]

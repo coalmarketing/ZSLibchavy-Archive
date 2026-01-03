@@ -1,0 +1,38 @@
+---js
+const layout = "pages/posts-page.njk";
+
+const title = 'Archiv akcí • MŠ Kamarád';
+const description = 'Přehled proběhlých akcí MŠ Kamarád v Libchavách. Fotoreporty, zprávy a zajímavosti z dění pro děti a rodiče.';
+const permalink = '/akce/ms-kamarad/';
+  
+const category = 'akce';
+
+const pagination = { 
+    data: 'collections.akce',
+    size: 9999999,
+    reverse: true,
+    alias: 'posts',
+    before: function (paginationData, fullData) {
+      return paginationData.filter((d) => d.data.section === "MŠ Kamarád");
+    }
+  };
+  
+const landing = {
+  badge: 'Společné',
+  heading: 'Akce',
+  breadcrumbs: [
+    { title: 'Domů', url: '/' },
+    { title: 'Akce', url: '/spolne/akce' },
+    { title: 'MŠ Kamarád' }
+  ],
+  image: {
+    url: '/assets/images/services/skola/landing.jpg',
+    alt: 'Jazyková učebna'
+  }
+};
+
+const contentOne = {
+  topper: 'Akce',
+  heading: 'Archiv akcí'
+};
+---

@@ -1,0 +1,93 @@
+---
+title: Spaní ve dužince
+post_id: '24422'
+date: '2019-06-14T12:51:33.000Z'
+author: Světlana Roubíčková
+section: Družina
+images:
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_184826.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_184834.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_184841.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_184903.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_184910.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_184920.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_184927.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_184937.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_184942.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_184951.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_185001.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_185008.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_185248.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_191340-kopie.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_191342.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_191559.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_191607.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_204139.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_204147.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_204205.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_204249.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_204256.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_204322.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_204332.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_204351.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/20190607_204406.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6525.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6530.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6532.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6538.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6541.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6545.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6554.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6556.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6566.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6570.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6572.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6575.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6582.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6583.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6584.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6593.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6594.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6597.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6598.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6600.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_6601.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7905.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7906.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7907.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7908.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7909.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7910.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7912.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7913.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7914.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7916.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7917.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7918.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7919.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7921.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7922.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7923.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7924.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7927.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7929.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7930.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7931.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7932.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7934.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7935.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7936.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7937.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7938.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7939.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7941.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7942.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7944.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7945.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7946.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_7947.jpg
+tags:
+- akce
+---
+
+Dne 7.6. 2019 jsme se v podvečer sešli znovu ve družince a hned jsme se vydali na turistickou trasu po naučné stezce. Počasí nám přálo a tak jsme mohli objevovat krásy okolní přírody. Všichni statečně celou stezku prošli. Po vycházce jsme si ještě pohráli na školním hřišti a pomalu jsme se odebrali k přípravám na spaní. Aby zážitků nebylo málo prošli jsme společně ještě večerní školu a hřiště. Potom už se každý zachumlal do svého spacáčku. Povyprávěli jsme si o tom, co jsme zažili, co se nám líbilo, co nás zaujalo. Přečetli jsme pohádku na dobrou noc a potom už každý pomalinku usínal. Ráno si děti zazpívaly, zatančily a čekaly až si je vyzvednou rodiče. Všichni si zaslouží velikou pochvalu:-). Děkujeme také rodičům, kteří přispěli různým občerstvením, na kterém si po náročném večeru a noci všichni pochutnali.  
