@@ -2,7 +2,46 @@
 
 {% block body %}
     <!-- HERO -->
-    <section class="pt-64 ~pb-32/48 ~px-4/8">
-        <div class="container m-auto"></div>
+    <section class="pt-64 ~pb-32/48 ~px-4/8 bg-white dark:bg-gray-900">
+        <div class="container m-auto flex flex-col items-center gap-8">
+            <h1 class="~max-w-md/2xl text-center ~text-4xl/6xl text-black dark:text-white font-extrabold !leading-[1.1]">{{ hero.heading }}</h1>
+
+            <!-- CTA BUTTON -->
+            <div class="flex flex-wrap justify-center gap-y-2 gap-x-4">
+                <!-- NEWS CTA -->
+                <a href="{{ hero.ctaNews.url }}" class="btn btn-lg">
+                    <span>{{ hero.ctaNews.text }}</span>
+
+                    <div class="bg-gray-950">
+                        <img
+                            src="/assets/svgs/arrow_outward_dark.svg"
+                            alt="Ikona šipky směřující nahoru"
+                            width="20"
+                            height="20"
+                            loading="lazy"
+                            decoding="async"
+                            aria-hidden="true"
+                            draggable="false">
+                    </div>
+                </a>
+
+                <!-- EVENTS CTA -->
+                <a href="{{ hero.ctaEvents.url }}" class="btn btn-lg">
+                    <span>{{ hero.ctaEvents.text }}</span>
+
+                    <div>
+                        <img
+                            src="/assets/svgs/arrow_outward_dark.svg"
+                            alt="Ikona šipky směřující nahoru"
+                            width="20"
+                            height="20"
+                            loading="lazy"
+                            decoding="async"
+                            aria-hidden="true"
+                            draggable="false">
+                    </div>
+                </a>
+            </div>
+        </div>
     </section>
 {% endblock body %}

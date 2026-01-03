@@ -10,4 +10,16 @@ category: domu
 eleventyNavigation:
   key: Domů
   order: 100
+
+
+hero:
+  heading: Archiv akcí a aktualit ZŠ a MŠ Libchavy
+
+  ctaNews:
+    url: /aktuality
+    text: Aktuality
+  
+  ctaEvents:
+    url: /akce
+    text: Akce
 ---
