@@ -1,0 +1,91 @@
+---
+title: ŠD - sportovní odpoledne s rodiči
+post_id: '74076'
+date: '2022-06-02T20:23:36.000Z'
+author: Světlana Roubíčková
+section: Družina
+images:
+- url: https://zslibchavycz.b-cdn.net/wp/282720361_635804861296635_5671654789459777803_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/282725427_2190318887785529_3835758538251396106_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/282752636_539188687647414_667364381321443283_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/282817925_1930103407190629_306246358326178063_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/282820848_444787280817795_8040786488075382070_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/282838601_4954601754661919_5288134043042006066_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283258281_842645170457300_6576552439710153988_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283272720_5152362664883631_7769462171293678854_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283337196_422310152806396_7389462917546710130_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283356709_2893695987589364_2000326128601966833_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283437924_345320771059742_8072473901176381857_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283470245_574436087518029_1305972306615410853_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283472922_534102751519512_93276709608033123_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283478645_468559988404525_6323494585212172959_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283546568_1074120396796503_967882658875247262_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283607424_2114479722067138_5224935893870563925_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283613773_561655811979096_8280158874810862250_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283695242_422927429385325_2138113539397073294_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283752541_1634802793553829_8408957257171631170_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283765306_337451308529407_2159290130247154423_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283765306_533435071593937_8437558500354417669_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283773183_734563374251805_2513168835238250508_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283773183_738187860552301_3138401376250772685_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283815294_2105533302947553_168613336417051425_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283829173_3233712760281262_2024354485889817732_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283904485_728868685229808_7736627944750070410_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283909165_768352261271594_7896867098674317065_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/283917696_368846311893893_7423425384786883770_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284011170_683398166085025_2943209123774233451_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284017450_1779651859044028_7791113848501059326_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284019336_1476069639495389_1397321326173830840_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284024729_1686002948419606_5878853789028663131_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284029627_545841453925985_262563664844168809_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284044052_3280289678962786_8508129321466033311_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284079855_3046950058948912_3215262434995720317_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284118093_1715157002163945_2957571309149547202_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284118093_385413096939976_3568914952276690916_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284178513_3914485028775839_5555252466405524582_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284187401_1008763876677243_8898068649835579785_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284188831_1179740519477416_1519323458336747810_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284190596_586092822741180_5635531317926693165_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284201244_1359976971164001_7967908569944877523_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284208550_578901686912545_495046999828084908_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284216834_687904912277014_4768328790458587376_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284220881_4993317877433683_85329421860224125_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284224907_1207864973358267_7209427797038267376_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284233383_534127264852349_3433253645502976375_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284262696_3320779848205224_3531021768010798454_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284271398_784520579206575_4571716078250492277_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284283798_3354845558082627_3457555157570407515_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284290824_971317893552270_6416174714690634080_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284347359_1084285109185988_9095250891840918488_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284385443_587355899267957_7553698597079532872_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284388004_384931370365301_3879635724016344365_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284410648_324248759865389_2303624794865970287_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284415899_376564767634537_7838344905206759673_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284434450_2132267913607834_2841311501502629150_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284460550_545313080655891_4154147621235742571_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284470093_536004154685015_7887455283512832317_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284484514_558456902611028_8190769762537070191_n-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284484514_558456902611028_8190769762537070191_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284556731_315559734114000_4889787455350950081_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284567632_437362864896078_4282724981636705915_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284593501_1283568708717671_3635597867277930666_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284622847_709843303627080_2256267360286041396_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284666392_5187269378018573_3305959974437643551_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284757214_1167665583776421_5498803565271719163_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284796442_727400395069759_1654840160314036621_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284953115_770701844310751_8181611941945683538_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/284972911_496330308849791_2188521531686871854_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/285018665_757781575584644_54494453095167440_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/285049318_1442846222820580_7000742234627133007_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/285094744_1362078057619582_9056880012964739872_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/285111667_546767533785471_6013913952361969928_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/285125311_3318135178465338_546836383565882086_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/285217912_1036512503901559_7323810203132033280_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/285394304_544862463836423_6620142328309229005_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/285475695_2560593710764672_2425614030571119186_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/285579391_539431141178226_6138609482023584908_n.jpg
+tags:
+- akce
+---
+
+Na toto odpoledne se děti moc těšily a také se podílely na jeho přípravě. Děkujeme rodičům, že přišli a zapojili se do všech připravených aktivit. Kdo chtěl, mohl si opéct špekáček , rohlík, Marshmalowny, prostě, co si kdo přinesl na odpolední piknik. Nakonec přišlo poděkování všem zúčastněným a děti dostaly ještě medaile a sladkou odměnu . Děti a paní vychovatelky.  

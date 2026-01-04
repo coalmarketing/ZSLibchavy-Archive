@@ -1,0 +1,126 @@
+---
+title: TLAPKY - spaní ve škole
+post_id: '75925'
+date: '2022-06-24T11:22:50.000Z'
+author: Světlana Roubíčková
+section: Družina
+images:
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_183120.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_183122.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_183236.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_190834.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_190838.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_190849.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_190857.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_190911.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_191533.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_191634.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_191638.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_192246.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_193336.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_193348.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_193525.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_193533.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_193918.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_193923.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_194052.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_194058.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_194122.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_195222.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_195617.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_195622.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_195646.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_195657.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_195705.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_195743.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_195753.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_200246.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_200250.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_200255.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_200258.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_200734.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_200745.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_200822.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_200835.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_200840.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_200908.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_200921.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_201620.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_201934.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_201937.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_203351.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_203540.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_203544.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_203549.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_203602.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_203607.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_203711.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_203820.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_203828.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_203843.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_203902.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_204007.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_204008.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_205231.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_210423.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_210427.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_213850.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_213905.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_213914.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_213926.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_213931.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_214023.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_214033.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_214035.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_214037.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_214047.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_214121.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_214125.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_214131.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_214440.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_214444.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_214452.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_215005.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_215130.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_215132.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_215249.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_215301.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_215304.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_215306.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_215308.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_215317.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_215320.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_215327.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_220501.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_220512.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_220522.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_220546.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_220614.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_220621.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_230829.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_230848.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_230911.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_230925.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_065556.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_065603.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_065609.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_065611.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_065616.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_071543.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_071550.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_072954.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_073004.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_074400.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_074407.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_074415.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_074429.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_080134.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_080140.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_080144.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_080149.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220618_080157.jpg
+tags:
+- akce
+---
+
+Tlapky běží po poli, cesta jim to dovolí. Traktor trávu obrací, máme z toho legraci. Koroptvičky lítají a Tlapky si zpívají. Áďa se nám ztrácí a listy pak zvrací. Domečky stavíme v lese, mravenec se na to třese. Matýsek nám seno nosí a chce stavět hnízdo kosí. Okolo stromu stavíme domeček, než se nám zhroutí, bobeček.. Běháme a lítáme u dubu se setkáme. Áďa se nám zahrabává, ocáskem nám hezky mává.   Na naše poslední setkání v tomto školním roce jsme se domluvili, že budeme spát ve škole. Vycházku k lesu kolem rybníčka jsme si zpestřili soutěžemi, skládáním naší básničky o TLAPKÁCH a stavěním domečků v lese. Všechny TLAPKY moc chválím za celý školní rok. Byli úžasní a velice spolehliví.  

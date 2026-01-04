@@ -1,0 +1,108 @@
+---
+title: TLAPKY - říjen
+post_id: '79851'
+date: '2022-11-02T12:48:05.000Z'
+author: Světlana Roubíčková
+section: Družina
+images:
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_083403.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_083500.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_084335.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_084344.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_084759.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_084804.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_084810.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_085216.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_085224.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_085225.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_085857.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_090650.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_090705.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_090726.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_090803.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_090831.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_090934.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_090938.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_091225.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_091248.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_091252.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_091257.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_091307.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_091326.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_091438.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_091706.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_091711.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_091918.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_092001.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_092008.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_092055.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_092306.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_092312.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_092332.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_092436.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_092447.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_092506-1.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_092506.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_092513.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_092522.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_093548.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_093558.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_095242.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_095811.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_095839.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_095850.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_095854.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_095924.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_095926.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_095928.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_101208.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_101216.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_101223.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_103610.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_103611.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_103617.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_103619.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_104020.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_104026.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_104035.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_104105.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_104117.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_104734.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_104739.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_110546.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_110602.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_110608.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_110616.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_110620.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_110657.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_110701.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_113344.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_113353.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_113402.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_113411.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_113420.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_113449.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_113456.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_115830.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_115833.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_115843.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_115847.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_115854.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_115907.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_115911.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_115926.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_115958.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_121350.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_121358.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_121413.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_121431.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_121441.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_123259.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_123334.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_123348.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_123358.jpg
+tags:
+- akce
+---
+
+V sobotu 29.10. jsme se vydali na túru po Sopotnici. Viděli jsme krásnou podzimní přírodu, pozorovali vlak na mostě. Těšili jsme se na vodopád u chaty Kamarád, ale bohužel je málo vody, takže tam žádný nebyl. Zázemí na odpočinek a občerstvení nám poskytla paní opět Deniska Chlajnová s rodinou. Navštívili jsme také místní akci pečení chleba. Počasí bylo nádherné a moc jsme si výlet všichni užili. 

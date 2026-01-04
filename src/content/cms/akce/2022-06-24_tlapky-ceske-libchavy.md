@@ -1,0 +1,92 @@
+---
+title: TLAPKY - České  Libchavy
+post_id: '75843'
+date: '2022-06-24T10:49:23.000Z'
+author: Světlana Roubíčková
+section: Družina
+images:
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_091216.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_091223.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_094524.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_094740.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_094751.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_095103.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_095108.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_095112.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_095119.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_095124.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_095722.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_100148.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_100159.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_100315.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_104228.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_104257.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_104302.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_111340.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_111652.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_111716.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_111821.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_111829.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_111836.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_111856.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_112011.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_112102.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_112106.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_112156.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_112233.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_112342.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_112408.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_112854.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_113220.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_113222.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_113235.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_113246.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_113256.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_113301.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_113514.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_113522.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_113547.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_114507.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_114508.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_114531.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_114735.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_115523.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_115652.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_115653.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_121734.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_121739.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_122212.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_122218.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_122226.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_122232.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_122240.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_124634.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_124646.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_124711.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_124851.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_131356.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_131412.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_131424.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_132113.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_132123.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_133009.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_133013.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_133023.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_133027.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_133033.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_133055.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_133101.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_133126.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_133311.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_134044.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_134049.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_134108.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_134111.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_134156.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_134209.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_141205.jpg
+tags:
+- akce
+---
+
+Na předposlední setkání s Tlapkami, jsme vyrazili do Českých Libchav. Cílem naší cesty byla "Lipová Alej". Vycházku jsme si náramně užili i se zmrzlinkou. Děkujeme paní učitelce Kamile Hruškové, že jsme si u nich mohli odpočinout, načerpat sílu na cestu a podívat se na zvířátka:-) 

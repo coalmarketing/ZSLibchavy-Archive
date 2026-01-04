@@ -1,0 +1,92 @@
+---
+title: Spaní ve škole - družinka
+post_id: '74968'
+date: '2022-06-14T11:36:56.000Z'
+author: Světlana Roubíčková
+section: Družina
+images:
+- url: https://zslibchavycz.b-cdn.net/wp/286747217_592643782092150_1732215496589088202_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/286828227_3260009174218273_6233571107641789246_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/286869161_1009614753278517_4307274076024452731_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/286896617_1205735563496699_7336026473433291229_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/286933966_578906777080315_8199166571051249179_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/286955752_3166065476987552_8060061004897827193_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/286988599_437895194825612_6315908240432923955_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/286997308_443921353733803_6137871928993670778_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/287086351_1061131287823502_7829606322697693020_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/287113717_789329919141797_9016778569374471735_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/287566127_399641215544303_1131110247515446426_n.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_191326.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_191334.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_191406.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_191407.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_191413.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_191421.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_191427.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_191430.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_200423.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_200428.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_200438.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_200503.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_200523.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_200535.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_200641.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_201414.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_201426.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_203610.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_205024.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_205100.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_205120.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_205159.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_205223.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_205244.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_205250.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_205302.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_205306.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_205321.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_205346.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_205351.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_205356.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_205403.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_210859.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_210905.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_211300.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_211333.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_211342.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_211346.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_211358.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_211427.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_211436.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_220448.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_220451.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_220456.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_220500.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_220504.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_220523.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_220531.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_220534.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_220543.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_220551.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_220601.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_220820.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_220826.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_221638.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_221643.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_221650.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_221704.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_221711.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_221718.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_221733.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_221736.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_221751.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_221800.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_221812.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220610_221819.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220611_074122.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220611_074127.jpg
+- url: https://zslibchavycz.b-cdn.net/wp/IMG_20220611_074132.jpg
+tags:
+- akce
+---
+
+V pátek 10.6. jsme přespávali ve družinkàch. Děti byly natěšené na dobrodružství, které je čekalo. Navečer přišli a uložily si věci , vyrazili jsme směrem k Čertovi. Myslíme si, že tento večer se i Čert ve svém peklíčku zapotil pod tíhou mlsných jazýčků našich dětiček a paní Čertová předváděla kolikrát běh na dlouhou trať\- velice jim za vše děkujeme bylo nám krásně!!!Po vydatném jídle jsme vyrazili do našeho krásného kostela Sv.Mikuláše, kde si pro nás připravili povídání o kostele, o Noci kostelů, pracovní list a sladkou odměnu. Vrcholem a bobříkem odvahy byla pro děti zvonice, kde byla tma, úzký prostor a bylo to opravdu jen pro odvážné. Děkujeme za zážitek. Po příchodu do družiny jsme si udělali piknik z dobrůtek, které děti přinesly umyli jsme se, vyčistili zuby, zhodnotili jsme večerní zážitky a byla večerka. Všichni byli naprosto vzorní ohleduplní, takže se každý mohl dostatečně vyspinkat. Všem děkujeme za vydařenou akcičku.    
