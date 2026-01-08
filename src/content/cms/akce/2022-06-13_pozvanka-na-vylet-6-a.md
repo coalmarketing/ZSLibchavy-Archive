@@ -3,7 +3,8 @@ title: Pozvánka na výlet - 6. A
 post_id: '74934'
 date: '2022-06-13T21:45:07.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220602_085952.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220602_092759.jpg

@@ -3,7 +3,8 @@ title: Program p. Adamcové - BYLINKY - dráčci
 post_id: '67172'
 date: '2022-01-19T15:24:41.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/270354936_455643599368223_671212344543837780_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/270850288_1134684923736050_7870022655241150870_n.jpg

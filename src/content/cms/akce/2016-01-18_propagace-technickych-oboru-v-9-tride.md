@@ -3,7 +3,8 @@ title: Propagace technických oborů v 9. třídě
 post_id: '5983'
 date: '2016-01-18T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

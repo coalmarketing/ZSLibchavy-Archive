@@ -3,7 +3,8 @@ title: Okresní kolo zeměpisné olympiády
 post_id: '5657'
 date: '2014-02-17T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

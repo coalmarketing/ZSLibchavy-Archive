@@ -3,7 +3,8 @@ title: Preventivní program ve 3.A
 post_id: '19470'
 date: '2019-03-04T21:55:12.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Bolí, nebolí
 post_id: '6484'
 date: '2017-12-03T13:02:58.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

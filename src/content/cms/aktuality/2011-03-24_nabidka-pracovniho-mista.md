@@ -3,7 +3,8 @@ title: NABÍDKA  PRACOVNÍHO  MÍSTA
 post_id: '468'
 date: '2011-03-24T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

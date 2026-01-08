@@ -3,7 +3,8 @@ title: KDO SI HRAJE NEZLOBÍ :)
 post_id: '6162'
 date: '2016-11-02T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

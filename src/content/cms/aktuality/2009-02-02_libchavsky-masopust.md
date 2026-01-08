@@ -3,7 +3,8 @@ title: LIBCHAVSKÝ MASOPUST
 post_id: '571'
 date: '2009-02-02T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

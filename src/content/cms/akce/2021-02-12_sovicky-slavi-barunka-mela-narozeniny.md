@@ -3,7 +3,8 @@ title: 'Sovičky slaví: Barunka měla narozeniny :-)'
 post_id: '52547'
 date: '2021-02-12T19:53:41.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210205_085705.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210205_085708.jpg

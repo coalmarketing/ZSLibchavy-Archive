@@ -3,7 +3,8 @@ title: Rozbor květu
 post_id: '37045'
 date: '2020-05-12T00:54:45.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Adam-F-Řepka-olejka.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200429_180533.jpg

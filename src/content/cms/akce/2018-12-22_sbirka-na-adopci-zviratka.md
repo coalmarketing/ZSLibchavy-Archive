@@ -3,7 +3,8 @@ title: Sbírka na adopci zvířátka
 post_id: '17864'
 date: '2018-12-22T18:35:04.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/48398790_308928336383764_643750030699659264_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/48422764_210856703158184_249394135105011712_n.jpg

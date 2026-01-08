@@ -3,7 +3,8 @@ title: DIVADÉLKO v MŠ - "O Nanynce"
 post_id: '79318'
 date: '2022-10-24T12:56:44.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221020_100521.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221020_100543.jpg

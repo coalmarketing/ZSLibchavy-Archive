@@ -3,7 +3,8 @@ title: 11. 3. Přírodovědná vycházka do lesa, 2. třída
 post_id: '69643'
 date: '2022-03-11T15:33:45.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220311_100654.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220311_100705.jpg

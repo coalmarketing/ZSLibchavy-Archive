@@ -3,7 +3,8 @@ title: Škola v přírodě - den první
 post_id: '73768'
 date: '2022-05-30T22:15:01.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220530_085544-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220530_122934.jpg

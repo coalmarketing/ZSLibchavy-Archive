@@ -3,7 +3,8 @@ title: Výroba dárečků pro tatínky I. :-)
 post_id: '75643'
 date: '2022-06-21T11:05:28.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220523_064310.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220523_070429.jpg

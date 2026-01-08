@@ -3,7 +3,8 @@ title: Okresní kolo v minikopané - III. kategorie
 post_id: '72526'
 date: '2022-05-09T22:10:30.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220506_115728.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220506_115857-1.jpg

@@ -3,7 +3,8 @@ title: Projektový den na SŠUP v ÚO - 7. a 8. třída
 post_id: '5664'
 date: '2014-03-04T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

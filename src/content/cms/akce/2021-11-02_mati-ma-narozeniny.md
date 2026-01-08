@@ -3,7 +3,8 @@ title: Mati má narozeniny!
 post_id: '63234'
 date: '2021-11-02T06:36:53.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/250844439_563377161406736_3290079578634986066_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/250931843_1204969453331290_2977251442834246358_n.jpg

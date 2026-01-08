@@ -3,7 +3,8 @@ title: ZOO Dvůr Králové nad Labem
 post_id: '6095'
 date: '2016-05-17T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

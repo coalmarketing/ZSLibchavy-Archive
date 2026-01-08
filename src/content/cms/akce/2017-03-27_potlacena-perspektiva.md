@@ -3,7 +3,8 @@ title: Potlačená perspektiva
 post_id: '6255'
 date: '2017-03-27T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

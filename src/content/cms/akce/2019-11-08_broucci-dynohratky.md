@@ -3,7 +3,8 @@ title: 'Broučci: "Dýňohrátky"'
 post_id: '27835'
 date: '2019-11-08T13:23:35.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191101_080355.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191101_080414.jpg

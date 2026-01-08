@@ -3,7 +3,8 @@ title: První online doučování 29. 4.
 post_id: '36134'
 date: '2020-04-29T20:57:37.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1.doučování.jpg
 tags:

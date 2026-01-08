@@ -3,7 +3,8 @@ title: Třídní kolo recitační soutěže
 post_id: '4976'
 date: '2009-03-08T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

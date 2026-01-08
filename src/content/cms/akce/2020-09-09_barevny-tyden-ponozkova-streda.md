@@ -3,7 +3,8 @@ title: Barevný týden - ponožková středa
 post_id: '41973'
 date: '2020-09-09T09:55:15.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_9188.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_9190.jpg

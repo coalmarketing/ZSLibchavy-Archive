@@ -3,7 +3,8 @@ title: Přijímací řízení na SŠ - aktualizována stránka kariérového por
 post_id: '21379'
 date: '2019-04-29T14:14:53.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: II. oddělení LISTOPAD
 post_id: '16725'
 date: '2018-11-30T15:29:32.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7003.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7004.jpg

@@ -3,7 +3,8 @@ title: Zimní období v I. oddělení
 post_id: '68967'
 date: '2022-02-25T07:01:27.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220114_140135.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220202_133523.jpg

@@ -3,7 +3,8 @@ title: Barevný podzim
 post_id: '5177'
 date: '2010-10-28T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Deskové hry ve družince
 post_id: '52255'
 date: '2021-02-04T14:57:44.000Z'
 author: Světlana Roubíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/001759D2-9989-415A-B2BB-8F818DD33352.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/33368FEF-E835-400B-AEB5-3FD1262A1F88.jpeg

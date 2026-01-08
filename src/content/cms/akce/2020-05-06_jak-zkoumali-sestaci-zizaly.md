@@ -3,7 +3,8 @@ title: Jak zkoumali šesťáci žížaly
 post_id: '36552'
 date: '2020-05-06T00:09:45.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/A.Benešová-foto-6A.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/A.Benešová-foto.jpg

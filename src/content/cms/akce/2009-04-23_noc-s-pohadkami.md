@@ -3,7 +3,8 @@ title: Noc s pohádkami
 post_id: '4964'
 date: '2009-04-23T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Druháci v distanční výuce
 post_id: '46851'
 date: '2020-11-17T21:35:27.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

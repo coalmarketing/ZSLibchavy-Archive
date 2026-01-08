@@ -3,7 +3,8 @@ title: '"Létající poklady"- ZMĚNA'
 post_id: '16433'
 date: '2018-11-20T10:54:22.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

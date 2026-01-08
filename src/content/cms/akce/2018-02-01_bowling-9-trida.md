@@ -3,7 +3,8 @@ title: Bowling - 9. třída
 post_id: '8497'
 date: '2018-02-01T21:51:28.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/013-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/014-3.jpg

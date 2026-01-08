@@ -3,7 +3,8 @@ title: Vánoční odpoledne s rodiči
 post_id: '5804'
 date: '2014-12-02T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Pohádkový den ve druhé třídě
 post_id: '4960'
 date: '2009-02-24T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

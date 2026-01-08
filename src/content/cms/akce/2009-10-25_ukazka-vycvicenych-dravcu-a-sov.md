@@ -3,7 +3,8 @@ title: Ukázka vycvičených dravců a sov
 post_id: '5051'
 date: '2009-10-25T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

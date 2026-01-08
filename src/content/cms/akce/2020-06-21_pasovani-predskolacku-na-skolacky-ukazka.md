@@ -3,7 +3,8 @@ title: '"Pasování předškoláčků na školáčky":-) (ukázka)'
 post_id: '40918'
 date: '2020-06-21T19:33:24.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

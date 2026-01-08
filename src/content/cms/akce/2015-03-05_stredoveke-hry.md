@@ -3,7 +3,8 @@ title: Středověké hry
 post_id: '5833'
 date: '2015-03-05T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

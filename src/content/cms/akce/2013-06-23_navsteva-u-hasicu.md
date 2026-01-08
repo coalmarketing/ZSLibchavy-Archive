@@ -3,7 +3,8 @@ title: Návštěva u hasičů
 post_id: '5585'
 date: '2013-06-23T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Slavnostní předávání Slabikářů v 1. třídě
 post_id: '64361'
 date: '2021-11-22T18:55:12.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1035.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1037-2.jpg

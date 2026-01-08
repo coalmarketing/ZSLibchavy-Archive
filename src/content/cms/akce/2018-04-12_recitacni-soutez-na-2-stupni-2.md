@@ -3,7 +3,8 @@ title: Recitační soutěž na 2. stupni
 post_id: '13024'
 date: '2018-04-12T20:10:32.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1231-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1235-1.jpg

@@ -3,7 +3,8 @@ title: Městečko - Libchavy / konzum /
 post_id: '5628'
 date: '2013-11-26T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

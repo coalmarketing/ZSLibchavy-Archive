@@ -3,7 +3,8 @@ title: Tři králové v MŠ
 post_id: '50132'
 date: '2021-01-08T07:57:32.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/136370074_745351789727279_8553925214688230665_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/136375348_442181183826647_1634343149568427062_n.jpg

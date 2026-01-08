@@ -3,7 +3,8 @@ title: Den dětí v Pinguin parku
 post_id: '11890'
 date: '2018-06-04T15:40:49.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9514.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9520.jpg

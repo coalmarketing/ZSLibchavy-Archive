@@ -3,7 +3,8 @@ title: Bublinkohraní a loučení s předškoláky
 post_id: '59662'
 date: '2021-06-18T07:19:34.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6891.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6892.jpg

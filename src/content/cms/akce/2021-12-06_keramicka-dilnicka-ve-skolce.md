@@ -3,7 +3,8 @@ title: Keramická dílnička ve školce :-)
 post_id: '64856'
 date: '2021-12-06T08:13:06.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211129_090322.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211129_090332.jpg

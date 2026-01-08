@@ -3,7 +3,8 @@ title: 'Klokánci: Míša měla narozeniny.'
 post_id: '16522'
 date: '2018-11-22T11:04:55.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181112_091630.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181112_091646.jpg

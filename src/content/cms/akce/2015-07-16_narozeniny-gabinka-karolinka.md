@@ -3,7 +3,8 @@ title: Narozeniny Gábinka, Karolínka
 post_id: '5918'
 date: '2015-07-16T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

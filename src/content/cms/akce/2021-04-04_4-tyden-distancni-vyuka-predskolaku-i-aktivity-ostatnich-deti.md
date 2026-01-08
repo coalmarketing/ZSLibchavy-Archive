@@ -3,7 +3,8 @@ title: 4. týden - Distanční výuka předškoláků i aktivity ostatních dět
 post_id: '55423'
 date: '2021-04-04T22:22:38.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/0A2ABA80-C407-4FC1-898D-9FD0AC2678B4.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/168014756_159810592667769_3648714038714524674_n.jpg

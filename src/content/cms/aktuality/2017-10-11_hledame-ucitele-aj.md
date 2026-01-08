@@ -3,7 +3,8 @@ title: hledáme učitele Aj
 post_id: '3792'
 date: '2017-10-11T08:30:14.000Z'
 author: Mgr.Marie Linhartová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

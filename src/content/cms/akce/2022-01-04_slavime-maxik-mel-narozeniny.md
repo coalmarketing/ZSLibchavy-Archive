@@ -3,7 +3,8 @@ title: 'Slavíme: Maxík měl narozeniny :-)'
 post_id: '66242'
 date: '2022-01-04T10:22:05.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211221_091415.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211221_091421.jpg

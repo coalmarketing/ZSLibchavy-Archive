@@ -3,7 +3,8 @@ title: Slavnostní ukončení ve družince
 post_id: '24970'
 date: '2019-06-27T07:18:48.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6747.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6748.jpg

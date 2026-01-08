@@ -3,7 +3,8 @@ title: Pasování na čtenáře
 post_id: '3678'
 date: '2017-10-05T16:46:01.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1164.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1165.jpg

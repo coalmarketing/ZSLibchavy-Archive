@@ -3,7 +3,8 @@ title: Přivítání prvňáčků
 post_id: '25349'
 date: '2019-09-06T16:11:01.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_2035.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_2047.jpg

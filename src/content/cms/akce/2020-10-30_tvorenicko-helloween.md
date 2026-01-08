@@ -3,7 +3,8 @@ title: 'TVOŘENÍČKO: ,,HALLOWEEN'
 post_id: '44837'
 date: '2020-10-30T13:14:11.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/10-3-2.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/11-3-2.jpeg

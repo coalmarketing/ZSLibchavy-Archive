@@ -3,7 +3,8 @@ title: Vyrábíme přáníčko pro maminky:-)
 post_id: '57144'
 date: '2021-05-07T13:36:12.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210503_071134.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210503_073133.jpg

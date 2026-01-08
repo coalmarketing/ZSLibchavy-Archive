@@ -3,7 +3,8 @@ title: Prvňáčci pečou pro maminky
 post_id: '72235'
 date: '2022-05-04T13:45:40.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220504_064215.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220504_081420.jpg

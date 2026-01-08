@@ -3,7 +3,8 @@ title: Sběrový a sportovní den na II. stupni
 post_id: '6126'
 date: '2016-09-01T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

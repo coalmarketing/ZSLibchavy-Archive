@@ -3,7 +3,8 @@ title: 'Desátá výprava: Za INDIÁNY II.'
 post_id: '5910'
 date: '2015-06-26T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Pasování druháčků na čtenáře
 post_id: '79387'
 date: '2022-10-25T14:03:38.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221025_090816.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221025_091052.jpg

@@ -3,7 +3,8 @@ title: Broučci a jejich vycházky :-)
 post_id: '78564'
 date: '2022-10-11T13:19:09.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20221011-WA0001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20221011-WA0002.jpg

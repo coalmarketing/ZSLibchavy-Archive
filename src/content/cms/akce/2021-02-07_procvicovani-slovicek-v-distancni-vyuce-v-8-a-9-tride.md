@@ -3,7 +3,8 @@ title: Procvičování slovíček v distanční výuce v 8. a 9. třídě
 post_id: '52376'
 date: '2021-02-07T23:32:16.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/10-1.png
 - url: https://zslibchavycz.b-cdn.net/wp/11-1.png

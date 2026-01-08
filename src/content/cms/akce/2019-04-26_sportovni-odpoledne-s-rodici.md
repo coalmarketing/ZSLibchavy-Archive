@@ -3,7 +3,8 @@ title: SPORTOVNÍ ODPOLEDNE S RODIČI
 post_id: '21280'
 date: '2019-04-26T15:22:25.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6349.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6356.jpg

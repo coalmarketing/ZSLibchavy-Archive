@@ -3,7 +3,8 @@ title: 'Broučci: "Z pohádky do pohádky"'
 post_id: '20540'
 date: '2019-04-06T20:26:43.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190317-WA0022-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190317-WA0022.jpg

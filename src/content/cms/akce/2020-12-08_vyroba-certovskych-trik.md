@@ -3,7 +3,8 @@ title: Výroba čertovských trik :-)
 post_id: '48322'
 date: '2020-12-08T13:02:48.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20201207-WA0005.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20201207-WA0020.jpg

@@ -3,7 +3,8 @@ title: '"loučení s předškoláčky" :-)'
 post_id: '40229'
 date: '2020-06-12T22:24:01.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200612_091430.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200612_091442.jpg

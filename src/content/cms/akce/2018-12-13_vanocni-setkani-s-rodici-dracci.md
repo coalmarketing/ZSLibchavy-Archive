@@ -3,7 +3,8 @@ title: Vánoční setkání s rodiči - Dráčci
 post_id: '17179'
 date: '2018-12-13T11:40:57.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0247.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0248.jpg

@@ -3,7 +3,8 @@ title: Volby do školské rady
 post_id: '16390'
 date: '2018-11-13T20:30:58.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

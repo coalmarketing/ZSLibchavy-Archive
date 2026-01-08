@@ -3,7 +3,8 @@ title: Muzikoterapie - Námořníci
 post_id: '69477'
 date: '2022-03-09T07:46:29.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/274963357_377893430507578_894821720638189108_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/275079760_2104392559725503_2327619000347441498_n.jpg

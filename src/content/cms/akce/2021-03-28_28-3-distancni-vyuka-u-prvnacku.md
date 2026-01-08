@@ -3,7 +3,8 @@ title: 28. 3. Distanční výuka u prvňáčků
 post_id: '55034'
 date: '2021-03-28T13:53:14.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/16169326591746276786956894778544.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/163567939_494794645214520_7162441005477250282_n.jpg

@@ -3,7 +3,8 @@ title: 15. 3. Recitační soutěž na I. stupni
 post_id: '20344'
 date: '2019-03-15T20:37:23.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

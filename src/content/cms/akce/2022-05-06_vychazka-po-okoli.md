@@ -3,7 +3,8 @@ title: Vycházka po okolí
 post_id: '72448'
 date: '2022-05-06T06:46:37.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/278123478_511547487018479_1471075372755392555_n-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/278126712_4724102867719323_7401712409106094444_n-1.jpg

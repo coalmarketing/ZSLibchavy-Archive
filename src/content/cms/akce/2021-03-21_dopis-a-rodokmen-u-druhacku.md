@@ -3,7 +3,8 @@ title: Dopis a rodokmen u druháčků
 post_id: '54427'
 date: '2021-03-21T09:12:51.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Adelka-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Aja-4.jpeg

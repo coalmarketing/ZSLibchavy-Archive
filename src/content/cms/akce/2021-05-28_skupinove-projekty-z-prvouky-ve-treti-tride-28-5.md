@@ -3,7 +3,8 @@ title: Skupinové projekty z prvouky ve třetí třídě 28. 5.
 post_id: '57970'
 date: '2021-05-28T13:01:17.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0436.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0437.jpg

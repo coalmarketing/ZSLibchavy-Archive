@@ -3,7 +3,8 @@ title: Stavební práce v tělocvičně
 post_id: '71038'
 date: '2022-04-07T14:08:20.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1649332216016.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/1649332216034.jpg

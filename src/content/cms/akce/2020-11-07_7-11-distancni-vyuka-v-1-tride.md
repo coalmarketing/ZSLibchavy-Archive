@@ -3,7 +3,8 @@ title: 7. 11. distanční výuka v 1. třídě
 post_id: '45852'
 date: '2020-11-07T22:51:23.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/123649422_3385375164873193_5609632675525442920_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/123652531_481954506112889_640438937282495623_n.jpg

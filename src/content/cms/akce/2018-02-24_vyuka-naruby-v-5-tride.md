@@ -3,7 +3,8 @@ title: Výuka naruby v 5. třídě
 post_id: '9128'
 date: '2018-02-24T14:43:16.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P2231023.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P2231025.jpg

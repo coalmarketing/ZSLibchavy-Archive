@@ -3,7 +3,8 @@ title: Vánoční les 1. stupeň
 post_id: '17604'
 date: '2018-12-20T12:36:57.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PC200376.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PC200379.jpg

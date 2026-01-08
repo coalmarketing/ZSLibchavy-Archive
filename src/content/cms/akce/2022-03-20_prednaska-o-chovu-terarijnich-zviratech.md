@@ -3,7 +3,8 @@ title: Přednáška o chovu terarijních zvířat
 post_id: '70224'
 date: '2022-03-20T22:10:55.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-21.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/10-12.jpg

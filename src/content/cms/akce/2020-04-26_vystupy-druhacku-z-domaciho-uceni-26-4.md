@@ -3,7 +3,8 @@ title: Výstupy druháčků z domácího učení 26. 4.
 post_id: '35489'
 date: '2020-04-26T20:28:40.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Anežka-6.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Jaroušek-1-1.jpg

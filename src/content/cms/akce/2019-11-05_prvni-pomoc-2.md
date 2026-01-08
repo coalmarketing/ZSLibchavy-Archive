@@ -3,7 +3,8 @@ title: První pomoc
 post_id: '27674'
 date: '2019-11-05T07:12:16.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2218.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2219.jpg

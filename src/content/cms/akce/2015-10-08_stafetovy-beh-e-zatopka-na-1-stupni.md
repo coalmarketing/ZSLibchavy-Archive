@@ -3,7 +3,8 @@ title: Štafetový běh E. Zátopka na 1. stupni
 post_id: '5933'
 date: '2015-10-08T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

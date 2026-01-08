@@ -3,7 +3,8 @@ title: Výtvarná soutěž Komenský a my
 post_id: '5658'
 date: '2014-01-16T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

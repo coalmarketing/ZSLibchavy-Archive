@@ -3,7 +3,8 @@ title: Tvořivá geometrie v 5. třídě
 post_id: '7260'
 date: '2018-01-07T21:07:09.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P1051037.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P1051039.jpg

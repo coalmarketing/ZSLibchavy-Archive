@@ -3,7 +3,8 @@ title: Konečně sníh!
 post_id: '7915'
 date: '2018-01-17T11:41:50.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6383.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6384.jpg

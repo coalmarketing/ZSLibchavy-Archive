@@ -3,7 +3,8 @@ title: 6. 11. Slavnostní předávání Slabikářů
 post_id: '46071'
 date: '2020-11-06T21:32:17.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201105_160400.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201105_160526.jpg

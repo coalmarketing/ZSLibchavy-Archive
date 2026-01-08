@@ -3,7 +3,8 @@ title: Martinovo poselství
 post_id: '63749'
 date: '2021-11-12T07:27:35.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

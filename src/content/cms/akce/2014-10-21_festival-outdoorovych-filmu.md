@@ -3,7 +3,8 @@ title: Festival outdoorových filmů
 post_id: '5763'
 date: '2014-10-21T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

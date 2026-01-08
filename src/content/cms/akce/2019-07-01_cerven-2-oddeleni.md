@@ -3,7 +3,8 @@ title: Červen 2. oddělení
 post_id: '25099'
 date: '2019-07-01T11:45:01.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7958.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7975.jpg

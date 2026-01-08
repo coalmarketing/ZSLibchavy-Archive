@@ -3,7 +3,8 @@ title: SOVIČKY - moje místo ve školce
 post_id: '42132'
 date: '2020-09-11T13:23:28.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-2.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-2.jpeg

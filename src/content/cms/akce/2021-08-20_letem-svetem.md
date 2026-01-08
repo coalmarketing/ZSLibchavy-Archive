@@ -3,7 +3,8 @@ title: ',,LETEM SVĚTEM"'
 post_id: '60567'
 date: '2021-08-20T12:32:04.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-13.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-11.jpeg

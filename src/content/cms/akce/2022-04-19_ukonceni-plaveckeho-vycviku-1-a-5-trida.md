@@ -3,7 +3,8 @@ title: Ukončení plaveckého výcviku - 1. a 5. třída
 post_id: '71468'
 date: '2022-04-19T18:33:52.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220419_102546.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220419_102631.jpg

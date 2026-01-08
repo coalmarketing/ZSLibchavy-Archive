@@ -4,7 +4,8 @@ title: Regionální kolo soutěže v poznávání rostlin, živočichů a miner�
 post_id: '12546'
 date: '2018-06-14T00:37:43.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180522_100438.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180522_100639.jpg

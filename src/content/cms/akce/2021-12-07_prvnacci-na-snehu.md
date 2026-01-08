@@ -3,7 +3,8 @@ title: Prvňáčci na sněhu
 post_id: '65086'
 date: '2021-12-07T17:05:45.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20211207_093640.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20211207_094057.jpg

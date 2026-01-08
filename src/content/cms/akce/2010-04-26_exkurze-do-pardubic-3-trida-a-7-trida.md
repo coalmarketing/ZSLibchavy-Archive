@@ -3,7 +3,8 @@ title: Exkurze do Pardubic  - 3.třída a 7. třída
 post_id: '5138'
 date: '2010-04-26T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

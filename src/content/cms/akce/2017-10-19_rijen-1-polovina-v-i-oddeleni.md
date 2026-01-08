@@ -3,7 +3,8 @@ title: Říjen-1.polovina v I.oddělení
 post_id: '3991'
 date: '2017-10-19T11:15:45.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

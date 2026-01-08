@@ -3,7 +3,8 @@ title: Proč být hrdý Čech – projektový týden na 1. stupni
 post_id: '15179'
 date: '2018-10-26T13:44:50.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1952.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1969.jpg

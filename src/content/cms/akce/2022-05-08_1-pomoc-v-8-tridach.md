@@ -3,7 +3,8 @@ title: 1. pomoc v 8. třídách
 post_id: '72544'
 date: '2022-05-08T22:59:13.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220503_123808-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220503_123951.jpg

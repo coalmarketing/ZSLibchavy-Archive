@@ -3,7 +3,8 @@ title: 'Broučci: "ve školce je prima" :-)'
 post_id: '41910'
 date: '2020-09-08T06:28:22.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200907_082046.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200907_083722.jpg

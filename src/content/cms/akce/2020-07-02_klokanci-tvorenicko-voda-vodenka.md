@@ -3,7 +3,8 @@ title: 'Klokánci tvořeníčko: Voda, voděnka'
 post_id: '41314'
 date: '2020-07-02T12:25:30.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/03AB8964-6180-4CF1-B8A2-2A2237F3177F.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/0BABA124-D27A-43DF-81BC-F14D0C996EF4.jpeg

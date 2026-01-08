@@ -3,7 +3,8 @@ title: Domácí učení třeťáčků 7. 4.
 post_id: '35981'
 date: '2020-04-07T01:49:47.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20200325_133111-1-rotated.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20200325_144255.jpg

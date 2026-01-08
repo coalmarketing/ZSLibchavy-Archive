@@ -3,7 +3,8 @@ title: Preventivní program PPP v 1. třídě
 post_id: '65510'
 date: '2021-12-15T12:40:23.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20211215_081825.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20211215_082700.jpg

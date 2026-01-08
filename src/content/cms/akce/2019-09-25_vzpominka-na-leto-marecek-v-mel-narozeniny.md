@@ -3,7 +3,8 @@ title: 'Vzpomínka na léto: Mareček V. měl narozeniny'
 post_id: '25949'
 date: '2019-09-25T12:34:07.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190922-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190922-WA0001.jpg

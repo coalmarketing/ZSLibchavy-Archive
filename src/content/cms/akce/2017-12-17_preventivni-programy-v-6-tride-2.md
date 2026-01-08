@@ -3,7 +3,8 @@ title: Preventivní programy v 6. třídě
 post_id: '7972'
 date: '2017-12-17T18:12:15.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PPP-11.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PPP-16.jpg

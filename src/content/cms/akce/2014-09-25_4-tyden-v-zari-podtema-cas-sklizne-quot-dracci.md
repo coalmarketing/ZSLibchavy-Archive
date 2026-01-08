@@ -3,7 +3,8 @@ title: 4. týden v září, podtéma ,,Čas sklizně&quot; - Dráčci
 post_id: '5750'
 date: '2014-09-25T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

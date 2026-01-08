@@ -3,7 +3,8 @@ title: '"Abeceda slušného chování" :-) (Honza Krejčík)'
 post_id: '69587'
 date: '2022-03-09T16:08:18.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220309-WA0001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220309-WA0002.jpg

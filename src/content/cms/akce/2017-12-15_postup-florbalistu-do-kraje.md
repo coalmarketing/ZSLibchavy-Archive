@@ -3,7 +3,8 @@ title: Postup florbalistů do kraje
 post_id: '6808'
 date: '2017-12-15T00:07:25.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/045-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/048-1.jpg

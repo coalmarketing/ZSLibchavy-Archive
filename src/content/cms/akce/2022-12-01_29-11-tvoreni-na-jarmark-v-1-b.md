@@ -3,7 +3,8 @@ title: 29. 11. Tvoření na jarmark v 1.B
 post_id: '81280'
 date: '2022-12-01T23:20:47.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221129_162739.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221129_162744.jpg

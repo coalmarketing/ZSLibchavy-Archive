@@ -3,7 +3,8 @@ title: Voda - program na Gymnáziu UO
 post_id: '30319'
 date: '2020-01-26T20:29:38.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200116_084710_1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200116_084905_1.jpg

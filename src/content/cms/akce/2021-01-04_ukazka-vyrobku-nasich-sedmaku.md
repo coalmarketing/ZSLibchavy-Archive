@@ -3,7 +3,8 @@ title: Ukázka výrobků našich sedmáků
 post_id: '49989'
 date: '2021-01-04T00:00:00.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1610644269292818228140631605616.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210108_155113.jpg

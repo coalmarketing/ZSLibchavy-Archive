@@ -3,7 +3,8 @@ title: Nabídka zájmových kroužků ve školním roce 2021/22
 post_id: '60908'
 date: '2021-09-03T10:55:21.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

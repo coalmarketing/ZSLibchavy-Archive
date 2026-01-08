@@ -3,7 +3,8 @@ title: Ukázka dravců na 1. stupni
 post_id: '71634'
 date: '2022-04-25T22:23:50.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220425_090807.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220425_091019.jpg

@@ -3,7 +3,8 @@ title: 'Broučci: tvořeníčko, tvoření :-)'
 post_id: '61308'
 date: '2021-09-14T08:22:44.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210913_091620.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210913_091638.jpg

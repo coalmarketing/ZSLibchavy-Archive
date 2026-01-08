@@ -3,7 +3,8 @@ title: Lyžařská školička Peklák
 post_id: '18692'
 date: '2019-01-31T08:40:36.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_5892.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_5909.jpg

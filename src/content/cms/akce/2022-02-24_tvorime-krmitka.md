@@ -3,7 +3,8 @@ title: Tvoříme krmítka a LIŠKA
 post_id: '68787'
 date: '2022-02-24T10:12:37.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/273228006_359305285953936_8684720811625590758_n-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/273476542_660880628377031_243335929768464091_n-1.jpg

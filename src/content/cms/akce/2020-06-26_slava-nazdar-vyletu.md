@@ -3,7 +3,8 @@ title: SLÁVA, NAZDAR VÝLETU!!!!
 post_id: '41015'
 date: '2020-06-26T06:50:59.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200625_081308.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200625_081310.jpg

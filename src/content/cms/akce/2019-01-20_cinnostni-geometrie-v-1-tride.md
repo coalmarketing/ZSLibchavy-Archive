@@ -3,7 +3,8 @@ title: Činnostní geometrie v 1. třídě
 post_id: '18372'
 date: '2019-01-20T11:01:39.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P1180389.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P1180390.jpg

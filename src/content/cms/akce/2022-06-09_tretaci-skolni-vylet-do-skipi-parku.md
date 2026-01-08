@@ -3,7 +3,8 @@ title: Třeťáci - školní výlet do SkiPi parku
 post_id: '74699'
 date: '2022-06-09T17:03:17.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220609_081414.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220609_094534.jpg

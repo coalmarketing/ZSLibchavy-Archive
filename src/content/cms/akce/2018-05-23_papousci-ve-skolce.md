@@ -3,7 +3,8 @@ title: Papoušci ve školce
 post_id: '11359'
 date: '2018-05-23T07:30:26.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180522_091313.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180522_091316.jpg

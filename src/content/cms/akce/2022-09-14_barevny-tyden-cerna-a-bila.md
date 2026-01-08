@@ -3,7 +3,8 @@ title: Barevný týden - černá a bílá
 post_id: '77068'
 date: '2022-09-14T11:11:23.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220914_081659.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220914_082048.jpg

@@ -3,7 +3,8 @@ title: Psaní perem v 1.A - sovičky
 post_id: '82535'
 date: '2022-12-22T08:55:25.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/psani-perem.jpg
 tags:

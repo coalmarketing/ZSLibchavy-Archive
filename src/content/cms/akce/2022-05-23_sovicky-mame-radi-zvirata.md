@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,MÁME RÁDI ZVÍŘATA"'
 post_id: '73414'
 date: '2022-05-23T13:48:25.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-15.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-1-11.jpeg

@@ -3,7 +3,8 @@ title: Výsledky výtvarné soutěže VÁNOCE A BETLÉM
 post_id: '5655'
 date: '2014-02-16T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

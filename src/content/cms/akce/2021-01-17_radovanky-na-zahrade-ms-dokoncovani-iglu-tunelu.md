@@ -3,7 +3,8 @@ title: 'Radovánky na zahradě MŠ: dokončování iglú (tunelu)'
 post_id: '50549'
 date: '2021-01-17T10:58:40.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210115_104659.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210115_104727.jpg

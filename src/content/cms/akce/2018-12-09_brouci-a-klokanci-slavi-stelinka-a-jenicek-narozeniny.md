@@ -3,7 +3,8 @@ title: 'Brouči a Klokánci slaví: Stelinka a Jeníček, narozeniny'
 post_id: '16959'
 date: '2018-12-09T11:20:59.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20181206-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20181206-WA0001.jpg

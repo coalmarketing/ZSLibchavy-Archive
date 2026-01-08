@@ -3,7 +3,8 @@ title: Prosinec 2. oddělelení
 post_id: '29704'
 date: '2019-12-20T13:50:16.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_8335-kopie.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_8336-kopie.jpg

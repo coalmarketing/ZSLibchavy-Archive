@@ -3,7 +3,8 @@ title: Lyžařská školička 3.1.2018
 post_id: '7107'
 date: '2017-12-31T08:30:10.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

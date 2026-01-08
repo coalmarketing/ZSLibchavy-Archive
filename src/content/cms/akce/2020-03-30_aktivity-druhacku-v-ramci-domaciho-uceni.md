@@ -3,7 +3,8 @@ title: Aktivity druháčků v rámci domácího učení
 post_id: '33217'
 date: '2020-03-30T12:55:23.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Anežka-a-Vojtík-2-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Anežka-a-Vojtík-3.jpg

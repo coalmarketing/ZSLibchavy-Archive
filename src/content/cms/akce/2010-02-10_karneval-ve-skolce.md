@@ -3,7 +3,8 @@ title: Karneval ve školce
 post_id: '5112'
 date: '2010-02-10T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: ÚNOR 2.oddělení
 post_id: '19523'
 date: '2019-03-06T15:19:27.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7340-kopie.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7340-2.jpg

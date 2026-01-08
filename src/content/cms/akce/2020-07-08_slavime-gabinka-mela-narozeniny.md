@@ -3,7 +3,8 @@ title: Slavíme!!! Gábinka měla narozeniny:-)
 post_id: '41375'
 date: '2020-07-08T12:35:57.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200629_100657.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200629_100707.jpg

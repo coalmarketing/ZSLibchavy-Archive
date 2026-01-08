@@ -3,7 +3,8 @@ title: Krabice od bot
 post_id: '81323'
 date: '2022-12-04T20:54:37.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1670181562848.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/1670181562875.jpg

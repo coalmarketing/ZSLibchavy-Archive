@@ -3,7 +3,8 @@ title: Město v pohybu - bowling
 post_id: '23428'
 date: '2019-06-06T00:13:52.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/066-4.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/067-4.jpg

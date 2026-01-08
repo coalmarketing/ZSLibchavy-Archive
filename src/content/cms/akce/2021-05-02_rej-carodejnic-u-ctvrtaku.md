@@ -3,7 +3,8 @@ title: Rej čarodějnic u "čtvrťáků".
 post_id: '56685'
 date: '2021-05-02T12:46:53.000Z'
 author: Mgr.Helena Kujová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Dan-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Ester-3.jpeg

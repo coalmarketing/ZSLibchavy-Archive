@@ -3,7 +3,8 @@ title: Škola v přírodě - den druhý
 post_id: '73886'
 date: '2022-06-01T00:27:59.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220531_072521.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220531_072552.jpg

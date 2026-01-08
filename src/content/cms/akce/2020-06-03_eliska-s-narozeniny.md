@@ -3,7 +3,8 @@ title: Eliška Š. narozeniny
 post_id: '39478'
 date: '2020-06-03T06:31:41.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF3368.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF3369.jpg

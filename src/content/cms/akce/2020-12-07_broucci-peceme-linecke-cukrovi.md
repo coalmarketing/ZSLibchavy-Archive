@@ -3,7 +3,8 @@ title: 'Broučci: pečeme linecké cukroví:-)'
 post_id: '48264'
 date: '2020-12-07T17:28:18.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201203_091647.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201203_092137.jpg

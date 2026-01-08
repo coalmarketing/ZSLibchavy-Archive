@@ -3,7 +3,8 @@ title: Pohádkový les
 post_id: '60275'
 date: '2021-06-29T12:21:44.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1442.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1445.jpg

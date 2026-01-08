@@ -3,7 +3,8 @@ title: Jarní setkání s rodiči Dráčci
 post_id: '22457'
 date: '2019-05-23T12:05:15.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF1258.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF1259.jpg

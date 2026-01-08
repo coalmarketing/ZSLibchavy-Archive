@@ -3,7 +3,8 @@ title: Projekt 5. třídy
 post_id: '6133'
 date: '2016-09-14T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

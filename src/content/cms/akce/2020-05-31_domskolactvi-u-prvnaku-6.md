@@ -3,7 +3,8 @@ title: Domškoláctví u prvňáků
 post_id: '38665'
 date: '2020-05-31T15:26:21.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Amálka-2-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Ella-8.jpg

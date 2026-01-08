@@ -3,7 +3,8 @@ title: Turnaj ve stolním tenise
 post_id: '4970'
 date: '2009-03-09T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

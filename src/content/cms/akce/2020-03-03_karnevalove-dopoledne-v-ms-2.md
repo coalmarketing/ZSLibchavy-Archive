@@ -3,7 +3,8 @@ title: KARNEVALOVÉ DOPOLEDNE v MŠ
 post_id: '31708'
 date: '2020-03-03T06:21:20.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200301-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200301-WA0001.jpg

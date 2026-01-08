@@ -3,7 +3,8 @@ title: Výlet Pinquin park 2.6.2014
 post_id: '5726'
 date: '2014-06-15T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

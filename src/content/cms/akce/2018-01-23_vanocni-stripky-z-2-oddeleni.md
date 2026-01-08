@@ -3,7 +3,8 @@ title: Vánoční střípky z II. oddělení
 post_id: '8176'
 date: '2018-01-23T14:14:40.000Z'
 author: Světlana Roubíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/27047023_1622256114507703_1649983357_o.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3437.jpg

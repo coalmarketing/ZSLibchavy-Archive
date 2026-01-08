@@ -3,7 +3,8 @@ title: Vycházka družinky k lesu
 post_id: '26508'
 date: '2019-09-30T11:36:04.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20190927_130333-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20190927_130515.jpg

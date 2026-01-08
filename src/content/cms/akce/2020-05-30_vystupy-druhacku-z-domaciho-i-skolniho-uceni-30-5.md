@@ -3,7 +3,8 @@ title: Výstupy druháčků z domácího i školního učení 30. 5.
 post_id: '38512'
 date: '2020-05-30T10:18:22.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Anežka-1-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Anežka1.jpg

@@ -3,7 +3,8 @@ title: 'ODPOLEDNÍ HRY: ,,NAŠE SMYSLY"'
 post_id: '52919'
 date: '2021-02-20T09:03:31.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-7.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-1-7.jpeg

@@ -3,7 +3,8 @@ title: Bolest- nemoc jménem šikana
 post_id: '4216'
 date: '2017-10-24T21:39:52.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1_20171024_085319.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/1_20171024_092410.jpg

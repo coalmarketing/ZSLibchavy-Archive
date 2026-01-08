@@ -3,7 +3,8 @@ title: Beseda o nebezpečí náboženských sekt
 post_id: '5174'
 date: '2010-10-21T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

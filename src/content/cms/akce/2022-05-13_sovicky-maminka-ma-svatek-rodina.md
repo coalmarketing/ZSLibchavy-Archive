@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,MAMINKA MÁ SVÁTEK, RODINA"'
 post_id: '73142'
 date: '2022-05-13T13:53:59.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/10-13.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/11-14.jpeg

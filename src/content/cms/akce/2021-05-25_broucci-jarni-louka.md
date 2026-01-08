@@ -3,7 +3,8 @@ title: broučci-jarní louka
 post_id: '57776'
 date: '2021-05-25T06:14:11.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1CO-MUZEME-NA-LOUCE-OBJEVIT.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/1-2-4.jpg

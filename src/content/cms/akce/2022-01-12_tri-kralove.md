@@ -3,7 +3,8 @@ title: TŘÍ KRÁLOVÉ
 post_id: '66701'
 date: '2022-01-12T07:30:47.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/269732971_1375013142971522_1819504981163188106_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/269808068_474332704280482_4410466877464627736_n.jpg

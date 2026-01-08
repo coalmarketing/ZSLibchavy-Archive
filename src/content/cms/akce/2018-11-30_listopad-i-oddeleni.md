@@ -3,7 +3,8 @@ title: Listopad I. oddělení
 post_id: '17079'
 date: '2018-11-30T07:07:15.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_5393.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_5396.jpg

@@ -3,7 +3,8 @@ title: Australská pohádka
 post_id: '48799'
 date: '2020-12-09T14:59:07.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF3596.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF3597.jpg

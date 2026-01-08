@@ -3,7 +3,8 @@ title: Malá kulaté pro Justýnku
 post_id: '6285'
 date: '2017-04-20T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

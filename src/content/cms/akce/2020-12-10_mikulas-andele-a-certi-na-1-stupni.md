@@ -3,7 +3,8 @@ title: Mikuláš, andělé a čerti na 1. stupni
 post_id: '49105'
 date: '2020-12-10T15:07:20.000Z'
 author: Mgr.Marie Linhartová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7088.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7090-3.jpg

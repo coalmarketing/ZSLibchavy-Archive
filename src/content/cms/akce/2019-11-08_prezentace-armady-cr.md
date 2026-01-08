@@ -3,7 +3,8 @@ title: Prezentace Armády ČR
 post_id: '27793'
 date: '2019-11-08T06:48:36.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0932.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0936.jpg

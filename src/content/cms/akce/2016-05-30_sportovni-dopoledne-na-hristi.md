@@ -3,7 +3,8 @@ title: SPORTOVNÍ DOPOLEDNE NA HŘIŠTI
 post_id: '6115'
 date: '2016-05-30T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

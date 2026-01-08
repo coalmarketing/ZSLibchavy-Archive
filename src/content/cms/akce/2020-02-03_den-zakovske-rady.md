@@ -3,7 +3,8 @@ title: Den Žákovské rady
 post_id: '30735'
 date: '2020-02-03T14:20:59.000Z'
 author: Mgr.Kateřina Kulhavá
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4515-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4516.jpg

@@ -3,7 +3,8 @@ title: Sportovní den na 2. stupni
 post_id: '13232'
 date: '2018-06-28T08:29:45.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_0039-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_0054-1.jpg

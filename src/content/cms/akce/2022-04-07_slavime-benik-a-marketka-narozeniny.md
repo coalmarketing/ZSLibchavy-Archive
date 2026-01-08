@@ -3,7 +3,8 @@ title: Slavíme! Beník a Markétka - narozeniny:-)
 post_id: '71151'
 date: '2022-04-07T20:12:10.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220404-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220404-WA0001.jpg

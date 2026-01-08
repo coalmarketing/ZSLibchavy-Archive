@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: sv. Martin- koníčci :-)'
 post_id: '64028'
 date: '2021-11-19T11:46:37.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211021_072021.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211021_072142.jpg

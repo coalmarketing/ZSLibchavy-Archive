@@ -3,7 +3,8 @@ title: karty IREDO
 post_id: '387'
 date: '2013-06-26T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

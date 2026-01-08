@@ -3,7 +3,8 @@ title: 'Slavíme: Pepíček a Toník P. měli narozeniny :-)'
 post_id: '50681'
 date: '2021-01-18T17:11:51.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210118_093330.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210118_093341_BURST001_COVER.jpg

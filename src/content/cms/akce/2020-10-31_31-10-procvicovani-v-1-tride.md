@@ -3,7 +3,8 @@ title: 31. 10. Procvičování v 1. třídě
 post_id: '45283'
 date: '2020-10-31T21:52:25.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20201025_093029.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/653C91A5-5608-4DF5-BD15-EDBBA2A2F14C.jpeg

@@ -3,7 +3,8 @@ title: '"Vyletěl si pyšný drak" - tvořeníčko, tvoření'
 post_id: '44136'
 date: '2020-10-23T09:56:32.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201012_091334-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201012_091338-1.jpg

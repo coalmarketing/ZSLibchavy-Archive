@@ -3,7 +3,8 @@ title: 'Sovičky: Tvořeníčko, tvoření: "Zvířátka a ptáčci v zimě" :-)
 post_id: '68396'
 date: '2022-02-17T06:59:07.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220207_071510.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220207_071626.jpg

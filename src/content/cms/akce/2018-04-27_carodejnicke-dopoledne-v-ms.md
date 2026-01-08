@@ -3,7 +3,8 @@ title: ČARODĚJNICKÉ DOPOLEDNE V MŠ
 post_id: '10553'
 date: '2018-04-27T11:28:49.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180424_074616.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180424_074628.jpg

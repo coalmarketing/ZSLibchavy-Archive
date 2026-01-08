@@ -3,7 +3,8 @@ title: Výlet do zoo
 post_id: '5259'
 date: '2011-05-29T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

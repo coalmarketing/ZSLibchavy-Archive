@@ -3,7 +3,8 @@ title: III. oddělení
 post_id: '6154'
 date: '2016-09-29T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

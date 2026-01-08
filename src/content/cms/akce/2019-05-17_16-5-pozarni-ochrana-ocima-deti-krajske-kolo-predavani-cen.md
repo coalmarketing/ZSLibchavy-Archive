@@ -3,7 +3,8 @@ title: 16. 5. Požární ochrana očima dětí - krajské kolo, předávání ce
 post_id: '22385'
 date: '2019-05-17T17:48:04.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

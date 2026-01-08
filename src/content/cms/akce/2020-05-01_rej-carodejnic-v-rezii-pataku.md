@@ -3,7 +3,8 @@ title: Rej čarodějnic v režii "páťáků".
 post_id: '35963'
 date: '2020-05-01T14:30:04.000Z'
 author: Mgr.Helena Kujová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/čarodějnice-1.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/čarodějnice-10.jpg

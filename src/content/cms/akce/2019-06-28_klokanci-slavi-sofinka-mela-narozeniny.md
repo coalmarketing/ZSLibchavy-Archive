@@ -3,7 +3,8 @@ title: 'Klokánci slaví: Sofinka měla narozeniny'
 post_id: '25040'
 date: '2019-06-28T06:32:58.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/2261825B-7187-4EDF-8F73-9DC66446CD40.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/3AD05B57-8F52-4D5C-BD05-88D53CEC6377.jpeg

@@ -3,7 +3,8 @@ title: Technické hry v Letohradě
 post_id: '5897'
 date: '2015-06-08T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: 'Broučci, tvořeníčko tvoření: "Z pohádky do pohádky" :-)'
 post_id: '68890'
 date: '2022-02-24T12:47:29.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220215_075248.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220215_075501.jpg

@@ -3,7 +3,8 @@ title: SPARTAN KIDS aneb sportovní odpoledne s rodiči
 post_id: '75178'
 date: '2022-06-16T06:25:52.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/286750155_359363676265505_4109118642310241244_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/286831559_1142889796568959_1545618226675740674_n.jpg

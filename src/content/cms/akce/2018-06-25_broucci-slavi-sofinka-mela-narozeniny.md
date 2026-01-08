@@ -3,7 +3,8 @@ title: 'Broučci slaví: Sofinka měla narozeniny'
 post_id: '12997'
 date: '2018-06-25T13:16:05.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20180622_101922.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20180622_101934.jpg

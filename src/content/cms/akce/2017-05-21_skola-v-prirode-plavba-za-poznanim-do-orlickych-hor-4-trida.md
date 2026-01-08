@@ -3,7 +3,8 @@ title: Škola v přírodě - Plavba za poznáním do Orlických hor (4. třída)
 post_id: '6297'
 date: '2017-05-21T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

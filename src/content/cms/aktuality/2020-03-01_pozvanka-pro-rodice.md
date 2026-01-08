@@ -3,7 +3,8 @@ title: Pozvánka na regionální kolo v soutěži v poznávání přírodnin a m
 post_id: '31582'
 date: '2020-03-01T15:33:00.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

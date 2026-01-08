@@ -3,7 +3,8 @@ title: Olympiáda v českém jazyce
 post_id: '31534'
 date: '2020-01-29T19:44:36.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

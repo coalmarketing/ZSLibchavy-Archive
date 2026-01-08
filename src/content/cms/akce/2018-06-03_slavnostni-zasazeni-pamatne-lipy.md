@@ -3,7 +3,8 @@ title: Slavnostní zasazení památné lípy
 post_id: '11802'
 date: '2018-06-03T16:29:27.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P6031043.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P6031053.jpg

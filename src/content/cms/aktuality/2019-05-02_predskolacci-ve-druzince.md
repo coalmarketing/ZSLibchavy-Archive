@@ -3,7 +3,8 @@ title: Předškoláčci ve družince
 post_id: '21566'
 date: '2019-05-02T12:43:16.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - aktuality

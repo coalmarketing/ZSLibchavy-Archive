@@ -3,7 +3,8 @@ title: Distanční výuka - "Jarní louka, pole" (mladší děti) :-)
 post_id: '55917'
 date: '2021-04-14T18:36:35.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1EFB75F1-A67C-4F89-9177-F6D2071D3F08.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/347EE750-1BE6-4B10-B42A-10E2D7735499.jpeg

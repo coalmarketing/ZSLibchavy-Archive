@@ -3,7 +3,8 @@ title: Volba povolání
 post_id: '494'
 date: '2010-05-25T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

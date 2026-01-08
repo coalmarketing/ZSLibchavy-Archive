@@ -3,7 +3,8 @@ title: Vánoční besídka a vánoční nadělování
 post_id: '602'
 date: '2016-12-04T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - aktuality

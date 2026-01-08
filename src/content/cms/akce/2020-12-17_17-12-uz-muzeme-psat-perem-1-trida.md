@@ -3,7 +3,8 @@ title: 17. 12. Už můžeme psát perem - 1. třída
 post_id: '49751'
 date: '2020-12-17T22:54:36.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/130745216_443324516826391_1881618059213755476_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/130822166_217702163325871_291913724188752449_n.jpg

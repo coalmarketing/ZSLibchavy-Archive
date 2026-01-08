@@ -3,7 +3,8 @@ title: Úspěch mladších florbalistů na okrsku
 post_id: '6400'
 date: '2017-11-27T21:53:00.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/007.jpg
 tags:

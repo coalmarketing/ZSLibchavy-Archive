@@ -3,7 +3,8 @@ title: 'broučci: čertoviny-příprava peklíčka'
 post_id: '64766'
 date: '2021-12-03T06:18:56.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211129_070218.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211129_070934.jpg

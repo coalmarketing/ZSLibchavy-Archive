@@ -3,7 +3,8 @@ title: Distanční výuka v MŠ Kamarád (Z pohádky do pohádky:-))
 post_id: '53616'
 date: '2021-03-09T10:44:02.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20210305_140739.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210305_140813.jpg

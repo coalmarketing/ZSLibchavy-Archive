@@ -3,7 +3,8 @@ title: Březen III.oddělení
 post_id: '9964'
 date: '2018-04-05T21:26:20.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

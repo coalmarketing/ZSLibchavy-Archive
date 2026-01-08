@@ -3,7 +3,8 @@ title: Kult krásného těla - prevence 8. třída
 post_id: '24871'
 date: '2019-06-24T23:54:06.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/002-1-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/003-1-3.jpg

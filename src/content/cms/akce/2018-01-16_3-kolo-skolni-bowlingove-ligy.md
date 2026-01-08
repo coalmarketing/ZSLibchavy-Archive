@@ -3,7 +3,8 @@ title: 3.kolo Školní bowlingové ligy
 post_id: '7793'
 date: '2018-01-16T22:30:18.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/004-4.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/006-4.jpg

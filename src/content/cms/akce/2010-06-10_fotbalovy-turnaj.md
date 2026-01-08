@@ -3,7 +3,8 @@ title: Fotbalový turnaj
 post_id: '5152'
 date: '2010-06-10T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

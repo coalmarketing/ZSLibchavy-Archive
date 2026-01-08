@@ -3,7 +3,8 @@ title: Krabice od bot
 post_id: '64532'
 date: '2021-11-29T12:22:43.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0488141.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0498142.jpg

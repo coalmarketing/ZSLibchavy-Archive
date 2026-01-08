@@ -3,7 +3,8 @@ title: Píseň lásky
 post_id: '5253'
 date: '2011-05-17T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

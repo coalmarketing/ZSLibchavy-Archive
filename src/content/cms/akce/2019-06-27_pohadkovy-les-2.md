@@ -3,7 +3,8 @@ title: Pohádkový les
 post_id: '25004'
 date: '2019-06-27T18:16:29.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/64814017_2068765313432536_7072553355339366400_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/65115088_638573129944107_3369603075814719488_n.jpg

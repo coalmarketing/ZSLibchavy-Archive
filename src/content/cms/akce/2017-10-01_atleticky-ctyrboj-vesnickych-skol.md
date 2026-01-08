@@ -3,7 +3,8 @@ title: Atletický čtyřboj vesnických škol
 post_id: '4753'
 date: '2017-10-01T21:37:43.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_0120.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_0125.jpg

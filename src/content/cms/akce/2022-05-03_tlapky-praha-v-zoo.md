@@ -3,7 +3,8 @@ title: TLAPKY - Praha v ZOO
 post_id: '72011'
 date: '2022-05-03T10:46:24.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220430_062810.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220430_062813.jpg

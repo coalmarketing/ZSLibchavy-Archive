@@ -3,7 +3,8 @@ title: Zdobení stromečku
 post_id: '47897'
 date: '2020-12-02T07:39:58.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0014001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0024003.jpg

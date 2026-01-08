@@ -3,7 +3,8 @@ title: Projektový den Velikonoce
 post_id: '71252'
 date: '2022-04-10T14:19:45.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1736.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1743.jpg

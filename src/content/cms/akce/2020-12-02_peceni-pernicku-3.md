@@ -3,7 +3,8 @@ title: Pečení perníčků
 post_id: '47820'
 date: '2020-12-02T07:32:12.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0083784.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0093787.jpg

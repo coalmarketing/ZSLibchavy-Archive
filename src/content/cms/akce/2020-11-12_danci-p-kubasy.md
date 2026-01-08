@@ -3,7 +3,8 @@ title: Daňci p. Kubasy
 post_id: '46217'
 date: '2020-11-12T15:16:11.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/121558609_394039741994316_8154465335695367628_n-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/121558609_394039741994316_8154465335695367628_n.jpg

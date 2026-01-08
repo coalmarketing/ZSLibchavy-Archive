@@ -3,7 +3,8 @@ title: ŠKOLA V PŘÍRODĚ - 3. DEN
 post_id: '23130'
 date: '2019-05-29T20:09:43.000Z'
 author: Mgr.Helena Kujová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC02416.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC02418.jpg

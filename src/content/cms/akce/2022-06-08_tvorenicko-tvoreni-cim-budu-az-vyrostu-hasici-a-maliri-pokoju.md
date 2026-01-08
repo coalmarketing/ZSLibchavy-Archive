@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: "Čím budu až vyrostu?", hasiči a malíři 
 post_id: '74642'
 date: '2022-06-08T18:54:56.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220608_065119.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220608_065406.jpg

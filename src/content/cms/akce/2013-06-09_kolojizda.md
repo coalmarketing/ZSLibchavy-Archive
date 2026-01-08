@@ -3,7 +3,8 @@ title: Kolojízda
 post_id: '5582'
 date: '2013-06-09T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

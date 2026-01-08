@@ -3,7 +3,8 @@ title: Ekohraní 1. den
 post_id: '19698'
 date: '2019-03-18T15:30:06.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7343.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7423.jpg

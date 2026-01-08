@@ -3,7 +3,8 @@ title: 4.,5. třída uklízí Česko
 post_id: '20785'
 date: '2019-04-09T16:36:28.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/uklid-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/uklid-2.jpg

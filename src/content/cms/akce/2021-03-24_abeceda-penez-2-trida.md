@@ -3,7 +3,8 @@ title: Abeceda peněz 2. třída
 post_id: '54796'
 date: '2021-03-24T20:32:32.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/abeceda-penez-02.png
 tags:

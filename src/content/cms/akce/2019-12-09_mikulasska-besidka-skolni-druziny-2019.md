@@ -3,7 +3,8 @@ title: Mikulášská besídka školní družiny 2019
 post_id: '28901'
 date: '2019-12-09T07:31:47.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/19A403E1-2908-4791-8A35-EB156DE8510F.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/34A6D90B-5C0F-4940-86A3-99955D06BD81.jpeg

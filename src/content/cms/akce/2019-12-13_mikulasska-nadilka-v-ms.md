@@ -3,7 +3,8 @@ title: MIKULÁŠSKÁ NADÍLKA V MŠ
 post_id: '29164'
 date: '2019-12-13T06:44:02.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191211-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191211-WA0001.jpg

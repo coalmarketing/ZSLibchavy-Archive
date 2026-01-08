@@ -3,7 +3,8 @@ title: Sportovní hry na "UMĚLCE"
 post_id: '21472'
 date: '2019-04-30T13:16:04.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190425_093548.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190425_093558.jpg

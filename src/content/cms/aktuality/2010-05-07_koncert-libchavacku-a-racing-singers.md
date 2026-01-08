@@ -3,7 +3,8 @@ title: Koncert  LIBCHAVÁČKU  a  RACING  SINGERS
 post_id: '496'
 date: '2010-05-07T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

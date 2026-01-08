@@ -3,7 +3,8 @@ title: Den otevřených dveří na I.stupni
 post_id: '483'
 date: '2010-11-02T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

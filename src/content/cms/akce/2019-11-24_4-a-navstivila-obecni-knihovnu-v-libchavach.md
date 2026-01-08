@@ -3,7 +3,8 @@ title: 4.A navštívila Obecní knihovnu v Libchavách
 post_id: '28495'
 date: '2019-11-24T19:01:20.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

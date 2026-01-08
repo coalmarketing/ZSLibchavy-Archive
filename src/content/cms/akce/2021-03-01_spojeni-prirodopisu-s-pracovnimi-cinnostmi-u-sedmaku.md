@@ -3,7 +3,8 @@ title: Spojení přírodopisu s pracovními činnostmi u sedmáků
 post_id: '53352'
 date: '2021-03-01T21:47:53.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/16142456585833199853392941454163.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/16143421335581480890418.jpg

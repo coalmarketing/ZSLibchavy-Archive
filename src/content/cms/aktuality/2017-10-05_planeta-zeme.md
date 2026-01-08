@@ -3,7 +3,8 @@ title: Planeta Země
 post_id: '3704'
 date: '2017-10-05T18:30:27.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

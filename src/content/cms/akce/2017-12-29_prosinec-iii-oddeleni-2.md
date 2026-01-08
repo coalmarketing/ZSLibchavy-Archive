@@ -3,7 +3,8 @@ title: Prosinec III.oddělení
 post_id: '7080'
 date: '2017-12-29T22:52:07.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

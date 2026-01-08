@@ -3,7 +3,8 @@ title: Návštěva Obecního úřadu
 post_id: '14337'
 date: '2018-10-02T21:58:16.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

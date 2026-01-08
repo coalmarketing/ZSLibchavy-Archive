@@ -3,7 +3,8 @@ title: 'Broučci: "čertoviny", vycházka k Betlému, výroba sněhuláčka'
 post_id: '48366'
 date: '2020-12-08T13:09:52.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20201207-WA0006.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20201207-WA0007.jpg

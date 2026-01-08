@@ -3,7 +3,8 @@ title: Sběr surovin
 post_id: '351'
 date: '2014-09-03T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

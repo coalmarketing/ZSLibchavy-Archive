@@ -3,7 +3,8 @@ title: PEČEME NA VÁNOCE :-)
 post_id: '81365'
 date: '2022-12-05T13:08:56.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221201_071011.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221201_071014.jpg

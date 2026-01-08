@@ -3,7 +3,8 @@ title: Výlet do Arboreta na Žampach a Andrlův chlum
 post_id: '5159'
 date: '2010-06-08T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

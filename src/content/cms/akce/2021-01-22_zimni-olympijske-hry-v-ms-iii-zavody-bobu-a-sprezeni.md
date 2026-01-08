@@ -3,7 +3,8 @@ title: ZIMNÍ OLYMPIJSKÉ HRY V MŠ  III. (závody "bobů" a "spřežení" :-))
 post_id: '51477'
 date: '2021-01-22T20:01:53.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210119_095845.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210119_095903.jpg

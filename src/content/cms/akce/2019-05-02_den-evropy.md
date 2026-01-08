@@ -3,7 +3,8 @@ title: Den Evropy
 post_id: '21562'
 date: '2019-05-02T10:21:14.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-2242.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-2246.jpg

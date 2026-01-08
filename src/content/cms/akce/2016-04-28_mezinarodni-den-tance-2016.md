@@ -3,7 +3,8 @@ title: Mezinárodní den tance 2016
 post_id: '6072'
 date: '2016-04-28T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

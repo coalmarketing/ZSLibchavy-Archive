@@ -3,7 +3,8 @@ title: Práce na zahradě
 post_id: '70709'
 date: '2022-03-31T14:35:01.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/277295943_523494565864000_7705953774476013769_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/277337940_395750078591217_5608798845945185597_n.jpg

@@ -3,7 +3,8 @@ title: Hry na sněhu
 post_id: '51304'
 date: '2021-01-21T14:28:32.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6103-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6104-1.jpg

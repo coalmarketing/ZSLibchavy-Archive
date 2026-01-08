@@ -3,7 +3,8 @@ title: Ilustrátor Adolf Dudek v naší MŠ a loučení s předškoláky
 post_id: '13077'
 date: '2018-06-26T14:00:33.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9726.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9727.jpg

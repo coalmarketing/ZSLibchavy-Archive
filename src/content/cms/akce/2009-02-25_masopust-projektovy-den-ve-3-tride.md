@@ -3,7 +3,8 @@ title: Masopust - projektový den ve 3.třídě
 post_id: '4963'
 date: '2009-02-25T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

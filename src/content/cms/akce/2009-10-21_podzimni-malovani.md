@@ -3,7 +3,8 @@ title: Podzimní malování
 post_id: '5053'
 date: '2009-10-21T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: JEŽÍŠEK V MŠ
 post_id: '17512'
 date: '2018-12-20T07:28:11.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20181218-WA0001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20181218-WA0002.jpg

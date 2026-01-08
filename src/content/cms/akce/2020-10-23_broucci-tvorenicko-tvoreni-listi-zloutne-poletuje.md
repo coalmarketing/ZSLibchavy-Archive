@@ -3,7 +3,8 @@ title: 'Broučci: "Tvořeníčko, tvoření" - "Listí žloutne, poletuje"'
 post_id: '44402'
 date: '2020-10-23T10:46:24.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201019_081324.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201019_081327.jpg

@@ -3,7 +3,8 @@ title: Závěr školního roku 2012/2013
 post_id: '382'
 date: '2013-06-28T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

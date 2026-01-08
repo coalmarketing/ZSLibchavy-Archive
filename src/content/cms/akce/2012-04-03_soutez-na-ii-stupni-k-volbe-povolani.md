@@ -3,7 +3,8 @@ title: Soutěž na II.stupni k Volbě povolání
 post_id: '5392'
 date: '2012-04-03T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

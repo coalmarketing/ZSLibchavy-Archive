@@ -3,7 +3,8 @@ title: Slavnostní předávání slabikářů v 1. třídě
 post_id: '16354'
 date: '2018-11-12T12:34:47.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PB120385.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PB120386.jpg

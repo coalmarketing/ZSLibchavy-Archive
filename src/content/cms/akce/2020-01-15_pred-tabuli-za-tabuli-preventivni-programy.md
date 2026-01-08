@@ -3,7 +3,8 @@ title: Před tabulí, za tabulí - preventivní programy
 post_id: '30063'
 date: '2020-01-15T23:48:01.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0147-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0149.jpg

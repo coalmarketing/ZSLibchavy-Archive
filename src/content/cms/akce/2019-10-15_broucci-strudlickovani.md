@@ -3,7 +3,8 @@ title: 'Broučci: "štrůdlíčkování"'
 post_id: '26699'
 date: '2019-10-15T07:00:04.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191014-WA0002.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191014-WA0003.jpg

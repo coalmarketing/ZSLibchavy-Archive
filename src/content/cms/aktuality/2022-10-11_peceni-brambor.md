@@ -3,7 +3,8 @@ title: Pečení brambor
 post_id: '78616'
 date: '2022-10-11T17:47:12.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

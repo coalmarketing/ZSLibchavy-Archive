@@ -3,7 +3,8 @@ title: Schůzka pro rodiče
 post_id: '13630'
 date: '2018-09-06T07:25:51.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

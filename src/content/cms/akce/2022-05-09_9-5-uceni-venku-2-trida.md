@@ -3,7 +3,8 @@ title: 9. 5. Učení venku, 2. třída
 post_id: '72577'
 date: '2022-05-09T22:05:51.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/279786596_712293283436787_7019940672133798544_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/279824484_1080494249206660_4285890618083769061_n.jpg

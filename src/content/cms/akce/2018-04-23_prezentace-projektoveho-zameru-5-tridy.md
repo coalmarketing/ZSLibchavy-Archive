@@ -3,7 +3,8 @@ title: Prezentace projektového záměru 5. třídy
 post_id: '10417'
 date: '2018-04-23T21:50:12.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P4181028.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P4181032.jpg

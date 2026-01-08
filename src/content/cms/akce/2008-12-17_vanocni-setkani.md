@@ -3,7 +3,8 @@ title: Vánoční setkání
 post_id: '4954'
 date: '2008-12-17T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

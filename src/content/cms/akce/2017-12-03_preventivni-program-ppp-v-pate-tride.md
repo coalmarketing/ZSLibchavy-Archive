@@ -3,7 +3,8 @@ title: Preventivní program PPP v páté třídě
 post_id: '6505'
 date: '2017-12-03T22:09:54.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

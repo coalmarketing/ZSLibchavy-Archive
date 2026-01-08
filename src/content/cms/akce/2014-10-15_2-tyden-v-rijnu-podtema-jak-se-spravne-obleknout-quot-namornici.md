@@ -3,7 +3,8 @@ title: 2. týden v říjnu, podtéma ,,Jak se správně obléknout&quot; - Námo
 post_id: '5755'
 date: '2014-10-15T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

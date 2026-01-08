@@ -3,7 +3,8 @@ title: Pečení a zdobení perníčků pro maminky
 post_id: '22118'
 date: '2019-05-14T18:30:02.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190509-WA0004.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190509-WA0005.jpg

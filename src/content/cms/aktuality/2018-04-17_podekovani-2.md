@@ -3,7 +3,8 @@ title: Poděkování
 post_id: '10341'
 date: '2018-04-17T23:46:50.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

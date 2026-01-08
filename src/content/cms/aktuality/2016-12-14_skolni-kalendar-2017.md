@@ -3,7 +3,8 @@ title: Školní kalendář 2017
 post_id: '277'
 date: '2016-12-14T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

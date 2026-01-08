@@ -3,7 +3,8 @@ title: třídní schůzka předškoláků
 post_id: '589'
 date: '2017-06-05T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: Tři, dva, jedna - START
 post_id: '5276'
 date: '2011-06-23T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

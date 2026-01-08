@@ -3,7 +3,8 @@ title: Dětský den a loučení s předškoláčky
 post_id: '5734'
 date: '2014-06-17T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

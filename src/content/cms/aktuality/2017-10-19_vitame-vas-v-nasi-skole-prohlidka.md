@@ -3,7 +3,8 @@ title: Vítáme Vás v naší škole - prohlídka
 post_id: '4012'
 date: '2017-10-19T15:28:49.000Z'
 author: Mgr.Marie Linhartová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3234.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3235.jpg

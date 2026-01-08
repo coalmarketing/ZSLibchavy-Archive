@@ -3,7 +3,8 @@ title: Preventivní program v 8.třídě
 post_id: '5198'
 date: '2010-12-13T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Projektový den na SUPŠ v ÚO - 7. třída
 post_id: '5845'
 date: '2015-03-17T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

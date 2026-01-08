@@ -3,7 +3,8 @@ title: ŠD-výlet vláčkem do Letohradu
 post_id: '24926'
 date: '2019-06-26T14:29:34.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/025EDFE8-CA41-4D2F-927A-45EF1F50372F.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/074FE704-F938-4184-A7C7-1E559BE9AF6E.jpeg

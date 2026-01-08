@@ -3,7 +3,8 @@ title: Černá síla na bronzovém stupínku
 post_id: '12612'
 date: '2018-06-19T00:32:29.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/010-1-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/011-2-2.jpg

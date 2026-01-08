@@ -3,7 +3,8 @@ title: Exkurze Chvaletice, Kutná Hora a Sedlec
 post_id: '5864'
 date: '2015-04-27T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

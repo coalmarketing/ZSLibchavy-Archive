@@ -3,7 +3,8 @@ title: Štafetové běhy E. Zátopka na 1. stupni
 post_id: '14404'
 date: '2018-10-07T20:49:13.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/ctvrtaci.jpg
 tags:

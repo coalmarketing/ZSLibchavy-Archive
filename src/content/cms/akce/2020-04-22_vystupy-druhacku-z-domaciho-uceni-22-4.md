@@ -3,7 +3,8 @@ title: Výstupy druháčků z domácího učení 22. 4.
 post_id: '35169'
 date: '2020-04-22T20:47:43.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Druháčci-online.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Eliška-hmyzí-domeček.jpg

@@ -3,7 +3,8 @@ title: Týden s rodilým mluvčím jsme si moc užili
 post_id: '72491'
 date: '2022-05-08T14:12:45.000Z'
 author: lic. Kamila Hrušková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220505_095240.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220505_095256.jpg

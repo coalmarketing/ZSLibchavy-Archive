@@ -3,7 +3,8 @@ title: První dny ve školce
 post_id: '25569'
 date: '2019-09-11T12:24:23.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/014-10.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/015-10.jpg

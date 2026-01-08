@@ -3,7 +3,8 @@ title: 10 dní florbalu - ml.H
 post_id: '5710'
 date: '2014-05-12T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

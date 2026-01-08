@@ -3,7 +3,8 @@ title: Přírodovědný klokan
 post_id: '79430'
 date: '2022-10-25T21:25:15.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

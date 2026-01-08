@@ -3,7 +3,8 @@ title: Výprava druháčků za jehňaty
 post_id: '31891'
 date: '2020-03-05T12:31:13.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P3050374-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P3050376-2.jpg

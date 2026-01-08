@@ -3,7 +3,8 @@ title: Loučení žáků 9. třídy
 post_id: '75588'
 date: '2022-06-20T13:03:03.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4683-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4685.jpg

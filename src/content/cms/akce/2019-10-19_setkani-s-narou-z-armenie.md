@@ -3,7 +3,8 @@ title: Setkání s Narou z Arménie
 post_id: '27099'
 date: '2019-10-19T09:57:22.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

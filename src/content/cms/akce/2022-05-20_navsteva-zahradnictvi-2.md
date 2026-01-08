@@ -3,7 +3,8 @@ title: návštěva zahradnictví :-)
 post_id: '73304'
 date: '2022-05-20T14:05:11.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220509_093733.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220509_093740.jpg

@@ -3,7 +3,8 @@ title: Pozorování pavoukovců - žáci 6. tříd
 post_id: '40607'
 date: '2020-06-17T00:19:24.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/15909341396697821220437342831702.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/1590941545779-210470743.jpg

@@ -3,7 +3,8 @@ title: Školní bowlingová liga
 post_id: '31870'
 date: '2020-03-04T23:06:16.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/8ff7souaqbyf2v2w-ccc.jpg
 tags:

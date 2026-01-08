@@ -3,7 +3,8 @@ title: Sedmáci - čtyřúhelníky
 post_id: '32537'
 date: '2020-03-20T22:44:26.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/15847027966134217469490021214414.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/15847033127995468178272487525888.jpg

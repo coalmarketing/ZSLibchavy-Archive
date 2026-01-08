@@ -3,7 +3,8 @@ title: Leden ve 2. oddělení
 post_id: '18659'
 date: '2019-01-30T14:42:20.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7236.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7237.jpg

@@ -3,7 +3,8 @@ title: Recitační soutěž
 post_id: '5244'
 date: '2011-04-06T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

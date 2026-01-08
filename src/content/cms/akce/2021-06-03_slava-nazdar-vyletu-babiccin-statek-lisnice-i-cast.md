@@ -3,7 +3,8 @@ title: Sláva, nazdar výletu:-) (Babiččin statek - Líšnice) I. část
 post_id: '58691'
 date: '2021-06-03T13:32:09.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210601-WA0000-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210601-WA0001-1.jpg

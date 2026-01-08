@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: "Čas jablíčkové vůně"- Sovičky :-)'
 post_id: '78421'
 date: '2022-10-11T13:00:15.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20221003-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20221003-WA0001.jpg

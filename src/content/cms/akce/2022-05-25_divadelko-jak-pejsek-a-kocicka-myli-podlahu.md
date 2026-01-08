@@ -3,7 +3,8 @@ title: divadélko-Jak pejsek a kočička myli podlahu
 post_id: '73475'
 date: '2022-05-25T11:59:35.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220523-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220523-WA0001.jpg

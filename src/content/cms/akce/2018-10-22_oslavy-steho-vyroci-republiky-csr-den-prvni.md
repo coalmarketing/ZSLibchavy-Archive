@@ -3,7 +3,8 @@ title: Oslavy stého výročí republiky ČSR - den první
 post_id: '14694'
 date: '2018-10-22T14:02:35.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181022_113647.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181022_113708.jpg

@@ -3,7 +3,8 @@ title: 31. 10. Halloween ve 3. třídě
 post_id: '27491'
 date: '2019-10-31T21:58:08.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P1590437-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P1590444-1.jpg

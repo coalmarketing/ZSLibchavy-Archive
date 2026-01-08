@@ -3,7 +3,8 @@ title: 'Klokánci: "malujeme do soutěže"'
 post_id: '40985'
 date: '2020-06-24T06:23:37.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200621-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200621-WA0001.jpg

@@ -3,7 +3,8 @@ title: Šachový turnaj v Kerharticích
 post_id: '5630'
 date: '2013-12-04T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

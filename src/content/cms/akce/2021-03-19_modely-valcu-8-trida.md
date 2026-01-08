@@ -3,7 +3,8 @@ title: Modely válců - 8. třída
 post_id: '54222'
 date: '2021-03-19T11:44:45.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1615986972092.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210317_094041.jpg

@@ -3,7 +3,8 @@ title: 'Klokánci slaví:  Marcelek měl narozeniny'
 post_id: '15619'
 date: '2018-10-31T06:18:04.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180905_090807.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180905_090908.jpg

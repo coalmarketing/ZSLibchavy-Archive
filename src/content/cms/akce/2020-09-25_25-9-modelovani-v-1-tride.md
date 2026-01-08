@@ -3,7 +3,8 @@ title: 25. 9. Činnosti v 1. třídě
 post_id: '43923'
 date: '2020-09-25T22:37:15.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200922_083343.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200922_083351.jpg

@@ -3,7 +3,8 @@ title: Akce "Ukliďme Česko-ukliďme Libchavy" na 1. stupni
 post_id: '20506'
 date: '2019-04-05T16:37:02.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P1570498.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P1570502.jpg

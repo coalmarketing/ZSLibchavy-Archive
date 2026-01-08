@@ -3,7 +3,8 @@ title: VÁNOČNÍ TVOŘENÍ S RODIČI
 post_id: '81203'
 date: '2022-12-01T15:21:23.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-20.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-18.jpeg

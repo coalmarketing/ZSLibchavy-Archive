@@ -3,7 +3,8 @@ title: 'Projektový den v MŠ: "Cesta do Pravěku"'
 post_id: '40080'
 date: '2020-06-10T19:55:08.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_090336.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200610_090356.jpg

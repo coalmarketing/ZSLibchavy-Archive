@@ -3,7 +3,8 @@ title: broučci:eskymáci to jsou máci...
 post_id: '52129'
 date: '2021-02-01T13:42:50.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/1-2-3.jpg

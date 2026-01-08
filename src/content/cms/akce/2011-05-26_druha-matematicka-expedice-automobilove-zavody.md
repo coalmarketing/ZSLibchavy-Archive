@@ -3,7 +3,8 @@ title: Druhá matematická expedice-automobilové závody
 post_id: '5262'
 date: '2011-05-26T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

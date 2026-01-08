@@ -3,7 +3,8 @@ title: Jarní tvoření - 2. týden
 post_id: '54176'
 date: '2021-03-16T20:04:56.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/159401213_284908229673133_7879140769290190969_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/162355809_445438086670910_4779410377766775293_n-1.jpg

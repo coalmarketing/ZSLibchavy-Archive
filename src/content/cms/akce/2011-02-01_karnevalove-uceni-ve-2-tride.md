@@ -3,7 +3,8 @@ title: Karnevalové učení ve 2.třídě
 post_id: '5211'
 date: '2011-02-01T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

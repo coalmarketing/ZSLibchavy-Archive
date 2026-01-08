@@ -3,7 +3,8 @@ title: Program "VÁNOCE" z Oucmanic
 post_id: '48606'
 date: '2020-12-09T14:53:51.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0015001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0025004.jpg

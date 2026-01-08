@@ -3,7 +3,8 @@ title: Učíme se hrou
 post_id: '4982'
 date: '2009-03-23T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

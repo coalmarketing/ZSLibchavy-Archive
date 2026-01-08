@@ -3,7 +3,8 @@ title: ',,ZLATÉ" RUČIČKY - svátek rukou'
 post_id: '10645'
 date: '2018-04-30T07:01:18.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4156.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4158.jpg

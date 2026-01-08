@@ -3,7 +3,8 @@ title: Staleté kořeny
 post_id: '13975'
 date: '2018-09-23T22:27:09.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/102.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/103.jpg

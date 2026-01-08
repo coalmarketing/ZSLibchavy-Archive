@@ -3,7 +3,8 @@ title: Jubilanta Tobiáše Vacka TECHNOhrátky přesvědčily
 post_id: '10356'
 date: '2018-04-22T18:14:00.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/002-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/003-1-2.jpg

@@ -3,7 +3,8 @@ title: Září I. oddělení
 post_id: '26489'
 date: '2019-09-30T11:31:38.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20190904_134507.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20190904_140311.jpg

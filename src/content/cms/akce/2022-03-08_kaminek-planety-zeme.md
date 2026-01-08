@@ -3,7 +3,8 @@ title: Kamínek PLANETY ZEMĚ
 post_id: '69324'
 date: '2022-03-08T07:55:34.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/264174122_267405848595763_1256569199176076785_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/273829404_376295107166808_1332282056330751251_n.jpg

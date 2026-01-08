@@ -3,7 +3,8 @@ title: 2.A a 2.B zdraví z plavání
 post_id: '9877'
 date: '2018-04-05T13:22:13.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1265.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1266.jpg

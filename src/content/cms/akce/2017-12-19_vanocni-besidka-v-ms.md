@@ -3,7 +3,8 @@ title: Vánoční besídka v MŠ
 post_id: '6884'
 date: '2017-12-19T17:10:08.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_0825.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_0834.jpg

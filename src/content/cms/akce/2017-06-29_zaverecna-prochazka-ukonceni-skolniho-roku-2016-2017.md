@@ -3,7 +3,8 @@ title: ZÁVĚREČNÁ PROCHÁZKA - UKONČENÍ ŠKOLNÍHO ROKU 2016-2017
 post_id: '6349'
 date: '2017-06-29T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

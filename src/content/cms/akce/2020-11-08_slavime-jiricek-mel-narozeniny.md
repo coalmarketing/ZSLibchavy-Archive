@@ -3,7 +3,8 @@ title: 'Slavíme: Jiříček měl narozeniny'
 post_id: '45650'
 date: '2020-11-08T12:24:11.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201102_085654.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201102_085658.jpg

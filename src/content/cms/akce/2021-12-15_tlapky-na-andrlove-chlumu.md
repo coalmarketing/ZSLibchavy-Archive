@@ -3,7 +3,8 @@ title: TLAPKY NA ANDRLOVĚ CHLUMU
 post_id: '65532'
 date: '2021-12-15T15:52:03.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/265101631_603752820726083_1027276980990539783_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/265342502_432504878537615_3979318619446000026_n.jpg

@@ -3,7 +3,8 @@ title: Klub zábavné logiky a deskových her na Univerzitě Hradec Králové
 post_id: '16898'
 date: '2018-12-07T23:13:54.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4780.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4781.jpg

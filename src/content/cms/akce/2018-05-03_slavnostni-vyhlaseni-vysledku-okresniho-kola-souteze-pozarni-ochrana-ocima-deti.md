@@ -4,7 +4,8 @@ title: Slavnostní vyhlášení výsledků okresního kola soutěže Požární 
 post_id: '10758'
 date: '2018-05-03T10:17:33.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20180419_170238_001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20180419_170706.jpg

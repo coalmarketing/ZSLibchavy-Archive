@@ -3,7 +3,8 @@ title: Město v pohybu - fotbalový turnaj
 post_id: '5260'
 date: '2011-05-31T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

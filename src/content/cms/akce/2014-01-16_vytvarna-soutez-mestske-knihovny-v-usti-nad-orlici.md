@@ -3,7 +3,8 @@ title: Výtvarná soutěž Městské knihovny v Ústí nad Orlicí
 post_id: '5645'
 date: '2014-01-16T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

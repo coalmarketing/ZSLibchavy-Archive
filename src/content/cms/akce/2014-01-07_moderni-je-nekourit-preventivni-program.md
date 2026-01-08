@@ -3,7 +3,8 @@ title: Moderní je nekouřit - preventivní program
 post_id: '5642'
 date: '2014-01-07T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

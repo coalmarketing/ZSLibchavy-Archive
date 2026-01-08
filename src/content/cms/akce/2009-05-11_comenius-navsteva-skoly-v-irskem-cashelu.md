@@ -3,7 +3,8 @@ title: Comenius - návštěva školy v irském Cashelu
 post_id: '4968'
 date: '2009-05-11T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Ukončení plaveckého výcviku
 post_id: '21114'
 date: '2019-04-17T13:19:14.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

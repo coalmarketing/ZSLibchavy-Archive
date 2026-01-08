@@ -3,7 +3,8 @@ title: Velikonoce u třeťáčků 14. 4.
 post_id: '36027'
 date: '2020-04-14T18:33:19.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200407_143044.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/001-1-5.jpg

@@ -3,7 +3,8 @@ title: Karnevalové dopoledne v naší MŠ
 post_id: '8600'
 date: '2018-02-09T13:07:24.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180208_090131_1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180208_090312.jpg

@@ -3,7 +3,8 @@ title: Město v pohybu - II.stupeň
 post_id: '5890'
 date: '2015-06-03T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

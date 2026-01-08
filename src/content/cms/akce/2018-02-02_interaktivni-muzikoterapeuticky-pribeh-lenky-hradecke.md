@@ -3,7 +3,8 @@ title: Interaktivní muzikoterapeutický příběh Lenky Hradecké
 post_id: '8517'
 date: '2018-02-02T14:18:04.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/067.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/068.jpg

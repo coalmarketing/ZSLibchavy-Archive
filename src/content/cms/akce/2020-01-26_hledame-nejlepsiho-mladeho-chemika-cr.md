@@ -3,7 +3,8 @@ title: Hledáme nejlepšího Mladého chemika ČR
 post_id: '30330'
 date: '2020-01-26T21:22:00.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/foto1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/foto29.jpg

@@ -3,7 +3,8 @@ title: Návštěva muzea - 7. třída
 post_id: '5681'
 date: '2014-03-31T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

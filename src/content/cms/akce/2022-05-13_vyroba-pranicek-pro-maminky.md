@@ -3,7 +3,8 @@ title: výroba přáníček pro maminky :-)
 post_id: '72998'
 date: '2022-05-13T09:14:13.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220425_065823.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220425_070029.jpg

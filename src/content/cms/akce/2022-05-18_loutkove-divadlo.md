@@ -3,7 +3,8 @@ title: 'loutkové divadlo: ,,neposlušná kůzlátka"'
 post_id: '73257'
 date: '2022-05-18T06:41:53.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/12ECFDBF-CA19-4239-B884-197D1C86128B.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/212C8151-7D15-4AF3-A60E-541A449C0789.jpeg

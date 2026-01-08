@@ -3,7 +3,8 @@ title: Den prevence
 post_id: '27779'
 date: '2019-11-08T06:30:35.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4138.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4149.jpg

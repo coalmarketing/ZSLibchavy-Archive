@@ -3,7 +3,8 @@ title: 'SOVIČKY: VÝUKOVÝ PROGRAM ,,DRAVCI"'
 post_id: '80003'
 date: '2022-11-04T12:53:36.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-19.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-17.jpeg

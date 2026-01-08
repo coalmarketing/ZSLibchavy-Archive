@@ -3,7 +3,8 @@ title: Návštěva prvňáčků v MŠ Dolní Libchavy
 post_id: '13720'
 date: '2018-09-13T14:36:26.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P9130375.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P9130376.jpg

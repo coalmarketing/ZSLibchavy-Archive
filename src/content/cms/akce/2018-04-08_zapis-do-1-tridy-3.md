@@ -3,7 +3,8 @@ title: Zápis do 1. třídy
 post_id: '9975'
 date: '2018-04-08T09:03:38.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Návštěva předškoláků
 post_id: '20441'
 date: '2019-04-02T10:14:24.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7517.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7521.jpg

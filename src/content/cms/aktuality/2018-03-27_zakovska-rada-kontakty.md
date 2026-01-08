@@ -3,7 +3,8 @@ title: Informace ze Žákovské rady
 post_id: '9730'
 date: '2018-03-27T14:37:33.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

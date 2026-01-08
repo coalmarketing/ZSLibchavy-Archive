@@ -3,7 +3,8 @@ title: Pozorování žížaly - 6. třída
 post_id: '56561'
 date: '2021-04-27T22:08:22.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1619509349422-1613124622.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210426_192134.jpg

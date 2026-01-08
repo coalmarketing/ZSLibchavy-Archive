@@ -3,7 +3,8 @@ title: Lyžařský kurz - 3. den
 post_id: '70404'
 date: '2022-03-23T18:35:54.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220323_155736.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220323_155740.jpg

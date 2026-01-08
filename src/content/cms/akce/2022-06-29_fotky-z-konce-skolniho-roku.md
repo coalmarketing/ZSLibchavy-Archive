@@ -3,7 +3,8 @@ title: Fotky z konce školního roku :-)
 post_id: '76284'
 date: '2022-06-29T14:09:00.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220614_121715.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220614_123809.jpg

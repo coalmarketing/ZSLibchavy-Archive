@@ -3,7 +3,8 @@ title: VIDA! naši osmáci v Brně
 post_id: '63561'
 date: '2021-11-08T22:19:10.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1286-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1290-2.jpg

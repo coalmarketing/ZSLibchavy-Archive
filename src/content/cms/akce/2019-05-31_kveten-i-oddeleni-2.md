@@ -3,7 +3,8 @@ title: Květen - I. oddělení
 post_id: '23256'
 date: '2019-05-31T06:22:52.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6426.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6427.jpg

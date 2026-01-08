@@ -3,7 +3,8 @@ title: Kreativita deváťáků
 post_id: '38196'
 date: '2020-05-25T00:28:26.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Filip-CH-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Filip-CH-2.jpg

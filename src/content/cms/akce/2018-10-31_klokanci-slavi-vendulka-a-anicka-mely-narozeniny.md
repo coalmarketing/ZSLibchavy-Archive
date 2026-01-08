@@ -3,7 +3,8 @@ title: 'Klokánci slaví: Vendulka a Anička měly narozeniny'
 post_id: '15652'
 date: '2018-10-31T06:29:15.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/25D4B5AC-CC0B-49AF-AD03-1D6DDC0D1BF2.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/324A2626-215A-428E-A4CD-C23665DFB190.jpeg

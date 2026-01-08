@@ -3,7 +3,8 @@ title: 'Slavíme: Honzík měl narozeniny :-)'
 post_id: '77792'
 date: '2022-09-29T13:13:03.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220921_090532.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220921_090538.jpg

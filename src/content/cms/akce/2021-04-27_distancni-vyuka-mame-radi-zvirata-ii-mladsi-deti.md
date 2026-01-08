@@ -3,7 +3,8 @@ title: Distanční výuka - "Máme rádi zvířata II." (mladší děti)
 post_id: '56442'
 date: '2021-04-27T06:37:11.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1_20210420_082830.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210420_082625.jpg

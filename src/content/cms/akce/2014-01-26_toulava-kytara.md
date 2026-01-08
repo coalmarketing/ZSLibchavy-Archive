@@ -3,7 +3,8 @@ title: Toulavá kytara
 post_id: '5647'
 date: '2014-01-26T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Štěpánek má narozeniny
 post_id: '69310'
 date: '2022-03-08T07:49:37.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/256604894_1477367215990971_7497832084324034294_n-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/271892418_332907712087456_1893162034641590206_n-1.jpg

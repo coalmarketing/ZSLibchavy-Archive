@@ -3,7 +3,8 @@ title: Pasování na čtenáře, 2. tř.
 post_id: '6140'
 date: '2016-10-05T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

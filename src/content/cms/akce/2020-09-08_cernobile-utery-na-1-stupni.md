@@ -3,7 +3,8 @@ title: Černobílé úterý na 1. stupni
 post_id: '41946'
 date: '2020-09-08T14:06:27.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_9175-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_9178-1.jpg

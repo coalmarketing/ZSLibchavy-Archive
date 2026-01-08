@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,TĚŠÍME SE K ZÁPISU"'
 post_id: '71746'
 date: '2022-04-27T14:05:16.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-14.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-12.jpeg

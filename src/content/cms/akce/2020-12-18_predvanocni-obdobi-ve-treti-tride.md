@@ -3,7 +3,8 @@ title: Předvánoční období ve třetí třídě
 post_id: '49452'
 date: '2020-12-18T12:56:59.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PC180374.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PC180375.jpg

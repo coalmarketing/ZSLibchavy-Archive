@@ -4,7 +4,8 @@ title: REGIONÁLNÍ KOLO SOUTĚŽE V POZNÁVÁNÍ ROSTLIN, ŽIVOČICHŮ A MINER�
 post_id: '12610'
 date: '2018-06-18T23:49:53.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

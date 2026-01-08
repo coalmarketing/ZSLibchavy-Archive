@@ -3,7 +3,8 @@ title: Vybíjená - okrskové kolo
 post_id: '5858'
 date: '2015-04-13T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

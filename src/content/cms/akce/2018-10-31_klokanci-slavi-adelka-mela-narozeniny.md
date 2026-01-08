@@ -3,7 +3,8 @@ title: 'Klokánci slaví: Adélka měla narozeniny'
 post_id: '15635'
 date: '2018-10-31T06:23:09.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180905_085918.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180905_085957.jpg

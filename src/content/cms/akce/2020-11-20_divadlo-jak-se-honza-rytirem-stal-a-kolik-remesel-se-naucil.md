@@ -3,7 +3,8 @@ title: Divadlo - Jak se Honza rytířem stal a kolik řemesel se naučil
 post_id: '46986'
 date: '2020-11-20T09:50:26.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0083755.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0083757.jpg

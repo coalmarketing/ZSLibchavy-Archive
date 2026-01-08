@@ -3,7 +3,8 @@ title: Olympiáda z českého jazyka a z dějepisu
 post_id: '5203'
 date: '2010-12-20T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

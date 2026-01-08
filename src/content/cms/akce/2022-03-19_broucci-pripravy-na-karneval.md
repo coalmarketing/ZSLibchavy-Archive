@@ -3,7 +3,8 @@ title: 'broučci: přípravy na karneval'
 post_id: '69919'
 date: '2022-03-19T15:14:23.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220308_064611.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220308_065148.jpg

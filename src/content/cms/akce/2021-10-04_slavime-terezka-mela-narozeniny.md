@@ -3,7 +3,8 @@ title: Slavíme!! Terezka měla narozeniny :-)
 post_id: '62060'
 date: '2021-10-04T13:15:29.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210930_085821.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210930_085836.jpg

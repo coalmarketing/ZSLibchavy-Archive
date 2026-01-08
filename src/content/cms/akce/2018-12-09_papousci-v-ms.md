@@ -3,7 +3,8 @@ title: Papoušci v MŠ
 post_id: '17007'
 date: '2018-12-09T21:01:01.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20181209-WA0001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20181209-WA0003.jpg

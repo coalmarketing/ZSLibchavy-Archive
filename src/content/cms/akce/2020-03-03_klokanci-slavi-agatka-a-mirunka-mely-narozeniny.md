@@ -3,7 +3,8 @@ title: 'Klokánci slaví: Agátka a Mirunka měly narozeniny'
 post_id: '31761'
 date: '2020-03-03T06:24:12.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200225-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200225-WA0001.jpg

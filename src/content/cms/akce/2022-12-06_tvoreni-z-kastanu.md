@@ -3,7 +3,8 @@ title: Tvoření z kaštanů
 post_id: '81620'
 date: '2022-12-06T10:22:06.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221110_082910.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221110_082914.jpg

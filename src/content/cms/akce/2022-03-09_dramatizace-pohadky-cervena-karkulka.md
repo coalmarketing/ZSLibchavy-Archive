@@ -3,7 +3,8 @@ title: 'Dramatizace pohádky: "ČERVENÁ KARKULKA" :-)'
 post_id: '69561'
 date: '2022-03-09T16:05:03.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220308-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220308-WA0001.jpg

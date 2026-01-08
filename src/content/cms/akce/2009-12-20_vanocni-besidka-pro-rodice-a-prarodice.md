@@ -3,7 +3,8 @@ title: Vánoční besídka pro rodiče a prarodiče
 post_id: '5082'
 date: '2009-12-20T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

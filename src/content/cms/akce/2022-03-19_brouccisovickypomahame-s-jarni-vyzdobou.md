@@ -3,7 +3,8 @@ title: broučci+sovičky:pomáháme s jarní výzdobou
 post_id: '69903'
 date: '2022-03-19T15:00:56.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220210_065216.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220210_065623.jpg

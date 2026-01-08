@@ -3,7 +3,8 @@ title: Spaní ve dužince
 post_id: '24422'
 date: '2019-06-14T12:51:33.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20190607_184826.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20190607_184834.jpg

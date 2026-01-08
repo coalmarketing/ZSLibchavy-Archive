@@ -3,7 +3,8 @@ title: Lyžařský kurz
 post_id: '362'
 date: '2014-02-18T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

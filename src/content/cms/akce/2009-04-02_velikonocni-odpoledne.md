@@ -3,7 +3,8 @@ title: Velikonoční odpoledne
 post_id: '4984'
 date: '2009-04-02T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

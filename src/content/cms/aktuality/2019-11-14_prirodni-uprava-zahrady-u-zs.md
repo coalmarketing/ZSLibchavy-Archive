@@ -3,7 +3,8 @@ title: Přírodní úprava zahrady u ZŠ
 post_id: '28160'
 date: '2019-11-14T13:22:16.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0961-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0962.jpg

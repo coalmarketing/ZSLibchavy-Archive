@@ -3,7 +3,8 @@ title: Návštěva u vojáků II.
 post_id: '28404'
 date: '2019-11-18T13:43:58.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191117-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191117-WA0001.jpg

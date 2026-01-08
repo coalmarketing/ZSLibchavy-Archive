@@ -3,7 +3,8 @@ title: Divadlo "Myšák Pišta"
 post_id: '14914'
 date: '2018-10-25T11:18:08.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9903.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9904.jpg

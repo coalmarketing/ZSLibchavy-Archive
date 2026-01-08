@@ -3,7 +3,8 @@ title: Vítání prvňáčků
 post_id: '60865'
 date: '2021-09-01T14:12:00.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_8819.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_8872.jpg

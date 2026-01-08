@@ -3,7 +3,8 @@ title: Den Země na 1. stupni
 post_id: '5235'
 date: '2011-04-28T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

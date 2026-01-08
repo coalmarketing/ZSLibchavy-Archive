@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: "Sněhulák", voňavý sněhulák :-)'
 post_id: '67398'
 date: '2022-01-24T13:52:50.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220118_070806.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220118_070809.jpg

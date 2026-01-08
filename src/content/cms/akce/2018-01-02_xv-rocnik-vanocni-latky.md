@@ -3,7 +3,8 @@ title: XV. ročník Vánoční laťky
 post_id: '7111'
 date: '2018-01-02T20:59:59.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/001-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/002-2.jpg

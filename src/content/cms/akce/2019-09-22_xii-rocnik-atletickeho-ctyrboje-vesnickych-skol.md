@@ -3,7 +3,8 @@ title: XII. ročník atletického čtyřboje vesnických škol
 post_id: '25890'
 date: '2019-09-22T00:39:56.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/285-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/286-2.jpg

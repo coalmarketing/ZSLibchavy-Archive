@@ -3,7 +3,8 @@ title: 'Osmá výprava: Na středověký hrad - ZA RYTÍŘI'
 post_id: '5863'
 date: '2015-04-26T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

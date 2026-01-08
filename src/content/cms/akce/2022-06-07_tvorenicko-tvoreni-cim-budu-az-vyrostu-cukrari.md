@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: "Čím budu až vyrostu?" - cukráři :-)'
 post_id: '74521'
 date: '2022-06-07T21:12:36.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220606_064600.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220606_064604.jpg

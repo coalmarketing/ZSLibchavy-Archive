@@ -3,7 +3,8 @@ title: Turistický kroužek - TLAPKY
 post_id: '61750'
 date: '2021-09-29T14:43:20.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0289-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0290-3.jpg

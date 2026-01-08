@@ -3,7 +3,8 @@ title: Mareček má narozeniny
 post_id: '48965'
 date: '2020-12-10T14:16:29.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0015060.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0015061.jpg

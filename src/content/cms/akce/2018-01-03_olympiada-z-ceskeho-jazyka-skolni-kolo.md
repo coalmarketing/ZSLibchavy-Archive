@@ -3,7 +3,8 @@ title: Olympiáda z českého jazyka - školní kolo
 post_id: '7171'
 date: '2018-01-03T07:32:23.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

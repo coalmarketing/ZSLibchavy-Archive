@@ -3,7 +3,8 @@ title: 'Broučci a Sovičky: "Olympiáda v MŠ" (II.) :-)'
 post_id: '67858'
 date: '2022-02-02T09:22:51.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220126-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220126-WA0001.jpg

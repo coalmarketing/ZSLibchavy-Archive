@@ -3,7 +3,8 @@ title: Návštěva kostela Sv. Mikuláše v Libchavách
 post_id: '4522'
 date: '2017-11-07T06:53:11.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3206.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3211.jpg

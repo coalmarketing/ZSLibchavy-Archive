@@ -3,7 +3,8 @@ title: Tom a Šimonek mají narozeniny
 post_id: '52420'
 date: '2021-02-10T07:30:57.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6292.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6293.jpg

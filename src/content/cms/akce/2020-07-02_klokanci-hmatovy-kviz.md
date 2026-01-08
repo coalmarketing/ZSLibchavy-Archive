@@ -3,7 +3,8 @@ title: Klokánci - hmatový kvíz
 post_id: '41269'
 date: '2020-07-02T07:58:22.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/07CC2C12-45C1-4AFE-84B3-D93A14E28F7C.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/1E90E8E4-663A-4A44-917A-44A3A2F6B6E1.jpeg

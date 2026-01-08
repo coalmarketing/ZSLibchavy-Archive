@@ -3,7 +3,8 @@ title: Návštěva předškoláků u deváťáků ve škole
 post_id: '12634'
 date: '2018-06-20T06:27:33.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180604_092656.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180604_092842.jpg

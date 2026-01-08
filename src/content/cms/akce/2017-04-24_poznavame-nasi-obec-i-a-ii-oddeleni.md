@@ -3,7 +3,8 @@ title: Poznáváme naši obec I. a II oddělení
 post_id: '6280'
 date: '2017-04-24T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Indiánský příběh - muzikoterapie
 post_id: '5646'
 date: '2014-01-16T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

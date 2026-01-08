@@ -3,7 +3,8 @@ title: 'Velikonoční výstava U Džbánu: Klokánci'
 post_id: '21151'
 date: '2019-04-18T13:16:55.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/vel.-výstava-10.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/vel.-výstava-11.jpeg

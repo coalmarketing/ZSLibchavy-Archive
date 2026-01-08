@@ -3,7 +3,8 @@ title: 1. 11. Třetí třída v obecní knihovně
 post_id: '28869'
 date: '2019-11-01T21:40:28.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4093.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4099-2.jpg

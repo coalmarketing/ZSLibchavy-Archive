@@ -3,7 +3,8 @@ title: Divadlo "Slyšte, slyšte aneb co se stalo v Betlémě"
 post_id: '82395'
 date: '2022-12-20T15:26:37.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20221208-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20221208-WA0001.jpg

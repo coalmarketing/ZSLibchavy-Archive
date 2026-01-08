@@ -3,7 +3,8 @@ title: Loučení s předškoláky-spaní ve školce
 post_id: '5913'
 date: '2015-06-18T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

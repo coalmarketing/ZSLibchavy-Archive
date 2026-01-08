@@ -3,7 +3,8 @@ title: Čarodějnická stezka
 post_id: '56717'
 date: '2021-05-03T07:08:38.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/stezka.jpg
 tags:

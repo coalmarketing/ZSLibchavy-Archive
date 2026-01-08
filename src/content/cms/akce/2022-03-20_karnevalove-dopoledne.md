@@ -3,7 +3,8 @@ title: Přípravy na karneval a karnevalové dopoledne:-)
 post_id: '70120'
 date: '2022-03-20T16:58:34.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220316-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220316-WA0001.jpg

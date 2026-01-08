@@ -3,7 +3,8 @@ title: 18. 9. Tepláková středa na I. stupni
 post_id: '25778'
 date: '2019-09-18T23:14:51.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0756.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0759.jpg

@@ -3,7 +3,8 @@ title: Sárinka slaví narozeniny
 post_id: '42885'
 date: '2020-10-05T15:34:00.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-3.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/2-1-3.jpeg

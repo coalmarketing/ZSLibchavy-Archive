@@ -3,7 +3,8 @@ title: Testování žáků 8. třídy
 post_id: '19692'
 date: '2019-03-18T07:47:05.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

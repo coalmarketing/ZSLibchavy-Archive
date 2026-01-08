@@ -3,7 +3,8 @@ title: Den Země ve 4. a 5. třídě
 post_id: '6064'
 date: '2016-04-25T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

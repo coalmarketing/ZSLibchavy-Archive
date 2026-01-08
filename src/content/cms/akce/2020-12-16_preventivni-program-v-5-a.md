@@ -3,7 +3,8 @@ title: Preventivní program v 5.A
 post_id: '49285'
 date: '2020-12-16T23:09:11.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20201216_095133.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20201216_095134.jpg

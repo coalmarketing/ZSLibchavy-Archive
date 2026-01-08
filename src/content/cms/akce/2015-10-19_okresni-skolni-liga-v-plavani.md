@@ -3,7 +3,8 @@ title: Okresní školní liga v plavání
 post_id: '5936'
 date: '2015-10-19T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

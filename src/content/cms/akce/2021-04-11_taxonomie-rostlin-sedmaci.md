@@ -3,7 +3,8 @@ title: Taxonomie rostlin - sedmáci
 post_id: '55782'
 date: '2021-04-11T23:39:10.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20210331_192948.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210331_193230.jpg

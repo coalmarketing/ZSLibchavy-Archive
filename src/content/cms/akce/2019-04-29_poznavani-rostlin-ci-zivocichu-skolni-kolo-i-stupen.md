@@ -3,7 +3,8 @@ title: Poznávání rostlin či živočichů - školní kolo I.stupeň
 post_id: '21436'
 date: '2019-04-29T22:49:00.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

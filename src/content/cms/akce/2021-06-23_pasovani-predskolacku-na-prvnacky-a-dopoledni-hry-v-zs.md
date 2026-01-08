@@ -3,7 +3,8 @@ title: Pasování předškoláčků na prvňáčky a dopolední hry v ZŠ :-)
 post_id: '59953'
 date: '2021-06-23T07:25:59.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210621-WA0001-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210621-WA0002-1.jpg

@@ -3,7 +3,8 @@ title: Pasování na čtenáře
 post_id: '14174'
 date: '2018-09-24T18:55:21.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

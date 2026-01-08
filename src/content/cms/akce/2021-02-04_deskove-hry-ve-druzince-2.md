@@ -3,7 +3,8 @@ title: Deskové hry ve družince
 post_id: '52273'
 date: '2021-02-04T15:12:14.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1888A850-4F34-4E23-B036-4D543064B281.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/3BC38BDB-DFA8-40D4-9761-4B2DA7E6ECE2.jpeg

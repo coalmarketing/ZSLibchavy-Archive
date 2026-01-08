@@ -3,7 +3,8 @@ title: Narozeniny  šk. rok 2019/20
 post_id: '25715'
 date: '2019-09-17T11:10:46.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/001-8.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/002-9.jpg

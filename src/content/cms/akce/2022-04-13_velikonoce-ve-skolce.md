@@ -3,7 +3,8 @@ title: Velikonoce ve školce
 post_id: '71343'
 date: '2022-04-13T14:43:17.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/277831160_502143488113739_7600700973048718257_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/278052650_708784630560344_7278366786581931793_n.jpg

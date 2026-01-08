@@ -3,7 +3,8 @@ title: '"Krteček nám schoval poklad" :-)'
 post_id: '78588'
 date: '2022-10-11T13:24:15.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221011_091909.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221011_091915.jpg

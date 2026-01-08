@@ -3,7 +3,8 @@ title: Vánoční nadílka
 post_id: '48982'
 date: '2020-12-10T14:45:15.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0065076.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0075079.jpg

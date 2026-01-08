@@ -3,7 +3,8 @@ title: Zápis nových kamarádů
 post_id: '11114'
 date: '2018-05-22T15:25:18.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9254.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9255.jpg

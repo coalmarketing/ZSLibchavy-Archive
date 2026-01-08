@@ -3,7 +3,8 @@ title: 'Broučci, tvořeníčko, tvoření: "NA NOVÝ ROK O SLEPIČÍ KROK" - T�
 post_id: '66547'
 date: '2022-01-11T12:44:39.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220105_081244.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220105_081539.jpg

@@ -3,7 +3,8 @@ title: Dopravní výchova 1. stupeň
 post_id: '5135'
 date: '2010-04-27T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

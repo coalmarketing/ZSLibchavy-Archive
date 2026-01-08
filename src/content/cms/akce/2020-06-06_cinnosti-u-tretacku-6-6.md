@@ -3,7 +3,8 @@ title: Činnosti u třeťáčků 6. 6.
 post_id: '39943'
 date: '2020-06-06T00:06:47.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/101061843_666037260643805_4923484018298585088_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/101091925_3039887179435545_8129139108569153536_n.jpg

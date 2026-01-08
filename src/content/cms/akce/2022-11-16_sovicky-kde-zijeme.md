@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,KDE ŽIJEME"'
 post_id: '80613'
 date: '2022-11-16T15:32:15.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-2-12.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-2-9.jpeg

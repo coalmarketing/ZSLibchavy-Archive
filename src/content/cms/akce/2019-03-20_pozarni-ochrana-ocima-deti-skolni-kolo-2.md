@@ -3,7 +3,8 @@ title: Požární ochrana očima dětí - školní kolo
 post_id: '19761'
 date: '2019-03-20T10:45:01.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0359.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0361.jpg

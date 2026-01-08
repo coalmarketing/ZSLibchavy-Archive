@@ -3,7 +3,8 @@ title: Závěr školního roku na I. stupni
 post_id: '41206'
 date: '2020-06-29T20:46:21.000Z'
 author: Mgr.Helena Kujová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0299-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0308-1.jpg

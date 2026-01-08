@@ -3,7 +3,8 @@ title: Bruslení nás baví - žáci 6. a 7. tříd
 post_id: '69177'
 date: '2022-02-08T20:41:43.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220208_123901.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220208_123934.jpg

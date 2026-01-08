@@ -3,7 +3,8 @@ title: Barevný týden na I. stupni
 post_id: '5920'
 date: '2015-09-06T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

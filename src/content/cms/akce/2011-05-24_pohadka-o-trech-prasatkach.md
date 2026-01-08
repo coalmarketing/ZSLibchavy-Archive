@@ -3,7 +3,8 @@ title: Pohádka O třech prasátkách
 post_id: '5256'
 date: '2011-05-24T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

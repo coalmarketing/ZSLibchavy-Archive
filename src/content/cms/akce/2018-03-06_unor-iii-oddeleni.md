@@ -3,7 +3,8 @@ title: Únor III.oddělení
 post_id: '9513'
 date: '2018-03-06T22:21:36.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

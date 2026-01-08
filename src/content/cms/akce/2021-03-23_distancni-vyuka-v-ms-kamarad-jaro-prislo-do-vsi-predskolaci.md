@@ -3,7 +3,8 @@ title: Distanční výuka v MŠ Kamarád (Jaro přišlo do vsi - předškoláci)
 post_id: '54731'
 date: '2021-03-23T13:16:26.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20210319_104930.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210319_105007.jpg

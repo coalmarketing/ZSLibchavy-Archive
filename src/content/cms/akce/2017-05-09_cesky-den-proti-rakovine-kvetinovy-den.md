@@ -3,7 +3,8 @@ title: ČESKÝ DEN PROTI RAKOVINĚ - KVĚTINOVÝ DEN
 post_id: '6291'
 date: '2017-05-09T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

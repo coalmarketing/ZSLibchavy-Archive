@@ -3,7 +3,8 @@ title: Velikonoce u třeťáčků :-)
 post_id: '55548'
 date: '2021-04-05T21:07:51.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Majdalenka-10.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Majdalenka1-10.jpg

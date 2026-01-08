@@ -3,7 +3,8 @@ title: Týden s rodilým mluvčím
 post_id: '71839'
 date: '2022-04-27T22:19:04.000Z'
 author: lic. Kamila Hrušková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Neil-Davis.jpg
 tags:

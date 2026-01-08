@@ -3,7 +3,8 @@ title: Exkurze do firem - II.stupeň
 post_id: '5205'
 date: '2011-01-05T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

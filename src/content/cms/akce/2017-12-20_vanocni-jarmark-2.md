@@ -3,7 +3,8 @@ title: Vánoční jarmark
 post_id: '6953'
 date: '2017-12-20T21:00:39.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_0006.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_0041.jpg

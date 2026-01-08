@@ -3,7 +3,8 @@ title: Kreslíme pusou a nohou
 post_id: '68640'
 date: '2022-02-24T09:40:36.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/273555764_375932720570583_4800236046468692636_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/273776745_1140158926811539_3259506916553410440_n.jpg

@@ -3,7 +3,8 @@ title: Narozeniny Tamarky
 post_id: '48538'
 date: '2020-12-09T14:38:12.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0444243.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0454246.jpg

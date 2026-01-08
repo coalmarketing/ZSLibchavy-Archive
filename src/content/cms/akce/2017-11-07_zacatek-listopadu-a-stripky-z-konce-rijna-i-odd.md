@@ -3,7 +3,8 @@ title: Začátek listopadu a střípky z konce října I. odd
 post_id: '4549'
 date: '2017-11-07T07:36:16.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3116.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3121-1.jpg

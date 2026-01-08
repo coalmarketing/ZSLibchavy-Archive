@@ -3,7 +3,8 @@ title: 'Klokánci: Dýňohrátky'
 post_id: '28057'
 date: '2019-11-13T06:39:41.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191110-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191110-WA0001.jpg

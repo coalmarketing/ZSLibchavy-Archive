@@ -3,7 +3,8 @@ title: Spolupráce s firmou Bühler Žamberk
 post_id: '18331'
 date: '2019-01-18T07:49:29.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/logo-buhler-1.png
 tags:

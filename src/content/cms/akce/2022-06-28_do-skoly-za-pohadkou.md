@@ -3,7 +3,8 @@ title: Do školy za pohádkou
 post_id: '76135'
 date: '2022-06-28T19:44:21.000Z'
 author: Mgr.Helena Kujová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0618-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0619-3.jpg

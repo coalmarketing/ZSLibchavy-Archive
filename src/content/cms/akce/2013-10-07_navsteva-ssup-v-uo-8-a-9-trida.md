@@ -3,7 +3,8 @@ title: Návštěva SŠUP v ÚO - 8. a 9. třída
 post_id: '5611'
 date: '2013-10-07T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

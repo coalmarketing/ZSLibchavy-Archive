@@ -3,7 +3,8 @@ title: Projekt Abeceda peněz ve 4. třídě
 post_id: '62713'
 date: '2021-10-21T21:22:29.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20211012_090753-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20211012_094931-1.jpg

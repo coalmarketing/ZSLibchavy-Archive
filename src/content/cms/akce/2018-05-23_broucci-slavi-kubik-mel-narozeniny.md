@@ -3,7 +3,8 @@ title: 'Broučci slaví: Kubík měl narozeniny'
 post_id: '11277'
 date: '2018-05-23T07:09:01.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180521_090623-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180521_090634-1.jpg

@@ -3,7 +3,8 @@ title: Pozvánka na setkání s hosty školy
 post_id: '14674'
 date: '2018-10-19T13:48:37.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

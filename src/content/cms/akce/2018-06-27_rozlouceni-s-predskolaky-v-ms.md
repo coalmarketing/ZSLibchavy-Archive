@@ -3,7 +3,8 @@ title: Rozloučení s předškoláky v MŠ
 post_id: '13253'
 date: '2018-06-27T12:48:22.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180626_094000-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180626_094008-1.jpg

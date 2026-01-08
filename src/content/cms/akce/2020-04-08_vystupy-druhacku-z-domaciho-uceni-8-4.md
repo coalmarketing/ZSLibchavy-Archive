@@ -3,7 +3,8 @@ title: Výstupy druháčků z domácího učení 8. 4.
 post_id: '33952'
 date: '2020-04-08T19:42:08.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Jaroušek-denní-režim.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Jaroušek-6.jpg

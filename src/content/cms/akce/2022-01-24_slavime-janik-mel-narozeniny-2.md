@@ -3,7 +3,8 @@ title: 'Slavíme: Janík měl narozeniny:-)'
 post_id: '67292'
 date: '2022-01-24T13:28:42.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220119_090354.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220119_090359.jpg

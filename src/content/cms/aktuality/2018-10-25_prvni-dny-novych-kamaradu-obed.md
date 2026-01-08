@@ -3,7 +3,8 @@ title: První dny nových kamarádů- oběd
 post_id: '14892'
 date: '2018-10-25T11:13:54.000Z'
 author: Alena Pulkrábková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9811-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9811.jpg

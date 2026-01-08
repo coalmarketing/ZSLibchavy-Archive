@@ -3,7 +3,8 @@ title: AKCE ŘÍJEN
 post_id: '26617'
 date: '2019-10-09T10:59:21.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

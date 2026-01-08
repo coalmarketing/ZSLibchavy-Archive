@@ -3,7 +3,8 @@ title: Sázení keříků s rodiči
 post_id: '22640'
 date: '2019-05-23T12:39:40.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0002.jpg

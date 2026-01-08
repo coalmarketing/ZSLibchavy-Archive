@@ -3,7 +3,8 @@ title: PŘEDŠKOLÁCI ,,MÁME RÁDI ZVÍŘATA"
 post_id: '56471'
 date: '2021-04-27T14:22:35.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-8.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-1-8.jpeg

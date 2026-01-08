@@ -3,7 +3,8 @@ title: Zeměpisná olympiáda - okresní kolo
 post_id: '6243'
 date: '2017-02-20T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

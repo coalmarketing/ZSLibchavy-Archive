@@ -3,7 +3,8 @@ title: Integrační den aneb Jak se žije lidem s postižením
 post_id: '26185'
 date: '2019-09-29T20:01:44.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/001-1-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/002-1-3.jpg

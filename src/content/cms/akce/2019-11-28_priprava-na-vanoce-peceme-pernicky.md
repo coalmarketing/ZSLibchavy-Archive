@@ -3,7 +3,8 @@ title: 'příprava na Vánoce: pečeme perníčky:-)'
 post_id: '28613'
 date: '2019-11-28T12:24:24.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191126-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191126-WA0001.jpg

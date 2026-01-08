@@ -3,7 +3,8 @@ title: Integrační den v Ústí nad Orlicí
 post_id: '14064'
 date: '2018-09-26T11:42:33.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0050.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0054.jpg

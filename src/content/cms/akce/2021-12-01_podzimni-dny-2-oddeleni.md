@@ -3,7 +3,8 @@ title: Podzimní dny , 2. oddělení
 post_id: '64643'
 date: '2021-12-01T15:11:15.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20211011_124532.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20211012_133145.jpg

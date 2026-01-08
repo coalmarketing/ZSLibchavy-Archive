@@ -3,7 +3,8 @@ title: Recitační odpoledne
 post_id: '12403'
 date: '2018-04-17T22:12:09.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1326.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1272-2.jpg

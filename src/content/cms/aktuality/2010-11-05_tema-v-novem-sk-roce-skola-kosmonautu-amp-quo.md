@@ -3,7 +3,8 @@ title: Téma v novém šk. roce  " Škola kosmonautů&amp;quo
 post_id: '617'
 date: '2010-11-05T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - aktuality

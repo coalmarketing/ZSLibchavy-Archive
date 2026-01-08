@@ -3,7 +3,8 @@ title: Adaptační pobyt šesťáků- den druhý
 post_id: '77365'
 date: '2022-09-21T22:46:44.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1734BECB-3719-4192-AAA2-E8DEBD6BE0E3.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/3A6DA3E5-9091-4590-B61B-BEE5CED8C8B9.jpeg

@@ -3,7 +3,8 @@ title: JENÍČEK SLAVÍ NAROZENINY
 post_id: '47538'
 date: '2020-11-26T06:24:01.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/078DFAB8-0113-4282-88E3-0E09681EEEC0.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/21FE31B0-8F08-475F-BE48-0A5332F00097.jpeg

@@ -3,7 +3,8 @@ title: Setkání s předškoláky
 post_id: '6101'
 date: '2016-06-01T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

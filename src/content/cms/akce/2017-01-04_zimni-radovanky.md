@@ -3,7 +3,8 @@ title: ZIMNÍ RADOVÁNKY
 post_id: '6191'
 date: '2017-01-04T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

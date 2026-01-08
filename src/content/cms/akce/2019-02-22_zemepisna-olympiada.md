@@ -3,7 +3,8 @@ title: Zeměpisná olympiáda
 post_id: '19189'
 date: '2019-02-22T10:55:45.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Plavání 1. a 2. třída
 post_id: '19486'
 date: '2019-03-05T13:52:33.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P3050374.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P3050375.jpg

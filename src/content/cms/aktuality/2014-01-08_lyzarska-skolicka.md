@@ -3,7 +3,8 @@ title: Lyžařská školička
 post_id: '367'
 date: '2014-01-08T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

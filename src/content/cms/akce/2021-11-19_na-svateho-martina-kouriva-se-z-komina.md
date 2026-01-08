@@ -3,7 +3,8 @@ title: '"Na svatého Martina, kouřívá se z komína"'
 post_id: '64140'
 date: '2021-11-19T12:03:56.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211109_063820-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211109_064321-1.jpg

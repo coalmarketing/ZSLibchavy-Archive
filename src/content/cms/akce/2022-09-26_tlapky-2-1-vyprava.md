@@ -3,7 +3,8 @@ title: TLAPKY 2 - 1. výprava
 post_id: '77616'
 date: '2022-09-26T08:35:52.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220924_092700-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220924_092700.jpg

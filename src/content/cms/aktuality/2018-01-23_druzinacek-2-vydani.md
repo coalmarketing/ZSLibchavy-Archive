@@ -3,7 +3,8 @@ title: DRUŽINÁČEK 2. vydání
 post_id: '8171'
 date: '2018-01-23T13:37:59.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - aktuality

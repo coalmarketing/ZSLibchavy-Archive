@@ -3,7 +3,8 @@ title: Druháci na distanční výuce
 post_id: '53779'
 date: '2021-03-13T13:54:49.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Aja-3.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/Aja-rotated.jpg

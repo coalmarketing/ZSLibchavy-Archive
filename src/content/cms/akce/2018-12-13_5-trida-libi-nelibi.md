@@ -3,7 +3,8 @@ title: 5. třída - "Líbí, nelíbí"
 post_id: '17258'
 date: '2018-12-13T16:26:25.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PPP-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PPP-10.jpg

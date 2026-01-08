@@ -3,7 +3,8 @@ title: Dějepisná olympiáda
 post_id: '6218'
 date: '2017-01-18T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

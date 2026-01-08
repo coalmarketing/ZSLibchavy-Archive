@@ -3,7 +3,8 @@ title: Montessori dílnička
 post_id: '5769'
 date: '2014-11-13T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

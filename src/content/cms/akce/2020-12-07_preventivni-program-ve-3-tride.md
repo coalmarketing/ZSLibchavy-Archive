@@ -3,7 +3,8 @@ title: Preventivní program ve 3. třídě
 post_id: '48245'
 date: '2020-12-07T14:17:17.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PC070375.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PC070378.jpg

@@ -3,7 +3,8 @@ title: '"Osmačky" na běžkách'
 post_id: '67586'
 date: '2022-01-27T12:18:01.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220124_142818.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220124_142828.jpg

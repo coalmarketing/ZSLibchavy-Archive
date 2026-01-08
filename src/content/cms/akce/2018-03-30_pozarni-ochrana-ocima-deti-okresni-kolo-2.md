@@ -3,7 +3,8 @@ title: Požární ochrana očima dětí - okresní kolo
 post_id: '9797'
 date: '2018-03-30T21:34:51.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

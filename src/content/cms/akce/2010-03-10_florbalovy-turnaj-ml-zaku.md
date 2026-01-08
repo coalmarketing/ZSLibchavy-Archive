@@ -3,7 +3,8 @@ title: Florbalový turnaj ml.žáků
 post_id: '5115'
 date: '2010-03-10T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

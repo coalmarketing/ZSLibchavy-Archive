@@ -3,7 +3,8 @@ title: Tandemové tvoření v 1. třídě
 post_id: '71511'
 date: '2022-04-20T16:24:34.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220420_091022.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220420_091543.jpg

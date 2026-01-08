@@ -3,7 +3,8 @@ title: Vánoční nadílka
 post_id: '29383'
 date: '2019-12-16T06:54:47.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2728.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2729.jpg

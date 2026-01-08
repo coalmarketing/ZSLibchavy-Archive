@@ -3,7 +3,8 @@ title: Bramboriáda v MŠ :-)
 post_id: '44362'
 date: '2020-10-23T10:31:43.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201021_080448.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201021_080530.jpg

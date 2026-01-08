@@ -3,7 +3,8 @@ title: Únor bílý, pole sílí - II. oddělení
 post_id: '9061'
 date: '2018-02-22T15:04:44.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_5882-kopie.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_5887-kopie.jpg

@@ -3,7 +3,8 @@ title: Ochutnávka ovoce a zeleniny :-)
 post_id: '78441'
 date: '2022-10-11T13:05:18.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221005_090801.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221005_090820.jpg

@@ -3,7 +3,8 @@ title: Skupinové aktivity a tandemové tvoření ve třetí třídě 7. 5.
 post_id: '57060'
 date: '2021-05-07T12:36:54.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0403.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0404.jpg

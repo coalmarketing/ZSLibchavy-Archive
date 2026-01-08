@@ -3,7 +3,8 @@ title: broučci:přípravy na den matek
 post_id: '72672'
 date: '2022-05-12T12:37:13.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-22.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220502_073559.jpg

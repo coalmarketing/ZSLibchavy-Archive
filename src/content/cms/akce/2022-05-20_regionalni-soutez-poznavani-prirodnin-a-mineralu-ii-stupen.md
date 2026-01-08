@@ -3,7 +3,8 @@ title: Regionální soutěž "Poznávání přírodnin a minerálů" -  II. stup
 post_id: '73359'
 date: '2022-05-20T22:03:28.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220509_103055640.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220509_103154615.jpg

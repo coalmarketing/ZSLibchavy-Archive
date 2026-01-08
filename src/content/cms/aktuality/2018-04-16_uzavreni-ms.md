@@ -3,7 +3,8 @@ title: UZAVŘENÍ MŠ
 post_id: '10204'
 date: '2018-04-16T11:43:00.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

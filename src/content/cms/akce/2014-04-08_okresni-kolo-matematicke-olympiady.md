@@ -3,7 +3,8 @@ title: Okresní kolo Matematické olympiády
 post_id: '5694'
 date: '2014-04-08T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

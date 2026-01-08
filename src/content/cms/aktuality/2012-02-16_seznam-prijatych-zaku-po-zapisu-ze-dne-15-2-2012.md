@@ -3,7 +3,8 @@ title: seznam přijatých žáků po zápisu ze dne 15. 2. 2012
 post_id: '431'
 date: '2012-02-16T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,ČERTOVINY"'
 post_id: '48128'
 date: '2020-12-07T12:42:07.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-6.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-4.jpeg

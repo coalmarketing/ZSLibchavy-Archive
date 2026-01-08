@@ -3,7 +3,8 @@ title: Martinovo poselství -ŠD
 post_id: '4368'
 date: '2017-10-25T14:27:28.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - aktuality

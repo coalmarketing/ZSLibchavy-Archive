@@ -3,7 +3,8 @@ title: Návštěva druháčků v Obecní knihovně
 post_id: '27431'
 date: '2019-10-25T12:39:29.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PA250374.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PA250376.jpg

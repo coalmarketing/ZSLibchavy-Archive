@@ -3,7 +3,8 @@ title: Únorový pastelkový svátek řeči - Hezký jazyk český
 post_id: '9265'
 date: '2018-02-28T13:19:12.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC01619.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC01620.jpg

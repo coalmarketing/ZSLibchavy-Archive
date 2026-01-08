@@ -3,7 +3,8 @@ title: Odpoledne s pokusy Přírodovědného kroužku
 post_id: '20678'
 date: '2019-03-29T00:03:04.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/053-7.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/054-4.jpg

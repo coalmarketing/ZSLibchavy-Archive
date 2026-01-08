@@ -3,7 +3,8 @@ title: I.,II.,III. oddělení - ZÁŘÍ
 post_id: '3910'
 date: '2017-10-12T15:02:29.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

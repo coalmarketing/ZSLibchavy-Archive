@@ -3,7 +3,8 @@ title: Expedice ŠIC do Pardubic, Kladrub a Slatiňan
 post_id: '5255'
 date: '2011-05-18T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

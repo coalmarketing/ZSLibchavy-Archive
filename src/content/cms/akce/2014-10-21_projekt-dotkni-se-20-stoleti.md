@@ -3,7 +3,8 @@ title: Projekt Dotkni se 20. století!
 post_id: '5762'
 date: '2014-10-21T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

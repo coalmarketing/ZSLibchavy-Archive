@@ -3,7 +3,8 @@ title: 'TVOŘENÍČKO: ,,LISTÍ ŽLOUTNE, POLETUJE"'
 post_id: '44796'
 date: '2020-10-30T13:08:51.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-4.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-2-2.jpeg

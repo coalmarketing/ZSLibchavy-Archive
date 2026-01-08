@@ -3,7 +3,8 @@ title: Sportovní hry
 post_id: '5026'
 date: '2009-06-08T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: 5. třída - Nebezpečí internetu
 post_id: '18376'
 date: '2019-01-20T13:31:42.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/prev-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/prev-2.jpg

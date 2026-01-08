@@ -3,7 +3,8 @@ title: Vycházka k rybníčku
 post_id: '8692'
 date: '2018-02-12T19:57:20.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180209_110127_1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180209_110134_1.jpg

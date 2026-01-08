@@ -3,7 +3,8 @@ title: Město v pohybu
 post_id: '5027'
 date: '2009-06-07T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

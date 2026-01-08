@@ -3,7 +3,8 @@ title: LEGOHRÁTKY
 post_id: '21862'
 date: '2019-05-04T14:34:09.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190502-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190502-WA0001.jpg

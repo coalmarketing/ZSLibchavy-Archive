@@ -3,7 +3,8 @@ title: Přednáška o exotických zvířatech
 post_id: '57986'
 date: '2021-05-28T21:41:14.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210528_083721.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210528_083834-1.jpg

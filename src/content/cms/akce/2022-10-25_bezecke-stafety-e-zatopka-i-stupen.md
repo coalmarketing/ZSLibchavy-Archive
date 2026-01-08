@@ -3,7 +3,8 @@ title: Běžecké štafety E. Zátopka - I. stupeň
 post_id: '79435'
 date: '2022-10-25T22:06:58.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221025_111059.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221025_111128.jpg

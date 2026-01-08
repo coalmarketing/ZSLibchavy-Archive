@@ -3,7 +3,8 @@ title: To byla dobrota!!!!!!!
 post_id: '26004'
 date: '2019-09-25T12:45:57.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190922-WA0037.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190922-WA0038.jpg

@@ -3,7 +3,8 @@ title: Účast deváťaček na ZDRAVOhrátkách
 post_id: '80782'
 date: '2022-11-22T22:46:33.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/313214965_845974673313591_7522672427386355675_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/315322196_2039195506278891_3809092639020197805_n.jpg

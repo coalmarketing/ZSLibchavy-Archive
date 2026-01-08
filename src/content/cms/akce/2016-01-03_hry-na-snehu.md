@@ -3,7 +3,8 @@ title: Hry na sněhu
 post_id: '6006'
 date: '2016-01-03T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

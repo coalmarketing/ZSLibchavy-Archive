@@ -3,7 +3,8 @@ title: Slavnostní otevření modernizované učebny F, Ch, Př
 post_id: '18992'
 date: '2019-02-20T09:55:24.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0305.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0306.jpg

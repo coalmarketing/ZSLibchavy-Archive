@@ -3,7 +3,8 @@ title: 'Broučci slaví: Lucinka měla narozeniny'
 post_id: '9336'
 date: '2018-03-01T17:34:21.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180301_105140.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180301_105145_1.jpg

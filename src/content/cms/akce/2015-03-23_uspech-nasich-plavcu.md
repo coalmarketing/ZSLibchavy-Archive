@@ -3,7 +3,8 @@ title: Úspěch našich plavců
 post_id: '5844'
 date: '2015-03-23T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

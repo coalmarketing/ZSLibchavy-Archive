@@ -3,7 +3,8 @@ title: ŘÍJEN   2. Oddělení
 post_id: '27274'
 date: '2019-10-24T15:15:29.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

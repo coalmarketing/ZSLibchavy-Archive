@@ -3,7 +3,8 @@ title: II.oddělení - spaní ve škole, duben,květen
 post_id: '11616'
 date: '2018-05-31T15:32:36.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6050.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6051.jpg

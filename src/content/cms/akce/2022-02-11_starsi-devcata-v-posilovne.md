@@ -3,7 +3,8 @@ title: Starší děvčata v posilovně
 post_id: '68221'
 date: '2022-02-11T20:16:05.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220207_140947.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220207_141005.jpg

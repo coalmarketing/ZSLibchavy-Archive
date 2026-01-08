@@ -3,7 +3,8 @@ title: Netradiční tělocvik v 1. třídě
 post_id: '62369'
 date: '2021-10-12T14:02:50.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0874-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0876-2.jpg

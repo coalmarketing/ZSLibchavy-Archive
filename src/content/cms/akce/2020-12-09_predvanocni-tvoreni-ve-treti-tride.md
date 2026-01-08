@@ -3,7 +3,8 @@ title: Předvánoční tvoření ve třetí třídě
 post_id: '48853'
 date: '2020-12-09T18:20:38.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PC090374.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PC090375.jpg

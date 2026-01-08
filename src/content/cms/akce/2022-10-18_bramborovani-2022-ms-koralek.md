@@ -3,7 +3,8 @@ title: Bramborování 2022 - MŠ Korálek
 post_id: '78812'
 date: '2022-10-18T13:03:44.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221018_091751.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221018_093031.jpg

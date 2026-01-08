@@ -3,7 +3,8 @@ title: Pestrý pátek v 1. třídě
 post_id: '64245'
 date: '2021-11-19T16:31:37.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1013-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1014-2.jpg

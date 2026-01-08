@@ -3,7 +3,8 @@ title: Velikonoční výstava
 post_id: '6037'
 date: '2016-03-16T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

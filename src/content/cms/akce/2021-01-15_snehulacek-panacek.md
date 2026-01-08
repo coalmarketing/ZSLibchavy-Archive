@@ -3,7 +3,8 @@ title: 'Broučci: sněhuláček panáček'
 post_id: '50446'
 date: '2021-01-15T06:35:21.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210114-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210114-WA0001.jpg

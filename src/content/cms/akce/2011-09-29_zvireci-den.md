@@ -3,7 +3,8 @@ title: Zvířecí den
 post_id: '5292'
 date: '2011-09-29T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

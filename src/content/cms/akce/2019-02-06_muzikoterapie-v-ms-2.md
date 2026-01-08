@@ -3,7 +3,8 @@ title: MUZIKOTERAPIE V MŠ
 post_id: '18843'
 date: '2019-02-06T10:59:18.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/0041153C-0A1C-4344-AD42-3C2D68108C3B.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/04599E4C-C784-430D-B217-E76848C41133.jpeg

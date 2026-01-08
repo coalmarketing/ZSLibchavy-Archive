@@ -3,7 +3,8 @@ title: Fotbalgolf Litomyšl
 post_id: '60953'
 date: '2021-09-06T12:35:59.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210903_081437.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210903_081854.jpg

@@ -3,7 +3,8 @@ title: Abeceda peněz - tvoření
 post_id: '20294'
 date: '2019-03-25T22:27:37.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/tvoření-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/tvoření-2.jpg

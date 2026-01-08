@@ -3,7 +3,8 @@ title: 1.stupeň v Kerharticích
 post_id: '5166'
 date: '2010-09-16T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Okresní přebor škol - starší žáci
 post_id: '5188'
 date: '2010-11-23T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

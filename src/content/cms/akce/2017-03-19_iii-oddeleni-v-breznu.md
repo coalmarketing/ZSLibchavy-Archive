@@ -3,7 +3,8 @@ title: III. oddělení v březnu
 post_id: '6264'
 date: '2017-03-19T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

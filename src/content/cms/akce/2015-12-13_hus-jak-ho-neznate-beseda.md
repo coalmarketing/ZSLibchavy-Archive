@@ -3,7 +3,8 @@ title: Hus, jak ho neznáte - beseda
 post_id: '5959'
 date: '2015-12-13T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

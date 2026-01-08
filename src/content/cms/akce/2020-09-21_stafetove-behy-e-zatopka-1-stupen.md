@@ -3,7 +3,8 @@ title: Štafetové běhy E. Zátopka - 1. stupeň
 post_id: '42468'
 date: '2020-09-21T22:15:03.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20200921_115040.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20200921_115050.jpg

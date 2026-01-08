@@ -3,7 +3,8 @@ title: Finanční gramotnost ve 2. třídě
 post_id: '26949'
 date: '2019-10-16T12:16:15.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PA160375.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PA160376.jpg

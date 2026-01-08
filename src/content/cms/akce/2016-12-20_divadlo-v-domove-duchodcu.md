@@ -3,7 +3,8 @@ title: Divadlo v Domově důchodců
 post_id: '6183'
 date: '2016-12-20T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

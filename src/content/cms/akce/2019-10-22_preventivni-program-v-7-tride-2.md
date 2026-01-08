@@ -3,7 +3,8 @@ title: Preventivní program v 7. třídě
 post_id: '27224'
 date: '2019-10-22T22:02:26.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/010-1-8.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/011-1-7.jpg

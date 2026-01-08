@@ -3,7 +3,8 @@ title: 'SOVIČKY SLAVÍ: VERUNKA MÁ NAROZENINY'
 post_id: '60255'
 date: '2021-06-29T06:14:27.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/05AC2AE5-AF30-44A4-AC51-1CEEE43523A6.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/0EFDB806-9A98-478E-8605-15FB864FEC12.jpeg

@@ -3,7 +3,8 @@ title: 'Broučci: návštěva hřiště u obecního úřadu'
 post_id: '25967'
 date: '2019-09-25T12:39:10.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190920_101507.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190920_101516.jpg

@@ -3,7 +3,8 @@ title: Barunka slaví narozeniny
 post_id: '46198'
 date: '2020-11-12T15:13:25.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF3685.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF3686.jpg

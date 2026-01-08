@@ -3,7 +3,8 @@ title: '"Zážitkové jaro" - vycházka České Libchavy :-)'
 post_id: '70058'
 date: '2022-03-20T13:57:18.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220317_075117.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220317_075128.jpg

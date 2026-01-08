@@ -3,7 +3,8 @@ title: Den Země 1.-3. třída
 post_id: '6070'
 date: '2016-05-03T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

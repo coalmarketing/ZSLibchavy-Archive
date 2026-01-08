@@ -3,7 +3,8 @@ title: Okresní kolo Sportovní ligy ZŠ v minifotbale
 post_id: '6283'
 date: '2017-04-17T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

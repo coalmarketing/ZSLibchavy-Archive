@@ -3,7 +3,8 @@ title: U DVOU SLUNCÍ - O LESE
 post_id: '64558'
 date: '2021-11-29T12:24:44.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0029002.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0039003.jpg

@@ -3,7 +3,8 @@ title: ZIMNÍ OLYMPIJSKÉ HRY V MŠ (vyhodnocení her)
 post_id: '51631'
 date: '2021-01-22T21:14:44.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210122_095749.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210122_095807.jpg

@@ -3,7 +3,8 @@ title: Divadlo U DVOU SLUNCÍ
 post_id: '60073'
 date: '2021-06-25T14:13:12.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6995.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6996.jpg

@@ -3,7 +3,8 @@ title: Činnostní matematika v 5. třídě
 post_id: '8917'
 date: '2018-02-16T15:35:03.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P2151029.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P2151030.jpg

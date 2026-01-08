@@ -3,7 +3,8 @@ title: Práce ve skupinkách:-)
 post_id: '41394'
 date: '2020-07-08T12:42:04.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200707_082439.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200707_082443.jpg

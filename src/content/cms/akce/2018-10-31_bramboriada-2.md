@@ -3,7 +3,8 @@ title: Bramboriáda
 post_id: '15665'
 date: '2018-10-31T06:49:46.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20181021-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20181021-WA0001.jpg

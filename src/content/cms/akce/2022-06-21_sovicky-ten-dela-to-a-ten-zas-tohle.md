@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,TEN DĚLÁ TO A TEN ZAS TOHLE"'
 post_id: '75739'
 date: '2022-06-21T13:09:51.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-11.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-1-12.jpeg

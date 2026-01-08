@@ -3,7 +3,8 @@ title: Pohádkový les
 post_id: '5622'
 date: '2013-06-26T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

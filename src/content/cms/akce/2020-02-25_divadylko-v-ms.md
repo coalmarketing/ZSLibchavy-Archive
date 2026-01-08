@@ -3,7 +3,8 @@ title: Divadýlko v MŠ
 post_id: '31454'
 date: '2020-02-25T10:50:36.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200223-WA0003.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200223-WA0004.jpg

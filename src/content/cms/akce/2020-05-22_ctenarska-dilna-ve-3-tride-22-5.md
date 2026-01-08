@@ -3,7 +3,8 @@ title: Čtenářská dílna ve 3. třídě, 22. 5.
 post_id: '38193'
 date: '2020-05-22T18:43:10.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/100050430_3133853860000338_6484177693741940736_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/100934035_3071270062918874_6396827258761248768_n.jpg

@@ -3,7 +3,8 @@ title: Co se děje ve třídě?
 post_id: '54898'
 date: '2021-03-28T11:38:27.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Aja-8.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/Amalka-C-3.jpg

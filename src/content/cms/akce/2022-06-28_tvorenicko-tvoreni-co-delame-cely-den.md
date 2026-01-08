@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: "Co děláme celý den?" :-)'
 post_id: '76102'
 date: '2022-06-28T13:13:48.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220621_072307.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220621_072316.jpg

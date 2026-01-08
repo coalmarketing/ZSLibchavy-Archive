@@ -3,7 +3,8 @@ title: Exkurze 8. třídy - projekt ŠIC
 post_id: '5229'
 date: '2011-03-30T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

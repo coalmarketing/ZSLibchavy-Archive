@@ -3,7 +3,8 @@ title: Olík má narozeniny
 post_id: '69302'
 date: '2022-03-08T07:48:31.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0029634.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0039638.jpg

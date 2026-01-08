@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: vyrábíme "kukuřičné panenky/panáčky"'
 post_id: '61958'
 date: '2021-10-04T13:02:29.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210920_144355.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210920_144503.jpg

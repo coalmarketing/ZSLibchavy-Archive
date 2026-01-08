@@ -3,7 +3,8 @@ title: Podzimní kamínek u Námořníků
 post_id: '80927'
 date: '2022-11-28T09:23:05.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221012_105644-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221012_105950-1.jpg

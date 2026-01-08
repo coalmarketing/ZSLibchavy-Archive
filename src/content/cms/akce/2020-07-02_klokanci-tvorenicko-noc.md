@@ -3,7 +3,8 @@ title: Klokánci tvořeníčko - noc
 post_id: '41296'
 date: '2020-07-02T08:12:06.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/04ED89F7-5327-44FC-B247-A80E8A66F53F.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/1672E7EC-F9DD-49A7-AF7B-0321755B890D.jpeg

@@ -3,7 +3,8 @@ title: 13. 12. Program PPP ve 2. třídě
 post_id: '17407'
 date: '2018-12-13T11:36:38.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

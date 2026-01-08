@@ -3,7 +3,8 @@ title: Prosinec ve 2. oddělení
 post_id: '17790'
 date: '2018-12-21T15:24:51.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20181212_134749.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20181212_134803.jpg

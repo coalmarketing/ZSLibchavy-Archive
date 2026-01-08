@@ -3,7 +3,8 @@ title: 'Broučci: "hrajeme si a pracujeme"  :-)'
 post_id: '61027'
 date: '2021-09-06T19:54:04.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210901_094201.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210901_094210.jpg

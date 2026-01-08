@@ -3,7 +3,8 @@ title: Den otevřených dveří
 post_id: '5178'
 date: '2010-12-19T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

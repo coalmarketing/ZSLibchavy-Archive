@@ -3,7 +3,8 @@ title: 'Návštěva družiny: předškoláci'
 post_id: '22727'
 date: '2019-05-23T13:18:53.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190523-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190523-WA0001.jpg

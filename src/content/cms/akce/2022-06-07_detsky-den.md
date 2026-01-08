@@ -3,7 +3,8 @@ title: Dětský den :-)
 post_id: '74422'
 date: '2022-06-07T20:44:34.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220605-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220605-WA0001.jpg

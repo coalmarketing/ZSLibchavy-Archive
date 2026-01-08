@@ -3,7 +3,8 @@ title: Říjnový svátek barev ,,TRIKOLORA"
 post_id: '4485'
 date: '2017-11-01T11:05:09.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC01272.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC01273.jpg

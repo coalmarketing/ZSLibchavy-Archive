@@ -3,7 +3,8 @@ title: 'SOVIČKY: ODKUD JSI VÁNOČNÍ STROMEČKU?'
 post_id: '49589'
 date: '2020-12-22T10:41:20.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-3-3.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-2-4.jpeg

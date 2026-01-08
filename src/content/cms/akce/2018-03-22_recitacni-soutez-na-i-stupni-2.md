@@ -3,7 +3,8 @@ title: Recitační soutěž na I. stupni
 post_id: '13423'
 date: '2018-03-22T01:48:03.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

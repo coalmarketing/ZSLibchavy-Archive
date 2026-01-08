@@ -3,7 +3,8 @@ title: Osmáci na TECHNOhrátkách v Litomyšli
 post_id: '30048'
 date: '2020-01-15T22:12:33.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1373.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1377.jpg

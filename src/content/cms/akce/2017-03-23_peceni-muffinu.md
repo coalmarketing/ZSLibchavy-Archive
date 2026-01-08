@@ -3,7 +3,8 @@ title: Pečení muffinu
 post_id: '6256'
 date: '2017-03-23T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

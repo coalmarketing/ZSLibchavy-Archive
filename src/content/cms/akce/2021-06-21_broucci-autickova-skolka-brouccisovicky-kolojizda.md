@@ -3,7 +3,8 @@ title: Broučci-autíčková školka, broučci+sovičky-kolojízda
 post_id: '59818'
 date: '2021-06-21T13:05:14.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210621-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210621-WA0001.jpg

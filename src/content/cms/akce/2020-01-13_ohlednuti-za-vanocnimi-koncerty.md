@@ -3,7 +3,8 @@ title: Ohlédnutí za vánočními koncerty
 post_id: '29965'
 date: '2020-01-13T19:44:06.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1903.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1905.jpg

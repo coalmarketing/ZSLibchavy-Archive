@@ -3,7 +3,8 @@ title: 'Klokánci: "Čas jablíčkové vůně" - ochutnávka'
 post_id: '26574'
 date: '2019-10-07T13:25:40.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190929-WA0005.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190929-WA0006.jpg

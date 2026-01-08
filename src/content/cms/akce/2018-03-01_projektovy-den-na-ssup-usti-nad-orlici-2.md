@@ -3,7 +3,8 @@ title: Projektový den na SŠUP Ústí nad Orlicí
 post_id: '9311'
 date: '2018-03-01T10:33:27.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1125.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1136.jpg

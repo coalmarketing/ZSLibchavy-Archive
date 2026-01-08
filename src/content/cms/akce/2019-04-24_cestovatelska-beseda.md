@@ -3,7 +3,8 @@ title: Cestovatelská beseda
 post_id: '21221'
 date: '2019-04-24T22:24:55.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

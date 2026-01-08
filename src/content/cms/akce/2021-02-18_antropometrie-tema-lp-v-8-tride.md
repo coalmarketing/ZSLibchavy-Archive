@@ -3,7 +3,8 @@ title: ANTROPOMETRIE - téma LP v 8. třídě
 post_id: '52898'
 date: '2021-02-18T22:36:07.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20210212_151859.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Snimek-obrazovky-2021-02-12-155824.png

@@ -3,7 +3,8 @@ title: Laboratorní práce - výroba jogurtu
 post_id: '51795'
 date: '2021-01-27T15:37:05.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/j.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/jo.jpg

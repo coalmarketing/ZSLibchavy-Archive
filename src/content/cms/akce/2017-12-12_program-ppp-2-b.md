@@ -3,7 +3,8 @@ title: Program PPP 2.B
 post_id: '6783'
 date: '2017-12-12T21:34:37.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1220.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1221.jpg

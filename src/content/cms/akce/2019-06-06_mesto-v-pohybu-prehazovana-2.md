@@ -3,7 +3,8 @@ title: Město v pohybu - přehazovaná
 post_id: '23446'
 date: '2019-06-06T00:24:16.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/083.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/084-2.jpg

@@ -3,7 +3,8 @@ title: Rodilý mluvčí na naší škole
 post_id: '265'
 date: '2017-05-15T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: Halloween ve 2. třídě
 post_id: '27461'
 date: '2019-10-31T13:10:56.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PA310374.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PA310375.jpg

@@ -3,7 +3,8 @@ title: Exkurze "Kralická pevnostní oblast"
 post_id: '14748'
 date: '2018-10-24T21:30:54.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/001-4.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/002-1.jpg

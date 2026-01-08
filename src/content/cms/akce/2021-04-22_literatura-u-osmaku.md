@@ -3,7 +3,8 @@ title: Literatura u osmáků
 post_id: '56331'
 date: '2021-04-22T13:56:22.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Adam.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Hodr.jpg

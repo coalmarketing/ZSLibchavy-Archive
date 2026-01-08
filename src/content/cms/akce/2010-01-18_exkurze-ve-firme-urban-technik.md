@@ -3,7 +3,8 @@ title: Exkurze ve firmě URBAN-TECHNIK
 post_id: '5099'
 date: '2010-01-18T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

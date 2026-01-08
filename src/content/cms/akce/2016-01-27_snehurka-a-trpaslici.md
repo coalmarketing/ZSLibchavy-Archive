@@ -3,7 +3,8 @@ title: Sněhurka a trpaslíci
 post_id: '6035'
 date: '2016-01-27T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: 3. týden v říjnu, podtéma ,,Podzimní radovánky&quot;
 post_id: '5793'
 date: '2014-10-12T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

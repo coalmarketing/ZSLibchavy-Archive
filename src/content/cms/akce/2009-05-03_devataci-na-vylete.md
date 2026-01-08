@@ -3,7 +3,8 @@ title: Deváťáci na výletě
 post_id: '5005'
 date: '2009-05-03T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

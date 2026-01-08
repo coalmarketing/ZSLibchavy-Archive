@@ -3,7 +3,8 @@ title: Muzikoterapie
 post_id: '11437'
 date: '2018-05-25T06:39:16.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180524_084315-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180524_084319-1.jpg

@@ -3,7 +3,8 @@ title: ODPOLEDNÍ HRY
 post_id: '57436'
 date: '2021-05-17T07:18:09.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-9.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-1-9.jpeg

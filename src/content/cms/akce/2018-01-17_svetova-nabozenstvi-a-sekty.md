@@ -3,7 +3,8 @@ title: Světová náboženství a sekty
 post_id: '8107'
 date: '2018-01-17T20:31:06.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1.jpg
 tags:

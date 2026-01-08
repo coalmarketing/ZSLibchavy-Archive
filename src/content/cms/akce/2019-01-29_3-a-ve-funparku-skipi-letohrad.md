@@ -3,7 +3,8 @@ title: 3. A ve Funparku SkiPi Letohrad
 post_id: '18631'
 date: '2019-01-29T21:52:21.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

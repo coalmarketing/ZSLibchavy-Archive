@@ -3,7 +3,8 @@ title: Návštěva školy v partnerské obci kuropatnik
 post_id: '5201'
 date: '2010-11-15T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

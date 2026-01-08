@@ -3,7 +3,8 @@ title: ZIMNÍ OLYMPIJSKÉ HRY V MŠ II. (první disciplíny)
 post_id: '51430'
 date: '2021-01-22T18:38:07.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210118_101755.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210118_101758.jpg

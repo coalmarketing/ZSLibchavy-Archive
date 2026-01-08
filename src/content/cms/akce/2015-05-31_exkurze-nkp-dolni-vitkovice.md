@@ -3,7 +3,8 @@ title: Exkurze NKP Dolní Vítkovice
 post_id: '5889'
 date: '2015-05-31T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

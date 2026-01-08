@@ -3,7 +3,8 @@ title: Netradiční úkol z matematiky - 9. třída
 post_id: '55230'
 date: '2021-03-30T20:57:21.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/11B6DFF4-F141-4C24-B359-B0E540666D10.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/1617109971918-688869074.jpg

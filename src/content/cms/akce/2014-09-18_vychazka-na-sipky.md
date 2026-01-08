@@ -3,7 +3,8 @@ title: Vycházka na šípky
 post_id: '5745'
 date: '2014-09-18T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

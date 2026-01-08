@@ -3,7 +3,8 @@ title: Preventivní programy v 6.třídě
 post_id: '6199'
 date: '2016-12-19T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

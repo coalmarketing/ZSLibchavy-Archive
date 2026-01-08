@@ -3,7 +3,8 @@ title: Prvňáčci pečou perníčky
 post_id: '65351'
 date: '2021-12-10T12:29:46.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20211210_091735.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20211210_091743.jpg

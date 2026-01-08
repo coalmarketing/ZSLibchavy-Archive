@@ -3,7 +3,8 @@ title: Klub zábavné logiky a deskových her na 1. stupni
 post_id: '27255'
 date: '2019-10-23T17:13:06.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PA230375.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PA230376.jpg

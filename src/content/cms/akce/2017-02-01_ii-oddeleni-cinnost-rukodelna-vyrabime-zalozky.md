@@ -3,7 +3,8 @@ title: II. oddělení - činnost rukodělná - vyrábíme záložky
 post_id: '6229'
 date: '2017-02-01T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Zlatý slavík
 post_id: '4975'
 date: '2009-03-17T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

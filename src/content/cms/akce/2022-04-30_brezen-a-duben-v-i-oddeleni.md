@@ -3,7 +3,8 @@ title: Březen a duben v I. oddělení
 post_id: '72634'
 date: '2022-04-30T16:55:18.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220308_131309.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220308_133758.jpg

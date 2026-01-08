@@ -3,7 +3,8 @@ title: Dobročinná akce - Krabice od bot
 post_id: '48563'
 date: '2020-12-09T14:42:18.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0114062.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0124065.jpg

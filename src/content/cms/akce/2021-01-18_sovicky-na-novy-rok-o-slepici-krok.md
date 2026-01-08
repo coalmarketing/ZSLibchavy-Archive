@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,NA NOVÝ ROK O SLEPIČÍ KROK"'
 post_id: '50641'
 date: '2021-01-18T16:19:33.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-7.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-5.jpeg

@@ -3,7 +3,8 @@ title: Den dopravní výchovy na 1. stupni
 post_id: '6147'
 date: '2016-10-13T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

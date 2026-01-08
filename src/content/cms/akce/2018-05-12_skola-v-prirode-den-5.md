@@ -3,7 +3,8 @@ title: ŠKOLA V PŘÍRODĚ - DEN 5.
 post_id: '11064'
 date: '2018-05-12T14:10:41.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

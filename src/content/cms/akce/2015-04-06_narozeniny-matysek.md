@@ -3,7 +3,8 @@ title: Narozeniny Matýsek
 post_id: '5851'
 date: '2015-04-06T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

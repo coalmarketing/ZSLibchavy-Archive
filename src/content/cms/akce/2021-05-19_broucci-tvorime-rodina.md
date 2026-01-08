@@ -3,7 +3,8 @@ title: 'Broučci: "tvoříme" - Rodina'
 post_id: '57519'
 date: '2021-05-19T12:31:38.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210510_074712.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210510_074718.jpg

@@ -3,7 +3,8 @@ title: Fáboráček - orientační závod II. stupně
 post_id: '60509'
 date: '2021-06-28T23:25:16.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7751.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7758-3.jpg

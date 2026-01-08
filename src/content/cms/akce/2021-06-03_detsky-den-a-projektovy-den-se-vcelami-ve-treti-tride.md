@@ -3,7 +3,8 @@ title: Dětský den a projektový "Den se včelami" ve třetí třídě
 post_id: '58406'
 date: '2021-06-03T12:46:25.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0458.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0459.jpg

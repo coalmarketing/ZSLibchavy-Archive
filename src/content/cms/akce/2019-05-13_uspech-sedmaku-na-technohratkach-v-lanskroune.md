@@ -3,7 +3,8 @@ title: Úspěch sedmáků na TECHNOhrátkách v Lanškrouně
 post_id: '22076'
 date: '2019-05-13T18:25:08.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/027-1-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/028-1.jpg

@@ -3,7 +3,8 @@ title: Folrbal 1. stupně - okrsek
 post_id: '18136'
 date: '2019-01-13T12:09:05.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1912.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1913.jpg

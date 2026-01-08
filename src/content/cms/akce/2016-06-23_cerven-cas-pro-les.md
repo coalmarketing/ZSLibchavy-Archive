@@ -3,7 +3,8 @@ title: Červen - čas pro les
 post_id: '6120'
 date: '2016-06-23T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

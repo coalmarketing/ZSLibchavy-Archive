@@ -3,7 +3,8 @@ title: Lyžařská školička
 post_id: '5821'
 date: '2015-02-08T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

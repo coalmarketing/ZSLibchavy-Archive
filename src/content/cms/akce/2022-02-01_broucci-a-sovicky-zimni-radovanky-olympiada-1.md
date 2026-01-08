@@ -3,7 +3,8 @@ title: 'broučci a sovičky: zimní radovánky-olympiáda (1)'
 post_id: '67729'
 date: '2022-02-01T21:10:49.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220124_081942-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220124_081946-1.jpg

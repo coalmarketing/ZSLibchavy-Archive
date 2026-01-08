@@ -3,7 +3,8 @@ title: Plavecký výcvik
 post_id: '30479'
 date: '2020-01-28T11:26:44.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

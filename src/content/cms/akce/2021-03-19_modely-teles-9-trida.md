@@ -3,7 +3,8 @@ title: MODELY TĚLES - 9. TŘÍDA
 post_id: '54284'
 date: '2021-03-19T22:45:23.000Z'
 author: Magda Hamplová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/16157970100311480972038.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/16158148596971063307048793286159.jpg

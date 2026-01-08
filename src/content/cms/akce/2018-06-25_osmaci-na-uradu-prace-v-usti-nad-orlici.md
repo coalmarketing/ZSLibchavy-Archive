@@ -3,7 +3,8 @@ title: Osmáci na Úřadu práce v Ústí nad Orlicí
 post_id: '13040'
 date: '2018-06-25T21:09:19.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1305.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1307.jpg

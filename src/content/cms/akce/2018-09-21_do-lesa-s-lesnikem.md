@@ -3,7 +3,8 @@ title: Do lesa s lesníkem
 post_id: '13888'
 date: '2018-09-21T14:49:26.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/1-2.jpg

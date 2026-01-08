@@ -3,7 +3,8 @@ title: Návštěva posilovny - dívky z 8. a 9. tříd
 post_id: '80425'
 date: '2022-11-13T22:29:49.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221111_123351.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221111_123432-1.jpg

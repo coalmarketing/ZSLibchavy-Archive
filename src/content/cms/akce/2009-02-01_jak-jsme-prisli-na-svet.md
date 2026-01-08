@@ -3,7 +3,8 @@ title: Jak jsme přišli na svět?
 post_id: '4966'
 date: '2009-02-01T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: závěr školního roku 2015,2016
 post_id: '286'
 date: '2016-07-04T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

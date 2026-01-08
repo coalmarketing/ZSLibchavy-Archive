@@ -3,7 +3,8 @@ title: Cesta do pravěké jeskyně
 post_id: '5757'
 date: '2014-10-16T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Posledních pár dní ve družině I. oddělení
 post_id: '6350'
 date: '2017-06-27T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

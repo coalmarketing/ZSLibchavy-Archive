@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: "Listí žloutne, poletuje"'
 post_id: '45183'
 date: '2020-11-02T06:19:40.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201026_080145.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201026_080243.jpg

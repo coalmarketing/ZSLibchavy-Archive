@@ -3,7 +3,8 @@ title: Město v pohybu - sportovní akce
 post_id: '5719'
 date: '2014-06-05T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

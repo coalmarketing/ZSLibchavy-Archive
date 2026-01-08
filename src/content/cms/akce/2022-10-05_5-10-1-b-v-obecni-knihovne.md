@@ -3,7 +3,8 @@ title: 5. 10. - 1.B v obecní knihovně
 post_id: '78267'
 date: '2022-10-05T23:40:12.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221005_091206.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221005_091300.jpg

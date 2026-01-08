@@ -3,7 +3,8 @@ title: Vynášení Morany
 post_id: '5221'
 date: '2011-03-20T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

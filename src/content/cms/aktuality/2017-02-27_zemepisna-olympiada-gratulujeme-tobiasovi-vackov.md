@@ -3,7 +3,8 @@ title: Zeměpisná olympiáda - GRATULUJEME Tobiášovi Vackov
 post_id: '272'
 date: '2017-02-27T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

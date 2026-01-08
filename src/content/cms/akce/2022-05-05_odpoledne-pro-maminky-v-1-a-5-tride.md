@@ -3,7 +3,8 @@ title: Odpoledne pro maminky v 1. a 5. třídě
 post_id: '72303'
 date: '2022-05-05T18:58:26.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220505_153606.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220505_153610.jpg

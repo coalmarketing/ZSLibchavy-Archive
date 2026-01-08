@@ -3,7 +3,8 @@ title: Návštěva ČERTA, MIKULÁŠE A ANDÍLKA v MŠ
 post_id: '48175'
 date: '2020-12-07T13:23:53.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201204_090943.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201204_090950.jpg

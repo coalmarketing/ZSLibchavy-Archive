@@ -3,7 +3,8 @@ title: 'Broučci: "Hrajeme si, hrajeme"'
 post_id: '26516'
 date: '2019-10-07T13:13:27.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191001_081204.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191001_081213.jpg

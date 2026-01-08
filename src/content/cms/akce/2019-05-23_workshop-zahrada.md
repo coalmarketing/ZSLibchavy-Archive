@@ -3,7 +3,8 @@ title: workshop zahrada:-)
 post_id: '22807'
 date: '2019-05-23T21:35:34.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190523-WA0021.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190523-WA0022.jpg

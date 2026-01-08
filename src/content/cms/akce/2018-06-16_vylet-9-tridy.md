@@ -3,7 +3,8 @@ title: Výlet 9.třídy
 post_id: '12841'
 date: '2018-06-16T21:06:18.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_0030.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_0035.jpg

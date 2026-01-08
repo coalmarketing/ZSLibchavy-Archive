@@ -3,7 +3,8 @@ title: Podzimní květinová výzdoba MŠ
 post_id: '25626'
 date: '2019-09-11T12:45:23.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190911_100930.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190911_101025.jpg

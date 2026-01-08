@@ -3,7 +3,8 @@ title: Zimní období 2. oddělení
 post_id: '69008'
 date: '2022-03-01T10:11:53.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/received_2983603871896216.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/20220202_133519.jpg

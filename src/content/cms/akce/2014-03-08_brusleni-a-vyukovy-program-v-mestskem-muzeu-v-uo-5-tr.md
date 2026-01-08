@@ -3,7 +3,8 @@ title: Bruslení a výukový program v Městském muzeu v ÚO- 5. tř.
 post_id: '5665'
 date: '2014-03-08T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: 'Broučci: "pracujeme a cvičíme" :-)'
 post_id: '42078'
 date: '2020-09-11T06:18:26.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200910-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200910-WA0001.jpg

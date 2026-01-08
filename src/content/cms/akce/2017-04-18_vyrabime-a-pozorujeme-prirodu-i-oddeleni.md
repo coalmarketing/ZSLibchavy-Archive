@@ -3,7 +3,8 @@ title: Vyrábíme a pozorujeme přírodu - I. oddělení
 post_id: '6278'
 date: '2017-04-18T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

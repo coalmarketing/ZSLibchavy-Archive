@@ -3,7 +3,8 @@ title: Turnaj - Šťastný candát a Gobbit
 post_id: '15082'
 date: '2018-10-26T09:44:32.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0195.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0196.jpg

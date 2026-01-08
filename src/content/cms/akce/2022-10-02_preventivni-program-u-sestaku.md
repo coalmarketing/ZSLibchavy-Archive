@@ -3,7 +3,8 @@ title: Preventivní program u šesťáků
 post_id: '77934'
 date: '2022-10-02T19:19:34.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-1190-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-1191.jpg

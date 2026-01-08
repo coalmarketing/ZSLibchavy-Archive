@@ -3,7 +3,8 @@ title: Druháčci - čarodějnický rej
 post_id: '35916'
 date: '2020-05-01T10:37:45.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Anežka-a-Vojtík-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Emička-4.jpg

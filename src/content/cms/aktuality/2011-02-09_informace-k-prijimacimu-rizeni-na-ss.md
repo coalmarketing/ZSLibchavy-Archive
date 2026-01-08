@@ -3,7 +3,8 @@ title: Informace k přijímacímu řízení na SŠ
 post_id: '473'
 date: '2011-02-09T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

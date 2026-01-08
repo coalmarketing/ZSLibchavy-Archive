@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: "Sněkulák", rodinka sněhuláků :-)'
 post_id: '67350'
 date: '2022-01-24T13:40:24.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220119_065645.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220119_071346.jpg

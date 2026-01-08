@@ -3,7 +3,8 @@ title: Výtvarné činnosti III. oddělení
 post_id: '6272'
 date: '2017-04-12T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

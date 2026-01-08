@@ -3,7 +3,8 @@ title: Babí léto-II. oddělení
 post_id: '4025'
 date: '2017-10-19T14:23:20.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

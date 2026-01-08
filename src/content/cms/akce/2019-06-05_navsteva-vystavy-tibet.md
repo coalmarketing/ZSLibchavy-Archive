@@ -3,7 +3,8 @@ title: Návštěva výstavy - TIBET
 post_id: '23370'
 date: '2019-06-05T22:33:32.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/001-7.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/002-8.jpg

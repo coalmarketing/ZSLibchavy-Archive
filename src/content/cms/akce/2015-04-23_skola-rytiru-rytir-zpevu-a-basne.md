@@ -3,7 +3,8 @@ title: Škola rytířů - rytíř zpěvu a básně
 post_id: '5868'
 date: '2015-04-23T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

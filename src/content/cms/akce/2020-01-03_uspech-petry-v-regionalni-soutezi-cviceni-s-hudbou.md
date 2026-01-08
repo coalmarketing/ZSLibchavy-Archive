@@ -3,7 +3,8 @@ title: Úspěch Petry v regionální soutěži Cvičení s hudbou
 post_id: '29996'
 date: '2020-01-03T22:56:22.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/2275d912-3705-40d5-83d0-13066e94db2d.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/3e77e528-fbbb-43dc-96ca-4a93370dbf1b.jpg

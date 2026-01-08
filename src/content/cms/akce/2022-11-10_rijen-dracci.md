@@ -3,7 +3,8 @@ title: ŘÍJEN - DRÁČCI
 post_id: '80352'
 date: '2022-11-10T15:19:27.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221010_085116.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221010_085138.jpg

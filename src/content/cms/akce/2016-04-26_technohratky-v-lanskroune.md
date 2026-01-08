@@ -3,7 +3,8 @@ title: TECHNOhrátky v Lanškrouně
 post_id: '6065'
 date: '2016-04-26T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

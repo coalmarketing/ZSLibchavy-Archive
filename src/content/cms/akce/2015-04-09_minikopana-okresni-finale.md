@@ -3,7 +3,8 @@ title: Minikopaná - okresní finále
 post_id: '5856'
 date: '2015-04-09T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

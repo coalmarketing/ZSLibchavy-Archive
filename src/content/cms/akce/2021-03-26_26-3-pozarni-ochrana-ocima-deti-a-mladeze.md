@@ -3,7 +3,8 @@ title: 26. 3. Požární ochrana očima dětí a mládeže
 post_id: '55935'
 date: '2021-03-26T21:39:19.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210326_162220.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210326_163140.jpg

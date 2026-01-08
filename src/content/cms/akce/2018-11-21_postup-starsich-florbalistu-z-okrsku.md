@@ -3,7 +3,8 @@ title: Postup starších florbalistů z okrsku
 post_id: '16491'
 date: '2018-11-21T22:24:55.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/004-6.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/005-7.jpg

@@ -3,7 +3,8 @@ title: Laboratorní práce u sedmáků
 post_id: '52229'
 date: '2021-02-03T23:18:26.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/139019075_200355965118102_5176118284184553231_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/139311603_361655455173820_255034714507919122_n.jpg

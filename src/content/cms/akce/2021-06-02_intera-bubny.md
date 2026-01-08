@@ -3,7 +3,8 @@ title: Intera - bubny
 post_id: '58052'
 date: '2021-06-02T08:06:48.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6631-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6632-2.jpg

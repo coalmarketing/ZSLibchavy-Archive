@@ -3,7 +3,8 @@ title: Pálení čarodějnic
 post_id: '5697'
 date: '2014-04-27T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

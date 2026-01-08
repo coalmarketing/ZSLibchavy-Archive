@@ -3,7 +3,8 @@ title: Jarní setkání s rodiči 2018
 post_id: '11134'
 date: '2018-05-22T15:49:14.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9281.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9282.jpg

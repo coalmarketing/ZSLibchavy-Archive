@@ -3,7 +3,8 @@ title: 5.B - preventivní program
 post_id: '47972'
 date: '2020-12-03T21:28:33.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/program-1-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/program-2-2.jpg

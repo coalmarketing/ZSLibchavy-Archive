@@ -3,7 +3,8 @@ title: okrsek ve florbalu st.dívek
 post_id: '5075'
 date: '2009-12-07T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

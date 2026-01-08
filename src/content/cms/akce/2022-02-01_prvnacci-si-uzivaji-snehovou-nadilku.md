@@ -3,7 +3,8 @@ title: Prvňáčci si užívají sněhovou nadílku
 post_id: '67706'
 date: '2022-02-01T18:12:21.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220201_093447.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220201_093503.jpg

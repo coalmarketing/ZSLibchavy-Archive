@@ -3,7 +3,8 @@ title: 'Máme rádi zvířata I.: ovečky'
 post_id: '19896'
 date: '2019-03-22T07:14:14.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190317-WA0040.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190317-WA0041.jpg

@@ -3,7 +3,8 @@ title: Hodina kódu ve 2. a 5. třídě
 post_id: '29118'
 date: '2019-12-12T12:59:05.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PC120376.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PC120377.jpg

@@ -3,7 +3,8 @@ title: Preventivní program ve 2. třídě
 post_id: '80453'
 date: '2022-11-14T12:44:13.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221114_081023.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221114_083104.jpg

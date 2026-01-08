@@ -3,7 +3,8 @@ title: Preventivní programy - paní Kadlecová
 post_id: '14342'
 date: '2018-10-02T22:10:52.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20181004-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20181004-WA0003.jpg

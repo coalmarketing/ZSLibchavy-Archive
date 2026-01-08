@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,VODA, VODĚNKA"'
 post_id: '60408'
 date: '2021-07-06T08:52:55.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-12.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-10.jpeg

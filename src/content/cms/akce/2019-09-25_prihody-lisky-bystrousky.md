@@ -3,7 +3,8 @@ title: 13. 9. Příhody lišky Bystroušky
 post_id: '26045'
 date: '2019-09-25T22:27:19.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190913_090927.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190913_091052.jpg

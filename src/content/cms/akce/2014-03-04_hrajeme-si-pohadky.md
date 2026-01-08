@@ -3,7 +3,8 @@ title: Hrajeme si pohádky
 post_id: '5677'
 date: '2014-03-04T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

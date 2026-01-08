@@ -3,7 +3,8 @@ title: 'Divadýlko v MŠ: "Jak Jeníček zlobil"'
 post_id: '26544'
 date: '2019-10-07T13:21:47.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190929-WA0012.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190929-WA0013.jpg

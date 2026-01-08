@@ -3,7 +3,8 @@ title: SPORTOVNÍ HRY
 post_id: '73547'
 date: '2022-05-27T12:57:01.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/03474D3D-D8E0-4229-BEC6-D990C2B5CCCA.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/037B563E-5C09-4A7F-8459-CFB9E2B05EF6.jpeg

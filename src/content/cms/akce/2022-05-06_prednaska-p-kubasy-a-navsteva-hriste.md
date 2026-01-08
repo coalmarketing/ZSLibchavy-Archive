@@ -3,7 +3,8 @@ title: Přednáška p. Kubasy a návštěva hřiště
 post_id: '72417'
 date: '2022-05-06T06:44:41.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/279499628_671688737258949_639889590924945700_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/279515313_2816284488664123_1141740753961034979_n.jpg

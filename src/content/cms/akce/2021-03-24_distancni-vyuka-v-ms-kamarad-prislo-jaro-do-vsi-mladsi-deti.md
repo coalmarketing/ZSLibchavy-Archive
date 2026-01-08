@@ -3,7 +3,8 @@ title: Distanční výuka v MŠ Kamarád (Přišlo jaro do vsi) - mladší děti
 post_id: '54767'
 date: '2021-03-24T12:16:17.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210316_093126692_BURST001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210318_103017114.jpg

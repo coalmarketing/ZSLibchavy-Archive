@@ -3,7 +3,8 @@ title: Družinka v zahradnictví
 post_id: '42277'
 date: '2020-09-17T06:27:31.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/0D6874F9-8182-4547-8A1B-DCF3F3FCA757.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/2D753F73-94E5-41E2-B545-2929F0578DBC.jpeg

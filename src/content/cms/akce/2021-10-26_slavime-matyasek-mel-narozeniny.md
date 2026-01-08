@@ -3,7 +3,8 @@ title: 'Slavíme: Matyášek měl narozeniny :-)'
 post_id: '62914'
 date: '2021-10-26T17:18:40.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211018_091255.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211018_091303.jpg

@@ -3,7 +3,8 @@ title: Únor I. oddělení
 post_id: '9357'
 date: '2018-02-28T08:34:35.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20180209_132543.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20180209_132552.jpg

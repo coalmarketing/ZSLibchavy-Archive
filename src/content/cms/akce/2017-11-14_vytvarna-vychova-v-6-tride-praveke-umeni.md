@@ -3,7 +3,8 @@ title: Výtvarná výchova v 6. třídě - pravěké umění
 post_id: '4713'
 date: '2017-11-14T13:16:36.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3954.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3955.jpg

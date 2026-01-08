@@ -3,7 +3,8 @@ title: Zeměpisná olympiáda - školní kolo
 post_id: '5656'
 date: '2014-02-02T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

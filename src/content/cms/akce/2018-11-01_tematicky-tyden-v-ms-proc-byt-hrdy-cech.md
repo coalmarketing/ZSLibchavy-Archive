@@ -3,7 +3,8 @@ title: 'Tématický týden v MŠ: "Proč být hrdý ČECH?"'
 post_id: '15845'
 date: '2018-11-01T12:49:54.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/14BD654F-31E1-4075-88F6-3E55C718DB0C.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/1ECF367A-35E8-454E-9D49-283C04128065.jpeg

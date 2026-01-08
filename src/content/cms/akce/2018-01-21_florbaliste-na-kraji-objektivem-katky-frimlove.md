@@ -3,7 +3,8 @@ title: Florbalisté na kraji objektivem Katky Frimlové
 post_id: '8113'
 date: '2018-01-21T21:08:20.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_3855.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_3861.jpg

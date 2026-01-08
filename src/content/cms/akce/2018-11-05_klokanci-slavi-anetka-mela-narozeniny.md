@@ -3,7 +3,8 @@ title: 'Klokánci slaví: Anetka měla narozeniny'
 post_id: '16254'
 date: '2018-11-05T13:42:46.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181101_085955_1-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181101_090034_1-1.jpg

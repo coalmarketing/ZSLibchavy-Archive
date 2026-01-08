@@ -3,7 +3,8 @@ title: Zahradnictví 1. třída
 post_id: '5706'
 date: '2014-05-08T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: 2. oddělení - duben
 post_id: '21569'
 date: '2019-05-02T13:04:45.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7510.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7511.jpg

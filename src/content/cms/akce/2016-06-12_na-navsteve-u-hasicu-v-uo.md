@@ -3,7 +3,8 @@ title: NA NÁVŠTĚVĚ U HASIČŮ V UO
 post_id: '6108'
 date: '2016-06-12T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

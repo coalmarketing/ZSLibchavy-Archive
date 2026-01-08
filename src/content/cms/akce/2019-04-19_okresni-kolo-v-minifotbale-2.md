@@ -3,7 +3,8 @@ title: Okresní kolo v minifotbale
 post_id: '21217'
 date: '2019-04-19T21:18:24.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Děvčata na běžkách :)
 post_id: '64988'
 date: '2021-12-06T23:43:58.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211206_140534.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211206_140615.jpg

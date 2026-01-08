@@ -3,7 +3,8 @@ title: Barevný týden
 post_id: '13802'
 date: '2018-09-17T07:54:10.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0014-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0023.jpg

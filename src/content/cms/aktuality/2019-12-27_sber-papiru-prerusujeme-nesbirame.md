@@ -3,7 +3,8 @@ title: SBĚR PAPÍRU - PŘERUŠUJEME, NESBÍRÁME!
 post_id: '29858'
 date: '2019-12-27T17:40:43.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

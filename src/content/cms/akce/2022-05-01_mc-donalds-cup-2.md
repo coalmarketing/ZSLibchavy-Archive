@@ -3,7 +3,8 @@ title: Mc Donald´s Cup
 post_id: '71943'
 date: '2022-05-01T19:22:34.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220429_092126.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220429_092146.jpg

@@ -3,7 +3,8 @@ title: Beseda na téma HIV
 post_id: '5240'
 date: '2011-04-11T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

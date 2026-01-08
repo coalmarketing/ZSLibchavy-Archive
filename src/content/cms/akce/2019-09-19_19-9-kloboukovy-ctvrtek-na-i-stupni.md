@@ -3,7 +3,8 @@ title: 19. 9. Kloboukový čtvrtek na I. stupni
 post_id: '25814'
 date: '2019-09-19T23:18:37.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/003-1-4.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/004-1-5.jpg

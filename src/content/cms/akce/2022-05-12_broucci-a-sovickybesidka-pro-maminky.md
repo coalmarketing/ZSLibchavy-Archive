@@ -3,7 +3,8 @@ title: broučci a sovičky:besídka pro maminky
 post_id: '72724'
 date: '2022-05-12T12:47:26.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3194-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3198.jpg

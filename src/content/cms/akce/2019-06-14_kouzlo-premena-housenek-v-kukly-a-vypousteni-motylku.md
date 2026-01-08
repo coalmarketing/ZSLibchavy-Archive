@@ -3,7 +3,8 @@ title: Kouzlo-přeměna housenek v kukly a vypouštění motýlků
 post_id: '24386'
 date: '2019-06-14T08:09:24.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF1894.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF1895.jpg

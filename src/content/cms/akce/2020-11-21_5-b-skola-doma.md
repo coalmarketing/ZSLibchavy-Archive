@@ -3,7 +3,8 @@ title: 5.B Škola doma
 post_id: '47165'
 date: '2020-11-21T12:48:39.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/126118407_392619702154176_8215362419409852772_n-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/ANGLICTINA-1-1.jpg

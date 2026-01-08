@@ -3,7 +3,8 @@ title: Užíváme si sněhu
 post_id: '50903'
 date: '2021-01-20T15:01:08.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6151.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6152.jpg

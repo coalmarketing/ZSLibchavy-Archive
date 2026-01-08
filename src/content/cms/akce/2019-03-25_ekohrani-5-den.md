@@ -3,7 +3,8 @@ title: EKOHRANÍ - 5. den
 post_id: '20227'
 date: '2019-03-25T15:06:32.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Cvičení s rodiči, Hand made odpoledne
 post_id: '23463'
 date: '2019-06-06T07:55:26.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/009-1-6.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/010-1-6.jpg

@@ -3,7 +3,8 @@ title: Pěvecká soutěž na I.stupni - školní kolo
 post_id: '4969'
 date: '2009-03-08T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

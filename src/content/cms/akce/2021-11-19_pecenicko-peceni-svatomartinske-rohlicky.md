@@ -3,7 +3,8 @@ title: 'Pečeníčko, pečení: SVATOMARTINSKÉ ROHLÍČKY'
 post_id: '63956'
 date: '2021-11-19T11:03:10.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211110_091227.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211110_091331.jpg

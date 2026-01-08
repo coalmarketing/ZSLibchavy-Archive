@@ -3,7 +3,8 @@ title: Program p. Adamcové - PTÁCI
 post_id: '72333'
 date: '2022-05-06T06:41:22.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/279559811_389310126412406_6158739605375129564_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/279566264_994675541418120_4808585730044812010_n.jpg

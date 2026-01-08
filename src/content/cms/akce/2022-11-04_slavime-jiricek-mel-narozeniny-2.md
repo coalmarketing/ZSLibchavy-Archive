@@ -3,7 +3,8 @@ title: 'SLAVÍME: JIŘÍČEK MĚL NAROZENINY'
 post_id: '80019'
 date: '2022-11-04T13:00:26.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/05D41AA1-8D67-4538-9989-4F46CC979F13.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/09DB625A-2251-4793-BF34-9B9EAB12C17A.jpeg

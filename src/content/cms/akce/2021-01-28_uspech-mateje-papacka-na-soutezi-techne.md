@@ -3,7 +3,8 @@ title: Úspěch Matěje Papáčka na soutěži Techné
 post_id: '51924'
 date: '2021-01-28T20:28:20.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Techne_Matej1.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/Techne_Matej2.jpg

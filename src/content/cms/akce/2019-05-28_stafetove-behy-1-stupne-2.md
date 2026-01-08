@@ -3,7 +3,8 @@ title: Štafetové běhy 1. stupně
 post_id: '23073'
 date: '2019-05-28T08:43:41.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3377-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3392-2.jpg

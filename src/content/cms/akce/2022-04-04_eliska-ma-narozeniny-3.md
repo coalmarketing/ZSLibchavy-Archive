@@ -3,7 +3,8 @@ title: Eliška má narozeniny!
 post_id: '70830'
 date: '2022-04-04T07:18:12.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/277337943_377881523995512_3179993408073273549_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/277405892_677322650197965_3244247010528204792_n.jpg

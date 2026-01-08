@@ -3,7 +3,8 @@ title: Ukázka buněk našich šesťáků
 post_id: '48006'
 date: '2020-12-04T14:38:20.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/2dan.png
 - url: https://zslibchavycz.b-cdn.net/wp/Adam.png

@@ -3,7 +3,8 @@ title: Závody aut-2. třída
 post_id: '29955'
 date: '2020-01-10T13:02:43.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P1100386.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P1100387.jpg

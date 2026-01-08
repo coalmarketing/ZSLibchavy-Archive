@@ -3,7 +3,8 @@ title: ZŠ Libchavy na Integračním dnu
 post_id: '77486'
 date: '2022-09-23T13:31:34.000Z'
 author: Mgr. Karolína Moravcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220922_135419.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220922_142637.jpg

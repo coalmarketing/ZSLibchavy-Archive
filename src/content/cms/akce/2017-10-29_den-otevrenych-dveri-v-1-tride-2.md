@@ -3,7 +3,8 @@ title: Den otevřených dveří v 1. třídě
 post_id: '4402'
 date: '2017-10-29T14:34:46.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_9511.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_9512.jpg

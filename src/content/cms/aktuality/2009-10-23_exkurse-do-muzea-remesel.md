@@ -3,7 +3,8 @@ title: Exkurse do Muzea řemesel
 post_id: '517'
 date: '2009-10-23T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: Orientační běh "Fáboráček 2019"
 post_id: '20740'
 date: '2019-04-08T22:39:21.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_0005.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_0006-2.jpg

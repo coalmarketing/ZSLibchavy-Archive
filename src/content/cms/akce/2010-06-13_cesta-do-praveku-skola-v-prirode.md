@@ -3,7 +3,8 @@ title: Cesta do pravěku - škola v přírodě
 post_id: '5162'
 date: '2010-06-13T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Distanční výuka (O zakletých stromech) - mladší děti :-)
 post_id: '55195'
 date: '2021-03-30T19:02:47.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20210325_112632.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210325_112638.jpg

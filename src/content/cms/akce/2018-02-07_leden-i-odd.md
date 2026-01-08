@@ -3,7 +3,8 @@ title: Leden I. odd.
 post_id: '8556'
 date: '2018-02-07T06:32:27.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20180131_130734.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20180131_130803.jpg

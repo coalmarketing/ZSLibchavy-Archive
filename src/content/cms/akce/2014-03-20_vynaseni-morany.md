@@ -3,7 +3,8 @@ title: Vynášení Morany
 post_id: '5673'
 date: '2014-03-20T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

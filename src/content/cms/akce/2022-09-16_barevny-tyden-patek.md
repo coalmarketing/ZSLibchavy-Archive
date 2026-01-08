@@ -3,7 +3,8 @@ title: Barevný týden - pyžamový pátek
 post_id: '77215'
 date: '2022-09-16T13:36:31.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220916_080229.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220916_080424.jpg

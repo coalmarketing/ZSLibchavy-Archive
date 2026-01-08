@@ -3,7 +3,8 @@ title: 'Klokánci: artefiletika'
 post_id: '18395'
 date: '2019-01-21T13:08:56.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/0053E986-BDEB-4E71-A928-2BB883A4DDFD.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/00A2E682-528E-4EE0-93EB-D55BFD8E722C.jpeg

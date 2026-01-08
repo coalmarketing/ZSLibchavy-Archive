@@ -3,7 +3,8 @@ title: I. oddělení v měsíci březnu
 post_id: '6249'
 date: '2017-03-20T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Listopad - II. oddělení a společná výzdoba
 post_id: '4517'
 date: '2017-11-06T15:27:20.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_5680.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_5682.jpg

@@ -3,7 +3,8 @@ title: Podzim v naší školce
 post_id: '80243'
 date: '2022-11-09T15:59:08.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220920_082311-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220920_082319.jpg

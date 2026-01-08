@@ -3,7 +3,8 @@ title: Březen 2. oddělení
 post_id: '70779'
 date: '2022-04-04T14:03:21.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0611-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0612-2.jpg

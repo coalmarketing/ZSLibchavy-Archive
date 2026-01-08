@@ -3,7 +3,8 @@ title: '"Kam chodí broučci spát"'
 post_id: '26807'
 date: '2019-10-16T06:55:47.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-1.jpeg

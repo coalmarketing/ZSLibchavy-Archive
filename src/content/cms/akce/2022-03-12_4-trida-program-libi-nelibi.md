@@ -3,7 +3,8 @@ title: 4. třída - program "Líbí, nelíbí"
 post_id: '69676'
 date: '2022-03-12T23:48:17.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220310_091008.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220310_091021.jpg

@@ -3,7 +3,8 @@ title: Seminář Hravě k matematické gramotnosti na ZŠ
 post_id: '24236'
 date: '2019-06-10T09:12:44.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0810.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0811.jpg

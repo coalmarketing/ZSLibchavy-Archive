@@ -3,7 +3,8 @@ title: Tvořivé workshopy
 post_id: '81124'
 date: '2022-11-30T10:34:46.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221108_153023.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221108_153039.jpg

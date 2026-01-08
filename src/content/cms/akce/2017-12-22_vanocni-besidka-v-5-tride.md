@@ -3,7 +3,8 @@ title: Vánoční besídka v 5. třídě
 post_id: '7068'
 date: '2017-12-22T21:23:40.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

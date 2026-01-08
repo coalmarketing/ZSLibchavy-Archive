@@ -3,7 +3,8 @@ title: '"Když hračky stůňou"'
 post_id: '27175'
 date: '2019-10-22T13:00:04.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191021-WA0001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191021-WA0002.jpg

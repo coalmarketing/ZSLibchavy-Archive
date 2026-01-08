@@ -3,7 +3,8 @@ title: Společně proti předsudkům
 post_id: '5937'
 date: '2015-10-21T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Exkurze žáků 1. stupně ve sběrném dvoře
 post_id: '62179'
 date: '2021-10-05T15:31:25.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0828-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0836.jpg

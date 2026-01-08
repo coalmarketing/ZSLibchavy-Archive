@@ -3,7 +3,8 @@ title: Květen III. oddělení
 post_id: '11805'
 date: '2018-06-03T23:28:00.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

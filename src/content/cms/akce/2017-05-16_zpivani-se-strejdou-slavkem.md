@@ -3,7 +3,8 @@ title: Zpívání se strejdou Slávkem
 post_id: '6304'
 date: '2017-05-16T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

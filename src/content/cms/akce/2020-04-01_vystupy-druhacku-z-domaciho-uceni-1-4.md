@@ -3,7 +3,8 @@ title: Výstupy druháčků z domácího učení 1. 4.
 post_id: '33373'
 date: '2020-04-01T20:16:05.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Jára-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Jára-3.jpg

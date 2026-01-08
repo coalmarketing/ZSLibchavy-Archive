@@ -3,7 +3,8 @@ title: Plavecká školní liga - SUPERFINÁLE
 post_id: '6076'
 date: '2016-05-12T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

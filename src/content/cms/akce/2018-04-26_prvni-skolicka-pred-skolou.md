@@ -3,7 +3,8 @@ title: První školička před školou
 post_id: '10526'
 date: '2018-04-26T21:17:00.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

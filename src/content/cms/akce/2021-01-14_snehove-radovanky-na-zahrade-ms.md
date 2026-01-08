@@ -3,7 +3,8 @@ title: Sněhové radovánky na zahradě MŠ
 post_id: '50417'
 date: '2021-01-14T17:23:59.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210114_103102.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210114_103118.jpg

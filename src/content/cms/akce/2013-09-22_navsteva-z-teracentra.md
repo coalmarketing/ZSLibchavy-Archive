@@ -3,7 +3,8 @@ title: Návštěva z Teracentra
 post_id: '5608'
 date: '2013-09-22T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

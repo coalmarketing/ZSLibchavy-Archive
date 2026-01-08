@@ -3,7 +3,8 @@ title: 'Broučci slaví: Stelinka měla narozeniny'
 post_id: '28599'
 date: '2019-11-28T12:11:13.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191122_091153.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191122_091156.jpg

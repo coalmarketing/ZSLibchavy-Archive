@@ -3,7 +3,8 @@ title: AKTIVITY VE 4.B
 post_id: '39787'
 date: '2020-06-07T17:48:21.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/15907358531298337953546985448007.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20200604_204553.jpg

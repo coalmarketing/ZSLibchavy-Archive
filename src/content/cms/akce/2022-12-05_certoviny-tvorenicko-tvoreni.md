@@ -3,7 +3,8 @@ title: '"ČERTOVINY" tvořeníčko, tvoření :-)'
 post_id: '81414'
 date: '2022-12-05T13:17:23.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221128_070742.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221128_070749.jpg

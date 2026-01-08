@@ -3,7 +3,8 @@ title: Strojení stromečku
 post_id: '17148'
 date: '2018-12-13T11:33:13.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0200.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0201.jpg

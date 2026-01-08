@@ -3,7 +3,8 @@ title: Údolí Sejfů
 post_id: '20611'
 date: '2019-04-06T20:53:41.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190329_073446.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190329_081110.jpg

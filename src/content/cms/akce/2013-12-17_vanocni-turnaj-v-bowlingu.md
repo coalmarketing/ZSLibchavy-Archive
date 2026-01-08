@@ -3,7 +3,8 @@ title: Vánoční turnaj v bowlingu
 post_id: '5637'
 date: '2013-12-17T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

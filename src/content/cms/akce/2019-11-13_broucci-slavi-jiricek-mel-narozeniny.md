@@ -3,7 +3,8 @@ title: 'Broučci slaví: Jiříček měl narozeniny'
 post_id: '28025'
 date: '2019-11-13T06:23:08.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/67D026F1-4143-4990-AF85-F514DD864156.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/6864ED17-C7AF-4C17-8263-543FB921150B.jpeg

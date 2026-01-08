@@ -3,7 +3,8 @@ title: Říjen I. oddělení
 post_id: '79699'
 date: '2022-11-01T10:08:47.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221006_134643.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221006_134811.jpg

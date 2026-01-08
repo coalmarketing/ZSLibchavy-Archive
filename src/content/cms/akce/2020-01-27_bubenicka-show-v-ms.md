@@ -3,7 +3,8 @@ title: Bubenická show v MŠ
 post_id: '30376'
 date: '2020-01-27T13:00:01.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200126-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200126-WA0001.jpg

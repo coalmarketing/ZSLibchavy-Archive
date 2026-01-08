@@ -3,7 +3,8 @@ title: Městečko - Libchavy / pošta /
 post_id: '5614'
 date: '2013-10-22T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

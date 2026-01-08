@@ -3,7 +3,8 @@ title: Družinový výlet do Doudleb nad Orlicí
 post_id: '59035'
 date: '2021-06-09T12:45:38.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0001-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0015.jpg

@@ -3,7 +3,8 @@ title: Jarní, společná vycházka
 post_id: '6245'
 date: '2017-03-02T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

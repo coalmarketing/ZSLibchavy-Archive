@@ -3,7 +3,8 @@ title: PLAVECKÝ  VÝCVIK - 1. stupeň
 post_id: '5968'
 date: '2016-01-03T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

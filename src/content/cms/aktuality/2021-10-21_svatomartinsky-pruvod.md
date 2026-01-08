@@ -3,7 +3,8 @@ title: Svatomartinský průvod
 post_id: '62694'
 date: '2021-10-21T14:51:20.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: Momentky - leden, únor
 post_id: '69285'
 date: '2022-03-08T07:47:29.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/274166227_644527496823790_1381669395554901249_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/274225229_691027298931521_7281694518067647242_n.jpg

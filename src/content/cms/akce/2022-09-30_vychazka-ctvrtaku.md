@@ -3,7 +3,8 @@ title: Vycházka čtvrťáků
 post_id: '77902'
 date: '2022-09-30T19:12:18.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220929_120858.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220929_120918.jpg

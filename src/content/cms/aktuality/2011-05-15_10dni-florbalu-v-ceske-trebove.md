@@ -3,7 +3,8 @@ title: 10dní florbalu v České Třebové
 post_id: '462'
 date: '2011-05-15T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

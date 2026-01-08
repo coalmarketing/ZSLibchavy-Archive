@@ -3,7 +3,8 @@ title: Šimonek má narozeniny
 post_id: '67191'
 date: '2022-01-19T15:25:59.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/270729610_358110219029383_66467602349178875_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/271209081_209938744612383_9018867291229137778_n.jpg

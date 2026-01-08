@@ -3,7 +3,8 @@ title: Školička před školou
 post_id: '59017'
 date: '2021-06-08T18:22:11.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0585.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0586.jpg

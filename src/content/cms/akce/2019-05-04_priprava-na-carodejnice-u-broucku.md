@@ -3,7 +3,8 @@ title: příprava na Čarodějnice u Broučků
 post_id: '21892'
 date: '2019-05-04T14:42:56.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190502-WA0030.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190502-WA0031.jpg

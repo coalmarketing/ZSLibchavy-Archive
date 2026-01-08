@@ -3,7 +3,8 @@ title: 'SLAVÍME: TEREZKA MĚLA NAROZENINY'
 post_id: '77778'
 date: '2022-09-29T06:34:07.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/3A699B8E-0731-4D89-877B-8D628FD7D7A1.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/3B1ECBAD-CCA1-4984-9036-E7C6075D9260.jpeg

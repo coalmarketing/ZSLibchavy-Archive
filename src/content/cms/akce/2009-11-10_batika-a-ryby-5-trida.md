@@ -3,7 +3,8 @@ title: Batika a ryby - 5.třída
 post_id: '5057'
 date: '2009-11-10T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

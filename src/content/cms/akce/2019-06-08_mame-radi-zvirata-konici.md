@@ -3,7 +3,8 @@ title: 'Máme rádi zvířata: Koníci'
 post_id: '23858'
 date: '2019-06-08T17:25:53.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190531-WA0001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190531-WA0002.jpg

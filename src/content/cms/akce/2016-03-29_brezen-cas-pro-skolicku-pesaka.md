@@ -3,7 +3,8 @@ title: Březen - Čas pro školičku pěšáka
 post_id: '6048'
 date: '2016-03-29T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

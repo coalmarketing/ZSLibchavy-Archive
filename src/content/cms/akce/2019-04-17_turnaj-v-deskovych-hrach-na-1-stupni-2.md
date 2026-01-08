@@ -3,7 +3,8 @@ title: Turnaj v deskových hrách na 1. stupni
 post_id: '21124'
 date: '2019-04-17T21:11:48.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P4170375.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P4170376.jpg

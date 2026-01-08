@@ -3,7 +3,8 @@ title: Příprava "čtvrťáků" na Velikonoce
 post_id: '55400'
 date: '2021-04-04T14:34:51.000Z'
 author: Mgr.Helena Kujová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Dan.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Danek.jpeg

@@ -3,7 +3,8 @@ title: Vesmírná stezka a návštěva u koní
 post_id: '58926'
 date: '2021-06-03T17:15:55.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/193361916_354015629455554_3260145928033670310_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/194409814_2991181407869173_4335154100534548872_n.jpg

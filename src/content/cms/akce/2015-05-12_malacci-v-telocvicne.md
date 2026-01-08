@@ -3,7 +3,8 @@ title: maláčci v tělocvičně
 post_id: '5879'
 date: '2015-05-12T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

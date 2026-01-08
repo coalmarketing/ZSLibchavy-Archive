@@ -3,7 +3,8 @@ title: Ukázková hodina florbalu
 post_id: '13742'
 date: '2018-09-14T17:11:37.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-078483d6b614ac8b44bcd6007c5cb5cb-V.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-08c94e598922c9eef59774089c5edf0e-V.jpg

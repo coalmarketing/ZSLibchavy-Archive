@@ -3,7 +3,8 @@ title: Prvňáčci navštívili horní MŠ
 post_id: '5945'
 date: '2015-11-04T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

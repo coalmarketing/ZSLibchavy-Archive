@@ -3,7 +3,8 @@ title: Ve zdravém těle zdravý duch
 post_id: '6032'
 date: '2016-03-13T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

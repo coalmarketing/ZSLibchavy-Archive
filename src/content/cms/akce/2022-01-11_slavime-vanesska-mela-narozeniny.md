@@ -3,7 +3,8 @@ title: 'Slavíme: Vanesska měla narozeniny :-)'
 post_id: '66518'
 date: '2022-01-11T12:27:24.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220106_085726-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220106_085728-1.jpg

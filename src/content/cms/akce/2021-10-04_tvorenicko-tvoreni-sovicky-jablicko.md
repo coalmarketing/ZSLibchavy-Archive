@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: Sovičky: "jablíčko"'
 post_id: '61994'
 date: '2021-10-04T13:07:13.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210924_072627.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210924_073016.jpg

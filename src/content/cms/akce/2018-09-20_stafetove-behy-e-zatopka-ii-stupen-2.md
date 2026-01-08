@@ -3,7 +3,8 @@ title: Štafetové běhy E. Zátopka - II. stupeň
 post_id: '14365'
 date: '2018-09-20T22:34:58.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/033-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/039.jpg

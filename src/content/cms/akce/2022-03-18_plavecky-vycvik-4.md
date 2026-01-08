@@ -3,7 +3,8 @@ title: Plavecký výcvik
 post_id: '69862'
 date: '2022-03-18T11:20:20.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220316_101940.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220316_102054.jpg

@@ -3,7 +3,8 @@ title: 3. lyžařská školička
 post_id: '5815'
 date: '2015-01-18T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

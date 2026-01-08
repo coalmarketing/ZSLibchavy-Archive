@@ -3,7 +3,8 @@ title: 4.Projektový den 5. třídy
 post_id: '6106'
 date: '2016-06-21T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

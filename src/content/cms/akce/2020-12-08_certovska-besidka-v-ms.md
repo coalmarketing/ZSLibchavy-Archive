@@ -3,7 +3,8 @@ title: '"ČERTOVSKÁ BESÍDKA V MŠ"'
 post_id: '48294'
 date: '2020-12-08T12:48:31.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

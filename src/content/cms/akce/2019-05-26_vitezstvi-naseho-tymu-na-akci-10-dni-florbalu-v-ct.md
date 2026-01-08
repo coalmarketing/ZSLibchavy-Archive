@@ -3,7 +3,8 @@ title: Vítězství našeho týmu na akci 10 dní florbalu v České Třebové
 post_id: '22892'
 date: '2019-05-26T23:04:30.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/065-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/066-3.jpg

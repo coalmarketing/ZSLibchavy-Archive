@@ -3,7 +3,8 @@ title: Pozorování libchavské přírody
 post_id: '5130'
 date: '2010-03-31T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

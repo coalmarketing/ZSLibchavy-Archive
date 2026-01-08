@@ -3,7 +3,8 @@ title: Vánoční koncert v ZUŠ
 post_id: '5786'
 date: '2014-12-01T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

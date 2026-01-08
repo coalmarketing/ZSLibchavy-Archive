@@ -3,7 +3,8 @@ title: 27. 9. Činnostní matematika ve 3. třídě
 post_id: '26252'
 date: '2019-10-01T19:06:46.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190927_081818.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190927_081848.jpg

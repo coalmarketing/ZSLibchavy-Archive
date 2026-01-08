@@ -3,7 +3,8 @@ title: Povídání o lese
 post_id: '5759'
 date: '2014-10-19T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

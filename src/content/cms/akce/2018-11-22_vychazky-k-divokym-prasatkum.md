@@ -3,7 +3,8 @@ title: Vycházky k divokým prasátkům
 post_id: '16524'
 date: '2018-11-22T11:14:51.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181112_103225.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181112_103246.jpg

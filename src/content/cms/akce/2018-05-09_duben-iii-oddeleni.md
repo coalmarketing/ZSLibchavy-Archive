@@ -3,7 +3,8 @@ title: Duben III.oddělení
 post_id: '10873'
 date: '2018-05-09T22:53:53.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

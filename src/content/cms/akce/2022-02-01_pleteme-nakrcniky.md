@@ -3,7 +3,8 @@ title: PLETEME NÁKRČNÍKY :)
 post_id: '67841'
 date: '2022-02-01T21:16:45.000Z'
 author: Magda Hamplová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/268323177_267902475412962_3532423040570219881_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/271743847_1141538523250317_1547742475717195355_n.jpg

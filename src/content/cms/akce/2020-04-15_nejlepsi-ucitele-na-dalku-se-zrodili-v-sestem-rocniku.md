@@ -3,7 +3,8 @@ title: Nejlepší učitelé se zrodili v šestém ročníku! :-)
 post_id: '34578'
 date: '2020-04-15T18:35:05.000Z'
 author: Mgr. Martina Bolková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/91839104_990006144790211_7117005425039376384_n1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/92123307_250960972748018_5456338779394539520_n1.jpg

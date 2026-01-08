@@ -3,7 +3,8 @@ title: Čtvrtý projektový den na SŠUP v ÚO
 post_id: '354'
 date: '2014-06-13T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

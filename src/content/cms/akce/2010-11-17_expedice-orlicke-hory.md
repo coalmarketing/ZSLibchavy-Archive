@@ -3,7 +3,8 @@ title: EXPEDICE  ORLICKÉ HORY
 post_id: '5184'
 date: '2010-11-17T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

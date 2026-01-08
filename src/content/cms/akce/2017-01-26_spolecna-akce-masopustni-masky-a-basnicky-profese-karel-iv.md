@@ -3,7 +3,8 @@ title: Společná akce - masopustní masky a básničky, profese, Karel IV.
 post_id: '6225'
 date: '2017-01-26T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

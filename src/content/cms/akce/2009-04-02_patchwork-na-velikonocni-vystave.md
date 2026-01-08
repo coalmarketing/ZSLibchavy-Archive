@@ -3,7 +3,8 @@ title: Patchwork na velikonoční výstavě
 post_id: '5007'
 date: '2009-04-02T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

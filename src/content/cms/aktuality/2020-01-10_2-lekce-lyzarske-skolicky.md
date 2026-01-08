@@ -3,7 +3,8 @@ title: 2. lekce Lyžařské školičky
 post_id: '29930'
 date: '2020-01-10T10:37:04.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

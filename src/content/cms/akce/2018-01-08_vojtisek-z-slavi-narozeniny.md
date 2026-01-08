@@ -3,7 +3,8 @@ title: 'Broučci slaví: Vojtíšek Ž. měl narozeniny'
 post_id: '7313'
 date: '2018-01-08T20:58:33.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180108_092233.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180108_092307_1.jpg

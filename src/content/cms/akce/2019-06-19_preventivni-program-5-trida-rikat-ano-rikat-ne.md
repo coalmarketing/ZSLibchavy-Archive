@@ -3,7 +3,8 @@ title: Preventivní program 5. třída "Říkat ano, říkat ne"
 post_id: '24676'
 date: '2019-06-19T19:37:25.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/program-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/program-2.jpg

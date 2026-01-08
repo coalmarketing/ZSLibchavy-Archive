@@ -3,7 +3,8 @@ title: Veverčáci a Yogi - turnaj na 1. stupni
 post_id: '16709'
 date: '2018-11-28T17:12:05.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PB280377.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PB280378.jpg

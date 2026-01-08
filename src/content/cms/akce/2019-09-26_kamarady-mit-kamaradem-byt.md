@@ -3,7 +3,8 @@ title: Kamarády mít, kamarádem být
 post_id: '26134'
 date: '2019-09-26T18:13:40.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190926_075810.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190926_075816.jpg

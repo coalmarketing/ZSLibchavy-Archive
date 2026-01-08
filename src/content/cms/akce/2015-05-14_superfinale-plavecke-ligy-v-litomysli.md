@@ -3,7 +3,8 @@ title: Superfinále plavecké ligy v Litomyšli
 post_id: '5884'
 date: '2015-05-14T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

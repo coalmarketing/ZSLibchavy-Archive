@@ -3,7 +3,8 @@ title: Preventivní program v 1. třídě
 post_id: '14248'
 date: '2018-10-01T20:37:53.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PA010374.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PA010376.jpg

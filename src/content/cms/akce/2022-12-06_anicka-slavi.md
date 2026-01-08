@@ -3,7 +3,8 @@ title: Anička slaví narozeniny
 post_id: '81744'
 date: '2022-12-06T11:17:47.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221206_091609.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221206_091614.jpg

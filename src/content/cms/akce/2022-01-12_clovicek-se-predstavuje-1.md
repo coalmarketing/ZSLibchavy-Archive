@@ -3,7 +3,8 @@ title: Človíček se představuje 1
 post_id: '66902'
 date: '2022-01-12T07:57:41.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0027233-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0057238-1.jpg

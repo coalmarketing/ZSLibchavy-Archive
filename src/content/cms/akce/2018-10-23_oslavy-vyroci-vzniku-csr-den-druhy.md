@@ -3,7 +3,8 @@ title: Oslavy výročí vzniku ČSR- den druhý
 post_id: '14710'
 date: '2018-10-23T20:12:15.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/037-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/038-1.jpg

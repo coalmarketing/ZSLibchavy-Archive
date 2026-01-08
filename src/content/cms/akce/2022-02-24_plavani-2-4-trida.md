@@ -3,7 +3,8 @@ title: Plavání 2.- 4. třída
 post_id: '68830'
 date: '2022-02-24T12:19:40.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220209_102601.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220209_102606.jpg

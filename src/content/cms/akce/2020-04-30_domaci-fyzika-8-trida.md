@@ -3,7 +3,8 @@ title: Domácí fyzika - 8.třída
 post_id: '35847'
 date: '2020-04-30T18:18:56.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Adamec-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Bašniková.jpg

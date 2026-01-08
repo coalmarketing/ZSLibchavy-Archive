@@ -3,7 +3,8 @@ title: HORKÉ KŘESLO PRO PANÍ ŘEDITELKU
 post_id: '71974'
 date: '2022-05-02T16:00:39.000Z'
 author: Marta Kacálková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1857.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1858-2.jpg

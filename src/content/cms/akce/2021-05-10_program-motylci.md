@@ -3,7 +3,8 @@ title: Program Motýlci
 post_id: '57259'
 date: '2021-05-10T14:20:02.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210428_085107.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210428_085129.jpg

@@ -3,7 +3,8 @@ title: Lyžařský kurz Šerlišský mlýn - 1. den
 post_id: '70303'
 date: '2022-03-22T18:18:45.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220321_140327-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220321_140327.jpg

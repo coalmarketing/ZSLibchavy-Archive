@@ -3,7 +3,8 @@ title: Přijímací zkoušky nanečisto
 post_id: '68807'
 date: '2022-02-24T11:32:20.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1645697925242.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/1645697925259.jpg

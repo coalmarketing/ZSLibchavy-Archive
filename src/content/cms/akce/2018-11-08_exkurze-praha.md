@@ -3,7 +3,8 @@ title: Exkurze Praha
 post_id: '16310'
 date: '2018-11-08T20:11:15.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

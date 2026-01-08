@@ -3,7 +3,8 @@ title: 1.relaxační koutek
 post_id: '5748'
 date: '2014-10-05T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

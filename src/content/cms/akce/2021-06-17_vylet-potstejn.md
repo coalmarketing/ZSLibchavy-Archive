@@ -3,7 +3,8 @@ title: Výlet - Potštejn
 post_id: '59479'
 date: '2021-06-17T07:04:31.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6811.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6812.jpg

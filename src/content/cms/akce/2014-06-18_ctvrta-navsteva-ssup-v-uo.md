@@ -3,7 +3,8 @@ title: Čtvrtá návštěva SŠUP v ÚO
 post_id: '5730'
 date: '2014-06-18T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

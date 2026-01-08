@@ -3,7 +3,8 @@
     {% for post in posts %}
         <li class="flex flex-col items-center -space-y-8"
             data-search-title="{{ post.data.title | e }}" 
-            data-search-content="{{ post.content | stripHtml | stripMarkdown | e }}" 
+            data-search-content="{{ post.content | stripHtml | stripMarkdown | e }}"
+            data-search-sections="{% for section in post.data.section -%} {{ section }} {%- if loop.index < post.data.section | length %}, {% endif %}{%- endfor %}"
             data-id="{{ post.url }}">
 
             <!-- POST IMAGE -->

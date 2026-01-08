@@ -3,7 +3,8 @@ title: Vánoční besídka III.oddělení
 post_id: '6279'
 date: '2016-12-12T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

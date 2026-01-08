@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,AUTÍČKOVÁ ŠKOLKA"'
 post_id: '59902'
 date: '2021-06-22T11:52:28.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-10.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-1-10.jpeg

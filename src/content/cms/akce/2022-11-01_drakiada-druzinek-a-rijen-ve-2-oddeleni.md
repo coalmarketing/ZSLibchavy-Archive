@@ -3,7 +3,8 @@ title: DRAKIÁDA družinek a Říjen ve 2. oddělení
 post_id: '79608'
 date: '2022-11-01T15:53:50.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/2A373633-E48A-4F31-9AF2-65B68080E2DC.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/BCC66D8D-68FD-4C3E-B5F0-A8FD6AD5F2C3.jpeg

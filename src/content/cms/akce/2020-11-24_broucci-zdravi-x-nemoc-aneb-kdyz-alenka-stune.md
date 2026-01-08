@@ -3,7 +3,8 @@ title: 'Broučci: "zdraví x nemoc" aneb "když Alenka stůně"'
 post_id: '47476'
 date: '2020-11-24T12:34:48.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201109_093123.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201109_093140.jpg

@@ -3,7 +3,8 @@ title: Kouzelník Jiří Krejčí
 post_id: '24589'
 date: '2019-06-19T14:20:36.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/016-1-4.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/017-2-2.jpg

@@ -3,7 +3,8 @@ title: Technohrátky ve Vysokém Mýtě
 post_id: '6352'
 date: '2017-11-26T19:12:38.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/1a.jpg

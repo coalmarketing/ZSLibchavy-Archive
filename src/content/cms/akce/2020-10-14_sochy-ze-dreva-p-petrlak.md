@@ -3,7 +3,8 @@ title: Sochy ze dřeva - p. Petrlák
 post_id: '43400'
 date: '2020-10-14T15:19:13.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF3601.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF3602.jpg

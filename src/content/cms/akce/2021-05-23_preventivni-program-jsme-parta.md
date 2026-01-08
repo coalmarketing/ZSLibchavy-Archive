@@ -3,7 +3,8 @@ title: Preventivní program " Jsme parta"
 post_id: '57618'
 date: '2021-05-23T14:50:19.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210521_092433.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210521_095516.jpg

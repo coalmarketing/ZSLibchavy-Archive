@@ -3,7 +3,8 @@ title: 'Broučci: "zvířátka a ptáčci v zimě"'
 post_id: '52557'
 date: '2021-02-12T20:33:31.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210202_075820.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210202_075823.jpg

@@ -3,7 +3,8 @@ title: Vzpomínka na prázdniny - cvičení s pejskem
 post_id: '25502'
 date: '2019-09-09T13:22:08.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/03512284-05BE-4EC8-9BFF-219152C3DD79.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/06AC9BEE-38FB-4AFB-8586-30B0C67D70D2.jpeg

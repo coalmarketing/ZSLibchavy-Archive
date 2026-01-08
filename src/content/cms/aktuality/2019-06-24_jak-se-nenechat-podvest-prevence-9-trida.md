@@ -3,7 +3,8 @@ title: Jak se nenechat podvést - prevence 9. třída
 post_id: '24861'
 date: '2019-06-24T23:50:22.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/011-2-4.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/013-3-2.jpg

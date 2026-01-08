@@ -3,7 +3,8 @@ title: Hodina Fyziky jinak
 post_id: '53039'
 date: '2021-02-25T13:13:37.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/foto1-1.png
 - url: https://zslibchavycz.b-cdn.net/wp/foto1-2.png

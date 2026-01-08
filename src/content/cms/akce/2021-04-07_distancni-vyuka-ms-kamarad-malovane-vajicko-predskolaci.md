@@ -3,7 +3,8 @@ title: Distanční výuka MŠ kamarád - "MALOVANÉ VAJÍČKO" - předškoláci
 post_id: '55670'
 date: '2021-04-07T14:05:51.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20210403_103015.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210403_103022.jpg

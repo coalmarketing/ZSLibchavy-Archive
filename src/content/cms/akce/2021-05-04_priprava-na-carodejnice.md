@@ -3,7 +3,8 @@ title: Příprava na Čarodějnice :-)
 post_id: '56794'
 date: '2021-05-04T13:03:13.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210428_072044.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210428_072416.jpg

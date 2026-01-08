@@ -3,7 +3,8 @@ title: Tvoření na vánoční jarmark v 1. třídě
 post_id: '63776'
 date: '2021-11-12T13:36:02.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0991-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0992-2.jpg

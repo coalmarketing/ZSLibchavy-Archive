@@ -3,7 +3,8 @@ title: Projektový den u deváťáků
 post_id: '57387'
 date: '2021-05-13T19:34:16.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210513_105232.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210513_105323.jpg

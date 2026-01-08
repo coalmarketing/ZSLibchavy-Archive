@@ -3,7 +3,8 @@ title: Výrobky z chráněné dílny Pardubice k zakoupení v MŠ
 post_id: '5993'
 date: '2016-02-01T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

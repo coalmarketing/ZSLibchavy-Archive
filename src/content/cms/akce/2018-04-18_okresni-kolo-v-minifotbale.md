@@ -3,7 +3,8 @@ title: Okresní kolo v minifotbale
 post_id: '10368'
 date: '2018-04-18T19:33:42.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180419_082709.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180419_082806.jpg

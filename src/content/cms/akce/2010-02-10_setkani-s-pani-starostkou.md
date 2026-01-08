@@ -3,7 +3,8 @@ title: Setkání s paní starostkou
 post_id: '5104'
 date: '2010-02-10T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

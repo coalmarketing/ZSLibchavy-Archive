@@ -3,7 +3,8 @@ title: Halloween v MŠ
 post_id: '16046'
 date: '2018-11-05T13:35:24.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/043FBC63-0134-41FD-8EFC-47C0F4705D5D.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/0B870389-7627-4AC8-994C-3A68555F1317.jpeg

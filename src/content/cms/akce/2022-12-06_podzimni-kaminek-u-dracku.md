@@ -3,7 +3,8 @@ title: Podzimní kamínek u Dráčků
 post_id: '81636'
 date: '2022-12-06T10:27:33.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221010_085116.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221010_085138.jpg

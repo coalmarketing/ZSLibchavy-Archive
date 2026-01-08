@@ -3,7 +3,8 @@ title: Slavíme!! Matýsek mě narozeniny  :-)
 post_id: '60202'
 date: '2021-06-28T12:45:54.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210625_091252.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210625_091301.jpg

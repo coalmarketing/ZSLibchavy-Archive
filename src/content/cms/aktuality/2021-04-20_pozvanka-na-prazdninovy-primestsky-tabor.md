@@ -3,7 +3,8 @@ title: Pozvánka na prázdninový příměstský tábor
 post_id: '56156'
 date: '2021-04-20T10:02:35.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: Návštěva u Vincenzů
 post_id: '11852'
 date: '2018-06-04T15:17:36.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9454.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9455.jpg

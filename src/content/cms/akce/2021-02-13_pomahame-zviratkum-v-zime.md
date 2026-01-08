@@ -3,7 +3,8 @@ title: Pomáháme zvířátkům v zimě:-)
 post_id: '52837'
 date: '2021-02-13T09:16:19.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210210_100543.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210210_100549.jpg

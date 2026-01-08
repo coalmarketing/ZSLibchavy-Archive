@@ -3,7 +3,8 @@ title: ZIMNÍ OLYMPIJSKÉ HRY V MŠ IV. ("stavíme sněhuláka")
 post_id: '51526'
 date: '2021-01-22T20:13:38.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210120_081028.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210120_081035.jpg

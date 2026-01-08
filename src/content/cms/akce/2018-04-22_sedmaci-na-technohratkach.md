@@ -3,7 +3,8 @@ title: Sedmáci na TECHNOhrátkách
 post_id: '10382'
 date: '2018-04-22T21:10:20.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/005-4.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/006-3.jpg

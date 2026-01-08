@@ -3,7 +3,8 @@ title: Škola v přírodě - den čtvrtý
 post_id: '74237'
 date: '2022-06-03T03:45:39.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220601_220709.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220602_114758.jpg

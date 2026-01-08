@@ -3,7 +3,8 @@ title: 'slavíme: Jůlinka měla narozeniny'
 post_id: '63262'
 date: '2021-11-03T06:57:06.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211102_091032.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211102_091036.jpg

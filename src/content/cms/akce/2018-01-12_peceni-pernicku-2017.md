@@ -3,7 +3,8 @@ title: Pečení perníčků 2017
 post_id: '7626'
 date: '2018-01-12T15:21:18.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/296-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/297-2.jpg

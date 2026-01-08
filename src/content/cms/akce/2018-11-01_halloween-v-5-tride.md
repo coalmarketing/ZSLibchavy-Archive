@@ -3,7 +3,8 @@ title: Halloween v 5. třídě
 post_id: '15704'
 date: '2018-11-01T18:48:05.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181031_095644-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181031_095716.jpg

@@ -3,7 +3,8 @@ title: 'Slavíme: Stelinka měla narozeniny :-)'
 post_id: '64910'
 date: '2021-12-06T08:19:05.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211123_094116.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211123_094121.jpg

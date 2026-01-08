@@ -3,7 +3,8 @@ title: Červen - I. oddělení
 post_id: '24987'
 date: '2019-06-27T07:39:31.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20190618_134409.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20190618_134448.jpg

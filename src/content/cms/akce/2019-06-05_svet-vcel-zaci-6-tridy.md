@@ -3,7 +3,8 @@ title: Svět včel - žáci 6. třídy
 post_id: '23387'
 date: '2019-06-05T22:38:43.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/017-11.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/018-11.jpg

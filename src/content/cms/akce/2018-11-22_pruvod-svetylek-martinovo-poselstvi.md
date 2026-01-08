@@ -3,7 +3,8 @@ title: Průvod světýlek - "Martinovo poselství"
 post_id: '16541'
 date: '2018-11-22T12:21:12.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20181118-WA0003.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20181118-WA0004.jpg

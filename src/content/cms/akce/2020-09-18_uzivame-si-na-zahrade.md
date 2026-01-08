@@ -3,7 +3,8 @@ title: Užíváme si na zahradě!!!!
 post_id: '42349'
 date: '2020-09-18T12:26:10.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200916-WA0001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200916-WA0002.jpg

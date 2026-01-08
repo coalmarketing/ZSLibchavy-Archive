@@ -3,7 +3,8 @@ title: Adopce na dálku
 post_id: '553'
 date: '2009-04-21T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

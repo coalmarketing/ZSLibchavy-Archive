@@ -3,7 +3,8 @@ title: Informace z MŠMT pro rodiče a žáky
 post_id: '44612'
 date: '2020-10-25T06:59:41.000Z'
 author: Mgr.Marie Linhartová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Letak-pro-1.-stupen.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Letak-pro-2.-stupen.jpg

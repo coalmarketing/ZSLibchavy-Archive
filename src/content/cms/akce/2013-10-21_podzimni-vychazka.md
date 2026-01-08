@@ -3,7 +3,8 @@ title: Podzimní vycházka
 post_id: '5609'
 date: '2013-10-21T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

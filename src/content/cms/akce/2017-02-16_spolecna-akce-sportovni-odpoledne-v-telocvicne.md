@@ -3,7 +3,8 @@ title: Společná akce-sportovní odpoledne v tělocvičně
 post_id: '6237'
 date: '2017-02-16T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

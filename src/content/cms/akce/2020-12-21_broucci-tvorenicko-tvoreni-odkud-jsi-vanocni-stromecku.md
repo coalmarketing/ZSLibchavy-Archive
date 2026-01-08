@@ -3,7 +3,8 @@ title: 'Broučci: Tvořeníčko, tvoření: "Odkud jsi vánoční stromečku?"'
 post_id: '49509'
 date: '2020-12-21T06:46:22.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201214_073327.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201214_073446.jpg

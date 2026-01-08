@@ -3,7 +3,8 @@ title: Pečení a zdobení perníčků a strojení stromečku...
 post_id: '81533'
 date: '2022-12-05T14:47:04.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221128_075134.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221128_075143.jpg

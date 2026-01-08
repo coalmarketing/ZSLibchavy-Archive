@@ -3,7 +3,8 @@ title: Plavecký výcvik
 post_id: '5802'
 date: '2015-01-04T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Návštěva nemocnice
 post_id: '4979'
 date: '2009-03-25T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

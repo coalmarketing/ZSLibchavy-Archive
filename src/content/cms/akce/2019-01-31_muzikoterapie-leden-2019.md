@@ -3,7 +3,8 @@ title: Muzikoterapie- leden 2019
 post_id: '18763'
 date: '2019-01-31T09:24:46.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0521.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0522.jpg

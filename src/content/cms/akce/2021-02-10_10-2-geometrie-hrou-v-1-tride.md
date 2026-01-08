@@ -3,7 +3,8 @@ title: 10. 2. geometrie hrou v 1. třídě
 post_id: '53487'
 date: '2021-02-10T17:58:12.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20210115_092827.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210115_092857.jpg

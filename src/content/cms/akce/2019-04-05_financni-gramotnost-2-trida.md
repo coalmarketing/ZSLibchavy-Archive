@@ -3,7 +3,8 @@ title: 5. 4. Finanční gramotnost, 2. třída
 post_id: '20922'
 date: '2019-04-05T16:32:24.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

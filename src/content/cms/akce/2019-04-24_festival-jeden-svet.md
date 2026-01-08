@@ -3,7 +3,8 @@ title: Festival Jeden svět
 post_id: '21224'
 date: '2019-04-24T22:26:49.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

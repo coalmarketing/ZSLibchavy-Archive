@@ -3,7 +3,8 @@ title: 'SLAVÍME: VENDULKA MĚLA NAROZENINY'
 post_id: '79501'
 date: '2022-10-27T08:45:35.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-5-2.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/2-5-2.jpeg

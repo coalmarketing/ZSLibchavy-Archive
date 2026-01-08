@@ -3,7 +3,8 @@ title: 16. 9. Ponožkový den na I. stupni
 post_id: '25696'
 date: '2019-09-16T19:58:01.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3891.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3894.jpg

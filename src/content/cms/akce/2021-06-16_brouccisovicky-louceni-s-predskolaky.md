@@ -3,7 +3,8 @@ title: broučci+sovičky-loučení s předškoláky
 post_id: '59402'
 date: '2021-06-16T07:01:59.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1h.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/2h.jpg

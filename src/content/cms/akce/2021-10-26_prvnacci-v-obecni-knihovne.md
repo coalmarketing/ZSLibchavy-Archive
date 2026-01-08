@@ -3,7 +3,8 @@ title: Prvňáčci v obecní knihovně
 post_id: '62997'
 date: '2021-10-26T17:52:28.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0969.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0971.jpg

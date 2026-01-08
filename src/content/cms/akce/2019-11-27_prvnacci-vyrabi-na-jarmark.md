@@ -3,7 +3,8 @@ title: Prvňáčci vyrábí na Jarmark
 post_id: '28563'
 date: '2019-11-27T19:50:21.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191126_155530.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191126_155535.jpg

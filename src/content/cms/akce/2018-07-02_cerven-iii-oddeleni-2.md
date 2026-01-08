@@ -3,7 +3,8 @@ title: Červen III. oddělení
 post_id: '13474'
 date: '2018-07-02T13:53:15.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

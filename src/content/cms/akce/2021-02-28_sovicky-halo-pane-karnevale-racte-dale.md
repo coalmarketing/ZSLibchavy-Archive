@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,HALÓ PANE KARNEVALE, RAČTE DÁLE"'
 post_id: '53233'
 date: '2021-02-28T22:51:22.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-2-6.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-2-6.jpeg

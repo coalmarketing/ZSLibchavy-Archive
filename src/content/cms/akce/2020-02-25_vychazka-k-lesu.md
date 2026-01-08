@@ -3,7 +3,8 @@ title: Vycházka k lesu
 post_id: '31435'
 date: '2020-02-25T06:43:07.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/0918E7E8-753F-4B69-802B-43D1739CED38.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/0DB8FA1F-5D96-4DF4-AD35-E04C8E2E5A30.jpeg

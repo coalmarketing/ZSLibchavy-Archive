@@ -3,7 +3,8 @@ title: Velikonoční výstava u Džbánu
 post_id: '9665'
 date: '2018-03-24T21:21:01.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180320_130230_1-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180320_130230_1.jpg

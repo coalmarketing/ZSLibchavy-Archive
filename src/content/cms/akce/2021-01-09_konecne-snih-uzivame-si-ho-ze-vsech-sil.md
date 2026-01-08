@@ -3,7 +3,8 @@ title: Konečně sníh!! užíváme si ho ze všech sil:-)
 post_id: '50192'
 date: '2021-01-09T17:56:38.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210107_101810.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210107_101817.jpg

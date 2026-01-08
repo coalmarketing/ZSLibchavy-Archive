@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: Sněhulák, "Sněžítko"'
 post_id: '67307'
 date: '2022-01-24T13:34:30.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220117_075008.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220117_075011.jpg

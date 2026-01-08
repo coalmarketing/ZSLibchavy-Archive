@@ -3,7 +3,8 @@ title: Dějepisná olympiáda
 post_id: '18790'
 date: '2019-01-16T14:33:40.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

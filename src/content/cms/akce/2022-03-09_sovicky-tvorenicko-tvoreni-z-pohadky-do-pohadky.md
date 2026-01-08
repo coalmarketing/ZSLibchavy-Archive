@@ -3,7 +3,8 @@ title: 'Sovičky: Tvořeníčko, tvoření : "Z pohádky do pohádky" :-)'
 post_id: '69529'
 date: '2022-03-09T16:00:23.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220308-WA0009.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220308-WA0010.jpg

@@ -3,7 +3,8 @@ title: Vynášení MORANY
 post_id: '70247'
 date: '2022-03-21T06:11:41.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/275579531_677447140127962_4636105831369236910_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/275785066_1033154927547292_6033348762756191642_n.jpg

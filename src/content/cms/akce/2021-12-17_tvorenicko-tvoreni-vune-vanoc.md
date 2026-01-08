@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: "vůně Vánoc" :-)'
 post_id: '65607'
 date: '2021-12-17T07:12:02.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211215_064135.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211215_071627.jpg

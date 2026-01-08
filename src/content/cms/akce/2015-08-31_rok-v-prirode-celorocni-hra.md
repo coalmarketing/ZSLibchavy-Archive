@@ -3,7 +3,8 @@ title: ROK V PŘÍRODĚ - celoroční hra
 post_id: '5929'
 date: '2015-08-31T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

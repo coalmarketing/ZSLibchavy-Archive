@@ -3,7 +3,8 @@ title: Čarodějnický týden třeťáčků 30. 4.
 post_id: '36107'
 date: '2020-04-30T13:12:54.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20200501_142136_resized.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/95255110_2545987018983177_6185184425899196416_n.jpg

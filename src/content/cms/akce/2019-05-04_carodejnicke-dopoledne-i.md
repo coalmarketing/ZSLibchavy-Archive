@@ -3,7 +3,8 @@ title: ČARODĚJNICKÉ DOPOLEDNE I.
 post_id: '21921'
 date: '2019-05-04T14:48:56.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190502-WA0034.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190502-WA0035.jpg

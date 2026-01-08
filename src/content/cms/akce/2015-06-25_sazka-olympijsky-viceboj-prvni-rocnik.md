@@ -3,7 +3,8 @@ title: Sazka Olympijský víceboj - první ročník
 post_id: '5909'
 date: '2015-06-25T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

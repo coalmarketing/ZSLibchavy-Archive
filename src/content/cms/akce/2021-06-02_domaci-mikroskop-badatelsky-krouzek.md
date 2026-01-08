@@ -3,7 +3,8 @@ title: Domácí mikroskop - badatelský kroužek
 post_id: '58383'
 date: '2021-06-02T19:48:54.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1..jpg
 - url: https://zslibchavycz.b-cdn.net/wp/10..jpg

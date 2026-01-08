@@ -3,7 +3,8 @@ title: Recyklace surovin na naší škole - novinka
 post_id: '361'
 date: '2014-03-04T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: Společně si hrajeme
 post_id: '56281'
 date: '2021-04-21T08:24:09.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0176396.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0186398.jpg

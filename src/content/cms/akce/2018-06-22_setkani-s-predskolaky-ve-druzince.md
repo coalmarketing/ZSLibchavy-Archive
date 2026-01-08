@@ -3,7 +3,8 @@ title: Setkání s předškoláky ve družince
 post_id: '12750'
 date: '2018-06-22T13:20:27.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6336-kopie-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6339-kopie-2.jpg

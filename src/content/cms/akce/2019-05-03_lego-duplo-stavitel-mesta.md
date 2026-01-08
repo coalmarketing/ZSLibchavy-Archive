@@ -3,7 +3,8 @@ title: LEGO DUPLO " Stavitel města"
 post_id: '21740'
 date: '2019-05-03T12:27:13.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF1162-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF1163-2.jpg

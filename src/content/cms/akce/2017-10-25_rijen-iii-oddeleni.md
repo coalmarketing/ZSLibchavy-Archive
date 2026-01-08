@@ -3,7 +3,8 @@ title: Říjen III.oddělení
 post_id: '4826'
 date: '2017-10-25T21:32:05.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC01175.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC01176.jpg

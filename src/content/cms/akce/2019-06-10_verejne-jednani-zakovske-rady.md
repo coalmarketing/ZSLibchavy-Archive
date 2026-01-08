@@ -3,7 +3,8 @@ title: Veřejné jednání Žákovské rady
 post_id: '24255'
 date: '2019-06-10T14:05:25.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0826.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0827-2.jpg

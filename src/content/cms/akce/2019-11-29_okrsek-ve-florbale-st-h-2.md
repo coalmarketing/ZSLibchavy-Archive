@@ -3,7 +3,8 @@ title: Okrsek ve florbale st.H
 post_id: '28692'
 date: '2019-11-29T19:32:03.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/007-1-7.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/009-1-8.jpg

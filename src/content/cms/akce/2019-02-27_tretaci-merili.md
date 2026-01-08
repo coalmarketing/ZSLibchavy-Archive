@@ -3,7 +3,8 @@ title: Třeťáci měřili
 post_id: '19236'
 date: '2019-02-27T20:22:27.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190226_091420.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190226_091444.jpg

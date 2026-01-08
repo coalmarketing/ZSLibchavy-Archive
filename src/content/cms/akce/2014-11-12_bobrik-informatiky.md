@@ -3,7 +3,8 @@ title: Bobřík informatiky
 post_id: '5779'
 date: '2014-11-12T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

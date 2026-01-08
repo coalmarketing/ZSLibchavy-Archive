@@ -3,7 +3,8 @@ title: 'První výprava : Za dinosaury'
 post_id: '5747'
 date: '2014-09-29T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

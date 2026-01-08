@@ -3,7 +3,8 @@ title: Čarodějnická zahrada
 post_id: '5003'
 date: '2009-04-28T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

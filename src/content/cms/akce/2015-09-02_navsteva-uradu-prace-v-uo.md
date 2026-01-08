@@ -3,7 +3,8 @@ title: Návštěva Úřadu práce v ÚO
 post_id: '5921'
 date: '2015-09-02T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

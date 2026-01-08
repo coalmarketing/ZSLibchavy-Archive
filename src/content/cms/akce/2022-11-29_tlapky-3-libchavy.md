@@ -3,7 +3,8 @@ title: TLAPKY 3 - Libchavy
 post_id: '81046'
 date: '2022-11-29T07:10:55.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1117.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1118.jpg

@@ -3,7 +3,8 @@ title: Výstupy druháčků z domácího i školního učení 26. 5.
 post_id: '38351'
 date: '2020-05-26T18:57:43.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Natálka-3-rotated.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Natálka1-3-rotated.jpg

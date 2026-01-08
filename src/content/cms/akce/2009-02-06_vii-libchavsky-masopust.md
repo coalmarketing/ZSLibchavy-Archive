@@ -3,7 +3,8 @@ title: VII. LIBCHAVSKÝ MASOPUST
 post_id: '4952'
 date: '2009-02-06T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

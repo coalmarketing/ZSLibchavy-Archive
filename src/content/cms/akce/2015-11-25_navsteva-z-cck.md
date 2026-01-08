@@ -3,7 +3,8 @@ title: NÁVŠTĚVA Z ČČK
 post_id: '5979'
 date: '2015-11-25T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

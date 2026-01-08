@@ -3,7 +3,8 @@ title: Maty - narozeniny
 post_id: '40687'
 date: '2020-06-18T06:27:01.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF3471.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF3472.jpg

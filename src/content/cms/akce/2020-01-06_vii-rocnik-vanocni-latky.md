@@ -3,7 +3,8 @@ title: XVII. ročník Vánoční laťky
 post_id: '30005'
 date: '2020-01-06T23:13:14.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

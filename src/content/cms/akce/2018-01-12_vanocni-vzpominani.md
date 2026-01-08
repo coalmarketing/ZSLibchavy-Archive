@@ -3,7 +3,8 @@ title: Vánoční vzpomínání
 post_id: '7733'
 date: '2018-01-12T16:25:37.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4075.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4084.jpg

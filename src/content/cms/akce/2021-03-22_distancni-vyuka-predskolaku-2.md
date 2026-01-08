@@ -3,7 +3,8 @@ title: Distanční výuka předškoláků 2
 post_id: '54595'
 date: '2021-03-22T09:36:56.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/162222043_444531960117114_3607211365809579987_n-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/162466218_450305079542904_1687107185300824820_n.jpg

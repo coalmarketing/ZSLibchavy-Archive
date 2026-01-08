@@ -3,7 +3,8 @@ title: '"Týden bezpečnosti": Klokánci'
 post_id: '10240'
 date: '2018-04-17T10:48:43.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180411_093352.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180411_093425.jpg

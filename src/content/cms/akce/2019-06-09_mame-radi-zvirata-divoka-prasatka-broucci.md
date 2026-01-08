@@ -3,7 +3,8 @@ title: 'Máme rádi zvířata: divoká prasátka (Broučci)'
 post_id: '23946'
 date: '2019-06-09T11:43:36.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190528_104256.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190528_104259.jpg

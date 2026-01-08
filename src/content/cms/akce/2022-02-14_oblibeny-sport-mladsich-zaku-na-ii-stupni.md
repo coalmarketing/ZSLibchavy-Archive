@@ -3,7 +3,8 @@ title: Oblíbený sport mladších žáků na II. stupni
 post_id: '68251'
 date: '2022-02-14T20:56:55.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220208_123901.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220208_123934.jpg

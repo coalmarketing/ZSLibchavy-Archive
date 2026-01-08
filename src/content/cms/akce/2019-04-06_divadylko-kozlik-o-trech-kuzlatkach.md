@@ -3,7 +3,8 @@ title: 'Divadýlko Kozlík: "O třech kůzlátkách"'
 post_id: '20641'
 date: '2019-04-06T20:58:23.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190327-WA0021.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190327-WA0022.jpg

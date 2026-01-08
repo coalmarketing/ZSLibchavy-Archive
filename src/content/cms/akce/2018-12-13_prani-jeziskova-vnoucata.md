@@ -3,7 +3,8 @@ title: Přání - Ježíškova vnoučata
 post_id: '17110'
 date: '2018-12-13T10:18:59.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0283.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0284.jpg

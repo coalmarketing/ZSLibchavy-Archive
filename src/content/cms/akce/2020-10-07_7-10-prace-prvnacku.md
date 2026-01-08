@@ -3,7 +3,8 @@ title: 7. 10. Práce prvňáčků
 post_id: '43975'
 date: '2020-10-07T23:37:29.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/121009252_2729364660715020_6131138356127605338_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/121024367_1670564123109291_2763494162780831921_n.jpg

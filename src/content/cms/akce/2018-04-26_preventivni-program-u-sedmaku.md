@@ -3,7 +3,8 @@ title: Preventivní program u sedmáků
 post_id: '10525'
 date: '2018-04-26T21:18:37.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/001-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/002-2-3.jpg

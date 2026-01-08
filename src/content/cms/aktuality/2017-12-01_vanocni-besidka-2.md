@@ -3,7 +3,8 @@ title: VÁNOČNÍ  BESÍDKA V ŠD
 post_id: '6452'
 date: '2017-12-01T11:07:32.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: ČERT, MIKULÁŠ, ANDĚLÍČCI V MŠ
 post_id: '16975'
 date: '2018-12-09T11:36:44.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181205_091458.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181205_091545.jpg

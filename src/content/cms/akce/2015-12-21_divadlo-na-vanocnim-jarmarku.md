@@ -3,7 +3,8 @@ title: Divadlo na vánočním Jarmarku
 post_id: '5964'
 date: '2015-12-21T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

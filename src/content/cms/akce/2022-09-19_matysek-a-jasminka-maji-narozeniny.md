@@ -3,7 +3,8 @@ title: Matýsek a Jasmínka mají narozeniny
 post_id: '77257'
 date: '2022-09-19T09:47:52.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/307045702_6242736912419612_4055191190582150800_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/307166631_1066377390734404_5115712664889170848_n.jpg

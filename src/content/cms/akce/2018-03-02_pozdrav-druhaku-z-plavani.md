@@ -3,7 +3,8 @@ title: Pozdrav druháků z plavání
 post_id: '9381'
 date: '2018-03-02T17:37:43.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1251.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1252.jpg

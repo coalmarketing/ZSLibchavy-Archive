@@ -3,7 +3,8 @@ title: První online čtenářský klub 1. 5.
 post_id: '36125'
 date: '2020-05-01T18:24:22.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/ČK.jpg
 tags:

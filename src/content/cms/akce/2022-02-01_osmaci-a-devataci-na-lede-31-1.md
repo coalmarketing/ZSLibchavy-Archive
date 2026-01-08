@@ -3,7 +3,8 @@ title: Osmáci a deváťáci na ledě - 31.1.
 post_id: '67945'
 date: '2022-02-01T19:00:03.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220131_140610.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220131_140622.jpg

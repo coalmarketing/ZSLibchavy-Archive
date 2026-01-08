@@ -3,7 +3,8 @@ title: Leden I. oddělení
 post_id: '30577'
 date: '2020-01-31T09:11:18.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7307-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7311-2.jpg

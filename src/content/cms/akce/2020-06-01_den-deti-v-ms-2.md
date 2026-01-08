@@ -3,7 +3,8 @@ title: DEN DĚTÍ V MŠ:-)
 post_id: '39039'
 date: '2020-06-01T13:17:51.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200601_102852-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200601_102854-1.jpg

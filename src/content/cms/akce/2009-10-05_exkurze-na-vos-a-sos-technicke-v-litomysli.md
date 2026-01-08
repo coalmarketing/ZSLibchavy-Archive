@@ -3,7 +3,8 @@ title: Exkurze na VOŠ a SOŠ technické v Litomyšli
 post_id: '5046'
 date: '2009-10-05T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

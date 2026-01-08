@@ -3,7 +3,8 @@ title: Lyžařský kurz - den druhý
 post_id: '66370'
 date: '2022-01-05T00:37:51.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220104-WA0022.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220104-WA0023.jpg

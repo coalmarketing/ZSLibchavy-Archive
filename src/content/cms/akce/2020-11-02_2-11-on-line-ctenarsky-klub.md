@@ -3,7 +3,8 @@ title: 2. 11. on-line čtenářský klub
 post_id: '46908'
 date: '2020-11-02T00:06:59.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/123841688_359060535167140_351364305936989083_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/123919819_394482655064642_5113673193457804836_n.jpg

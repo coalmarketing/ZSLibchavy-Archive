@@ -3,7 +3,8 @@ title: u nás už byl Ježíšek:-)
 post_id: '29534'
 date: '2019-12-17T07:31:54.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191216-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191216-WA0001.jpg

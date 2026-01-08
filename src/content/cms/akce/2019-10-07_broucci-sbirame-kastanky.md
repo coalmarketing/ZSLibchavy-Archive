@@ -3,7 +3,8 @@ title: 'Broučci: "sbíráme kaštánky"'
 post_id: '26529'
 date: '2019-10-07T13:18:13.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191001_094003.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191001_094008.jpg

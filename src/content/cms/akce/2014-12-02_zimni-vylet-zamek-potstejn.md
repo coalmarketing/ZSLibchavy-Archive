@@ -3,7 +3,8 @@ title: Zimní výlet – zámek Potštejn
 post_id: '5784'
 date: '2014-12-02T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

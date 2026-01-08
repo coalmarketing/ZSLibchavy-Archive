@@ -3,7 +3,8 @@ title: Nové děti - první dny v MŠ
 post_id: '76727'
 date: '2022-09-02T13:57:56.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/302067961_583377163517381_9119550452568019467_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/302119366_1589879684776061_1052680189507956932_n.jpg

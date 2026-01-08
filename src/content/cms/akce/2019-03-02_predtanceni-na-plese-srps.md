@@ -3,7 +3,8 @@ title: 2. 3. Předtančení na plese SRPŠ
 post_id: '20336'
 date: '2019-03-02T20:16:00.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

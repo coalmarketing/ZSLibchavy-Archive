@@ -3,7 +3,8 @@ title: Plavání 2. a 3. třída
 post_id: '31808'
 date: '2020-03-03T13:13:32.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P3030375.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P3030376.jpg

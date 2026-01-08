@@ -3,7 +3,8 @@ title: 22. 12. Distanční výuka u druháčků
 post_id: '66191'
 date: '2021-12-22T22:38:01.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-3.png
 - url: https://zslibchavycz.b-cdn.net/wp/2.png

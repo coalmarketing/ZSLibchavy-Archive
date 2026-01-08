@@ -3,7 +3,8 @@ title: Školní kolo v poznávání přírodnin
 post_id: '72003'
 date: '2022-05-02T23:25:18.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

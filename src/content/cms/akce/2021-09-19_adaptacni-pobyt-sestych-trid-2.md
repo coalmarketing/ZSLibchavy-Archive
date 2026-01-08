@@ -3,7 +3,8 @@ title: Adaptační pobyt šestých tříd
 post_id: '61472'
 date: '2021-09-19T10:04:40.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210914_102621189.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210914_103844690_HDR.jpg

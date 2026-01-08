@@ -3,7 +3,8 @@ title: '"ZIMNÍ RADOVÁNKY"'
 post_id: '7977'
 date: '2018-01-17T18:49:52.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180117_094142_1-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180117_094142_1-2.jpg

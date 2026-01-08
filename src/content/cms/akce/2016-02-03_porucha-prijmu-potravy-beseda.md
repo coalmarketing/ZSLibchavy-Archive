@@ -3,7 +3,8 @@ title: Porucha příjmu potravy - beseda
 post_id: '6022'
 date: '2016-02-03T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Štěpánek a Matýsek mají narozeniny
 post_id: '68190'
 date: '2022-02-10T11:20:07.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/256604894_1477367215990971_7497832084324034294_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/271598773_474154004112926_391585097972380289_n.jpg

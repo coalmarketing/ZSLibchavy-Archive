@@ -3,7 +3,8 @@ title: Zájezdy II.stupně - Východočeské divadlo Pardubice
 post_id: '296'
 date: '2016-02-28T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

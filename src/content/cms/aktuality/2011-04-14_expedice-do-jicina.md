@@ -3,7 +3,8 @@ title: Expedice do Jičína
 post_id: '465'
 date: '2011-04-14T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

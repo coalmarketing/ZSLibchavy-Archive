@@ -3,7 +3,8 @@ title: 'broučci: masopust-karneval'
 post_id: '53288'
 date: '2021-03-01T10:37:07.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-20.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/10-1.jpg

@@ -3,7 +3,8 @@ title: Sběr surovin - závěrečné vyhodnocení
 post_id: '386'
 date: '2013-06-28T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

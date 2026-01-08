@@ -3,7 +3,8 @@ title: Recitační soutěž na 2. stupni
 post_id: '24897'
 date: '2019-04-04T21:22:10.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Čarodějnická škola kouzel v 1. třídě
 post_id: '71904'
 date: '2022-04-29T16:27:17.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220429_085750.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220429_085809.jpg

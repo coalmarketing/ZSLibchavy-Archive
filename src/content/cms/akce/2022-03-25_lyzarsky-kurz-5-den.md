@@ -3,7 +3,8 @@ title: Lyžařský kurz - 5. den
 post_id: '70608'
 date: '2022-03-25T17:00:52.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220325_100541.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220325_102454.jpg

@@ -3,7 +3,8 @@ title: 'divadélko: "Jak Honza ke štěstí přišel" :-)'
 post_id: '73332'
 date: '2022-05-20T14:09:22.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220512_085627.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220512_085650.jpg

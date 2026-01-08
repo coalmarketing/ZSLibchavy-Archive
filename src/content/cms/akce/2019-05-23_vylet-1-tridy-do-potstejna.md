@@ -3,7 +3,8 @@ title: Výlet 1. třídy do Potštejna
 post_id: '22802'
 date: '2019-05-23T20:11:47.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P5230374.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P5230377.jpg

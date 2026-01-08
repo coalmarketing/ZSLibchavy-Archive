@@ -3,7 +3,8 @@ title: Škola v přírodě - den pátý
 post_id: '74363'
 date: '2022-06-03T22:56:35.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220603_104251.jpg
 tags:

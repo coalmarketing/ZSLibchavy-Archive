@@ -3,7 +3,8 @@ title: Prosinec - III. oddělení
 post_id: '6179'
 date: '2016-12-04T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

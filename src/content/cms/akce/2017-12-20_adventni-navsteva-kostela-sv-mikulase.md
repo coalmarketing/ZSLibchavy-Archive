@@ -3,7 +3,8 @@ title: Adventní návštěva kostela Sv. Mikuláše
 post_id: '6936'
 date: '2017-12-20T14:45:08.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3550-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3551.jpg

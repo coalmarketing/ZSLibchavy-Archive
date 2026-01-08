@@ -3,7 +3,8 @@ title: Vaříme si pro radost
 post_id: '25000'
 date: '2019-06-27T14:04:53.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/foto-10-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/foto-11-1.jpg

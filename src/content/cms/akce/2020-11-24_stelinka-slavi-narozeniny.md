@@ -3,7 +3,8 @@ title: STELINKA SLAVÍ NAROZENINY
 post_id: '47454'
 date: '2020-11-24T06:32:14.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/11492FD2-81D9-48A9-9E23-F3954016A79A.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/16312E52-BF5F-41E8-8BA7-F758A0F48464.jpeg

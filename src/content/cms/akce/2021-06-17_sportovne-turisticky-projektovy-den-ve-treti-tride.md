@@ -3,7 +3,8 @@ title: Sportovně turistický projektový den ve třetí třídě
 post_id: '59589'
 date: '2021-06-17T22:11:18.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0626.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0630.jpg

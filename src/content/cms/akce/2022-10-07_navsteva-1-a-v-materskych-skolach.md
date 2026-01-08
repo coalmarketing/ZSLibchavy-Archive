@@ -3,7 +3,8 @@ title: Návštěva 1.A v mateřských školách
 post_id: '78329'
 date: '2022-10-07T14:28:15.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221006_103902.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221006_103921.jpg

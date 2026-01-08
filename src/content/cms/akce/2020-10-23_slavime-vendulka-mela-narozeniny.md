@@ -3,7 +3,8 @@ title: Slavíme!!!! Vendulka měla narozeniny
 post_id: '44364'
 date: '2020-10-23T10:35:32.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201023_090325.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201023_090330.jpg

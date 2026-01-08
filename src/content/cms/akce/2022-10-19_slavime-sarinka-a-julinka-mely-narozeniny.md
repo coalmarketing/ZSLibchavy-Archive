@@ -3,7 +3,8 @@ title: Slavíme!! Sárinka a Julinka měly narozeniny :-)
 post_id: '78991'
 date: '2022-10-19T07:20:41.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221017_090107.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221017_090111.jpg

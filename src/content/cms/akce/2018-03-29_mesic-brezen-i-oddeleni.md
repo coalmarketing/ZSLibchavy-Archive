@@ -3,7 +3,8 @@ title: Měsíc březen I. oddělení
 post_id: '9736'
 date: '2018-03-29T14:01:18.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20180321_131122.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20180321_131424.jpg

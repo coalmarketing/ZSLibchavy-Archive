@@ -3,7 +3,8 @@ title: Vánoční nadílka pod stromečkem 2018
 post_id: '18536'
 date: '2019-01-28T12:42:15.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0433-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0434-1.jpg

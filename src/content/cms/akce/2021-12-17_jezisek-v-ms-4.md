@@ -3,7 +3,8 @@ title: Ježíšek v MŠ :-)
 post_id: '65667'
 date: '2021-12-17T07:38:45.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211215_090830.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211215_090841.jpg

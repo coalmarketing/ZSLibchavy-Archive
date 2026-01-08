@@ -3,7 +3,8 @@ title: Preventivní program v 5. třídě
 post_id: '6036'
 date: '2016-03-17T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

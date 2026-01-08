@@ -3,7 +3,8 @@ title: Sportovní hry s deváťáky
 post_id: '75264'
 date: '2022-06-16T06:44:44.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/287232587_630748771743520_7195181963766764761_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/287249661_1021066278796879_433149917770069474_n.jpg

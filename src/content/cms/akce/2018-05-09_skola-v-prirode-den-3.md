@@ -3,7 +3,8 @@ title: ŠKOLA V PŘÍRODĚ - DEN 3.
 post_id: '10872'
 date: '2018-05-09T21:49:05.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180509_074407.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180509_082102.jpg

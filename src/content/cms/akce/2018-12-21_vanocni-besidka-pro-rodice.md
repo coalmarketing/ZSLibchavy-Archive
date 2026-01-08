@@ -3,7 +3,8 @@ title: VÁNOČNÍ  BESÍDKA PRO  RODIČE
 post_id: '17663'
 date: '2018-12-21T14:30:37.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7089.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7090.jpg

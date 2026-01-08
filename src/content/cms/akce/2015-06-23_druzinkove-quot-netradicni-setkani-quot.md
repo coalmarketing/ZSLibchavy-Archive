@@ -3,7 +3,8 @@ title: Družinkové &quot;netradiční setkání&quot;
 post_id: '5911'
 date: '2015-06-23T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

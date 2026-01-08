@@ -3,7 +3,8 @@ title: Adaptační pobyt 6.třídy - První den
 post_id: '14002'
 date: '2018-09-25T14:06:00.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/foto-1-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/foto-113.jpg

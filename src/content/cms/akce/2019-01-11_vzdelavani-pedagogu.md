@@ -3,7 +3,8 @@ title: Vzdělávání pedagogů
 post_id: '18101'
 date: '2019-01-11T11:17:56.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4981-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4985.jpg

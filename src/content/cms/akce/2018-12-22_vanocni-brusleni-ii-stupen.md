@@ -3,7 +3,8 @@ title: Vánoční bruslení II. stupeň
 post_id: '18265'
 date: '2018-12-22T21:53:46.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/051-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/053-5.jpg

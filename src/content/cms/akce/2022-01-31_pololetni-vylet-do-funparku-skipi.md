@@ -3,7 +3,8 @@ title: Pololetní výlet do Funparku Skipi
 post_id: '67625'
 date: '2022-01-31T23:02:48.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220131_092519.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220131_092540.jpg

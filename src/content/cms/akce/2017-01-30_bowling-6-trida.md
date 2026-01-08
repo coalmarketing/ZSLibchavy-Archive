@@ -3,7 +3,8 @@ title: Bowling - 6.třída
 post_id: '6228'
 date: '2017-01-30T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

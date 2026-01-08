@@ -3,7 +3,8 @@ title: SOVIČKY - tvoření
 post_id: '42191'
 date: '2020-09-15T12:17:17.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-2.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-1-2.jpeg

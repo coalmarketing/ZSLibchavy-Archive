@@ -3,7 +3,8 @@ title: 'Broučci slaví: Štěpánek měl narozeniny'
 post_id: '27816'
 date: '2019-11-08T13:18:03.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191031_092813.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191031_092818.jpg

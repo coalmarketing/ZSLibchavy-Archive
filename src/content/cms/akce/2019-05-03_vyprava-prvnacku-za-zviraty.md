@@ -3,7 +3,8 @@ title: Výprava prvňáčků za zvířaty
 post_id: '21779'
 date: '2019-05-03T12:35:45.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P5030374.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P5030375.jpg

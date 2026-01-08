@@ -3,7 +3,8 @@ title: 'MUZIKOTERAPIE: ,,INDIÁNSKÁ POHÁDKA"'
 post_id: '80586'
 date: '2022-11-16T15:24:43.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-14.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-1-15.jpeg

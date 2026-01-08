@@ -3,7 +3,8 @@ title: TLAPKY.. únor
 post_id: '69072'
 date: '2022-03-05T09:16:53.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220226_094046.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220226_094048.jpg

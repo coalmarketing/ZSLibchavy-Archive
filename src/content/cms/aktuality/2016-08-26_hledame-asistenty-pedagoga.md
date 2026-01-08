@@ -3,7 +3,8 @@ title: Hledáme asistenty pedagoga
 post_id: '285'
 date: '2016-08-26T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

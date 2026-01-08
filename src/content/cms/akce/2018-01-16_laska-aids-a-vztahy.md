@@ -3,7 +3,8 @@ title: Láska, AIDS a vztahy
 post_id: '7812'
 date: '2018-01-16T23:21:35.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/005-5.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/008-5.jpg

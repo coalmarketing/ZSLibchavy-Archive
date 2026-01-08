@@ -3,7 +3,8 @@ title: Zahájení plaveckého výcviku
 post_id: '6224'
 date: '2017-01-31T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

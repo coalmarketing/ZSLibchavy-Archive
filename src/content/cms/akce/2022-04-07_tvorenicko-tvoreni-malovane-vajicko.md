@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: "malované vajíčko"'
 post_id: '71055'
 date: '2022-04-07T20:08:45.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220330_085810.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220330_085812.jpg

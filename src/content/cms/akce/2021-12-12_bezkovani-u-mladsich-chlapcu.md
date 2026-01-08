@@ -3,7 +3,8 @@ title: '"Běžkování" u mladších chlapců'
 post_id: '65406'
 date: '2021-12-12T14:41:02.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211210_122109.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211210_122125.jpg

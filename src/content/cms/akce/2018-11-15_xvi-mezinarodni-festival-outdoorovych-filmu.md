@@ -3,7 +3,8 @@ title: XVI. MEZINÁRODNÍ FESTIVAL OUTDOOROVÝCH FILMŮ
 post_id: '16504'
 date: '2018-11-15T22:34:19.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/001-5.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/002-5.jpg

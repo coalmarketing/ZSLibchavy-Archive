@@ -3,7 +3,8 @@ title: Kaštánkohrátky
 post_id: '26772'
 date: '2019-10-16T06:38:10.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10.jpeg

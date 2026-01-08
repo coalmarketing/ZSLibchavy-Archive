@@ -3,7 +3,8 @@ title: Projektový den k jarmarku ve 2. třídě
 post_id: '28535'
 date: '2019-11-25T20:09:15.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191122_082614.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191122_082802_1.jpg

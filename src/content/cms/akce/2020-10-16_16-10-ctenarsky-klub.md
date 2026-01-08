@@ -3,7 +3,8 @@ title: 16. 10. Čtenářský klub
 post_id: '44015'
 date: '2020-10-16T20:04:51.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/121659761_393797988301257_6833075052223825649_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/122117229_3997598836924167_8799062603573949958_n.jpg

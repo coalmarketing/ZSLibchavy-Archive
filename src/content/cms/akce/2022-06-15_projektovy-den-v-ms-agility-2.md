@@ -3,7 +3,8 @@ title: 'Projektový den v MŠ: "AGILITY" :-)'
 post_id: '75078'
 date: '2022-06-15T12:41:27.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220614_084049.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220614_084136.jpg

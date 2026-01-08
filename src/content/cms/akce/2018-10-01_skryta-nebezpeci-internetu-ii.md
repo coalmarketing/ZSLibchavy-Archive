@@ -3,7 +3,8 @@ title: Skrytá nebezpečí internetu II.
 post_id: '14226'
 date: '2018-10-01T18:07:22.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1294-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1299-2.jpg

@@ -3,7 +3,8 @@ title: Papoušci aneb létající barevné poklady
 post_id: '11248'
 date: '2018-05-22T15:53:54.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9403.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9405.jpg

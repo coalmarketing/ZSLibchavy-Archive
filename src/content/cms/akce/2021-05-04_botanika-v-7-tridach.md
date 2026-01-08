@@ -3,7 +3,8 @@ title: Botanika v 7. třídách
 post_id: '56872'
 date: '2021-05-04T20:51:11.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/16194501694481990861644503532920.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/1619537407714.jpg

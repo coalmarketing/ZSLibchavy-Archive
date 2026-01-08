@@ -3,7 +3,8 @@ title: Papouškové pondělí
 post_id: '41882'
 date: '2020-09-07T19:17:42.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/4.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_9131.jpg

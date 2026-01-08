@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,VÝPRAVA DO LESA"'
 post_id: '77169'
 date: '2022-09-16T07:04:42.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-17.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-15.jpeg

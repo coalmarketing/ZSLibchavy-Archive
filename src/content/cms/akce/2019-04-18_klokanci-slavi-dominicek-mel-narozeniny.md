@@ -3,7 +3,8 @@ title: 'Klokánci slaví: Dominiček měl narozeniny'
 post_id: '21139'
 date: '2019-04-18T13:08:26.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Dominiček-1.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/Dominiček-2.jpeg

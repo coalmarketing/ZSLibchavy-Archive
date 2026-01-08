@@ -3,7 +3,8 @@ title: 'Pátá výprava: Za koumáky  &quot;OBJEVITELÉ&quot;'
 post_id: '5823'
 date: '2015-01-24T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

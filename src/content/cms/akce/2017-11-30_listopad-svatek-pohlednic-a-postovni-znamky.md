@@ -3,7 +3,8 @@ title: Listopad-Svátek Pohlednic a poštovní známky
 post_id: '6714'
 date: '2017-11-30T21:20:53.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC01424.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC01425.jpg

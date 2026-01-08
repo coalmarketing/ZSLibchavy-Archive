@@ -3,7 +3,8 @@ title: Úspěch starších florbalistů
 post_id: '6171'
 date: '2016-11-28T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

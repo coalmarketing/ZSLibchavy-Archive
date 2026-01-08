@@ -3,7 +3,8 @@ title: Zahájení plaveckého výcviku - 1. a 5. třída
 post_id: '68285'
 date: '2022-02-15T16:58:25.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220215_105115.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220215_105130.jpg

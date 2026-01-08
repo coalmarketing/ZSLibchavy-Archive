@@ -3,7 +3,8 @@ title: Květinový den
 post_id: '5137'
 date: '2010-05-11T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

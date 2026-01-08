@@ -3,7 +3,8 @@ title: 'Broučci: vycházky za zvířátky'
 post_id: '27141'
 date: '2019-10-22T12:55:13.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191018_102936.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191018_103002.jpg

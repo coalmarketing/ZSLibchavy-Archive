@@ -3,7 +3,8 @@ title: Exkurze v Rietru
 post_id: '19621'
 date: '2019-03-11T20:30:04.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/005-9.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/006-7.jpg

@@ -3,7 +3,8 @@ title: Čarodějnický rej v MŠ :-)
 post_id: '56915'
 date: '2021-05-06T12:49:03.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210430-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210430-WA0002.jpg

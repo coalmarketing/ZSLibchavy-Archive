@@ -3,7 +3,8 @@ title: Plavání na 1. stupni
 post_id: '6055'
 date: '2016-04-13T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

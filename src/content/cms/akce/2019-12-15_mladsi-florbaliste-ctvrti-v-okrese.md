@@ -3,7 +3,8 @@ title: Mladší florbalisté čtvrtí v okrese
 post_id: '29294'
 date: '2019-12-15T23:06:23.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/016-11.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/019-16.jpg

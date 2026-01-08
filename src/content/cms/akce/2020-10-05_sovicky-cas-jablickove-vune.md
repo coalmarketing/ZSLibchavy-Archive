@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,čas jablíčkové vůně"'
 post_id: '42867'
 date: '2020-10-05T13:34:41.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-3.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-3.jpeg

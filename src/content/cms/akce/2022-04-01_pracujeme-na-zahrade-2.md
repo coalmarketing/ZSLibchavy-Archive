@@ -3,7 +3,8 @@ title: '"pracujeme na zahradě" :-)'
 post_id: '70747'
 date: '2022-04-01T08:00:24.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220325_094648.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220325_094652.jpg

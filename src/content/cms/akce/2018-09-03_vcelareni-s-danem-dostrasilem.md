@@ -3,7 +3,8 @@ title: Včelaření s Danem Dostrašilem
 post_id: '13939'
 date: '2018-09-03T22:05:59.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/091.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/092.jpg

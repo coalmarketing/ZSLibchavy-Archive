@@ -3,7 +3,8 @@ title: Husité v básničkách našich sedmáků
 post_id: '54572'
 date: '2021-03-22T09:15:58.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/AB.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/AB.png

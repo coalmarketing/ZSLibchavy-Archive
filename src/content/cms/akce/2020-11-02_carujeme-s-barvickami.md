@@ -3,7 +3,8 @@ title: Čarujeme s barvičkami
 post_id: '45234'
 date: '2020-11-02T06:23:00.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201027_100614.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201027_100638.jpg

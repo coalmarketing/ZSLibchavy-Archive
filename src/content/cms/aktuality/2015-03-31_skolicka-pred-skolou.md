@@ -3,7 +3,8 @@ title: Školička před školou
 post_id: '328'
 date: '2015-03-31T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

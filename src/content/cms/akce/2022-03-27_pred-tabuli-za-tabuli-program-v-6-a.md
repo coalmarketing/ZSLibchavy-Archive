@@ -3,7 +3,8 @@ title: Před tabulí, za tabulí - program v 6. A
 post_id: '70620'
 date: '2022-03-27T21:54:12.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220324_080948092-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220324_081329188_BURST000_COVER_TOP.jpg

@@ -3,7 +3,8 @@ title: 13. 5. Druhá třída v Lumpáriu
 post_id: '22314'
 date: '2019-05-13T22:29:45.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

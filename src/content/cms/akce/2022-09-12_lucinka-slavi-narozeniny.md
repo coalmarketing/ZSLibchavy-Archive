@@ -3,7 +3,8 @@ title: Lucinka slaví narozeniny
 post_id: '76977'
 date: '2022-09-12T15:40:26.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/306060056_411126271128339_1291797798065079559_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/306100785_2217357898434087_2151026072964317304_n.jpg

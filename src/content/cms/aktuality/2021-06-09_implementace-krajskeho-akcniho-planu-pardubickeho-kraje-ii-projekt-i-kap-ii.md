@@ -3,7 +3,8 @@ title: Implementace Krajského akčního plánu Pardubického kraje II (projekt 
 post_id: '59121'
 date: '2021-06-09T17:17:13.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

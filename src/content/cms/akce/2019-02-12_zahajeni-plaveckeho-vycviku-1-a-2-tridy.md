@@ -3,7 +3,8 @@ title: Zahájení plaveckého výcviku 1. a 2. třídy
 post_id: '18938'
 date: '2019-02-12T14:07:09.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P2120376.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P2120377.jpg

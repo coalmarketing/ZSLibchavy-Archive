@@ -3,7 +3,8 @@ title: TLAPKY - spaní ve škole
 post_id: '75925'
 date: '2022-06-24T11:22:50.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_183120.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_183122.jpg

@@ -3,7 +3,8 @@ title: Svátek "TANCE"
 post_id: '8240'
 date: '2018-01-25T15:17:30.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_5836.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_5837.jpg

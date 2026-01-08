@@ -3,7 +3,8 @@ title: NOVINKY!!! Začínáme!!!
 post_id: '5602'
 date: '2013-09-01T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

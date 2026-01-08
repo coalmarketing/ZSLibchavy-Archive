@@ -3,7 +3,8 @@ title: Mikuláš ve škole
 post_id: '6627'
 date: '2017-12-05T13:19:01.000Z'
 author: Mgr.Marie Linhartová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3536.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3538-1.jpg

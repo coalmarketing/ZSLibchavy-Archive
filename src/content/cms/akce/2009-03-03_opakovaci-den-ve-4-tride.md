@@ -3,7 +3,8 @@ title: Opakovací den ve 4.třídě
 post_id: '4965'
 date: '2009-03-03T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

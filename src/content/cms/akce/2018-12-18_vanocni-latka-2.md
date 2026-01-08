@@ -3,7 +3,8 @@ title: Vánoční laťka
 post_id: '17463'
 date: '2018-12-18T19:53:06.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/009-1-4.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/010-1-5.jpg

@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,SNĚHULÁCI PRO LEGRACI"'
 post_id: '50790'
 date: '2021-01-19T13:01:37.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-2-5.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-2-5.jpeg

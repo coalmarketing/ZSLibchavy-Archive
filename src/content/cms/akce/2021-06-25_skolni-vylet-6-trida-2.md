@@ -3,7 +3,8 @@ title: Školní výlet - 6. třída
 post_id: '60041'
 date: '2021-06-25T11:14:41.000Z'
 author: Mgr. Karolína Moravcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P1000087.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P1000088.jpg

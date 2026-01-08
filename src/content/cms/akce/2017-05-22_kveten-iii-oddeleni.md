@@ -3,7 +3,8 @@ title: Květen III.oddělení
 post_id: '6299'
 date: '2017-05-22T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

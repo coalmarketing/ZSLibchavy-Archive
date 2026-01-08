@@ -3,7 +3,8 @@ title: Tělesa - 7. třída
 post_id: '39631'
 date: '2020-06-05T21:31:52.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/15911192479055384134023511907334.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/15913377033833663588362111752179.jpg

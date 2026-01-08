@@ -3,7 +3,8 @@ title: Den Země a Fáboráček - II. stupeň
 post_id: '10695'
 date: '2018-05-02T21:18:16.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/032-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/034-3.jpg

@@ -3,7 +3,8 @@ title: První sníh
 post_id: '5974'
 date: '2015-11-23T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

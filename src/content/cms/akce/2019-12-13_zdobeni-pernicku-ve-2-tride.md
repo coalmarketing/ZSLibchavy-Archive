@@ -3,7 +3,8 @@ title: Zdobení perníčků ve 2. třídě
 post_id: '29198'
 date: '2019-12-13T12:16:24.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PC130374.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PC130375.jpg

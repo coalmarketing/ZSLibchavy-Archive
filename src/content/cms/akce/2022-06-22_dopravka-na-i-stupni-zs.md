@@ -3,7 +3,8 @@ title: Dopravka na I. stupni ZŠ
 post_id: '75805'
 date: '2022-06-22T18:54:43.000Z'
 author: Mgr.Helena Kujová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220621_082306-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220621_082310.jpg

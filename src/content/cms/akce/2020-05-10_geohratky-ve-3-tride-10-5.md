@@ -3,7 +3,8 @@ title: Geohrátky ve 3. třídě 10. 5.
 post_id: '37084'
 date: '2020-05-10T15:57:37.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20200505_123922.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20200505_123927.jpg

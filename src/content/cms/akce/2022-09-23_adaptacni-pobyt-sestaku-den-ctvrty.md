@@ -3,7 +3,8 @@ title: Adaptační pobyt šesťáků- den čtvrtý
 post_id: '77504'
 date: '2022-09-23T14:58:24.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/008399EA-7744-4A93-876A-0DA25065F0AD.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/239ACEF6-CACB-45CE-B2B6-9AD5F185A6A5.jpeg

@@ -3,7 +3,8 @@ title: Barevný týden
 post_id: '6132'
 date: '2016-09-11T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

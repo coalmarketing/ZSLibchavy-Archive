@@ -3,7 +3,8 @@ title: Štafetové běhy Emila Zátopka na II.stupni
 post_id: '5599'
 date: '2013-09-17T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

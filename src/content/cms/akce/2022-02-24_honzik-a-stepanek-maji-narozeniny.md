@@ -3,7 +3,8 @@ title: Honzík a Štěpánek mají narozeniny
 post_id: '68678'
 date: '2022-02-24T09:54:46.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/274111387_981404822799790_1445591000434775079_n-kopie-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/274126452_375231357373056_3456590976914909774_n.jpg

@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,VOŇAVÉ OZDOBY Z LEDU"'
 post_id: '50764'
 date: '2021-01-19T12:46:16.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-6.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-1-6.jpeg

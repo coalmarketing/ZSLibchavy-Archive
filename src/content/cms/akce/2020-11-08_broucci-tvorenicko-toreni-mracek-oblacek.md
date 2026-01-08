@@ -3,7 +3,8 @@ title: 'Broučci: Tvořeníčko, tvoření - Mráček, obláček'
 post_id: '45609'
 date: '2020-11-08T12:18:47.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201102_080937.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201102_080946.jpg

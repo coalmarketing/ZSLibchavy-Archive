@@ -3,7 +3,8 @@ title: Čistírna  odpadních vod
 post_id: '5196'
 date: '2010-11-02T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

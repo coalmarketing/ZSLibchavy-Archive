@@ -3,7 +3,8 @@ title: Velikonoce ve 4.B
 post_id: '34183'
 date: '2020-04-12T22:03:51.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Dušková.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Fikeis.jpg

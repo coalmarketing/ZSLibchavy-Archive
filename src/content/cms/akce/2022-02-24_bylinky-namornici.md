@@ -3,7 +3,8 @@ title: Bylinky - námořníci
 post_id: '68763'
 date: '2022-02-24T10:09:05.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/274105179_636945877365470_8928614069098418007_n-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/274132336_1748149395576253_1777220380502975876_n-1.jpg

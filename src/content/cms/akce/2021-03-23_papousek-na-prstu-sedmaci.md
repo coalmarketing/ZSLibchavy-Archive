@@ -3,7 +3,8 @@ title: Papoušek na prstu - sedmáci
 post_id: '54734'
 date: '2021-03-23T20:24:07.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1615281112191.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210309_103210.jpg

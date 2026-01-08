@@ -3,7 +3,8 @@ title: Výlet školní družinky do České Třebové
 post_id: '42722'
 date: '2020-10-02T21:20:18.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/0538CA26-7394-467C-B66E-FE05429DEF7F.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/1687DA24-B5E4-4AD8-91DF-C1D5677D11A0.jpeg

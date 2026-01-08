@@ -3,7 +3,8 @@ title: TLAPKY - České  Libchavy
 post_id: '75843'
 date: '2022-06-24T10:49:23.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_091216.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220521_091223.jpg

@@ -3,7 +3,8 @@ title: Třeťáci v knihovně
 post_id: '62264'
 date: '2021-10-07T12:02:32.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_2737.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_2739.jpg

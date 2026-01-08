@@ -3,7 +3,8 @@ title: Dotazníkové šetření na II. stupni
 post_id: '16506'
 date: '2018-11-10T23:06:57.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

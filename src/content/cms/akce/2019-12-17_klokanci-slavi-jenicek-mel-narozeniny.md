@@ -3,7 +3,8 @@ title: 'Klokánci slaví: Jeníček měl narozeniny'
 post_id: '29467'
 date: '2019-12-17T07:15:29.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191216-WA0042.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191216-WA0043.jpg

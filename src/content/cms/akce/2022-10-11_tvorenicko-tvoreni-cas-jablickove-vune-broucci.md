@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: "Čas Jablíčkové vůně" - Broučci :-)'
 post_id: '78400'
 date: '2022-10-11T12:53:53.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20221011-WA0012.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20221011-WA0014.jpg

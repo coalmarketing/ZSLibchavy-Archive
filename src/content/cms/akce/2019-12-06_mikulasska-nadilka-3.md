@@ -3,7 +3,8 @@ title: Mikulášská nadílka
 post_id: '28842'
 date: '2019-12-06T06:31:36.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2603.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2604.jpg

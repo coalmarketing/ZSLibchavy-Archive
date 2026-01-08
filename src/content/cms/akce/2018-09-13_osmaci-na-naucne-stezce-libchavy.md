@@ -3,7 +3,8 @@ title: '"Osmáci" na Naučné stezce Libchavy'
 post_id: '13683'
 date: '2018-09-13T10:19:47.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/006-5.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/007-7.jpg

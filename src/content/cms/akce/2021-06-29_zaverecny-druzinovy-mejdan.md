@@ -3,7 +3,8 @@ title: Závěrečný družinový mejdan
 post_id: '60324'
 date: '2021-06-29T14:13:26.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/28B49ED2-DAF8-4F80-B84D-EA70B2097AAA.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/290F7FD3-C588-40C4-94B8-126CC426B42B.jpeg

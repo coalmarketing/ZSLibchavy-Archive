@@ -3,7 +3,8 @@ title: Výlet "Pinguin park" - Přívrat
 post_id: '39390'
 date: '2020-06-03T06:27:29.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF3376-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF3377-1.jpg

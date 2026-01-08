@@ -3,7 +3,8 @@ title: Přírodovědná soutěž v České Třebové
 post_id: '5886'
 date: '2015-05-18T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

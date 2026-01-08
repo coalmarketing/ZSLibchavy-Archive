@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,ZIMNÍ RADOVÁNKY - VÝPRAVA NA SEVERNÍ A JIŽNÍ PÓL"'
 post_id: '52039'
 date: '2021-01-31T22:55:55.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-3-4.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-3-3.jpeg

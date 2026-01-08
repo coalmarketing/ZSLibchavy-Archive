@@ -3,7 +3,8 @@ title: Beseda s policistou
 post_id: '6233'
 date: '2017-01-28T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

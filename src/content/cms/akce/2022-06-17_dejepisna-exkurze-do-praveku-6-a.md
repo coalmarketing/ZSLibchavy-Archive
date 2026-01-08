@@ -3,7 +3,8 @@ title: Dějepisná exkurze do pravěku - 6. A
 post_id: '75436'
 date: '2022-06-17T23:56:30.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_111021.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220617_111250.jpg

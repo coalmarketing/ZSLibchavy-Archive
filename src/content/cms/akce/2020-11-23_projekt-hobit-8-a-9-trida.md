@@ -3,7 +3,8 @@ title: Projekt HOBIT - 8. a 9. třída
 post_id: '47397'
 date: '2020-11-23T11:52:13.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Snimek-obrazovky-2020-11-15-170920-1.png
 tags:

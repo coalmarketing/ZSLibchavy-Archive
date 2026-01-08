@@ -3,7 +3,8 @@ title: Druháčci - ukončení školního roku
 post_id: '41167'
 date: '2020-06-26T18:25:45.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P6240376.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P6240377.jpg

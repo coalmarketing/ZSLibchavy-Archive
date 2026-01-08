@@ -3,7 +3,8 @@ title: Den bez aktovek!
 post_id: '75405'
 date: '2022-06-17T12:25:03.000Z'
 author: Marta Kacálková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1910.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1913-2.jpg

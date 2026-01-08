@@ -3,7 +3,8 @@ title: Hledání pokladu
 post_id: '46976'
 date: '2020-11-19T16:40:09.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201119_105243.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201119_105438.jpg

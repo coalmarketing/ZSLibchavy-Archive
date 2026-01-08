@@ -3,7 +3,8 @@ title: Soutěž ve skoku dalekém - Žabák
 post_id: '42998'
 date: '2020-10-07T17:41:11.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_2311-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_2311.jpg

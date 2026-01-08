@@ -3,7 +3,8 @@ title: 'Broučci: tvořeníčko, tvoření: "karneval" :-)'
 post_id: '69947'
 date: '2022-03-20T12:45:43.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220314_090949.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220314_093551.jpg

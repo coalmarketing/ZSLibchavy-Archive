@@ -3,7 +3,8 @@ title: TLAPKY 1.-Praha- cesta a Neviditelná výstava
 post_id: '70855'
 date: '2022-04-04T14:58:00.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220402_102847.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220402_102850.jpg

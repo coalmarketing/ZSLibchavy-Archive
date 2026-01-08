@@ -3,7 +3,8 @@ title: HONZA KREJČÍK - loučení s předškoláky
 post_id: '76411'
 date: '2022-07-23T15:53:13.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/291756747_1031188900732272_3655816135403538152_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/291770715_1036810077194773_466764909990374872_n.jpg

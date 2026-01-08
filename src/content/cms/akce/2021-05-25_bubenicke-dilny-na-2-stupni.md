@@ -3,7 +3,8 @@ title: Bubenické dílny na 2. stupni
 post_id: '57853'
 date: '2021-05-25T16:18:15.000Z'
 author: Mgr.Marie Linhartová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7206.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7207.jpg

@@ -3,7 +3,8 @@ title: Klokánci a Broučci se těší na Masopust
 post_id: '8472'
 date: '2018-02-01T18:08:47.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180201_104330_1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180201_104334_1.jpg

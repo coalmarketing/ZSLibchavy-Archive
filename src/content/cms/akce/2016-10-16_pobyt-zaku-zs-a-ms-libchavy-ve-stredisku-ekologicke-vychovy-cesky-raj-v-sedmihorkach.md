@@ -3,7 +3,8 @@ title: Pobyt žáků ZŠ a MŠ Libchavy ve středisku ekologické výchovy Česk
 post_id: '6173'
 date: '2016-10-16T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

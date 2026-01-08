@@ -3,7 +3,8 @@ title: Vánoční besídka v 1. třídě
 post_id: '66173'
 date: '2022-01-03T16:01:33.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220103_091557.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220103_091618.jpg

@@ -3,7 +3,8 @@ title: 'Broučci: "modelování nás baví"'
 post_id: '9709'
 date: '2018-03-24T21:26:21.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180321_075827_1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180321_075831_1.jpg

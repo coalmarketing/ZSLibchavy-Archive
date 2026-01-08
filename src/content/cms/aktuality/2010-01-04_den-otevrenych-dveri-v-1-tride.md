@@ -3,7 +3,8 @@ title: Den otevřených dveří v 1.třídě
 post_id: '507'
 date: '2010-01-04T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

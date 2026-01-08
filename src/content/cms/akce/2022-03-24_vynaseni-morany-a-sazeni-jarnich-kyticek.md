@@ -3,7 +3,8 @@ title: Vynášení Morany :-)
 post_id: '70419'
 date: '2022-03-24T13:47:27.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220321_090822.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220321_090834.jpg

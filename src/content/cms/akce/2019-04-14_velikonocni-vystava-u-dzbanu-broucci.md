@@ -3,7 +3,8 @@ title: 'Velikonoční výstava U Džbánu: Broučci'
 post_id: '20886'
 date: '2019-04-14T11:40:32.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190412_104411.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190412_104421.jpg

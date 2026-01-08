@@ -3,7 +3,8 @@ title: Prvňáčci na Velikonoční výstavě
 post_id: '20835'
 date: '2019-04-12T13:13:02.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P4120375.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P4120376.jpg

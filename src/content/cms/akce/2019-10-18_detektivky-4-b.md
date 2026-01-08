@@ -3,7 +3,8 @@ title: Detektivky 4.B
 post_id: '27070'
 date: '2019-10-18T13:42:00.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191018_100902-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191018_102451.jpg

@@ -3,7 +3,8 @@ title: Družinka na "VELIKONOČNÍ  VÝSTAVĚ"
 post_id: '9581'
 date: '2018-03-21T14:32:24.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_5945-e1521638965539.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_5946.jpg

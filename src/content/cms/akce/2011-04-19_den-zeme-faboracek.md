@@ -3,7 +3,8 @@ title: Den Země - Fáboráček
 post_id: '5258'
 date: '2011-04-19T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

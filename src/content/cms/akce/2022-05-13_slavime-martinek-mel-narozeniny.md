@@ -3,7 +3,8 @@ title: 'Slavíme: Martínek měl narozeniny :-)'
 post_id: '73104'
 date: '2022-05-13T09:21:46.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220509_081546.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220509_081556.jpg

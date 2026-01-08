@@ -3,7 +3,8 @@ title: Termíny otevřených dveří na středních školách
 post_id: '446'
 date: '2011-11-16T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

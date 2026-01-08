@@ -3,7 +3,8 @@ title: podzim u Klokánků I.- malujeme, tvoříme, hrajeme si
 post_id: '15519'
 date: '2018-10-30T15:48:38.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180920_064551-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180920_081230-1.jpg

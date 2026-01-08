@@ -3,7 +3,8 @@ title: Model plic
 post_id: '55559'
 date: '2021-04-06T01:07:11.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210331_173224.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Snimek-obrazovky-2021-03-30-221353.png

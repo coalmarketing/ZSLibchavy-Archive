@@ -3,7 +3,8 @@ title: Den Země a Fáboráček - II.stupeň
 post_id: '5881'
 date: '2015-04-23T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Exkurze v Praze
 post_id: '5597'
 date: '2013-09-16T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

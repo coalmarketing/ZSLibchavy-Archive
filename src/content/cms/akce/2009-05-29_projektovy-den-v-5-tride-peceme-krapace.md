@@ -3,7 +3,8 @@ title: Projektový den v 5.třídě - Pečeme křapáče
 post_id: '5015'
 date: '2009-05-29T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

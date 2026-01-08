@@ -3,7 +3,8 @@ title: STEZKA SVATÉHO MARTINA
 post_id: '80517'
 date: '2022-11-16T07:14:05.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221110_160349.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221110_160417.jpg

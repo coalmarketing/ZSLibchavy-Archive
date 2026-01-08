@@ -3,7 +3,8 @@ title: Divadýlko "KOCOUREK MOUREK"
 post_id: '8705'
 date: '2018-02-12T20:09:26.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180212_083112_1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180212_083125_1.jpg

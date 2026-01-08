@@ -3,7 +3,8 @@ title: '&quot;Zlatovláska&quot;  a úkoly pro Jiříka'
 post_id: '5776'
 date: '2014-11-13T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

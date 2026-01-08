@@ -3,7 +3,8 @@ title: Ukázková hodina karate
 post_id: '25669'
 date: '2019-09-15T08:06:15.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190912_100817.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190912_102627.jpg

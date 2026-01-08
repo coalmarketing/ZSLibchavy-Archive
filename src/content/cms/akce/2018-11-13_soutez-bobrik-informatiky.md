@@ -3,7 +3,8 @@ title: Soutěž Bobřík informatiky
 post_id: '16367'
 date: '2018-11-13T14:28:37.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181105_095658.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181105_103023.jpg

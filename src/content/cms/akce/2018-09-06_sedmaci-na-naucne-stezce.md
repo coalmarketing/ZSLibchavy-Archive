@@ -3,7 +3,8 @@ title: Sedmáci na naučné stezce
 post_id: '13776'
 date: '2018-09-06T18:16:40.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1204-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1209.jpg

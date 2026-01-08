@@ -3,7 +3,8 @@ title: Prvňáčci ve školkách
 post_id: '25902'
 date: '2019-09-24T18:12:53.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190920_094637.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190920_094724.jpg

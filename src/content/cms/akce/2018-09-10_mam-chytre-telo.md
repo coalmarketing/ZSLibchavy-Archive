@@ -3,7 +3,8 @@ title: Mám chytré tělo
 post_id: '13791'
 date: '2018-09-10T18:33:39.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1231-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1232-3.jpg

@@ -3,7 +3,8 @@ title: Pedagogická praxe
 post_id: '5654'
 date: '2014-01-19T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

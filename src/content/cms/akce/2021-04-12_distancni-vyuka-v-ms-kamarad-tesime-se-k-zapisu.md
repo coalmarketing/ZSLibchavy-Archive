@@ -3,7 +3,8 @@ title: Distanční výuka v MŠ Kamarád ("Těšíme se k zápisu") :-)
 post_id: '55823'
 date: '2021-04-12T18:03:09.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20210409_160634.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210409_160655.jpg

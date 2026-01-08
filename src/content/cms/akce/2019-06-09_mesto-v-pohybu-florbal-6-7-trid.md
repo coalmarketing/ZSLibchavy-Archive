@@ -3,7 +3,8 @@ title: Město v pohybu - florbal 6. - 7. tříd
 post_id: '24356'
 date: '2019-06-09T22:06:39.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

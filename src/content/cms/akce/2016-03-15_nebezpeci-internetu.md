@@ -3,7 +3,8 @@ title: Nebezpečí internetu
 post_id: '6033'
 date: '2016-03-15T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

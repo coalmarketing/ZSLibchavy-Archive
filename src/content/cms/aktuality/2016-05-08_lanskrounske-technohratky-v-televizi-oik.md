@@ -3,7 +3,8 @@ title: Lanškrounské TECHNOhrátky v televizi OIK
 post_id: '290'
 date: '2016-05-08T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

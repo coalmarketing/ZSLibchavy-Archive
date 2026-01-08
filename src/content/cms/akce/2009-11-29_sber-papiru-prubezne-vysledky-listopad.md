@@ -3,7 +3,8 @@ title: Sběr papíru - průběžné výsledky - listopad
 post_id: '5063'
 date: '2009-11-29T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

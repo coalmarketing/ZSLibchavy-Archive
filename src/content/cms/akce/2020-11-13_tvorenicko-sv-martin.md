@@ -3,7 +3,8 @@ title: 'TVOŘENÍČKO: ,,SV. MARTIN"'
 post_id: '46243'
 date: '2020-11-13T11:39:38.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-4.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-1-4.jpeg

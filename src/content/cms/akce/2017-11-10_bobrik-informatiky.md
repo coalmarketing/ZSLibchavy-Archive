@@ -3,7 +3,8 @@ title: Bobřík Informatiky
 post_id: '4569'
 date: '2017-11-10T13:51:53.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0814.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0817.jpg

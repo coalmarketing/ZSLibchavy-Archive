@@ -3,7 +3,8 @@ title: 'Slavíme: Štěpánek K., Vanesska a Klárka - narozeniny'
 post_id: '49136'
 date: '2020-12-11T12:45:27.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20201210-WA0001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20201210-WA0002.jpg

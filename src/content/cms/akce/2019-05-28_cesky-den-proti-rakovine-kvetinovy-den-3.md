@@ -3,7 +3,8 @@ title: ČESKÝ DEN PROTI RAKOVINĚ - KVĚTINOVÝ DEN
 post_id: '23104'
 date: '2019-05-28T10:31:06.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

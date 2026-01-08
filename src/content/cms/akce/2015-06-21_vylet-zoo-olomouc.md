@@ -3,7 +3,8 @@ title: Výlet ZOO Olomouc
 post_id: '5914'
 date: '2015-06-21T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

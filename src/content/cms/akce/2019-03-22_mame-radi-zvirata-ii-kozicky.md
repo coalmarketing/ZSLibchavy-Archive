@@ -3,7 +3,8 @@ title: 'Máme rádi zvířata II.: kozičky'
 post_id: '19920'
 date: '2019-03-22T07:25:18.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190317-WA0050-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190317-WA0051-1.jpg

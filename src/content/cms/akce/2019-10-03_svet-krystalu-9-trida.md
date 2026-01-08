@@ -3,7 +3,8 @@ title: Svět krystalů - 9. třída
 post_id: '26297'
 date: '2019-10-03T22:30:40.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/004-10.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/006-10.jpg

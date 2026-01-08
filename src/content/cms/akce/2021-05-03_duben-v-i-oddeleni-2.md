@@ -3,7 +3,8 @@ title: Duben v I. oddělení
 post_id: '56720'
 date: '2021-05-03T07:21:25.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210426_141631.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_8452.jpg

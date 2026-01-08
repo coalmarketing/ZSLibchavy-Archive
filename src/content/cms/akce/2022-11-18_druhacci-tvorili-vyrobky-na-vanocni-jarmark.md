@@ -3,7 +3,8 @@ title: Druháčci tvořili výrobky na vánoční jarmark
 post_id: '80687'
 date: '2022-11-18T13:22:39.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221118_081834.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221118_081855.jpg

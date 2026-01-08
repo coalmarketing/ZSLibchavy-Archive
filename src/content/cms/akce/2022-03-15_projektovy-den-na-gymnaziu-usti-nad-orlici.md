@@ -3,7 +3,8 @@ title: Projektový den na Gymnáziu Ústí nad Orlicí
 post_id: '69812'
 date: '2022-03-15T21:33:28.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1438.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1442-2.jpg

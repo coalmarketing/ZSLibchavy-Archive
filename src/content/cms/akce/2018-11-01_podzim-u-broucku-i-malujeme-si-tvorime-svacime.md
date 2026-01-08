@@ -3,7 +3,8 @@ title: 'podzim u Broučků I.: malujeme si, tvoříme, svačíme'
 post_id: '15715'
 date: '2018-11-01T11:14:21.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20180926-WA0002.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20181021-WA0005.jpg

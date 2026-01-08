@@ -3,7 +3,8 @@ title: Vánoční setkání s rodiči- Námořníci
 post_id: '17275'
 date: '2018-12-14T08:47:33.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0321.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0322.jpg

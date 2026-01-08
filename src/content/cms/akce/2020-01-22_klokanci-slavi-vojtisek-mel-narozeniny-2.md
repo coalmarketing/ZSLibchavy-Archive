@@ -3,7 +3,8 @@ title: 'Klokánci slaví: Vojtíšek měl narozeniny'
 post_id: '30125'
 date: '2020-01-22T07:01:24.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200119-WA0002.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200119-WA0003.jpg

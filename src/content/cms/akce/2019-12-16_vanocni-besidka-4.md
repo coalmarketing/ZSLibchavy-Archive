@@ -3,7 +3,8 @@ title: Vánoční besídka
 post_id: '29298'
 date: '2019-12-16T06:49:10.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2645.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2646.jpg

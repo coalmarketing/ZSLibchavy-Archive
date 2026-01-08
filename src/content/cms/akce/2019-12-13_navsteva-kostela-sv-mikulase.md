@@ -3,7 +3,8 @@ title: Návštěva Kostela sv. Mikuláše
 post_id: '29205'
 date: '2019-12-13T15:09:56.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7170-kopie-kopie.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7171-kopie-kopie.jpg

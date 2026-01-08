@@ -3,7 +3,8 @@ title: Výzdoba školy
 post_id: '64828'
 date: '2021-12-05T19:43:14.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211122_140331.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211122_140346.jpg

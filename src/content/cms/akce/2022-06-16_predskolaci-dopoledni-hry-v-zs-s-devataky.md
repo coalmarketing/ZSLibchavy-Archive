@@ -3,7 +3,8 @@ title: 'PŘEDŠKOLÁCI: DOPOLEDNÍ HRY V ZŠ S DEVÁŤÁKY'
 post_id: '75214'
 date: '2022-06-16T06:30:31.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/0E373BEA-7AB7-47E3-A870-7A165ACABCBD.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/17CF056E-93B5-4E10-B882-4B20C6279062.jpeg

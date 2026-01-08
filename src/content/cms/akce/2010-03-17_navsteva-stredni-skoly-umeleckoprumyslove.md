@@ -3,7 +3,8 @@ title: Návštěva Střední školy uměleckoprůmyslové
 post_id: '5124'
 date: '2010-03-17T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

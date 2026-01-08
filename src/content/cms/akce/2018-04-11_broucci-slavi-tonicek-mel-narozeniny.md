@@ -3,7 +3,8 @@ title: 'Broučci slaví: Toníček měl narozeniny'
 post_id: '10014'
 date: '2018-04-11T06:24:08.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20180403_092111.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20180403_092118.jpg

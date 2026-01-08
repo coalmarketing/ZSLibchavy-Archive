@@ -3,7 +3,8 @@ title: Projektový den na Gymnáziu ÚO
 post_id: '62608'
 date: '2021-10-19T23:43:20.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1231-4.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1236-2.jpg

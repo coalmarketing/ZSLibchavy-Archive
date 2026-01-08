@@ -3,7 +3,8 @@ title: 1.A v Obecní knihovně
 post_id: '78134'
 date: '2022-10-04T13:59:41.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221004_090931.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221004_091050.jpg

@@ -3,7 +3,8 @@ title: Poslední dny školního roku v 1. třídě
 post_id: '76322'
 date: '2022-06-30T07:27:17.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220628_082153.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220628_082203.jpg

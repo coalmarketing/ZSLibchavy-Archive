@@ -3,7 +3,8 @@ title: Regionální učebnice na veletrhu úspěchů škol
 post_id: '68550'
 date: '2022-02-20T17:57:17.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220217_1414201.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220217_141427.jpg

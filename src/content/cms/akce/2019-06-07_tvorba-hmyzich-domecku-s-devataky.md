@@ -3,7 +3,8 @@ title: Tvorba hmyzích domečků s deváťáky
 post_id: '23676'
 date: '2019-06-07T07:57:55.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF1498.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF1499.jpg

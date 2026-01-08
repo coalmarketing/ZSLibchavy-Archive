@@ -3,7 +3,8 @@ title: 23. 9. Beseda o morčatech, 3. třída
 post_id: '26057'
 date: '2019-09-25T22:46:17.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0007.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190923_110536.jpg

@@ -3,7 +3,8 @@ title: Projekt "Hlemýžď" v 6. třídě
 post_id: '57882'
 date: '2021-05-25T21:48:49.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210331_213718.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210331_213826.jpg

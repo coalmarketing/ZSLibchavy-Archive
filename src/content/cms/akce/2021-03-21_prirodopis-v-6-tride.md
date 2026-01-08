@@ -3,7 +3,8 @@ title: Přírodopis v 6. třídě
 post_id: '54517'
 date: '2021-03-21T20:33:48.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1615884585298.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210311_090823.jpg

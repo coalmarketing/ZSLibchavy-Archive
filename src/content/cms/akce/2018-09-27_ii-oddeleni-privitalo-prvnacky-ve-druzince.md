@@ -3,7 +3,8 @@ title: II. oddělení přivítalo prvňáčky ve družince
 post_id: '13561'
 date: '2018-09-27T14:18:28.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6446.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6447.jpg

@@ -3,7 +3,8 @@ title: 22.4. - Ekologický den
 post_id: '551'
 date: '2009-04-21T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

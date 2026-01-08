@@ -3,7 +3,8 @@ title: 'SOVIČKY: TVOŘENÍ'
 post_id: '78054'
 date: '2022-10-03T15:21:28.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-18.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-16.jpeg

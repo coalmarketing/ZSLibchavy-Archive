@@ -3,7 +3,8 @@ title: Graffiti ve 4. třídě
 post_id: '8298'
 date: '2018-01-29T17:20:07.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_1854-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_1855.jpg

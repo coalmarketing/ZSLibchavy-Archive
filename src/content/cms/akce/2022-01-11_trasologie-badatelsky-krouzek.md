@@ -3,7 +3,8 @@ title: Trasologie - Badatelský kroužek
 post_id: '66680'
 date: '2022-01-11T22:58:58.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220110_154234.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220110_154240.jpg

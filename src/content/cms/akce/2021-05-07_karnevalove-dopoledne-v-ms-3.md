@@ -3,7 +3,8 @@ title: Karnevalové  dopoledne v MŠ :-)
 post_id: '57088'
 date: '2021-05-07T13:30:37.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210506-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210506-WA0001.jpg

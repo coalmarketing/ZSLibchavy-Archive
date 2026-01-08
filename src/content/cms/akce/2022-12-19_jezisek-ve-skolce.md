@@ -3,7 +3,8 @@ title: '"Ježíšek ve školce" :-)'
 post_id: '82365'
 date: '2022-12-19T12:42:41.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221219_090701.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221219_090722.jpg

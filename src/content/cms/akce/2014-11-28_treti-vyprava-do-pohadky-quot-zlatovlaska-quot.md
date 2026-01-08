@@ -3,7 +3,8 @@ title: 'Třetí výprava : Do pohádky  &quot;ZLATOVLÁSKA&quot;'
 post_id: '5782'
 date: '2014-11-28T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

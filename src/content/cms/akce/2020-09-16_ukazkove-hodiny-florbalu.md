@@ -3,7 +3,8 @@ title: Úkazkové hodiny florbalu
 post_id: '42219'
 date: '2020-09-16T07:31:27.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200915_100426.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200915_100433.jpg

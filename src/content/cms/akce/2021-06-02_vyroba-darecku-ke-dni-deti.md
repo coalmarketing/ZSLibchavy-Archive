@@ -3,7 +3,8 @@ title: '"výroba" dárečku ke dni dětí :-)'
 post_id: '58317'
 date: '2021-06-02T13:33:42.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210527_074121.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210527_074123.jpg

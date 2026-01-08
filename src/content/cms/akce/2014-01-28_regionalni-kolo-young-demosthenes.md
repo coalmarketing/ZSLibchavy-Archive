@@ -3,7 +3,8 @@ title: Regionální kolo - Young Demosthenes
 post_id: '5668'
 date: '2014-01-28T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

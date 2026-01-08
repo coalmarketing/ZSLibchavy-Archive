@@ -3,7 +3,8 @@ title: Pinguin park
 post_id: '75286'
 date: '2022-06-16T06:49:27.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/284645129_291867359735680_6655952582803767633_n-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/284648564_4834574346643293_3567872372852427796_n-1.jpg

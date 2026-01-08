@@ -3,7 +3,8 @@ title: Sex, AIDS a vztahy
 post_id: '18248'
 date: '2019-01-12T21:04:20.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/093-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/097-2.jpg

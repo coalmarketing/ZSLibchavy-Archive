@@ -3,7 +3,8 @@ title: Sběr papíru - říjen
 post_id: '484'
 date: '2010-11-02T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: 2.oddèleni - PODZIMNÍ TVOŘENÍ .
 post_id: '62214'
 date: '2021-10-06T11:22:34.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

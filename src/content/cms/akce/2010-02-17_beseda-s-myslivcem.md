@@ -3,7 +3,8 @@ title: Beseda s myslivcem
 post_id: '5110'
 date: '2010-02-17T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

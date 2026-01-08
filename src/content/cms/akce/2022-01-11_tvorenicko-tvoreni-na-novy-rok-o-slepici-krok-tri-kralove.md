@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: "NA NOVÝ ROK O SLEPIČÍ KROK" - TŘI KRÁLOV
 post_id: '66583'
 date: '2022-01-11T12:56:07.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220106_070308.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220106_070312.jpg

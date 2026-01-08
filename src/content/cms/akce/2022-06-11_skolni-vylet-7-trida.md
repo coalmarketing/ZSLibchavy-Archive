@@ -3,7 +3,8 @@ title: Školní výlet 7. třída
 post_id: '74883'
 date: '2022-06-11T11:45:29.000Z'
 author: Mgr. Karolína Moravcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220610-WA0001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220610-WA0002.jpg

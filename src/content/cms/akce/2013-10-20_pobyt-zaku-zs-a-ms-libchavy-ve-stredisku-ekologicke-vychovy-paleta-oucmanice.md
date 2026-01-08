@@ -3,7 +3,8 @@ title: Pobyt žáků ZŠ a MŠ Libchavy ve středisku ekologické výchovy PALET
 post_id: '5619'
 date: '2013-10-20T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

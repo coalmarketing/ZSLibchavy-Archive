@@ -3,7 +3,8 @@ title: 'Divadýlko v MŠ: "Jak se Honza stal rytířem" :-)'
 post_id: '63479'
 date: '2021-11-05T12:49:22.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211102_103225.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211102_103232.jpg

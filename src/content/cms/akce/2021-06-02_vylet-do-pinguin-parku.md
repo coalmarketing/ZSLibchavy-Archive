@@ -3,7 +3,8 @@ title: Výlet do Pinguin parku
 post_id: '58083'
 date: '2021-06-02T08:13:25.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6670.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6671.jpg

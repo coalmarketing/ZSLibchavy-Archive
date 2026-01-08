@@ -3,7 +3,8 @@ title: Abeceda peněz
 post_id: '21386'
 date: '2019-04-29T18:51:28.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/1-10.jpg

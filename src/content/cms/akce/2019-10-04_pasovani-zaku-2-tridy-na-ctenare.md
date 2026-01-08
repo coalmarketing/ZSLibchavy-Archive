@@ -3,7 +3,8 @@ title: Pasování žáků 2. třídy na čtenáře
 post_id: '26373'
 date: '2019-10-04T12:36:14.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PA040375.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PA040376.jpg

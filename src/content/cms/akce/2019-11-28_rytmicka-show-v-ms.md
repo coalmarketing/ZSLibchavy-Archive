@@ -3,7 +3,8 @@ title: '"RYTMICKÁ SHOW" v MŠ'
 post_id: '28578'
 date: '2019-11-28T11:28:16.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/0386379E-E7E7-4B0E-95FE-C68C23B166BC.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/098599E2-646A-4EC7-8BB0-74F5FCCC1316.jpeg

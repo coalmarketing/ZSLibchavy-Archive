@@ -3,7 +3,8 @@ title: Předávání Slabikářů
 post_id: '6159'
 date: '2016-11-14T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

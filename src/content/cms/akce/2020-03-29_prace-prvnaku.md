@@ -3,7 +3,8 @@ title: Práce prvňáků
 post_id: '33026'
 date: '2020-03-29T18:50:15.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Amálka-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Amálka-2.jpg

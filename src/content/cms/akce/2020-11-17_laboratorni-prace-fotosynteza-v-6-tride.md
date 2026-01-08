@@ -3,7 +3,8 @@ title: Laboratorní práce FOTOSYNTÉZA v 6.třídě
 post_id: '46798'
 date: '2020-11-17T19:18:06.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Snimek-obrazovky-2020-11-17-181717.png
 - url: https://zslibchavycz.b-cdn.net/wp/Snimek-obrazovky-2020-11-17-182255.png

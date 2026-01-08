@@ -3,7 +3,8 @@ title: 1. třída na návštěvě v MŠ Horní Libchavy
 post_id: '13863'
 date: '2018-09-19T13:44:52.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P9190374.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P9190376.jpg

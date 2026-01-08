@@ -3,7 +3,8 @@ title: Předávání Slabikářů
 post_id: '81572'
 date: '2022-12-05T17:14:10.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221201_090446.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221201_090457.jpg

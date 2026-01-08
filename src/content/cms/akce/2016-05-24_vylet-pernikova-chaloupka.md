@@ -3,7 +3,8 @@ title: VÝLET - PERNÍKOVÁ CHALOUPKA
 post_id: '6113'
 date: '2016-05-24T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

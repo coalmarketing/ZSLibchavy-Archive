@@ -3,7 +3,8 @@ title: Odpolední modelování
 post_id: '19412'
 date: '2019-03-04T13:25:28.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190226_145619-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190226_145620-1.jpg

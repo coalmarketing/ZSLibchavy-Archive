@@ -3,7 +3,8 @@ title: Čas pro domácí mazlíčky
 post_id: '5970'
 date: '2015-11-26T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

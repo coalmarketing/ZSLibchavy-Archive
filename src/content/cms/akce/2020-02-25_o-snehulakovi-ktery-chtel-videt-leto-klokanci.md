@@ -3,7 +3,8 @@ title: O sněhulákovi, který chtěl vidět léto (Klokánci)
 post_id: '31468'
 date: '2020-02-25T10:53:07.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200223-WA0024.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200223-WA0025.jpg

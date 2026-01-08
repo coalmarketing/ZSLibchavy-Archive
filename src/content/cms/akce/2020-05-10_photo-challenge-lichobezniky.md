@@ -3,7 +3,8 @@ title: Photo challenge - lichoběžníky
 post_id: '36720'
 date: '2020-05-10T14:52:20.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/15886733679458887714253651521580.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/15886836300921254412546945436296.jpg

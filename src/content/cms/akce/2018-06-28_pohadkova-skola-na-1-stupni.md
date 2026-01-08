@@ -3,7 +3,8 @@ title: Pohádková škola na 1. stupni
 post_id: '13421'
 date: '2018-06-28T17:03:27.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P6281027.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P6281030.jpg

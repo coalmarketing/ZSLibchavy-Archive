@@ -3,7 +3,8 @@ title: Zoinka má narozeniny
 post_id: '70371'
 date: '2022-03-23T12:27:00.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/275525589_634555587606125_531844915755451297_n-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/275543695_456347802938795_4165905209644457546_n-2.jpg

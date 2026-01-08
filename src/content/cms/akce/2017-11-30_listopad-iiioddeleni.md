@@ -3,7 +3,8 @@ title: Listopad III:oddělení
 post_id: '6731'
 date: '2017-11-30T22:56:44.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

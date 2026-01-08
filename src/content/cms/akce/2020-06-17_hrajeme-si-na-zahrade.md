@@ -3,7 +3,8 @@ title: Hrajeme si na zahradě:-)
 post_id: '40633'
 date: '2020-06-17T12:42:17.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200617_102730.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200617_102739.jpg

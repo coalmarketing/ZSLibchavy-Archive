@@ -3,7 +3,8 @@ title: Předškoláčci ve DRUŽINCE
 post_id: '22268'
 date: '2019-05-16T15:30:23.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7808-kopie.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7809-kopie.jpg

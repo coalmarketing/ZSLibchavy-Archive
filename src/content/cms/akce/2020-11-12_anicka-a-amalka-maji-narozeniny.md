@@ -3,7 +3,8 @@ title: Anička a Amálka mají narozeniny
 post_id: '46169'
 date: '2020-11-12T15:08:21.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF3663-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF3664-1.jpg

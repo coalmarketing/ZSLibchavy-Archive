@@ -3,7 +3,8 @@ title: Adélka slaví narozeniny
 post_id: '41658'
 date: '2020-08-31T09:46:09.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/260B3F68-00C2-4FD8-BD05-7C19FF211948.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/3E5BC77C-E28F-4A97-967F-4DB5DDCF10B6.jpeg

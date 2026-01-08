@@ -3,7 +3,8 @@ title: 'Broučci slaví: Míša, Jeníček a jejich narozeniny'
 post_id: '6690'
 date: '2017-12-06T18:10:51.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20171127_094119.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20171127_094140.jpg

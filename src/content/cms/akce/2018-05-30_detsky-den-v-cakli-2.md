@@ -3,7 +3,8 @@ title: Dětský den v Cakli
 post_id: '11565'
 date: '2018-05-30T21:56:44.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P5301028.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P5301029.jpg

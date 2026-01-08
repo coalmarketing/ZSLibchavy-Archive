@@ -3,7 +3,8 @@ title: 'Slavíme: Lucinka měla narozeniny :-)'
 post_id: '73871'
 date: '2022-05-31T19:44:11.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220525_101330.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220525_101337.jpg

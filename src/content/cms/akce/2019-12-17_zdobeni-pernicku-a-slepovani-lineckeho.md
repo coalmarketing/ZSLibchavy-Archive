@@ -3,7 +3,8 @@ title: Zdobení perníčků a slepování lineckého
 post_id: '29489'
 date: '2019-12-17T07:23:09.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191215-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191215-WA0001.jpg

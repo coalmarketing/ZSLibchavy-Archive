@@ -3,7 +3,8 @@ title: 8. 12. Vánoční přání
 post_id: '65310'
 date: '2021-12-08T23:18:34.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/262812459_328602332433957_8381777160819795390_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/263522537_428307258780497_8399028514719442619_n.jpg

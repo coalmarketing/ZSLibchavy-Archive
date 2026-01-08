@@ -3,7 +3,8 @@ title: Anička má narozeniny!
 post_id: '47871'
 date: '2020-12-02T07:34:42.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0783973.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0793976.jpg

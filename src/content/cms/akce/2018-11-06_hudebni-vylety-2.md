@@ -3,7 +3,8 @@ title: Hudební výlety
 post_id: '16277'
 date: '2018-11-06T06:34:42.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181101_095450-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181101_095745-1.jpg

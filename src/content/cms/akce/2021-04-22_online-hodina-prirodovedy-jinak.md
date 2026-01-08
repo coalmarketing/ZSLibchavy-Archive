@@ -3,7 +3,8 @@ title: Online hodina přírodovědy jinak
 post_id: '56315'
 date: '2021-04-22T11:50:47.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/d.png
 - url: https://zslibchavycz.b-cdn.net/wp/k.png

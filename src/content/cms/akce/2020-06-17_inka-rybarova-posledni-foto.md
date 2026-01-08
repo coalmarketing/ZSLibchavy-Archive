@@ -3,7 +3,8 @@ title: Inka Rybářová, poslední foto
 post_id: '40658'
 date: '2020-06-17T12:56:21.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200616-WA0004.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200616-WA0005.jpg

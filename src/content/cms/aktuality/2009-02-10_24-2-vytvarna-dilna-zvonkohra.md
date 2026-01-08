@@ -3,7 +3,8 @@ title: 24.2. Výtvarná dílna - ZVONKOHRA
 post_id: '570'
 date: '2009-02-10T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: Krmítka pro ptáčky :-)
 post_id: '52632'
 date: '2021-02-12T21:27:01.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG20210123094727_00.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG20210123100521_00.jpg

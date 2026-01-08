@@ -3,7 +3,8 @@ title: MARTINOVO POSELSTVÍ
 post_id: '15696'
 date: '2018-10-31T12:09:00.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

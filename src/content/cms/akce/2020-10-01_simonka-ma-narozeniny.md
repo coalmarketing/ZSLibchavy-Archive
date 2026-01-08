@@ -3,7 +3,8 @@ title: Simonka má narozeniny
 post_id: '42687'
 date: '2020-10-01T14:24:18.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/119086419_844344822637344_699808053912206702_n-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/119126611_658125965102753_6334702250168310081_n-1.jpg

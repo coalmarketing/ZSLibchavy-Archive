@@ -3,7 +3,8 @@ title: DISTANČNÍ VÝUKA V MŠ KAMARÁD (O třech zakletých stromech)- předš
 post_id: '55075'
 date: '2021-03-29T18:57:38.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20210325_104134.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210326_122235.jpg

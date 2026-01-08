@@ -3,7 +3,8 @@ title: 20. 9. Tvoření v 1. třídě
 post_id: '42400'
 date: '2020-09-20T23:26:42.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200911_125535.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200911_125546.jpg

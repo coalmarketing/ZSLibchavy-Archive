@@ -3,7 +3,8 @@ title: Druhý " první školní den "
 post_id: '38277'
 date: '2020-05-25T13:54:03.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/received_1168532546832652.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/received_250397289564589.jpeg

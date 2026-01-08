@@ -3,7 +3,8 @@ title: Předávání štafety v ZŠ
 post_id: '5594'
 date: '2013-06-25T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

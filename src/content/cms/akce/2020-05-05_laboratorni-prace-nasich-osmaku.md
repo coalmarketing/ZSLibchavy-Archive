@@ -3,7 +3,8 @@ title: Laboratorní práce našich "osmáků"
 post_id: '36474'
 date: '2020-05-05T00:23:53.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Adam-Kacálek.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Adam-Kubat.jpg

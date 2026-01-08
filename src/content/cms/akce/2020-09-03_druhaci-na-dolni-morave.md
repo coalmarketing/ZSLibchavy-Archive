@@ -3,7 +3,8 @@ title: Druháci na Dolní Moravě
 post_id: '41772'
 date: '2020-09-03T17:12:40.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_2141.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_2142.jpg

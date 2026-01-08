@@ -3,7 +3,8 @@ title: 'Klokánci slaví: Leonka měla narozeniny'
 post_id: '27935'
 date: '2019-11-08T13:33:28.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191023-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191023-WA0001.jpg

@@ -3,7 +3,8 @@ title: Výstupy druháčků z domácího i školního učení 12. 6.
 post_id: '40245'
 date: '2020-06-12T22:31:08.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Kubík-J-6.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Kubík-J1-5.jpg

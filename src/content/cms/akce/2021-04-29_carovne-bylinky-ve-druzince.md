@@ -3,7 +3,8 @@ title: Čarovné bylinky ve družince
 post_id: '56598'
 date: '2021-04-29T13:20:06.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/012B6AA9-94AC-4461-AE55-B722564EF390.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/0765B4B7-472D-4F6D-8BBC-ABEABCE1819F.jpeg

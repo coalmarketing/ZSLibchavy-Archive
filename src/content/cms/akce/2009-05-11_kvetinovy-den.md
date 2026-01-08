@@ -3,7 +3,8 @@ title: KVĚTINOVÝ DEN
 post_id: '5006'
 date: '2009-05-11T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

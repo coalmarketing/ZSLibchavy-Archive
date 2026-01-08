@@ -3,7 +3,8 @@ title: Technohrátky na ISŠT ve Vysokém Mýtě
 post_id: '5817'
 date: '2015-01-27T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

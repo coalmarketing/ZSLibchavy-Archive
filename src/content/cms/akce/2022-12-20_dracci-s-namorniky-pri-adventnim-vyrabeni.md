@@ -3,7 +3,8 @@ title: Dráčci s Námořníky při adventním vyrábění...
 post_id: '82411'
 date: '2022-12-20T15:44:48.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221206_094937-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221206_101502-1.jpg

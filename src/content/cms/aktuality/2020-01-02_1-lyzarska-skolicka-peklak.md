@@ -3,7 +3,8 @@ title: 1. Lyžařská školička Peklák
 post_id: '29862'
 date: '2020-01-02T19:45:16.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

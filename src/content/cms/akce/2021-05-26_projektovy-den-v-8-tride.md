@@ -3,7 +3,8 @@ title: Projektový den v 8. třídě
 post_id: '57914'
 date: '2021-05-26T21:54:49.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-7389.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-7391.jpg

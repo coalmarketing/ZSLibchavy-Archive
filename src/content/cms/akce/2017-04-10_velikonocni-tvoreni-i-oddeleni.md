@@ -3,7 +3,8 @@ title: Velikonoční tvoření I.oddělení
 post_id: '6269'
 date: '2017-04-10T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

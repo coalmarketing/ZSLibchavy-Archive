@@ -3,7 +3,8 @@ title: Netradiční tělocvik
 post_id: '18119'
 date: '2019-01-11T16:45:48.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/TV-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/TV-2.jpg

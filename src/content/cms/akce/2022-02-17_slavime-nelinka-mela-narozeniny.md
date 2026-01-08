@@ -3,7 +3,8 @@ title: 'Slavíme: Nelinka měla narozeniny :-)'
 post_id: '68377'
 date: '2022-02-17T06:42:08.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220216_090443.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220216_090449.jpg

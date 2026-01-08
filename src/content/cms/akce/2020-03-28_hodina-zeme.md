@@ -3,7 +3,8 @@ title: HODINA  ZEMĚ
 post_id: '32891'
 date: '2020-03-28T09:44:33.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/88056051_3109622345715322_2670320543906922496_n.jpg
 tags:

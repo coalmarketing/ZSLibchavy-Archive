@@ -3,7 +3,8 @@ title: Vzdělávací program "bylinky" :-)
 post_id: '78473'
 date: '2022-10-11T13:15:28.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221005_100442.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221005_100451.jpg

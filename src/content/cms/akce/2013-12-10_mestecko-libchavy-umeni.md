@@ -3,7 +3,8 @@ title: Městečko - Libchavy / umění /
 post_id: '5639'
 date: '2013-12-10T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

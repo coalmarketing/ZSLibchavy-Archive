@@ -3,7 +3,8 @@ title: Distanční výuka předškoláků - 3. týden
 post_id: '54974'
 date: '2021-03-29T08:03:59.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/0586C459-08AD-422D-B6B5-936101786A4D.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/16170316326236966967346943072221.jpg

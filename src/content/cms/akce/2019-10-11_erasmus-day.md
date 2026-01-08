@@ -3,7 +3,8 @@ title: Erasmus Day
 post_id: '26645'
 date: '2019-10-11T10:19:53.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0849.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0851.jpg

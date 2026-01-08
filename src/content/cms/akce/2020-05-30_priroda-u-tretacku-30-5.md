@@ -3,7 +3,8 @@ title: Příroda u třeťáčků 30. 5.
 post_id: '38822'
 date: '2020-05-30T20:59:42.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20200529_120553.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20200529_130901.jpg

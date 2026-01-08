@@ -3,7 +3,8 @@ title: LIBCHAVSKÝ MASOPUST:-)
 post_id: '30349'
 date: '2020-01-27T12:57:38.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200125-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200125-WA0001.jpg

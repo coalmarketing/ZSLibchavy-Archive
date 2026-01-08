@@ -3,7 +3,8 @@ title: Škola v přírodě - 4. třída
 post_id: '5894'
 date: '2015-06-13T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

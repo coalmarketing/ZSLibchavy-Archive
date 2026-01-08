@@ -3,7 +3,8 @@ title: Distanční výuka v MŠ Kamarád - "Malované vajíčko" - mladší dět
 post_id: '55614'
 date: '2021-04-07T13:52:20.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210326-WA0002.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210330-WA0009.jpeg

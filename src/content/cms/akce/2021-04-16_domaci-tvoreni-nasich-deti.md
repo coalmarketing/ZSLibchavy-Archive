@@ -3,7 +3,8 @@ title: Domácí tvoření našich dětí
 post_id: '56006'
 date: '2021-04-16T18:26:08.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/174279182_1072535966571129_6995087486196240471_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/174541014_879385319280817_1350036445399890429_n.jpg

@@ -3,7 +3,8 @@ title: Betlémy v Ústí nad Orlicí
 post_id: '17469'
 date: '2018-12-19T11:55:04.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181219_085149.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181219_092659.jpg

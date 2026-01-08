@@ -3,7 +3,8 @@ title: Den žákovské rady na 2. stupni
 post_id: '17608'
 date: '2018-12-20T21:25:08.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/004-1-4.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/005-1-4.jpg

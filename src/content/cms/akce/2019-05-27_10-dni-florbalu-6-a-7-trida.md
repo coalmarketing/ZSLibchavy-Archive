@@ -3,7 +3,8 @@ title: 10 dní florbalu - 6. a 7. třída
 post_id: '22925'
 date: '2019-05-27T10:19:53.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190521_110029.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190521_131244.jpg

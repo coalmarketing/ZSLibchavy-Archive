@@ -3,7 +3,8 @@ title: SVÁTEK  STROMŮ
 post_id: '12360'
 date: '2018-06-06T15:18:54.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6162.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6163.jpg

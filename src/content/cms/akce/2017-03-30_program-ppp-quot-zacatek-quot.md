@@ -3,7 +3,8 @@ title: Program PPP &quot; Začátek&quot;
 post_id: '6259'
 date: '2017-03-30T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

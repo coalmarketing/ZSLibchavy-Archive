@@ -3,7 +3,8 @@ title: Základy mikroskopování - šesté třídy
 post_id: '30014'
 date: '2020-01-14T00:42:58.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0140.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0141-2.jpg

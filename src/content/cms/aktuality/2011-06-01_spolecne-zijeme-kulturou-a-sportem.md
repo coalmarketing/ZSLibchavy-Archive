@@ -3,7 +3,8 @@ title: SPOLEČNĚ  ŽIJEME  KULTUROU  A  SPORTEM
 post_id: '458'
 date: '2011-06-01T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

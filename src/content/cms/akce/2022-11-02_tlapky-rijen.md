@@ -3,7 +3,8 @@ title: TLAPKY - říjen
 post_id: '79851'
 date: '2022-11-02T12:48:05.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_083403.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221029_083500.jpg

@@ -3,7 +3,8 @@ title: Třídní schůzky na II.stupni
 post_id: '499'
 date: '2010-04-09T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

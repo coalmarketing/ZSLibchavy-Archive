@@ -3,7 +3,8 @@ title: SBĚR PAPÍRU a dalších surovin
 post_id: '4363'
 date: '2017-10-25T13:15:38.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

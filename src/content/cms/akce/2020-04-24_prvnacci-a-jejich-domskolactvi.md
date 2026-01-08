@@ -3,7 +3,8 @@ title: Prvňáčci a jejich domškoláctví
 post_id: '35219'
 date: '2020-04-24T08:58:25.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/22.4-den-země-Jana.jpg-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/22.4-den-země-Kuba-K.jpg-1.jpg

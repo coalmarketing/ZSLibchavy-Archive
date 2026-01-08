@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: vyrábíme čertíky :-)'
 post_id: '65164'
 date: '2021-12-08T08:23:41.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20211130-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20211130-WA0002.jpg

@@ -3,7 +3,8 @@ title: Vánoční besídka - družinky
 post_id: '81894'
 date: '2022-12-12T14:38:08.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/317345814_837704610785683_3850229130803634567_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/317591789_1824499374579173_1104405258828848207_n.jpg

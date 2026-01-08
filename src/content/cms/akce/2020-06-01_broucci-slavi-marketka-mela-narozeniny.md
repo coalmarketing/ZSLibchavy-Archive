@@ -3,7 +3,8 @@ title: 'Broučci slaví: Markétka měla narozeniny'
 post_id: '38922'
 date: '2020-06-01T12:20:48.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200528_095745.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200528_095756.jpg

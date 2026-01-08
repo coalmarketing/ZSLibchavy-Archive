@@ -3,7 +3,8 @@ title: Den dětí na 1. stupni
 post_id: '73951'
 date: '2022-06-01T12:53:29.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220601_080022.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220601_083903.jpg

@@ -3,7 +3,8 @@ title: Vánoční sportování na II. stupni
 post_id: '29989'
 date: '2019-12-21T22:21:03.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0759-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0764.jpg

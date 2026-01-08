@@ -3,7 +3,8 @@ title: PŘEDŠKOLÁCI ,,VÝPRAVY ZA ZVÍŘÁTKY"
 post_id: '56517'
 date: '2021-04-27T14:29:38.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-2-7.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-3-4.jpeg

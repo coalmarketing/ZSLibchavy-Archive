@@ -3,7 +3,8 @@ title: Vycházka za jeleny a návštěva lesní školky
 post_id: '22979'
 date: '2019-05-27T12:57:33.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190526-WA0015.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190526-WA0016.jpg

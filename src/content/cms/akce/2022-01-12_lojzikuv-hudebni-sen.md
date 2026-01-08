@@ -3,7 +3,8 @@ title: Lojzíkův hudební sen
 post_id: '66691'
 date: '2022-01-12T07:25:52.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/270307700_869648220380095_447613502412562166_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/270311597_440795177712682_8255077299260605083_n.jpg

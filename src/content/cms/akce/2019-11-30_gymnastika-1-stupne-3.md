@@ -3,7 +3,8 @@ title: Gymnastika 1. stupně
 post_id: '28727'
 date: '2019-11-30T08:32:24.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4211.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4212.jpg

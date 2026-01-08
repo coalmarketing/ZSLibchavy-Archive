@@ -3,7 +3,8 @@ title: Vánoční florbalový turnaj 1. stupeň
 post_id: '5955'
 date: '2015-12-01T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

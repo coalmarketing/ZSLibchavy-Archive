@@ -3,7 +3,8 @@ title: Program BROUČCI
 post_id: '51818'
 date: '2021-01-28T06:28:12.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6163.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6164.jpg

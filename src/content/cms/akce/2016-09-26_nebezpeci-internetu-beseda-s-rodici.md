@@ -3,7 +3,8 @@ title: Nebezpečí internetu - beseda s rodiči
 post_id: '6144'
 date: '2016-09-26T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

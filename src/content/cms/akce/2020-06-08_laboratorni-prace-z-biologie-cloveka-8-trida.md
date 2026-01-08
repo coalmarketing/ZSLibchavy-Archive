@@ -3,7 +3,8 @@ title: Laboratorní práce z Biologie člověka - 8. třída
 post_id: '39902'
 date: '2020-06-08T22:18:16.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20200523_123004.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Adam-Kacálek-1.jpg

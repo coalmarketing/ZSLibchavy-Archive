@@ -3,7 +3,8 @@ title: Olympiáda u Klokánků
 post_id: '9401'
 date: '2018-03-06T07:46:01.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180305_091708.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180305_091721.jpg

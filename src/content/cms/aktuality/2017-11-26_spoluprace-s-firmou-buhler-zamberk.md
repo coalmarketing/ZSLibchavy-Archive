@@ -3,7 +3,8 @@ title: Spolupráce s firmou Bühler Žamberk
 post_id: '6367'
 date: '2017-11-26T21:37:49.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

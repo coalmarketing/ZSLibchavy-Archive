@@ -3,7 +3,8 @@ title: Atletický trojboj
 post_id: '76068'
 date: '2022-06-27T16:51:59.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-23.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/100-3.jpg

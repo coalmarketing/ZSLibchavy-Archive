@@ -3,7 +3,8 @@ title: První oběd nových kamarádů
 post_id: '14931'
 date: '2018-10-25T11:20:17.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9811-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9812-2.jpg

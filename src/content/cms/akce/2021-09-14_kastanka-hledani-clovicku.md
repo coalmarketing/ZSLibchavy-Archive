@@ -3,7 +3,8 @@ title: Kaštanka - HLEDÁNÍ ČLOVÍČKŮ
 post_id: '61347'
 date: '2021-09-14T14:09:50.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF7074.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF7075.jpg

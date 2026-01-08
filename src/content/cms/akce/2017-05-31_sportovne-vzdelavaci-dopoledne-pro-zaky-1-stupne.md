@@ -3,7 +3,8 @@ title: Sportovně-vzdělávací dopoledne pro žáky 1. stupně
 post_id: '6316'
 date: '2017-05-31T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

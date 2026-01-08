@@ -3,7 +3,8 @@ title: Sběr papíru - poslední sběrový týden!
 post_id: '355'
 date: '2014-06-09T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

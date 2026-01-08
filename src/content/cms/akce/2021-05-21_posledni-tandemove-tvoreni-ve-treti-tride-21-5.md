@@ -3,7 +3,8 @@ title: Poslední tandemové tvoření ve třetí třídě 21. 5.
 post_id: '57595'
 date: '2021-05-21T12:38:45.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0423.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0424.jpg

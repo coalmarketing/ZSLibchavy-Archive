@@ -3,7 +3,8 @@ title: Družinový ples
 post_id: '5676'
 date: '2014-02-27T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

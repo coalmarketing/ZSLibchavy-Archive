@@ -3,7 +3,8 @@ title: Malování na hedvábí - výtvarná dílna
 post_id: '520'
 date: '2009-10-14T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

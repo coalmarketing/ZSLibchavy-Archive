@@ -3,7 +3,8 @@ title: Beseda na téma HIV a AIDS
 post_id: '5895'
 date: '2015-06-11T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

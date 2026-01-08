@@ -3,7 +3,8 @@ title: KONEČNĚ SI UŽÍVÁME ZAHRADY!!!!!!!! :-)
 post_id: '56370'
 date: '2021-04-22T19:58:59.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210412_095842.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210412_095854.jpg

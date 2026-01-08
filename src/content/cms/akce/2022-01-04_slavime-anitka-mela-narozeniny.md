@@ -3,7 +3,8 @@ title: 'Slavíme: Anitka měla narozeniny :-)'
 post_id: '66256'
 date: '2022-01-04T10:24:54.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220103_094042.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220103_094052.jpg

@@ -3,7 +3,8 @@ title: 1. třída v Městské knihovně
 post_id: '6071'
 date: '2016-04-27T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

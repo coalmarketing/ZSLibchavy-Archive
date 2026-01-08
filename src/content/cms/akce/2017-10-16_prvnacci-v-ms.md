@@ -3,7 +3,8 @@ title: Prvňáčci v MŠ
 post_id: '3968'
 date: '2017-10-16T23:04:42.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20171017_110047.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20171017_110106.jpg

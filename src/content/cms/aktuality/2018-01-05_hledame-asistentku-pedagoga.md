@@ -3,7 +3,8 @@ title: Hledáme asistentku pedagoga
 post_id: '7204'
 date: '2018-01-05T09:14:11.000Z'
 author: Mgr.Marie Linhartová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: Štafetové běhy Emila Zátopka - II. stupeň
 post_id: '42506'
 date: '2020-09-22T20:34:54.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0814-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0832.jpg

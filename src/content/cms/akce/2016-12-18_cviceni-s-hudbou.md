@@ -3,7 +3,8 @@ title: Cvičení s hudbou
 post_id: '6189'
 date: '2016-12-18T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Den otevřených dveří v 1. třídě
 post_id: '14642'
 date: '2018-03-27T20:17:49.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

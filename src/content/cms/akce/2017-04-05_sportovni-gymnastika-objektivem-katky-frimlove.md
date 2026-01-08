@@ -3,7 +3,8 @@ title: Sportovní gymnastika objektivem Katky Frimlové
 post_id: '6267'
 date: '2017-04-05T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

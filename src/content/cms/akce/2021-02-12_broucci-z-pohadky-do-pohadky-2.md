@@ -3,7 +3,8 @@ title: 'BROUČCI: Z POHÁDKY DO POHÁDKY'
 post_id: '52480'
 date: '2021-02-12T09:55:12.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-1-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/1-10-2.jpg

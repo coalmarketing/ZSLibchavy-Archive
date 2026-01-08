@@ -3,7 +3,8 @@ title: Tvoření na Jarmark v 1.A
 post_id: '81306'
 date: '2022-12-04T19:35:37.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/317006452_1291630661632230_8420171980912141890_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/317093688_707035187412870_521499113835571923_n.jpg

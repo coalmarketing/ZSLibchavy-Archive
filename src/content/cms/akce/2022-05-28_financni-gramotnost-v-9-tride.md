@@ -3,7 +3,8 @@ title: Finanční gramotnost v 9. třídě
 post_id: '73691'
 date: '2022-05-28T18:13:04.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1653753097904.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/1653753097920.jpg

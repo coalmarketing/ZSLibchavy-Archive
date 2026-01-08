@@ -3,7 +3,8 @@ title: Preventivní program Stonožka - 3. třída
 post_id: '68596'
 date: '2022-02-22T12:11:34.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220222_080227.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220222_090507.jpg

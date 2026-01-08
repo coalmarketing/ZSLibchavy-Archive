@@ -3,7 +3,8 @@ title: Volby do Školské rady - výsledky
 post_id: '346'
 date: '2014-11-14T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

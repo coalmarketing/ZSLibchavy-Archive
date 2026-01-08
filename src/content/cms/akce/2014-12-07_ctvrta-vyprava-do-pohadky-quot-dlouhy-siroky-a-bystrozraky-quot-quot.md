@@ -3,7 +3,8 @@ title: 'Čtvrtá výprava : Do pohádky &quot;Dlouhý, Široký a Bystrozraký&q
 post_id: '5803'
 date: '2014-12-07T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: '"příprava" batůžků ke dni dětí :-)'
 post_id: '58194'
 date: '2021-06-02T13:24:34.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210524_065807.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210524_065830.jpg

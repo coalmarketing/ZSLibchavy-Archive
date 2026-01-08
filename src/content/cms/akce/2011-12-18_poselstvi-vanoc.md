@@ -3,7 +3,8 @@ title: Poselství Vánoc
 post_id: '5345'
 date: '2011-12-18T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

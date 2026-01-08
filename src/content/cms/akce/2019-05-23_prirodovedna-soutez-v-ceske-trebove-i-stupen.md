@@ -3,7 +3,8 @@ title: Přírodovědná soutěž v České Třebové - I. stupeň
 post_id: '22856'
 date: '2019-05-23T22:17:42.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190507_101628.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190507_101936.jpg

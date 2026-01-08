@@ -3,7 +3,8 @@ title: Charitativní projekt Červená stužka
 post_id: '28859'
 date: '2019-12-06T07:50:32.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

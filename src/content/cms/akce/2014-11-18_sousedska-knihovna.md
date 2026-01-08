@@ -3,7 +3,8 @@ title: Sousedská knihovna
 post_id: '5781'
 date: '2014-11-18T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

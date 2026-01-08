@@ -3,7 +3,8 @@ title: Projekt "Svoboda? Svoboda!"
 post_id: '28553'
 date: '2019-11-27T14:07:50.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/4cbccd6a-dfd4-4ad4-a673-d10de6558274-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/5f8466a3-02e2-420c-b181-4278cad222c5-1.jpg

@@ -3,7 +3,8 @@ title: Užíváme zahrady
 post_id: '23896'
 date: '2019-06-08T17:33:25.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190604-WA0001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190604-WA0002.jpg

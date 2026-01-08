@@ -3,7 +3,8 @@ title: Preventivní program v 6.třídě
 post_id: '13752'
 date: '2018-09-16T09:46:36.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/foto-1-5.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/foto-13.jpg

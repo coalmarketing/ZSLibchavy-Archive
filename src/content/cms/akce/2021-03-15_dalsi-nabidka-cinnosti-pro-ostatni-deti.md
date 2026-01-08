@@ -3,7 +3,8 @@ title: Další nabídka činností pro ostatní děti
 post_id: '54153'
 date: '2021-03-15T21:13:14.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/17A74DB6-C017-4EAE-8C54-608C3283A0F4.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/20210310_134248.jpg

@@ -3,7 +3,8 @@ title: Indiánská stezka v Cakli
 post_id: '5163'
 date: '2010-06-22T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

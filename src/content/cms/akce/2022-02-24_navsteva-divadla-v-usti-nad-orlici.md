@@ -3,7 +3,8 @@ title: Návštěva divadla v Ústí nad Orlicí
 post_id: '68845'
 date: '2022-02-24T12:36:34.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220218_090933.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220218_090936.jpg

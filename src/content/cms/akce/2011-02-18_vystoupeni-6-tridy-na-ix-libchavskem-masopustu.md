@@ -3,7 +3,8 @@ title: Vystoupení 6. třídy na IX. Libchavském masopustu
 post_id: '5215'
 date: '2011-02-18T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

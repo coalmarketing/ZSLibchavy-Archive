@@ -3,7 +3,8 @@ title: Informace pro rodiče žáků 9. třídy
 post_id: '350'
 date: '2014-09-15T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: Atletický trojboj
 post_id: '6107'
 date: '2016-06-25T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

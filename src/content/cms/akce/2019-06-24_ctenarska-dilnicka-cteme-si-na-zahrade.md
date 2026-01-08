@@ -3,7 +3,8 @@ title: '"čtenářská dílnička" - "čteme si na zahradě"'
 post_id: '24815'
 date: '2019-06-24T06:21:12.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190621-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190621-WA0001.jpg

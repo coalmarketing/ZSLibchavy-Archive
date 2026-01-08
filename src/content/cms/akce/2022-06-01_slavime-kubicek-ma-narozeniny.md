@@ -3,7 +3,8 @@ title: 'SLAVÍME: KUBÍČEK MÁ NAROZENINY'
 post_id: '73941'
 date: '2022-06-01T06:44:33.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/06BBC40A-B093-46B6-B303-3A67AA389224.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/72601F0A-2B8D-4E4B-9BF4-727AE1F87B55.jpeg

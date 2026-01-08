@@ -3,7 +3,8 @@ title: Ukončení sběru víček pro Honzíka
 post_id: '22446'
 date: '2019-05-21T22:20:58.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

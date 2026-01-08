@@ -3,7 +3,8 @@ title: 'Klokánci: "ledová kuchyně"'
 post_id: '18428'
 date: '2019-01-21T13:12:01.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/2000CFAE-241F-4D4B-B23D-00F3784A697F.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/271ED5F5-6E03-4CCA-9061-A09842CB882D.jpeg

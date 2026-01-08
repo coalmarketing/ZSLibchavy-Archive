@@ -3,7 +3,8 @@ title: Prosinec I. oddělení
 post_id: '17920'
 date: '2018-12-21T07:17:33.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20180925_132758.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20180925_132817.jpg

@@ -3,7 +3,8 @@ title: 'Broučci: konečně sníh!!!:-)'
 post_id: '30138'
 date: '2020-01-22T07:05:05.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200120_101503.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200120_101508.jpg

@@ -3,7 +3,8 @@ title: Návštěva Mikuláše, čerta a anděla
 post_id: '81707'
 date: '2022-12-06T11:11:19.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221205_091123.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221205_091206.jpg

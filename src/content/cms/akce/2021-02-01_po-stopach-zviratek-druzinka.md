@@ -3,7 +3,8 @@ title: Po stopách zvířátek...družinka
 post_id: '52103'
 date: '2021-02-01T07:24:25.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/453B202B-6BF4-49E5-9242-A8EB30AF27BD.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/505F9F7B-FBF0-413A-BA54-38A622519F87.jpeg

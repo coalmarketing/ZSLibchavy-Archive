@@ -3,7 +3,8 @@ title: Dopravní výchova- první pomoc
 post_id: '5234'
 date: '2011-04-27T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

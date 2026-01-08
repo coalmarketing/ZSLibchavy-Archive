@@ -3,7 +3,8 @@ title: Výlet do "Pohádkové vesničky" II.
 post_id: '12280'
 date: '2018-06-05T13:06:21.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180531_111819.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180531_111821.jpg

@@ -3,7 +3,8 @@ title: Badatelský den
 post_id: '24997'
 date: '2019-06-27T13:58:53.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/045-2-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/048-2-2.jpg

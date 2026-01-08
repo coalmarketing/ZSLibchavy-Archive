@@ -3,7 +3,8 @@ title: Den Země a Fáboráček - II. st.
 post_id: '71679'
 date: '2022-04-27T00:05:28.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/foto-1-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/foto-10-2.jpg

@@ -3,7 +3,8 @@ title: Sběr papíru - konečné výsledky
 post_id: '5161'
 date: '2010-06-30T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Malý zpracovatel odpadů
 post_id: '51267'
 date: '2021-01-21T14:24:28.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0016001-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0026004-2.jpg

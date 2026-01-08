@@ -3,7 +3,8 @@ title: 'Broučci slaví: Adélka měla narozeniny'
 post_id: '41673'
 date: '2020-08-31T12:17:14.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200824_092737.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200824_092741.jpg

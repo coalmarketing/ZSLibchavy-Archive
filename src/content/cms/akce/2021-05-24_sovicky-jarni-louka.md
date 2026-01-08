@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,JARNÍ LOUKA"'
 post_id: '57697'
 date: '2021-05-24T12:42:13.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-3-5.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-2-7.jpeg

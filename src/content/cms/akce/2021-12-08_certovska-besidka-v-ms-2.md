@@ -3,7 +3,8 @@ title: ČERTOVSKÁ BESÍDKA V MŠ :-)
 post_id: '65114'
 date: '2021-12-08T08:02:17.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211203_091713-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211203_091721-1.jpg

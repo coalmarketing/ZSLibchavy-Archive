@@ -3,7 +3,8 @@ title: Exkurze ve výrobních halách firmy SOR
 post_id: '5056'
 date: '2009-11-11T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

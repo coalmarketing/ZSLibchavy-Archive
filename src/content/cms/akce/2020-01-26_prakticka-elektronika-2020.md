@@ -3,7 +3,8 @@ title: Praktická elektronika 2020
 post_id: '30467'
 date: '2020-01-26T21:38:42.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/10c9a969-e673-45eb-8079-f79a2fb85a0e.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/c8cac2fe-eef0-4a8a-b49a-3e49e760c514.jpg

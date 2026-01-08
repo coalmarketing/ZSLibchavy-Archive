@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,DĚTI MAJÍ SVÁTEK"'
 post_id: '58973'
 date: '2021-06-07T12:53:47.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-11.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-9.jpeg

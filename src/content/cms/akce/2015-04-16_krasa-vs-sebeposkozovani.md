@@ -3,7 +3,8 @@ title: Krása vs. sebepoškozování
 post_id: '5859'
 date: '2015-04-16T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

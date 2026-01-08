@@ -3,7 +3,8 @@ title: TŮTŮ - KLAUN (DOPRAVA)
 post_id: '6110'
 date: '2016-05-09T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

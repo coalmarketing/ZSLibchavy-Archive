@@ -3,7 +3,8 @@ title: Jarní setkání s rodiči Námořníci
 post_id: '22529'
 date: '2019-05-23T12:23:36.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF1328.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF1329.jpg

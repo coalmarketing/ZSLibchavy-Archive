@@ -3,7 +3,8 @@ title: Jaro 2018, setí semínek a příprava na Velikonoce
 post_id: '9928'
 date: '2018-04-05T15:25:25.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6602.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6603.jpg

@@ -3,7 +3,8 @@ title: 'SOVIČKY: PEČEME PERNÍČKY'
 post_id: '49255'
 date: '2020-12-15T13:05:36.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-2-4.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-1-5.jpeg

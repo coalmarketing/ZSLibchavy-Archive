@@ -3,7 +3,8 @@ title: Distanční výuka ve třetí třídě 16. 4.
 post_id: '56025'
 date: '2021-04-16T21:36:59.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Agatka-rotated.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Anezka-8.jpg

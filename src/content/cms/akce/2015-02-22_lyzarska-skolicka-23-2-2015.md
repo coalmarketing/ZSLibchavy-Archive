@@ -3,7 +3,8 @@ title: Lyžařská školička 23.2.2015
 post_id: '5825'
 date: '2015-02-22T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

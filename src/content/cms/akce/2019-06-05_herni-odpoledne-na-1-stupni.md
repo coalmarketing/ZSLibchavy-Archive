@@ -3,7 +3,8 @@ title: Herní odpoledne na 1. stupni
 post_id: '23366'
 date: '2019-06-05T20:02:54.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P6050374.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P6050375.jpg

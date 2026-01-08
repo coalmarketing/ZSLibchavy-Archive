@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,KDYŽ ALENKA STŮNĚ" - MOJE TĚLO'
 post_id: '52772'
 date: '2021-02-12T23:15:41.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-8.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-6.jpeg

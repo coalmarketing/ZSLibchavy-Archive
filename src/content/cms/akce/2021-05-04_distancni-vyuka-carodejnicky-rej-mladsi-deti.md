@@ -3,7 +3,8 @@ title: Distanční výuka - "Čarodějnický rej" - mladší děti :-)
 post_id: '56739'
 date: '2021-05-04T12:32:47.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210429_173522473_HDR.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210430_083811.jpg

@@ -3,7 +3,8 @@ title: Vzniká Žákovská rada, pojďte se zapojit.
 post_id: '6867'
 date: '2017-12-18T13:09:46.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

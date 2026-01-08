@@ -3,7 +3,8 @@ title: 'SLAVÍME: KLÁRKA MĚLA NAROZENINY'
 post_id: '81940'
 date: '2022-12-13T15:05:22.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/23851897-8791-4453-BCD7-CE4948179F13.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/23C01653-1539-4231-BE85-51CAE7378BFC.jpeg

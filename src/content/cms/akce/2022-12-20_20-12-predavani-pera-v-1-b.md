@@ -3,7 +3,8 @@ title: 20. 12. Předávání pera v 1.B
 post_id: '82485'
 date: '2022-12-20T20:25:07.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221220_080927.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221220_081914.jpg

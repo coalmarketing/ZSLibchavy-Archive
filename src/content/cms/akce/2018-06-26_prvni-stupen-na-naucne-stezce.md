@@ -3,7 +3,8 @@ title: První stupeň na naučné stezce
 post_id: '13214'
 date: '2018-06-26T20:57:50.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P6261024.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P6261026.jpg

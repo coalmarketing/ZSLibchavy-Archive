@@ -3,7 +3,8 @@ title: Město v pohybu - florbal 3. - 5. tříd
 post_id: '24340'
 date: '2019-06-08T22:00:55.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/foto-1-1-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/foto-10.jpg

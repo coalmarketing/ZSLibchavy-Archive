@@ -3,7 +3,8 @@ title: Vycházka ke kozičkám s kůzlátky (Broučci)
 post_id: '11736'
 date: '2018-06-01T06:23:31.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20180504_103522.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20180504_103534.jpg

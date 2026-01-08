@@ -3,7 +3,8 @@ title: Poznávání přírodnin a minerálů - II. stupeň
 post_id: '23412'
 date: '2019-06-05T23:43:55.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190522_100610.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190522_100625.jpg

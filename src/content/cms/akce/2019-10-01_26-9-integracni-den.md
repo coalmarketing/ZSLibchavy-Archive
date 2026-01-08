@@ -3,7 +3,8 @@ title: 26. 9. Integrační den
 post_id: '26233'
 date: '2019-10-01T18:20:55.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190926_105055.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190926_105518.jpg

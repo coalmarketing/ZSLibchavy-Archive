@@ -3,7 +3,8 @@ title: Hry s deváťáky
 post_id: '74382'
 date: '2022-06-06T11:14:09.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

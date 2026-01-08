@@ -3,7 +3,8 @@ title: Cesta do PRAVĚKU - 6. třída
 post_id: '6345'
 date: '2017-06-22T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

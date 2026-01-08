@@ -3,7 +3,8 @@ title: Oslavy stého výročí republiky ČSR - den čtvrtý
 post_id: '16312'
 date: '2018-11-08T20:36:52.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

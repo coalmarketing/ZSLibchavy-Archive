@@ -3,7 +3,8 @@ title: 'Klokánci slaví: Mirunka měla narozeniny'
 post_id: '19426'
 date: '2019-03-04T13:29:37.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/010D1E53-278B-450B-8361-D5025F014CFD.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/026E5F21-4AF4-431D-A87E-7B25580B7653.jpeg

@@ -3,7 +3,8 @@ title: Finanční gramotnost v 1. třídě
 post_id: '26481'
 date: '2019-10-05T14:18:14.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191004_100710.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191004_102056.jpg

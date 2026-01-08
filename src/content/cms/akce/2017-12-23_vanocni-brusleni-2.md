@@ -3,7 +3,8 @@ title: Vánoční bruslení
 post_id: '7153'
 date: '2017-12-23T21:03:31.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/051.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/052.jpg

@@ -3,7 +3,8 @@ title: VÝTVARNÁ DÍLNA - 29.BŘEZEN 2011 - Náhradní termín
 post_id: '471'
 date: '2011-03-15T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

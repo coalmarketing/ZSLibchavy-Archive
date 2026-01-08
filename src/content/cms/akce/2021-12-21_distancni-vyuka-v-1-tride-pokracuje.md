@@ -3,7 +3,8 @@ title: Distanční výuka v 1. třídě pokračuje :-)
 post_id: '65908'
 date: '2021-12-21T21:03:45.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Adelka-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Adelka1-1.jpg

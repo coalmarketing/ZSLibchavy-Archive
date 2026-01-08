@@ -3,7 +3,8 @@ title: Ekohraní - den 4.
 post_id: '20144'
 date: '2019-03-21T11:19:41.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/3002F017-6368-44D9-9979-03ED18BB4604.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/3417C126-FF73-476C-B638-EA8567058996.jpeg

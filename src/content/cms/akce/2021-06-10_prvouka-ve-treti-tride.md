@@ -3,7 +3,8 @@ title: Prvouka ve třetí třídě :-)
 post_id: '59318'
 date: '2021-06-10T12:31:35.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0609.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0610.jpg

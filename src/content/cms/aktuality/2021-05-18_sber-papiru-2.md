@@ -3,7 +3,8 @@ title: Sběr papíru
 post_id: '57501'
 date: '2021-05-18T14:39:19.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

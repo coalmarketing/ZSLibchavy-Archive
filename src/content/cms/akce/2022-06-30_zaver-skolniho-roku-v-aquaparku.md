@@ -3,7 +3,8 @@ title: Závěr školního roku v aquaparku
 post_id: '76358'
 date: '2022-06-30T09:38:32.000Z'
 author: Marta Kacálková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1984.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1986.jpg

@@ -3,7 +3,8 @@ title: Výlet 5. třídy do Prahy
 post_id: '11733'
 date: '2018-05-31T20:40:42.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P5311024.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P5311028.jpg

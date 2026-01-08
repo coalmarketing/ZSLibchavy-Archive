@@ -3,7 +3,8 @@ title: Muzikoterapie Námořníci
 post_id: '11835'
 date: '2018-06-04T15:06:14.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9438.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9439.jpg

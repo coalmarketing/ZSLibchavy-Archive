@@ -3,7 +3,8 @@ title: Školní kolo zeměpisné olympiády
 post_id: '4971'
 date: '2009-03-05T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

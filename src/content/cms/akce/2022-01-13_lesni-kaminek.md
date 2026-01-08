@@ -3,7 +3,8 @@ title: Lesní kamínek
 post_id: '67015'
 date: '2022-01-13T10:10:03.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20211123_093012981-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/246745252_1041344379743032_4925800392048252196_n-1.jpg

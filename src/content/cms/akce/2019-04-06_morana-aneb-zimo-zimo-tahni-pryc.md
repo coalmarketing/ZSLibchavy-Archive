@@ -3,7 +3,8 @@ title: přivoláváme jaro do MŠ
 post_id: '20557'
 date: '2019-04-06T20:29:06.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190327-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190327-WA0001.jpg

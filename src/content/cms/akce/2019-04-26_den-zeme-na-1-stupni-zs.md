@@ -3,7 +3,8 @@ title: Den Země na 1. stupni ZŠ
 post_id: '21256'
 date: '2019-04-26T13:40:34.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190426_101652.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190426_103905.jpg

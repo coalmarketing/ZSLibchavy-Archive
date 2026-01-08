@@ -3,7 +3,8 @@ title: Návštěva z Arménie
 post_id: '12448'
 date: '2018-06-11T12:20:15.000Z'
 author: Mgr.Petr Kulhavý
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

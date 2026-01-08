@@ -3,7 +3,8 @@ title: Oslavy stého výročí republiky ČSR - den pátý
 post_id: '16317'
 date: '2018-11-08T20:59:08.000Z'
 author: Mgr.Kateřina Kulhavá
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

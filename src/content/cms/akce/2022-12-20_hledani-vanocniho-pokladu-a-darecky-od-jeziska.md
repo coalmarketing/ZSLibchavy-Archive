@@ -3,7 +3,8 @@ title: Hledání vánočního pokladu a dárečky od Ježíška...
 post_id: '82436'
 date: '2022-12-20T15:54:26.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221214_102127-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221214_102137-1.jpg

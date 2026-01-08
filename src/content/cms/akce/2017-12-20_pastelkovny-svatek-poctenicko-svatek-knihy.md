@@ -3,7 +3,8 @@ title: Pastelkový svátek (PO)čteníčko - svátek knihy
 post_id: '6919'
 date: '2017-12-20T14:22:34.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3490.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3491.jpg

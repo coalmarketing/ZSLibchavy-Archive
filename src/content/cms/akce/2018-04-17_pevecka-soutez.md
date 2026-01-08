@@ -3,7 +3,8 @@ title: Pěvecká soutěž
 post_id: '10282'
 date: '2018-04-17T14:26:54.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1204.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1210-2.jpg

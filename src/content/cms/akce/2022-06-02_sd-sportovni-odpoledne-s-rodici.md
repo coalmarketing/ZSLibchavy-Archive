@@ -3,7 +3,8 @@ title: ŠD - sportovní odpoledne s rodiči
 post_id: '74076'
 date: '2022-06-02T20:23:36.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/282720361_635804861296635_5671654789459777803_n-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/282725427_2190318887785529_3835758538251396106_n-1.jpg

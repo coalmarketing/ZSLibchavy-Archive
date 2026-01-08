@@ -3,7 +3,8 @@ title: 'SLAVÍME: ILONKA MÁ NAROZENINY'
 post_id: '72143'
 date: '2022-05-03T13:29:41.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/2A226A62-AB7D-443E-855D-978D637EEE0D.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/8721D545-6394-4201-9F85-9ABA8C249D49.jpeg

@@ -3,7 +3,8 @@ title: Exkurze po památných stromech
 post_id: '5153'
 date: '2010-06-02T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Detektivové ze druhé třídy na stopě tajemného kódu
 post_id: '77129'
 date: '2022-09-15T14:34:33.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220915_102004.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220915_103023.jpg

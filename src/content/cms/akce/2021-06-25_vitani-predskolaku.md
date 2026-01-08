@@ -3,7 +3,8 @@ title: Vítání předškoláků
 post_id: '60090'
 date: '2021-06-25T14:20:06.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210621_091031.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210621_091047.jpg

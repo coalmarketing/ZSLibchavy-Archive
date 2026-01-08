@@ -3,7 +3,8 @@ title: Školní výlet 6. B
 post_id: '73616'
 date: '2022-05-27T13:49:06.000Z'
 author: Mgr. Karolína Moravcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220524_082446.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220524_082521.jpg

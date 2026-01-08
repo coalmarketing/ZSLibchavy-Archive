@@ -3,7 +3,8 @@ title: Divadlo Jójo
 post_id: '65003'
 date: '2021-12-07T10:13:56.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0249044.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0259045.jpg

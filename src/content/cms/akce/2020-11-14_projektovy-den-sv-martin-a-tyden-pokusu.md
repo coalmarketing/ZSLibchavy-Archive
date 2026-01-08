@@ -3,7 +3,8 @@ title: Projektový den svatý Martin a týden pokusů v 5.A
 post_id: '46449'
 date: '2020-11-14T20:08:19.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Dan.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/David.jpg

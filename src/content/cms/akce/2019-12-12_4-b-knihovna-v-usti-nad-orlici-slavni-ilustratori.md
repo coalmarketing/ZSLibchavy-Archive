@@ -3,7 +3,8 @@ title: 4.B - Knihovna v Ústí nad Orlicí "Slavní ilustrátoři"
 post_id: '29144'
 date: '2019-12-12T19:45:11.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/knihovna-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/knihovna-2.jpg

@@ -3,7 +3,8 @@ title: Pátek 4.10.2013 - ředitelské volno
 post_id: '607'
 date: '2013-09-26T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - aktuality

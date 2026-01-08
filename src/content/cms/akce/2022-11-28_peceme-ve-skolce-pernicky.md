@@ -3,7 +3,8 @@ title: Pečeme ve školce perníčky...
 post_id: '81000'
 date: '2022-11-28T09:45:49.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221128_075134.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221128_075143.jpg

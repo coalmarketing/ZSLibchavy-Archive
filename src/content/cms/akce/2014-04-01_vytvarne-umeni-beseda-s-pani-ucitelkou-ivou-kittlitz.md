@@ -3,7 +3,8 @@ title: Výtvarné umění - beseda s paní učitelkou Ivou Kittlitz
 post_id: '5680'
 date: '2014-04-01T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

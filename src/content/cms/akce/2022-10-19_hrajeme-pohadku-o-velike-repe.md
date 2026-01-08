@@ -3,7 +3,8 @@ title: Hrajeme pohádku "O veliké řepě" :-)
 post_id: '79016'
 date: '2022-10-19T07:27:09.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221017_091724.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221017_091817.jpg

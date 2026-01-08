@@ -3,7 +3,8 @@ title: 'Broučci slaví: Barunka měla narozeniny'
 post_id: '30842'
 date: '2020-02-10T12:43:32.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200205_091159.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200205_091212.jpg

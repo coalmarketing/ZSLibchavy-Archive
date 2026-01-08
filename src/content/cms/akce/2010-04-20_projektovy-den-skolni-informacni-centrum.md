@@ -3,7 +3,8 @@ title: Projektový den - Školní informační centrum
 post_id: '5134'
 date: '2010-04-20T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

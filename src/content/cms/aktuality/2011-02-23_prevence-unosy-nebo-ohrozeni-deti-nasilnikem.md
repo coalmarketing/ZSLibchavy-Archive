@@ -3,7 +3,8 @@ title: Prevence - únosy nebo ohrožení dětí násilníkem
 post_id: '472'
 date: '2011-02-23T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

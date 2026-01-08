@@ -3,7 +3,8 @@ title: Velikonoční výstava U Džbánu
 post_id: '6268'
 date: '2017-04-05T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

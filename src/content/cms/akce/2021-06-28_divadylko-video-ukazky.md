@@ -3,7 +3,8 @@ title: 'Divadýlko: video ukázky :-)'
 post_id: '60225'
 date: '2021-06-28T12:48:48.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

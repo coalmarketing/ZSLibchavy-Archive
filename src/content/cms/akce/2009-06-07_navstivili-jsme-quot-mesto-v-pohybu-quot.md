@@ -3,7 +3,8 @@ title: Navštívili jsme &quot;Město v pohybu&quot;
 post_id: '5024'
 date: '2009-06-07T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

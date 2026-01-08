@@ -3,7 +3,8 @@ title: Radost na bruslích - 1. 2. 2022
 post_id: '67916'
 date: '2022-02-03T19:47:38.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220201_123509.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220201_123521.jpg

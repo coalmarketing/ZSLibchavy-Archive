@@ -3,7 +3,8 @@ title: Školní výlet 1.,2. a 5. třídy
 post_id: '5154'
 date: '2010-06-16T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: ',,Třeťáci&quot; v knihovně'
 post_id: '5263'
 date: '2011-05-10T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

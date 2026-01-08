@@ -3,7 +3,8 @@ title: tvořeníčko, tvoření:-) NA TŘI KRÁLE,...
 post_id: '66273'
 date: '2022-01-04T10:31:14.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220103_065239.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220103_065430.jpg

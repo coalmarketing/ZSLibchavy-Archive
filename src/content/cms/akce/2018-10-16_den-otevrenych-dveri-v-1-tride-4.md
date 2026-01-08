@@ -3,7 +3,8 @@ title: Den otevřených dveří v 1. třídě
 post_id: '14630'
 date: '2018-10-16T12:39:59.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

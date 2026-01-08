@@ -3,7 +3,8 @@ title: 19. 10. čtenářský klub
 post_id: '44646'
 date: '2020-10-19T17:36:07.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/122049716_2900220000207765_6583645480753523350_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/122150530_953935738431890_4571285741371412047_n.jpg

@@ -4,7 +4,8 @@ title: Vánoční setkání s rodiči - společné tvoření, hledání vánočn
 post_id: '82048'
 date: '2022-12-16T10:38:15.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221213_150459.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221213_150512.jpg

@@ -3,7 +3,8 @@ title: Cvičný požární poplach
 post_id: '25326'
 date: '2019-09-04T11:37:16.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

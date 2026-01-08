@@ -3,7 +3,8 @@ title: Návštěva u včelaře a ekxurze ve výrobně čajů
 post_id: '5127'
 date: '2010-03-30T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Ne návykovým látkám - 7. třída
 post_id: '7339'
 date: '2018-01-10T07:55:01.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/002-2-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/003-2-2.jpg

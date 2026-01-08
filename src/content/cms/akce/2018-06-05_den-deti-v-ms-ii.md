@@ -3,7 +3,8 @@ title: Den dětí v MŠ II.
 post_id: '12152'
 date: '2018-06-05T11:16:52.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180529_094631.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180529_094642.jpg

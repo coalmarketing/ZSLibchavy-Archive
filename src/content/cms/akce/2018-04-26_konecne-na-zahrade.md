@@ -3,7 +3,8 @@ title: '"Konečně na zahradě"'
 post_id: '10482'
 date: '2018-04-26T18:56:11.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180418_102747.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180418_102751.jpg

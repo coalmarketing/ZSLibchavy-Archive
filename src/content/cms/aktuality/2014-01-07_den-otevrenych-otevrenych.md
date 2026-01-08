@@ -3,7 +3,8 @@ title: Den otevřených otevřených
 post_id: '369'
 date: '2014-01-07T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: 'Klokánci slaví: Kubík M. měl narozeniny'
 post_id: '18449'
 date: '2019-01-21T13:17:48.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/429117D1-B817-4F80-803A-9AAE6355A849.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/5E67F08C-4D98-4F15-B48E-A441AEBC16DD.jpeg

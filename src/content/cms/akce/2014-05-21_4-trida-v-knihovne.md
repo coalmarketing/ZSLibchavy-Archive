@@ -3,7 +3,8 @@ title: 4. třída v knihovně
 post_id: '5715'
 date: '2014-05-21T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

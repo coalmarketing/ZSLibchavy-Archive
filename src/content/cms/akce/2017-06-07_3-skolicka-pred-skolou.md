@@ -3,7 +3,8 @@ title: 3. ŠKOLIČKA PŘED ŠKOLOU
 post_id: '6326'
 date: '2017-06-07T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

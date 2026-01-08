@@ -3,7 +3,8 @@ title: Závěr listopadu I.odd.
 post_id: '6603'
 date: '2017-12-04T17:27:01.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3308.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_3312.jpg

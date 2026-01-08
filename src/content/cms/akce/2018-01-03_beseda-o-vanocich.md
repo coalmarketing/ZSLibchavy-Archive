@@ -3,7 +3,8 @@ title: Beseda o vánocích
 post_id: '7180'
 date: '2018-01-03T21:55:21.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20171219_090008.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20171219_090550.jpg

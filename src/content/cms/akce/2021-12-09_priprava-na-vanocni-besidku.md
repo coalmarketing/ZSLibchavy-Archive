@@ -3,7 +3,8 @@ title: Příprava na VÁNOČNÍ BESÍDKU :-)
 post_id: '65222'
 date: '2021-12-09T10:51:29.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211111_080508.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211111_080513.jpg

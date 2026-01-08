@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,NAUČNÁ STEZKA LIBCHAVY"'
 post_id: '78079'
 date: '2022-10-03T15:27:58.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-1-13.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/2-1-14.jpeg

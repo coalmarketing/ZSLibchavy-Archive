@@ -3,7 +3,8 @@ title: NÁVŠTĚVA OBECNÍHO ÚŘADU V LIBCHAVÁCH
 post_id: '3839'
 date: '2017-10-11T21:10:08.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

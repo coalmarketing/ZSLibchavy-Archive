@@ -3,7 +3,8 @@ title: Tvoření na jarmark
 post_id: '16792'
 date: '2018-12-02T15:54:06.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181129_153449.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181129_164001.jpg

@@ -3,7 +3,8 @@ title: 14. 1. čtenářský klub
 post_id: '53467'
 date: '2021-01-14T17:00:42.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1.png
 - url: https://zslibchavycz.b-cdn.net/wp/20210115_130930.jpg

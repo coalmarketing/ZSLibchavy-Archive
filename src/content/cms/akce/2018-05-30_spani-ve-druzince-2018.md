@@ -3,7 +3,8 @@ title: Spaní ve družince 2018
 post_id: '11536'
 date: '2018-05-30T07:34:54.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4382.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4383.jpg

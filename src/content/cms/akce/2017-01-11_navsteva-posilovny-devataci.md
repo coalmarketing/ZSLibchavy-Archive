@@ -3,7 +3,8 @@ title: Návštěva posilovny - deváťáci
 post_id: '6198'
 date: '2017-01-11T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

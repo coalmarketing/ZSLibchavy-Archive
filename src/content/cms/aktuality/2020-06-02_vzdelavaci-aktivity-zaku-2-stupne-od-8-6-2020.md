@@ -3,7 +3,8 @@ title: Vzdělávací aktivity žáků 2. stupně od 8. 6. 2020
 post_id: '39383'
 date: '2020-06-02T21:09:14.000Z'
 author: Mgr.Marie Linhartová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: Herbáře - II. stupeň
 post_id: '44112'
 date: '2020-10-23T00:07:07.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201001_112330_resized_20201001_113052601.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201001_112346_resized_20201001_113052464.jpg

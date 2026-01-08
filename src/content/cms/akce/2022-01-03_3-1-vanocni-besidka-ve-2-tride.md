@@ -3,7 +3,8 @@ title: 3. 1. Vánoční besídka ve 2. třídě
 post_id: '66199'
 date: '2022-01-03T23:15:13.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220103_090731.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220103_090756.jpg

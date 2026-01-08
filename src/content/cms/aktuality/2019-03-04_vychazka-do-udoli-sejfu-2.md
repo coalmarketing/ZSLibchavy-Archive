@@ -3,7 +3,8 @@ title: Vycházka do Údolí Sejfů
 post_id: '19290'
 date: '2019-03-04T12:49:31.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/images.jpg
 tags:

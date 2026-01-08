@@ -3,7 +3,8 @@ title: Zápis do 1.třídy
 post_id: '4958'
 date: '2009-01-26T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

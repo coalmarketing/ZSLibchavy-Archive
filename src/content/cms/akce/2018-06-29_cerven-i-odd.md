@@ -3,7 +3,8 @@ title: Červen I. odd.
 post_id: '13512'
 date: '2018-06-29T08:17:28.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20180503_131605.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20180509_133259.jpg

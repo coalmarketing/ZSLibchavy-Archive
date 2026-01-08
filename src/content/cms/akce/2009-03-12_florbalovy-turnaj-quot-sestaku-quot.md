@@ -3,7 +3,8 @@ title: Florbalový turnaj &quot;šesťáků&quot;
 post_id: '4973'
 date: '2009-03-12T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

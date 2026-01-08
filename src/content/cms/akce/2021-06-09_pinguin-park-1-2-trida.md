@@ -3,7 +3,8 @@ title: Pinguin park 1.+2. třída
 post_id: '59134'
 date: '2021-06-09T17:43:40.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20210608_084435.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210608_084658.jpg

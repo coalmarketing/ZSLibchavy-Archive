@@ -3,7 +3,8 @@ title: Třeťáčci a naše obec
 post_id: '5764'
 date: '2014-10-23T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

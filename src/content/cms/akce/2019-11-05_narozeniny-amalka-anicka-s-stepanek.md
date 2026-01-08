@@ -3,7 +3,8 @@ title: Narozeniny Amálka, Anička s Štěpánek
 post_id: '27742'
 date: '2019-11-05T07:24:21.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2241.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2242.jpg

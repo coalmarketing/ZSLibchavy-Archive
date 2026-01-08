@@ -3,7 +3,8 @@ title: 'Broučci: užíváme si prvního sněhu a stavíme sněhuláky :-)'
 post_id: '50369'
 date: '2021-01-12T17:45:46.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210106-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210106-WA0001.jpg

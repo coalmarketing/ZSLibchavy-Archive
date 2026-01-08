@@ -3,7 +3,8 @@ title: Hrátky se zvířátky (Klokánci)
 post_id: '31483'
 date: '2020-02-25T10:54:40.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200223-WA0002.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200223-WA0015.jpg

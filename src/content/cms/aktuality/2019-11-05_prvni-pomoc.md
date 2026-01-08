@@ -3,7 +3,8 @@ title: První pomoc
 post_id: '27572'
 date: '2019-11-05T06:56:47.000Z'
 author: Martina Ferklová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2218-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2218.jpg

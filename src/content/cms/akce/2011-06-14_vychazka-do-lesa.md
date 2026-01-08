@@ -3,7 +3,8 @@ title: Vycházka do lesa
 post_id: '5273'
 date: '2011-06-14T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

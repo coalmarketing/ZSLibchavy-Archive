@@ -3,7 +3,8 @@ title: Hudební výlety
 post_id: '14744'
 date: '2018-10-24T11:55:48.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

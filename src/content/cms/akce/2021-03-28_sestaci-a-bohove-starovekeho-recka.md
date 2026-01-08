@@ -3,7 +3,8 @@ title: Šesťáci a bohové starověkého Řecka
 post_id: '54952'
 date: '2021-03-28T22:45:19.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1616414943714.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/1616587937193797218064074438910.jpg

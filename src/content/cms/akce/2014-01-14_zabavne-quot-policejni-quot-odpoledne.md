@@ -3,7 +3,8 @@ title: Zábavné &quot;policejní&quot; odpoledne
 post_id: '5650'
 date: '2014-01-14T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Štafetové běhy
 post_id: '12333'
 date: '2018-06-05T13:32:34.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1406.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1410-1.jpg

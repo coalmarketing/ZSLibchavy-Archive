@@ -3,7 +3,8 @@ title: Návštěva kaštanky
 post_id: '26973'
 date: '2019-10-17T12:48:34.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2137-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2138-1.jpg

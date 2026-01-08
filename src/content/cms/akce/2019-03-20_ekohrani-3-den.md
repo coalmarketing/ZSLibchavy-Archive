@@ -3,7 +3,8 @@ title: EKOHRANÍ - 3. den
 post_id: '19803'
 date: '2019-03-20T15:27:15.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7452.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_7453.jpg

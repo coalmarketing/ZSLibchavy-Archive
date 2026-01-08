@@ -3,7 +3,8 @@ title: 4.B škola doma
 post_id: '37758'
 date: '2020-05-21T11:11:09.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Fajfr-1-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Fajfr-2-1.jpg

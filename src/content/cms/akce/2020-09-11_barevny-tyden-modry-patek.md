@@ -3,7 +3,8 @@ title: BAREVNÝ TÝDEN - MODRÝ PÁTEK
 post_id: '42118'
 date: '2020-09-11T12:36:17.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/PÁTEK-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/PÁTEK-2.jpg

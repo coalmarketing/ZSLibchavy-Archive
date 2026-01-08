@@ -3,7 +3,8 @@ title: Na hřišti s fotbalisty
 post_id: '24605'
 date: '2019-06-19T14:40:14.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/029-2-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/030-2-2.jpg

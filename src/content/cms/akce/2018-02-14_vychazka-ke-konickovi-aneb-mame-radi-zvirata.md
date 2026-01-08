@@ -3,7 +3,8 @@ title: Vycházka ke koníčkovi aneb "máme rádi zvířata"
 post_id: '8876'
 date: '2018-02-14T19:15:54.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180214_104116_1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180214_104132_1.jpg

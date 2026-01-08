@@ -3,7 +3,8 @@ title: Divadélko "U DVOU SLUNCÍ"
 post_id: '60162'
 date: '2021-06-28T12:41:41.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210624_084729.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210624_084732.jpg

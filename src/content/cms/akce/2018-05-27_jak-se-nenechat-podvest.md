@@ -3,7 +3,8 @@ title: JAK SE NENECHAT PODVÉST?
 post_id: '11525'
 date: '2018-05-27T22:40:07.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/007-6.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/008-7.jpg

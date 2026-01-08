@@ -3,7 +3,8 @@ title: XV. Netradiční setkání se školou
 post_id: '490'
 date: '2010-06-23T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

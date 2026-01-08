@@ -3,7 +3,8 @@ title: Adaptační kurz 6. třídy
 post_id: '5613'
 date: '2013-10-20T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

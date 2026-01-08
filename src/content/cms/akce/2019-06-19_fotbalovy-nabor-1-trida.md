@@ -3,7 +3,8 @@ title: Fotbalový nábor-1. třída
 post_id: '24586'
 date: '2019-06-19T13:36:04.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P6190374.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P6190375.jpg

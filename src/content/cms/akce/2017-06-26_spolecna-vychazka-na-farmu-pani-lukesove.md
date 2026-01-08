@@ -3,7 +3,8 @@ title: Společná vycházka na farmu paní Lukešové
 post_id: '6351'
 date: '2017-06-26T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

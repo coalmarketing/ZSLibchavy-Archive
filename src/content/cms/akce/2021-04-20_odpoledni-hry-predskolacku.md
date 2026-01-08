@@ -3,7 +3,8 @@ title: ODPOLEDNÍ HRY PŘEDŠKOLÁČKŮ
 post_id: '56167'
 date: '2021-04-20T12:11:21.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-9.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-7.jpeg

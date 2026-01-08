@@ -3,7 +3,8 @@ title: Sběrové týdny
 post_id: '284'
 date: '2016-08-31T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

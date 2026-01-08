@@ -3,7 +3,8 @@ title: 2.oddělení LISTOPAD
 post_id: '47411'
 date: '2020-11-23T15:06:27.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/17175256-CAA1-450A-BE4B-09DD047179DF.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/282DCD8B-74B7-4326-9A99-C9923B9C00AF.jpeg

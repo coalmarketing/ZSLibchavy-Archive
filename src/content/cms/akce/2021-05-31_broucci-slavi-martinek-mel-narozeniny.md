@@ -3,7 +3,8 @@ title: 'Broučci slaví: Martínek měl narozeniny'
 post_id: '58035'
 date: '2021-05-31T20:17:38.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210527-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210527-WA0001.jpg

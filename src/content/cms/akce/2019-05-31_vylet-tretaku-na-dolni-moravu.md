@@ -3,7 +3,8 @@ title: Výlet třeťáků na Dolní Moravu
 post_id: '23164'
 date: '2019-05-31T21:50:18.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20190530_105204.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20190530_110927.jpg

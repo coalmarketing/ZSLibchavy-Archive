@@ -3,7 +3,8 @@ title: Prvňáčci na výletě v Letohradě
 post_id: '73506'
 date: '2022-05-26T18:17:44.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220526_075239.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220526_083348.jpg

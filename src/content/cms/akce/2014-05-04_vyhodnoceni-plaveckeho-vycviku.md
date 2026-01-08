@@ -3,7 +3,8 @@ title: Vyhodnocení plaveckého výcviku
 post_id: '5698'
 date: '2014-05-04T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

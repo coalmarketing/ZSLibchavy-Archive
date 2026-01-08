@@ -3,7 +3,8 @@ title: DEN PRO MAMINKU
 post_id: '6109'
 date: '2016-05-04T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

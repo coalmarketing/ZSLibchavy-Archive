@@ -3,7 +3,8 @@ title: Klaun TÚTÚ v MŠ :-)
 post_id: '62014'
 date: '2021-10-04T13:13:15.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210930_102848.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210930_102855.jpg

@@ -3,7 +3,8 @@ title: Český den proti rakovině
 post_id: '540'
 date: '2009-05-14T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

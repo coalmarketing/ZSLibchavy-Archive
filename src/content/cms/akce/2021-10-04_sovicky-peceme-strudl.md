@@ -3,7 +3,8 @@ title: 'Sovičky: "Pečeme štrůdl"'
 post_id: '62074'
 date: '2021-10-04T13:19:33.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210924_090618.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210924_090714.jpg

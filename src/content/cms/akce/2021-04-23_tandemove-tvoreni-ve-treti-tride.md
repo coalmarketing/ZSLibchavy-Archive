@@ -3,7 +3,8 @@ title: Tandemové tvoření ve třetí třídě
 post_id: '56392'
 date: '2021-04-23T13:48:20.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0389.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0393.jpg

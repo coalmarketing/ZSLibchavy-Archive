@@ -3,7 +3,8 @@ title: Biologie člověka - 8. třída
 post_id: '54359'
 date: '2021-03-20T01:11:02.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1615629880359.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210311_172301.jpg

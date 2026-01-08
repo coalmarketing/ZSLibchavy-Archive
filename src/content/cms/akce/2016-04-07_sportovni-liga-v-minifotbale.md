@@ -3,7 +3,8 @@ title: Sportovní liga v minifotbale
 post_id: '6051'
 date: '2016-04-07T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Závěr roku v I. oddělení
 post_id: '82574'
 date: '2022-12-22T12:11:17.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20221102_143527.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20221118_133311.jpg

@@ -3,7 +3,8 @@ title: Jirka má narozeniny
 post_id: '69502'
 date: '2022-03-09T07:51:14.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/274601018_1021396001810530_665525829607975360_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/275114036_521932722695008_1199247080532479862_n.jpg

@@ -3,7 +3,8 @@ title: Projektový den na SŠUP v ÚO
 post_id: '6047'
 date: '2016-03-29T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

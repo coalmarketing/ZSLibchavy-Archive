@@ -3,7 +3,8 @@ title: Muizikoterapie
 post_id: '18460'
 date: '2019-01-22T11:16:46.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

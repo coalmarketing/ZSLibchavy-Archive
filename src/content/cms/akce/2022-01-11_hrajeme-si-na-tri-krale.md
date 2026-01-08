@@ -3,7 +3,8 @@ title: HRAJEME SI NA TŘI KRÁLE :-)
 post_id: '66639'
 date: '2022-01-11T12:59:01.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220107_110010.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220107_110014.jpg

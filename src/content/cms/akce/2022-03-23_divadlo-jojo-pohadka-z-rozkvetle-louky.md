@@ -3,7 +3,8 @@ title: Divadlo JÓJO - POHÁDKA Z ROZKVETLÉ LOUKY
 post_id: '70382'
 date: '2022-03-23T12:28:22.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/275935718_684284976358799_3428781112734618098_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/275938632_498863208451619_7893405809100318998_n.jpg

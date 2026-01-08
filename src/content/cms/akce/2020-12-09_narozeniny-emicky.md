@@ -3,7 +3,8 @@ title: Narozeniny Emičky
 post_id: '48515'
 date: '2020-12-09T14:35:13.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0364220.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0364221.jpg

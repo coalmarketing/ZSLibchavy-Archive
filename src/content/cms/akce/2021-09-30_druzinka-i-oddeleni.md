@@ -3,7 +3,8 @@ title: Družinka I. oddělení
 post_id: '62345'
 date: '2021-09-30T07:04:47.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210906_132735.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210916_133825.jpg

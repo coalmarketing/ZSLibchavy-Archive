@@ -3,7 +3,8 @@ title: Martinovo poselství
 post_id: '5768'
 date: '2014-11-10T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

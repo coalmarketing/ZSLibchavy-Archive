@@ -3,7 +3,8 @@ title: Music band from Manchester (Eng) in our school
 post_id: '5831'
 date: '2015-02-23T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

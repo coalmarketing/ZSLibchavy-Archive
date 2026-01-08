@@ -3,7 +3,8 @@ title: Velikonoční výstava a dílna
 post_id: '5129'
 date: '2010-03-28T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

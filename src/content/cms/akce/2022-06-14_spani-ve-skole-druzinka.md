@@ -3,7 +3,8 @@ title: Spaní ve škole - družinka
 post_id: '74968'
 date: '2022-06-14T11:36:56.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/286747217_592643782092150_1732215496589088202_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/286828227_3260009174218273_6233571107641789246_n.jpg

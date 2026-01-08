@@ -3,7 +3,8 @@ title: 'Broučci: slepujeme linecké cukroví :-)'
 post_id: '49118'
 date: '2020-12-11T12:39:56.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201210_093150.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201210_093155.jpg

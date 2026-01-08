@@ -3,7 +3,8 @@ title: Už zase sbíráme papír
 post_id: '40187'
 date: '2020-06-11T13:29:35.000Z'
 author: Mgr.Petr Kulhavý
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

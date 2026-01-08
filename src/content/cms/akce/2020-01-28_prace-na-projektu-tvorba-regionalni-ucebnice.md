@@ -3,7 +3,8 @@ title: Práce na projektu – tvorba regionální učebnice
 post_id: '30494'
 date: '2020-01-28T14:00:24.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1003-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1004-2.jpg

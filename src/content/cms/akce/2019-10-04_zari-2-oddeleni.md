@@ -3,7 +3,8 @@ title: ZÁŘÍ - 2. ODDĚLENÍ
 post_id: '26381'
 date: '2019-10-04T15:34:28.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_8008.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_8011.jpg

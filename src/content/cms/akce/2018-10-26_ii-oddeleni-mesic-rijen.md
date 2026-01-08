@@ -3,7 +3,8 @@ title: II. oddělení měsíc ŘÍJEN
 post_id: '14952'
 date: '2018-10-26T15:49:32.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6517-kopie-2-kopie-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6519-1.jpg

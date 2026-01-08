@@ -3,7 +3,8 @@ title: TECHNOhrátky Žamberk
 post_id: '6164'
 date: '2016-11-22T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

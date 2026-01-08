@@ -3,7 +3,8 @@ title: Sálová kopaná
 post_id: '5182'
 date: '2010-11-21T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

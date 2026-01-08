@@ -3,7 +3,8 @@ title: Divadlo - JAK SI JEŽÍŠEK UŽIL ČESKÉ VÁNOCE
 post_id: '29601'
 date: '2019-12-19T07:15:21.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/79366994_590906991676522_6986313714865537024_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/79370280_456320471693052_7388075933669785600_n.jpg

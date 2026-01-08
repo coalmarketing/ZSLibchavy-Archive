@@ -3,7 +3,8 @@ title: Zpívá celá družina
 post_id: '77981'
 date: '2022-10-03T14:35:22.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/309226375_638404674346601_7820401563941263457_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/309252846_791756402062985_6848379644250354775_n.jpg

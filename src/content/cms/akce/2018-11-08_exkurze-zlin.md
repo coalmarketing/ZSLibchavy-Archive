@@ -3,7 +3,8 @@ title: Exkurze Zlín
 post_id: '16315'
 date: '2018-11-08T20:52:23.000Z'
 author: Mgr.Kateřina Kulhavá
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: UZAVŔENÍ MŠ O LETNÍCH PRÁZDNINÁCH
 post_id: '19646'
 date: '2019-03-12T12:46:33.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: Návštěva Mikuláše
 post_id: '16819'
 date: '2018-12-05T11:41:40.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0146.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0147.jpg

@@ -3,7 +3,8 @@ title: Škola doma v 5.B
 post_id: '51679'
 date: '2021-01-22T22:50:32.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Francie_Duskoa-rotated.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210108_154349.jpg

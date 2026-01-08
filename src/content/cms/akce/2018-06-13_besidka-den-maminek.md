@@ -3,7 +3,8 @@ title: Besídka "Den maminek"
 post_id: '12452'
 date: '2018-06-13T10:21:03.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_1797.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_1799.jpg

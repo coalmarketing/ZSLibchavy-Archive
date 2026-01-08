@@ -3,7 +3,8 @@ title: Soutěž odborných dovedností žáků
 post_id: '5939'
 date: '2015-10-25T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

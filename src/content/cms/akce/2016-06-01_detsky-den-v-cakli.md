@@ -3,7 +3,8 @@ title: Dětský den v Cakli
 post_id: '6097'
 date: '2016-06-01T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

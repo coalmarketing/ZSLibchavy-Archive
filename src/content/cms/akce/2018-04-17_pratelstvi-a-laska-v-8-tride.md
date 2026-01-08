@@ -3,7 +3,8 @@ title: PŘÁTELSTVÍ A LÁSKA v 8. třídě
 post_id: '10318'
 date: '2018-04-17T22:58:36.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/066-1-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/067-1-2.jpg

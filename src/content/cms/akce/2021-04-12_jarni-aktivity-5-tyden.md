@@ -3,7 +3,8 @@ title: Jarní aktivity - 5. týden
 post_id: '55862'
 date: '2021-04-12T19:39:42.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/170771869_4227532227265228_9000535965601465698_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/170919830_2996688627267797_2698690173204483767_n.jpg

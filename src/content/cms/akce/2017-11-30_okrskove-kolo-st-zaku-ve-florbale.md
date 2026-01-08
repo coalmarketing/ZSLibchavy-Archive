@@ -3,7 +3,8 @@ title: Okrskové kolo st. žáků ve florbale
 post_id: '6436'
 date: '2017-11-30T23:17:24.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/002.jpg

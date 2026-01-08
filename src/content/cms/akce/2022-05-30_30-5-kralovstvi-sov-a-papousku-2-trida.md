@@ -3,7 +3,8 @@ title: 30. 5. Království sov a papoušků, 2. třída
 post_id: '73822'
 date: '2022-05-30T23:50:21.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220530_070829.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220530_090713.jpg

@@ -3,7 +3,8 @@ title: Činnost Badatelského kroužku
 post_id: '47802'
 date: '2020-12-01T23:43:07.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Anna.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Bada.jpg

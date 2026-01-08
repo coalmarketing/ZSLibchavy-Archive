@@ -3,7 +3,8 @@ title: Vyzvedávání přihlášek a zápisových lístků
 post_id: '275'
 date: '2017-02-02T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

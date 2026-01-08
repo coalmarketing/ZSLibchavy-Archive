@@ -3,7 +3,8 @@ title: Adámek, Jolanka a Mireček mají narozeniny
 post_id: '42671'
 date: '2020-10-01T14:21:09.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/120336457_329203491645204_1794185877832197848_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/120385344_3295200797183692_2963417526604979852_n.jpg

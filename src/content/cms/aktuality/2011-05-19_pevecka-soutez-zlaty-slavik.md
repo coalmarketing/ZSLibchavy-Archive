@@ -3,7 +3,8 @@ title: Pěvecká soutěž ZLATÝ  SLAVÍK
 post_id: '460'
 date: '2011-05-19T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

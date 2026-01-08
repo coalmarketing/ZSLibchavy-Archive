@@ -3,7 +3,8 @@ title: 'Tvořeníčko tvoření: Sovičky- "Listí žloutne, poletuje" :-)'
 post_id: '79334'
 date: '2022-10-24T13:00:50.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221019_073848.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221019_073906.jpg

@@ -3,7 +3,8 @@ title: výlet na výstavu pavouků v Ústí nad Orlicí :-)
 post_id: '70461'
 date: '2022-03-24T14:10:19.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220324_074546.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220324_075925.jpg

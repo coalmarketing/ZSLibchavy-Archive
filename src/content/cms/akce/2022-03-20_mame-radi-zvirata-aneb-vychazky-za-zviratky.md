@@ -3,7 +3,8 @@ title: '"Máme rádi zvířata" aneb "vycházky za zvířátky" :-)'
 post_id: '70013'
 date: '2022-03-20T13:39:14.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220222_103946.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220222_103950.jpg

@@ -3,7 +3,8 @@ title: Návštěva místní knihovny - 4.B
 post_id: '28218'
 date: '2019-11-15T14:41:04.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191115_100649.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191115_100703.jpg

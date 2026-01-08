@@ -3,7 +3,8 @@ title: Distanční výuka v 5.B
 post_id: '53053'
 date: '2021-02-25T17:18:13.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Duskova.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Fajfr.jpg

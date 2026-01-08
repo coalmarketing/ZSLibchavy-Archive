@@ -3,7 +3,8 @@ title: Tělák trochu jinak
 post_id: '11416'
 date: '2018-05-24T22:18:13.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/028-4.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/029-1.jpg

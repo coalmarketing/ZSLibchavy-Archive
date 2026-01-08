@@ -3,7 +3,8 @@ title: II. ODDĚLENÍ  Únor
 post_id: '31608'
 date: '2020-03-02T12:58:01.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_8639.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_8640.jpg

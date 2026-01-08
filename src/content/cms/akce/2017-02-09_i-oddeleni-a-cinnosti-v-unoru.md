@@ -3,7 +3,8 @@ title: I.oddělení a činnosti v únoru
 post_id: '6236'
 date: '2017-02-09T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

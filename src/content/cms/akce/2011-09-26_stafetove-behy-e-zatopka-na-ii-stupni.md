@@ -3,7 +3,8 @@ title: Štafetové běhy E.Zátopka na II.stupni
 post_id: '5286'
 date: '2011-09-26T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

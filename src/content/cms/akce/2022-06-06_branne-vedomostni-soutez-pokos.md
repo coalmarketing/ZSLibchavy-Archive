@@ -3,7 +3,8 @@ title: Branně-vědomostní soutěž POKOS
 post_id: '74386'
 date: '2022-06-06T23:16:40.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220531_090606.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220531_090618.jpg

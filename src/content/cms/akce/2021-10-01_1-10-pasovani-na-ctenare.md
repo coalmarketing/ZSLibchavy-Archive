@@ -3,7 +3,8 @@ title: 1. 10. Pasování na čtenáře
 post_id: '62101'
 date: '2021-10-01T20:01:09.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20211001_092103.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20211001_092724.jpg

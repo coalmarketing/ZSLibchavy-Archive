@@ -3,7 +3,8 @@ title: 'besídka: "tvořeníčko" :-)'
 post_id: '73060'
 date: '2022-05-13T09:19:13.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220510_155840.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220510_155846.jpg

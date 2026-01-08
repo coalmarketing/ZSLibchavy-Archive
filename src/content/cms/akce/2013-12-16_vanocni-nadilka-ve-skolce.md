@@ -3,7 +3,8 @@ title: Vánoční nadílka ve školce
 post_id: '5635'
 date: '2013-12-16T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

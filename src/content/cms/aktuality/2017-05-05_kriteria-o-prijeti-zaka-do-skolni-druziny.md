@@ -3,7 +3,8 @@ title: KRITÉRIA  O  PŘIJETÍ  ŽÁKA  DO  ŠKOLNÍ  DRUŽINY
 post_id: '600'
 date: '2017-05-05T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: Proč být hrdý Čech?
 post_id: '14534'
 date: '2018-10-08T11:44:14.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

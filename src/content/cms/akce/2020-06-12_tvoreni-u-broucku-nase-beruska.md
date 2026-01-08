@@ -3,7 +3,8 @@ title: 'Tvoření u Broučků: "naše Beruška"'
 post_id: '40212'
 date: '2020-06-12T21:39:28.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200612_070719.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200612_072010.jpg

@@ -3,7 +3,8 @@ title: Běžecké štafety na 1. stupni
 post_id: '73579'
 date: '2022-05-27T13:14:13.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P1000742.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P1000743.jpg

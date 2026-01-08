@@ -3,7 +3,8 @@ title: Návštěva knihovny
 post_id: '28375'
 date: '2019-11-18T11:28:29.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2478.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2479.jpg

@@ -3,7 +3,8 @@ title: Besídka ke Dni matek
 post_id: '22194'
 date: '2019-05-16T06:46:03.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0516.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0519.jpg

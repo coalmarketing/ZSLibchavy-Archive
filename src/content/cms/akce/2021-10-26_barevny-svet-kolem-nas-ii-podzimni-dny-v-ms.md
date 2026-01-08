@@ -3,7 +3,8 @@ title: '"Barevný svět kolem nás II." - podzimní dny v MŠ :-)'
 post_id: '62943'
 date: '2021-10-26T17:50:24.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20211020-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20211020-WA0001.jpg

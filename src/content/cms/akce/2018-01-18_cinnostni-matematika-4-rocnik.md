@@ -3,7 +3,8 @@ title: Činnostní matematika - 4.ročník
 post_id: '8057'
 date: '2018-01-18T21:50:23.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

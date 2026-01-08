@@ -3,7 +3,8 @@ title: Činnost žákovské rady červen 2021
 post_id: '60038'
 date: '2021-06-25T10:33:54.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1421-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1422-3.jpg

@@ -3,7 +3,8 @@ title: '"Fotbalová hvězdička"'
 post_id: '24743'
 date: '2019-06-24T06:17:06.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/004C019E-0547-4F6D-ABDD-5AF611F10918.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/009ABE4F-29F0-4D01-A929-01BE827A2B50.jpeg

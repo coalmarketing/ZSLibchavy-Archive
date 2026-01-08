@@ -3,7 +3,8 @@ title: Matematická soutěž Pythagoriáda v 5. třídě
 post_id: '5992'
 date: '2016-01-27T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

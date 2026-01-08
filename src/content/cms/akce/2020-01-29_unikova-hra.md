@@ -3,7 +3,8 @@ title: Úniková hra
 post_id: '30539'
 date: '2020-01-29T12:38:07.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200127-WA0002.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200127-WA0003.jpg

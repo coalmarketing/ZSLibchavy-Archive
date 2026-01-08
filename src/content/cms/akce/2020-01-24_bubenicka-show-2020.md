@@ -3,7 +3,8 @@ title: Bubenická show 2020
 post_id: '30197'
 date: '2020-01-24T14:50:24.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0162919.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0162920.jpg

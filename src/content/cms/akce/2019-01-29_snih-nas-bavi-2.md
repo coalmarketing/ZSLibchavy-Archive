@@ -3,7 +3,8 @@ title: Sníh nás baví!!!!!
 post_id: '18624'
 date: '2019-01-29T07:16:04.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190128-WA0011.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190128-WA0012.jpg

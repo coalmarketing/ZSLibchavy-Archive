@@ -3,7 +3,8 @@ title: 28.3. Pletení z pedigu II.
 post_id: '569'
 date: '2009-02-10T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: Prvňáčci - tělocvik na sněhu
 post_id: '66659'
 date: '2022-01-11T17:36:15.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220111_095152.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220111_095208.jpg

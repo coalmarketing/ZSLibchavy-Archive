@@ -3,7 +3,8 @@ title: Společná procházka
 post_id: '6325'
 date: '2017-06-08T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

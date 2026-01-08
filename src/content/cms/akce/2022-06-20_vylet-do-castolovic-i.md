@@ -3,7 +3,8 @@ title: Výlet do Častolovic I. :-)
 post_id: '75474'
 date: '2022-06-20T06:57:14.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220616_080435.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220616_080439.jpg

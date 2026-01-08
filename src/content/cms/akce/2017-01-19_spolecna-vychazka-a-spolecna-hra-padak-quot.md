@@ -3,7 +3,8 @@ title: Společná vycházka a společná hra ,,Padák&quot;
 post_id: '6213'
 date: '2017-01-19T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

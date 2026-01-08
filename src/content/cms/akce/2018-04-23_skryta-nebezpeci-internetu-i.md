@@ -3,7 +3,8 @@ title: Skrytá nebezpečí internetu I.
 post_id: '10433'
 date: '2018-04-23T22:35:06.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/004-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/005-1-2.jpg

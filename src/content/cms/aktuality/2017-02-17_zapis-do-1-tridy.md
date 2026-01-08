@@ -3,7 +3,8 @@ title: zápis do 1. třídy
 post_id: '274'
 date: '2017-02-17T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

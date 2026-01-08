@@ -3,7 +3,8 @@ title: Stopovaná v 1. třídě
 post_id: '73120'
 date: '2022-05-13T12:26:52.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220513_101613.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220513_101621.jpg

@@ -3,7 +3,8 @@ title: Abeceda peněz - 5. třída
 post_id: '18962'
 date: '2019-02-15T17:12:10.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/abecedapenez-1-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/abecedapenez-2.jpg

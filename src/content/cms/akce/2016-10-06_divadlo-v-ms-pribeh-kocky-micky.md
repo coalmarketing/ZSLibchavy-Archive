@@ -3,7 +3,8 @@ title: DIVADLO V MŠ - PŘÍBĚH KOČKY MICKY
 post_id: '6161'
 date: '2016-10-06T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

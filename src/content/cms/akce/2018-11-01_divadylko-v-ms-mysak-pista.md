@@ -3,7 +3,8 @@ title: 'Divadýlko v MŠ: Myšák Pišta'
 post_id: '15793'
 date: '2018-11-01T12:41:08.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181001_083920.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181001_083922.jpg

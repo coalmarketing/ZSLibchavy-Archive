@@ -3,7 +3,8 @@ title: Prvňáčci navštívili dolní MŠ
 post_id: '5946'
 date: '2015-11-09T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

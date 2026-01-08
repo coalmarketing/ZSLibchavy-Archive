@@ -3,7 +3,8 @@ title: Den vaření
 post_id: '5239'
 date: '2011-05-01T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

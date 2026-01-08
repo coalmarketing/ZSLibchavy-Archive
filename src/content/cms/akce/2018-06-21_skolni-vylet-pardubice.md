@@ -3,7 +3,8 @@ title: Školní výlet Pardubice
 post_id: '12711'
 date: '2018-06-21T07:46:20.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1321-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1325.jpg

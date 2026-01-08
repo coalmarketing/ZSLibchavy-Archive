@@ -3,7 +3,8 @@ title: XI.ročník libchavského atletického čtyřboje vesnických škol
 post_id: '14450'
 date: '2018-10-04T19:57:44.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/005-6.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/010-8.jpg

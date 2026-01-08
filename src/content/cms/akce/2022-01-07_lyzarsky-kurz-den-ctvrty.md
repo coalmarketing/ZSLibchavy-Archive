@@ -3,7 +3,8 @@ title: Lyžařský kurz - den čtvrtý
 post_id: '66412'
 date: '2022-01-07T08:20:10.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220106-WA0008.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20220106-WA0013.jpg

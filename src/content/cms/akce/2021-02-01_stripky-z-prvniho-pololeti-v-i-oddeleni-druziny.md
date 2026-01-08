@@ -3,7 +3,8 @@ title: Střípky z prvního pololetí v I. oddělení družiny
 post_id: '52186'
 date: '2021-02-01T17:08:09.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201009_100924.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201009_101051.jpg

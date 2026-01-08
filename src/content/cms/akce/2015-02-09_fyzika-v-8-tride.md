@@ -3,7 +3,8 @@ title: Fyzika v 8. třídě
 post_id: '5822'
 date: '2015-02-09T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Výšlap 3. B na " Andrlák"
 post_id: '13570'
 date: '2018-08-31T19:46:21.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1483.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1484.jpg

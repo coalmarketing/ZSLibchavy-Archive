@@ -3,7 +3,8 @@ title: Projektový den v 9. třídě
 post_id: '63287'
 date: '2021-11-03T15:32:09.000Z'
 author: Marta Kacálková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1608.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1609.jpg

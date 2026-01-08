@@ -3,7 +3,8 @@ title: Lyžařský kurz Šerlich - 2. den
 post_id: '70316'
 date: '2022-03-22T19:43:17.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220322_080412.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220322_102632.jpg

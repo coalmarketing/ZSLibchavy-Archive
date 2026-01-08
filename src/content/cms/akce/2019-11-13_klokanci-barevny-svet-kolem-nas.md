@@ -3,7 +3,8 @@ title: 'Klokánci: Barevný svět kolem nás'
 post_id: '27986'
 date: '2019-11-13T06:18:35.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1745CD68-B844-400D-AAE7-774D2FED451C.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/2A388D3C-0257-47C7-A3C4-AD86FB30AC91.jpeg

@@ -3,7 +3,8 @@ title: Okresní přebory mladšího žactva v atletice
 post_id: '5168'
 date: '2010-09-14T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

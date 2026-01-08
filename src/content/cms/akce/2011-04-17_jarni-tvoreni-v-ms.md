@@ -3,7 +3,8 @@ title: Jarní tvoření v MŠ
 post_id: '5232'
 date: '2011-04-17T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

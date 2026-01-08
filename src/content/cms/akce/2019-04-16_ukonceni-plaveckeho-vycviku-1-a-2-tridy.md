@@ -3,7 +3,8 @@ title: Ukončení plaveckého výcviku 1. a 2. třídy
 post_id: '21015'
 date: '2019-04-16T14:50:27.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P4160377.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P4160379.jpg

@@ -3,7 +3,8 @@ title: Turnaj v dámě
 post_id: '5179'
 date: '2010-11-09T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Přednáška o pravěku - 4.A, 4.B třída
 post_id: '31555'
 date: '2020-02-28T19:41:51.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20200227_110420.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20200227_110502.jpg

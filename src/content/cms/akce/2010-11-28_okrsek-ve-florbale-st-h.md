@@ -3,7 +3,8 @@ title: Okrsek ve florbale - st.H
 post_id: '5190'
 date: '2010-11-28T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Slavnostní oběd 9. třídy
 post_id: '75158'
 date: '2022-06-15T18:31:07.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/foto-12-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/foto-12-3.jpg

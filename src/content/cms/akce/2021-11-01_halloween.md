@@ -3,7 +3,8 @@ title: HALLOWEEN
 post_id: '63146'
 date: '2021-11-01T14:44:17.000Z'
 author: Marta Kacálková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/003-10.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/004-12.jpg

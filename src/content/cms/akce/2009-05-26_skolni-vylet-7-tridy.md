@@ -3,7 +3,8 @@ title: Školní výlet 7. třídy
 post_id: '5018'
 date: '2009-05-26T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

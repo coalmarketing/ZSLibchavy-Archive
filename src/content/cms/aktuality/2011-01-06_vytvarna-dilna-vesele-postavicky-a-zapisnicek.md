@@ -3,7 +3,8 @@ title: Výtvarná dílna - veselé postavičky a zápisníček
 post_id: '476'
 date: '2011-01-06T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

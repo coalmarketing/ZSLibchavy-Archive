@@ -3,7 +3,8 @@ title: Slavíme!!! Sárinka měla narozeniny :-)
 post_id: '62474'
 date: '2021-10-15T06:41:17.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20211014-WA0018.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20211014-WA0019.jpg

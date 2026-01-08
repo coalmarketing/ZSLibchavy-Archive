@@ -3,7 +3,8 @@ title: Domácí úkol 6.tříd
 post_id: '35701'
 date: '2020-04-27T23:49:37.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Bašnikova.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Bezdíčková.jpg

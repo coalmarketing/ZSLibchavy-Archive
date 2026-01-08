@@ -3,7 +3,8 @@ title: Vynášení Moreny do Libchavského potoka
 post_id: '5123'
 date: '2010-03-21T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

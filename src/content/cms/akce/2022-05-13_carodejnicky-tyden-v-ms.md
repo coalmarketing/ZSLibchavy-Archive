@@ -3,7 +3,8 @@ title: Čarodějnický týden v MŠ :-)
 post_id: '72827'
 date: '2022-05-13T07:43:15.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220425_071409.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220425_071428.jpg

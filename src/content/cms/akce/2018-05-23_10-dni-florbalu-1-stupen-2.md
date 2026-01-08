@@ -3,7 +3,8 @@ title: 10 dní florbalu 1. stupeň
 post_id: '11403'
 date: '2018-05-23T12:11:54.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

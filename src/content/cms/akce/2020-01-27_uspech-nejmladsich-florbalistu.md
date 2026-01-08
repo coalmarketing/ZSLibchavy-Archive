@@ -3,7 +3,8 @@ title: Úspěch nejmladších florbalistů
 post_id: '30457'
 date: '2020-01-27T21:19:51.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0159.jpg
 tags:

@@ -3,7 +3,8 @@ title: Preventivní programy u šesťáků
 post_id: '61490'
 date: '2021-09-19T10:36:32.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210917-WA0001-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210917-WA0007-1.jpg

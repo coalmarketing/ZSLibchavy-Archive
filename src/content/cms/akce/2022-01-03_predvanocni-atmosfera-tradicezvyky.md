@@ -3,7 +3,8 @@ title: předvánoční atmosféra-tradice,zvyky
 post_id: '66158'
 date: '2022-01-03T15:35:16.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211217_072036.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211217_073611.jpg

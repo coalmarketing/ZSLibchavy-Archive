@@ -3,7 +3,8 @@ title: 'Klokánci slaví: Štěpánek V. měl narozeniny'
 post_id: '40070'
 date: '2020-06-10T19:05:02.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200608-WA0028.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200608-WA0029.jpg

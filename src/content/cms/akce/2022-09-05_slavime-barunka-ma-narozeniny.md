@@ -3,7 +3,8 @@ title: 'SLAVÍME: BARUNKA MÁ NAROZENINY'
 post_id: '76791'
 date: '2022-09-05T16:13:24.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/07583325-5B80-4041-BDBE-6FB7371F8B4D.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/25E68F01-B862-4195-AAD0-555F9F0E4E22.jpeg

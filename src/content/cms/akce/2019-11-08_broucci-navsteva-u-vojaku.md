@@ -3,7 +3,8 @@ title: 'Broučci: návštěva u vojáků'
 post_id: '27883'
 date: '2019-11-08T13:28:35.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191107_094002.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191107_094004.jpg

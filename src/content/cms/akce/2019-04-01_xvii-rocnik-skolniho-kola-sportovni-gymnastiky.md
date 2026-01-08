@@ -3,7 +3,8 @@ title: XVII. ročník školního kola SPORTOVNÍ GYMNASTIKY
 post_id: '20407'
 date: '2019-04-01T23:36:34.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P1560939.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P1560943.jpg

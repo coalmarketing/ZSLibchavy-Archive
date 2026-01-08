@@ -3,7 +3,8 @@ title: Sofinka má narozeniny!
 post_id: '72813'
 date: '2022-05-12T17:57:29.000Z'
 author: Martina Ferklová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/279564464_682453999508542_7012282281116308724_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/279564469_3830831197142274_1413858294743135275_n.jpg

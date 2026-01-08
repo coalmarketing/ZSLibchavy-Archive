@@ -3,7 +3,8 @@ title: Vánoční bruslení
 post_id: '4948'
 date: '2008-12-18T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

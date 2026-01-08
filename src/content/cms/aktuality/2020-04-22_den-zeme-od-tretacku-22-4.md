@@ -3,7 +3,8 @@ title: Den Země od třeťáčků 22. 4.
 post_id: '36039'
 date: '2020-04-22T13:41:19.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20200416_114029-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20200423_101401-rotated.jpg

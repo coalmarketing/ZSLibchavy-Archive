@@ -3,7 +3,8 @@ title: Vánoční besídka 3.třídy s rodiči a prarodiči
 post_id: '4956'
 date: '2008-12-17T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: 'Broučci: Tvořeníčko, tvoření: "TŘI KRÁLOVÉ"'
 post_id: '50245'
 date: '2021-01-09T18:08:02.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210107_075126.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210107_075135.jpg

@@ -3,7 +3,8 @@ title: Den Comenuis v Cakli
 post_id: '5038'
 date: '2009-09-17T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

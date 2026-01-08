@@ -3,7 +3,8 @@ title: Vítáme naše prvňáčky a všechny děti ve družince***
 post_id: '61130'
 date: '2021-09-08T19:24:11.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0183.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0184.jpg

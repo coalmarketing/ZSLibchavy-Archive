@@ -3,7 +3,8 @@ title: Létající poklady
 post_id: '17120'
 date: '2018-12-13T11:30:03.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0175.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF0176.jpg

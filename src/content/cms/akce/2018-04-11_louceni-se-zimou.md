@@ -3,7 +3,8 @@ title: Loučení se zimou
 post_id: '10044'
 date: '2018-04-11T06:52:50.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20180404_100520.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20180404_100523.jpg

@@ -3,7 +3,8 @@ title: Recitační soutěž na I. stupni
 post_id: '5690'
 date: '2014-03-26T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

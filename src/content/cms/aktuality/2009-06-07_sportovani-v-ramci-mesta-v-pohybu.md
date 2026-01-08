@@ -3,7 +3,8 @@ title: Sportování v rámci "Města v pohybu"
 post_id: '531'
 date: '2009-06-07T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

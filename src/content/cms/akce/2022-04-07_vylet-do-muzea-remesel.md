@@ -3,7 +3,8 @@ title: Výlet do Muzea řemesel :-)
 post_id: '71169'
 date: '2022-04-07T20:33:44.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220331_075043.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220331_075047.jpg

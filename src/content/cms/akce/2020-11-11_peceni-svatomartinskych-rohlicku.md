@@ -3,7 +3,8 @@ title: Pečení svatomartinských rohlíčků
 post_id: '46025'
 date: '2020-11-11T10:32:40.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20201111-WA0004.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201111_0719361-1.jpg

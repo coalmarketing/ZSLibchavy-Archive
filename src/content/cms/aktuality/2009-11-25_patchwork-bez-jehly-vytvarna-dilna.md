@@ -3,7 +3,8 @@ title: Patchwork bez jehly - výtvarná dílna
 post_id: '512'
 date: '2009-11-25T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

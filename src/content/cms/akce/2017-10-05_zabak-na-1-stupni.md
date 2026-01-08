@@ -3,7 +3,8 @@ title: Žabák na 1. stupni
 post_id: '3639'
 date: '2017-10-05T12:16:44.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_9277.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_9282.jpg

@@ -3,7 +3,8 @@ title: Barevný týden - černo-bílý čtvrtek
 post_id: '61172'
 date: '2021-09-09T10:28:54.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1516.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1519.jpg

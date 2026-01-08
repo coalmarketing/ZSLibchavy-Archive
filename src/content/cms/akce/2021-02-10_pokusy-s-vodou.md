@@ -3,7 +3,8 @@ title: Pokusy s vodou
 post_id: '52436'
 date: '2021-02-10T07:35:04.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6337-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6339-2.jpg

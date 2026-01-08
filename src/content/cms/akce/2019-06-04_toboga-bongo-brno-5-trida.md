@@ -3,7 +3,8 @@ title: TOBOGA Bongo Brno - 5.třída
 post_id: '23296'
 date: '2019-06-04T18:29:31.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190604_080539.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190604_080550.jpg

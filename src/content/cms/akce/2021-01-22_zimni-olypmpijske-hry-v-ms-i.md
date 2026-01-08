@@ -3,7 +3,8 @@ title: ZIMNÍ OLYMPIJSKÉ HRY V MŠ I. (přípravy)
 post_id: '51393'
 date: '2021-01-22T18:09:15.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210118_082427.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210118_082431.jpg

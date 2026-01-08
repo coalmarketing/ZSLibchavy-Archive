@@ -3,7 +3,8 @@ title: Preventivní program ve třídě 6. A
 post_id: '66083'
 date: '2021-12-20T15:59:43.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1364.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1365-2.jpg

@@ -3,7 +3,8 @@ title: Preventivní programy na naší škole
 post_id: '27123'
 date: '2019-10-21T22:44:38.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/001-9.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/003-1-5.jpg

@@ -3,7 +3,8 @@ title: Hry s deváťáky
 post_id: '12023'
 date: '2018-06-04T15:46:40.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9685.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF9686.jpg

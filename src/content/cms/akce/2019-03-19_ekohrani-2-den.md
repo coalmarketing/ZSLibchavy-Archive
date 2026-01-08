@@ -3,7 +3,8 @@ title: EKOHRANÍ - 2. Den
 post_id: '19737'
 date: '2019-03-19T14:45:44.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/110E15F5-7042-4FDE-8CC6-DECC7DC1B62F.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/2ABCE773-9B0D-4ADB-96DA-35E825A75DD8.jpeg

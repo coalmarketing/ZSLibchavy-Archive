@@ -3,7 +3,8 @@ title: Lyžařský kurz
 post_id: '19150'
 date: '2019-02-20T20:18:52.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/012-11.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/014-8.jpg

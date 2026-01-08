@@ -3,7 +3,8 @@ title: Zapoj se do hlasování a podpoř své spolužáky
 post_id: '60117'
 date: '2021-06-26T21:43:32.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Snimek-obrazovky-2021-06-26-213353.png
 - url: https://zslibchavycz.b-cdn.net/wp/Snimek-obrazovky-2021-06-26-213445.png

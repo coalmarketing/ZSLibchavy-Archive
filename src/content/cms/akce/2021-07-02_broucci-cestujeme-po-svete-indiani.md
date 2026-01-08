@@ -3,7 +3,8 @@ title: broučci-cestujeme po světě "indiáni"
 post_id: '60367'
 date: '2021-07-02T07:43:07.000Z'
 author: Lucie Šponarová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210629_070553.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210629_071015.jpg

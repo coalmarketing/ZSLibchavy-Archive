@@ -3,7 +3,8 @@ title: Zápis do 1. třídy
 post_id: '71748'
 date: '2022-04-27T14:30:36.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4181-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_4186.jpg

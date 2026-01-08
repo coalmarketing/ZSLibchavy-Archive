@@ -3,7 +3,8 @@ title: PĚŠÍ VÝLET - BÍLÍ JELENI
 post_id: '6114'
 date: '2016-05-26T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Exkurze do Dolních Vítkovic
 post_id: '320'
 date: '2015-05-31T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

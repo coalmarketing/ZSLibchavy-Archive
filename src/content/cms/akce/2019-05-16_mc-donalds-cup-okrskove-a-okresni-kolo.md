@@ -3,7 +3,8 @@ title: Mc Donald´s cup - okrskové a okresní kolo
 post_id: '22250'
 date: '2019-05-16T12:07:04.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190506_091857.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190506_102750.jpg

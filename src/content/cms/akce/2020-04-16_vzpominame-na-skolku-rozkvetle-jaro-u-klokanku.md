@@ -3,7 +3,8 @@ title: 'Vzpomínáme na školku: "Rozkvetlé jaro u Klokánků"'
 post_id: '34639'
 date: '2020-04-16T14:06:07.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200406-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200406-WA0001.jpg

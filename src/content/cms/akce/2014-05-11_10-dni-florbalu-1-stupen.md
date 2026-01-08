@@ -3,7 +3,8 @@ title: 10 dní florbalu - 1. stupeň
 post_id: '5705'
 date: '2014-05-11T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

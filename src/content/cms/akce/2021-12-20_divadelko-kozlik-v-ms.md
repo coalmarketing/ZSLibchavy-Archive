@@ -3,7 +3,8 @@ title: divadélko "Kozlík" v MŠ
 post_id: '65783'
 date: '2021-12-20T07:41:48.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20211217-WA0001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20211217-WA0002.jpg

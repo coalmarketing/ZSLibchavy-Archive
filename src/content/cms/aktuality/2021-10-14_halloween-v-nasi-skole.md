@@ -3,7 +3,8 @@ title: HALLOWEEN v naší škole
 post_id: '62470'
 date: '2021-10-14T14:05:39.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

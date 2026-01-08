@@ -3,7 +3,8 @@ title: Indiánská pohádka
 post_id: '57299'
 date: '2021-05-12T14:26:34.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6555-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF6556-2.jpg

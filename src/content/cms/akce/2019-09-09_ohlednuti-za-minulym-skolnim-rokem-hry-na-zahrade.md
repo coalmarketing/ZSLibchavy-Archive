@@ -3,7 +3,8 @@ title: Ohlédnutí za minulým školním rokem - hry na zahradě
 post_id: '25452'
 date: '2019-09-09T13:17:43.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190626_091954-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20190626_092025-1.jpg

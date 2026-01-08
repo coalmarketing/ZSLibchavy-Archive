@@ -3,7 +3,8 @@ title: 'Druhá výprava: Do doby ledové'
 post_id: '5766'
 date: '2014-10-30T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

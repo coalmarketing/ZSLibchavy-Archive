@@ -3,7 +3,8 @@ title: Martinovo poselství
 post_id: '63833'
 date: '2021-11-12T14:28:19.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/243530200_348632697063147_6643419262897352847_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/247410274_646389006356765_6670255200141412326_n.jpg

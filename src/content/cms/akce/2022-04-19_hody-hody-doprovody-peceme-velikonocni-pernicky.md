@@ -3,7 +3,8 @@ title: '"Hody, hody, doprovody": "pečeme velikonoční perníčky" :-)'
 post_id: '71407'
 date: '2022-04-19T13:02:28.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220411_073803-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220411_073820.jpg

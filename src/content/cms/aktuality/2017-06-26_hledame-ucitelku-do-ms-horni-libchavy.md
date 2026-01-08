@@ -3,7 +3,8 @@ title: Hledáme učitelku do MŠ Horní Libchavy
 post_id: '588'
 date: '2017-06-26T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

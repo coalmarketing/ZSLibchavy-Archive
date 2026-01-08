@@ -3,7 +3,8 @@ title: Jablkový kompot
 post_id: '4972'
 date: '2009-01-19T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

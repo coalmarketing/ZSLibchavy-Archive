@@ -3,7 +3,8 @@ title: Dovádíme ve sněhu!!!!! :-)
 post_id: '67467'
 date: '2022-01-24T14:01:38.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220121_103213.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220121_103218.jpg

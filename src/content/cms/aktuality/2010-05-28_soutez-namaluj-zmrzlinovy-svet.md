@@ -3,7 +3,8 @@ title: Soutěž NAMALUJ ZMRZLINOVÝ SVĚT
 post_id: '493'
 date: '2010-05-28T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

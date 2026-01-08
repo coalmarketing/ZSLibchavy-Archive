@@ -3,7 +3,8 @@ title: Soudružnost kolektivu v 7. třídě
 post_id: '5732'
 date: '2014-06-24T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

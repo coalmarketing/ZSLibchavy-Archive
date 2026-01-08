@@ -3,7 +3,8 @@ title: Čarodějnické přípravy II. oddělení
 post_id: '6287'
 date: '2017-04-27T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

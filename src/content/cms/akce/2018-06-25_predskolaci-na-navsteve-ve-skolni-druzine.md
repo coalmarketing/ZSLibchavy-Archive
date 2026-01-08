@@ -3,7 +3,8 @@ title: Předškoláci na návštěvě ve školní družině
 post_id: '12874'
 date: '2018-06-25T12:54:48.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180622_085803.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180622_085824.jpg

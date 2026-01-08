@@ -3,7 +3,8 @@ title: Okresní kolo ve florbale ml. žáků
 post_id: '6174'
 date: '2016-12-04T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Dárečky ke dni matek
 post_id: '72820'
 date: '2022-05-12T17:58:21.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/279639999_520444026336518_199115551622595095_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/279680100_1747235225631711_7551014741745075495_n.jpg

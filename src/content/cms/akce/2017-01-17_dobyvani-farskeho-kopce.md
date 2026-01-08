@@ -3,7 +3,8 @@ title: Dobývání farského kopce
 post_id: '6211'
 date: '2017-01-17T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

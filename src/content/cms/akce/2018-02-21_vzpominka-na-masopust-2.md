@@ -3,7 +3,8 @@ title: vzpomínka na Masopust
 post_id: '9019'
 date: '2018-02-21T06:31:24.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_11931-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_121931-2.jpg

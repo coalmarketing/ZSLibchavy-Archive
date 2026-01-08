@@ -3,7 +3,8 @@ title: Domácí sportování v 5.A
 post_id: '53175'
 date: '2021-02-28T15:12:36.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210225_165858-rotated.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210225_165908-rotated.jpg

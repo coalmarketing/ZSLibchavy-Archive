@@ -3,7 +3,8 @@ title: Ne návykovým látkám
 post_id: '18214'
 date: '2019-01-15T12:21:09.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1679.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1684.jpg

@@ -3,7 +3,8 @@ title: Sláva, nazdar výletu!!!!!! "Záchranná stanice Pasíčka"
 post_id: '59133'
 date: '2021-06-09T18:04:47.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210608-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20210608-WA0001.jpg

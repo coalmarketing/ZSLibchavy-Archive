@@ -3,7 +3,8 @@ title: Klokánci a jejich zimní výlety do přírody
 post_id: '30406'
 date: '2020-01-27T13:04:28.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200122-WA0000.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20200122-WA0001.jpg

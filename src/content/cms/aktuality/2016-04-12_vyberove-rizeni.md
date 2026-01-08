@@ -3,7 +3,8 @@ title: Výběrové řízení
 post_id: '292'
 date: '2016-04-12T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

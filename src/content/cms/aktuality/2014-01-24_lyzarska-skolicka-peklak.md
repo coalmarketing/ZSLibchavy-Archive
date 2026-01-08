@@ -3,7 +3,8 @@ title: Lyžařská školička peklák
 post_id: '364'
 date: '2014-01-24T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

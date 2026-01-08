@@ -3,7 +3,8 @@ title: Hřiště-umělka
 post_id: '73406'
 date: '2022-05-23T07:12:20.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

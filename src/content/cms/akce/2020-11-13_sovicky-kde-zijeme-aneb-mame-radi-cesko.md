@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,KDE ŽIJEME ANEB MÁME RÁDI ČESKO"'
 post_id: '46277'
 date: '2020-11-13T12:37:18.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-2-3.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-2-3.jpeg

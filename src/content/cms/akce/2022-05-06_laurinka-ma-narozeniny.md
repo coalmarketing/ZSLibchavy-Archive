@@ -3,7 +3,8 @@ title: Laurinka má narozeniny!
 post_id: '72410'
 date: '2022-05-06T06:43:07.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/279508015_564872824943248_2253498834719002972_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/279554461_726231441724109_652982492089407710_n.jpg

@@ -3,7 +3,8 @@ title: Seznam přijatých dětí do MŠ/DL pro rok 2018/2019
 post_id: '11274'
 date: '2018-05-23T06:42:16.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

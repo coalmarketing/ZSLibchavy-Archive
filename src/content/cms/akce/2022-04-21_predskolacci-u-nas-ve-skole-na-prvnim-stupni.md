@@ -3,7 +3,8 @@ title: Předškoláčci u nás ve škole na prvním stupni
 post_id: '71547'
 date: '2022-04-21T16:48:45.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220421_090023.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220421_090218.jpg

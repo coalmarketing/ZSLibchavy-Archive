@@ -3,7 +3,8 @@ title: Přehlídka středních škol v České Třebové
 post_id: '77927'
 date: '2022-10-02T18:24:50.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/prehlidka-ss.png
 tags:

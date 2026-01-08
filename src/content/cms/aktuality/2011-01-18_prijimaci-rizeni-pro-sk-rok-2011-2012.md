@@ -3,7 +3,8 @@ title: Přijímací řízení pro šk.rok 2011-2012
 post_id: '474'
 date: '2011-01-18T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

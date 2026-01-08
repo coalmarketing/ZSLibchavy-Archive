@@ -3,7 +3,8 @@ title: Recitační soutěž na 2. stupni
 post_id: '5257'
 date: '2011-05-30T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

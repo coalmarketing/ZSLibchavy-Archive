@@ -3,7 +3,8 @@ title: 'PROJEKTOVÝ DEN: ,,MOTÝLCI"'
 post_id: '72191'
 date: '2022-05-04T12:10:20.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/00517266-9C74-4427-B69B-59BBF301A0E0.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/058E8FFA-923E-4C51-BB3D-698D6E4862B6.jpeg

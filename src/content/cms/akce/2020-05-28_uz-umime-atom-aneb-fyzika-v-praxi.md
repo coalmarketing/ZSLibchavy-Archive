@@ -3,7 +3,8 @@ title: Už umíme atom aneb fyzika v praxi
 post_id: '38435'
 date: '2020-05-28T17:45:51.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Aubus.png
 - url: https://zslibchavycz.b-cdn.net/wp/Basnikova.jpg

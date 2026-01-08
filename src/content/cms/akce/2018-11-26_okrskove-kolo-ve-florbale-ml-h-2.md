@@ -3,7 +3,8 @@ title: Okrskové kolo ve florbale ml.H
 post_id: '16601'
 date: '2018-11-26T22:27:25.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

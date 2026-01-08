@@ -3,7 +3,8 @@ title: 'Projektový den: "Podmořský svět" II.'
 post_id: '43480'
 date: '2020-10-15T10:57:24.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201014_092619.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20201014_092806.jpg

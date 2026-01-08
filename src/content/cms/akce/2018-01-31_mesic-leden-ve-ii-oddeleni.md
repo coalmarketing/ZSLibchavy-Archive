@@ -3,7 +3,8 @@ title: Měsíc leden ve II. oddělení
 post_id: '8330'
 date: '2018-01-31T14:14:41.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20180118_134321.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20180118_134328.jpg

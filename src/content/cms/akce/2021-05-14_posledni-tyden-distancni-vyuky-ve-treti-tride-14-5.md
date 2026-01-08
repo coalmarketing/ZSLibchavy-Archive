@@ -3,7 +3,8 @@ title: Poslední týden distanční výuky ve třetí třídě 14. 5.
 post_id: '57409'
 date: '2021-05-14T20:19:22.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/Elenka-K-6.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/Eliska-4.jpeg

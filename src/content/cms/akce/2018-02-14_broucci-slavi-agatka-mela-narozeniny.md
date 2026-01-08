@@ -3,7 +3,8 @@ title: 'Broučci slaví: Agátka měla narozeniny'
 post_id: '8891'
 date: '2018-02-14T19:28:05.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180214_094325_1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180214_094333.jpg

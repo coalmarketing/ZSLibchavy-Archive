@@ -3,7 +3,8 @@ title: 'Sovičky: Tvořeníčko, tvoření "Naše, školka"'
 post_id: '61288'
 date: '2021-09-13T06:31:43.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210908_071349.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20210908_071358.jpg

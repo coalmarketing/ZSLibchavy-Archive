@@ -3,7 +3,8 @@ title: '"Výroba" triček ke DNI DĚTÍ'
 post_id: '23958'
 date: '2019-06-09T11:49:42.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190604-WA0004.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20190604-WA0037.jpg

@@ -3,7 +3,8 @@ title: Vědomostní soutěž Náboj Junior
 post_id: '28518'
 date: '2019-11-25T11:45:48.000Z'
 author: Ing.Lenka Řehounková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Kurz angličtiny s rodilým mluvčím
 post_id: '273'
 date: '2017-02-20T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

@@ -3,7 +3,8 @@ title: Muzikoterapie
 post_id: '64497'
 date: '2021-11-29T12:17:38.000Z'
 author: Martina Ferklová
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/S0018088.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/S0068099.jpg

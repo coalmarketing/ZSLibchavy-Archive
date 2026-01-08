@@ -3,7 +3,8 @@ title: Leonka slaví narozeniny
 post_id: '42981'
 date: '2020-10-07T14:29:43.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-2-2.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/2-2-2.jpeg

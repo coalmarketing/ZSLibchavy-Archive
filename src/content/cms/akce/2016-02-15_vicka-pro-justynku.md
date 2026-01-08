@@ -3,7 +3,8 @@ title: Víčka pro Justýnku
 post_id: '6023'
 date: '2016-02-15T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

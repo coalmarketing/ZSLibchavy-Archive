@@ -3,7 +3,8 @@ title: Herbář - zlomek naší květeny
 post_id: '77420'
 date: '2022-09-22T21:16:43.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220921_074502.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220921_074529.jpg

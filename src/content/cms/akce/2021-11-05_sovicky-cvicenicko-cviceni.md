@@ -3,7 +3,8 @@ title: 'Sovičky: "cvičeníčko, cvičení" :-)'
 post_id: '63459'
 date: '2021-11-05T12:40:16.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211104_102417.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211104_102427.jpg

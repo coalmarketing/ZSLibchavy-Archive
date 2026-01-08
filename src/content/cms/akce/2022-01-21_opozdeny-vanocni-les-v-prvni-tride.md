@@ -3,7 +3,8 @@ title: Opožděný "Vánoční les" v první třídě
 post_id: '67238'
 date: '2022-01-21T12:45:03.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220121_093117.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220121_094527.jpg

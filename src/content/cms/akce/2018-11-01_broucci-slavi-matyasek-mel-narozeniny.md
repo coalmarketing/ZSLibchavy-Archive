@@ -3,7 +3,8 @@ title: 'Broučci slaví: Matyášek měl narozeniny'
 post_id: '15917'
 date: '2018-11-01T13:04:43.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181016_085603.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20181016_085612.jpg

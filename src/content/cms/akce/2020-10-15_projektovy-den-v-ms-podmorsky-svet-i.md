@@ -3,7 +3,8 @@ title: projektový den v MŠ - "Podmořský svět" I.
 post_id: '43444'
 date: '2020-10-15T10:51:40.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-3-2.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-1-3.jpeg

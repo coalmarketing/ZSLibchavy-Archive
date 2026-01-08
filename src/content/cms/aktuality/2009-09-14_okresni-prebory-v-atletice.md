@@ -3,7 +3,8 @@ title: Okresní přebory v atletice
 post_id: '523'
 date: '2009-09-14T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality

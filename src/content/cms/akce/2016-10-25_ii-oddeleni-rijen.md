@@ -3,7 +3,8 @@ title: II. oddělení - říjen
 post_id: '6151'
 date: '2016-10-25T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

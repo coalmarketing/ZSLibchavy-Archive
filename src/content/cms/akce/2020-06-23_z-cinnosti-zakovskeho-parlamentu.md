@@ -3,7 +3,8 @@ title: Z činnosti žákovského parlamentu
 post_id: '40935'
 date: '2020-06-23T12:16:36.000Z'
 author: Marta Kacálková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200618_184701.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200618_184737.jpg

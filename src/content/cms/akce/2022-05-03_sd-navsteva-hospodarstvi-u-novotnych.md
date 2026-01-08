@@ -3,7 +3,8 @@ title: ŠD - návštěva hospodářství u Novotných
 post_id: '72082'
 date: '2022-05-03T11:13:04.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/received_1045047386369729.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/received_1050358739172297.jpeg

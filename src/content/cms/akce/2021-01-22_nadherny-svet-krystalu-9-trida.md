@@ -3,7 +3,8 @@ title: Nádherný svět krystalů - 9. třída
 post_id: '51364'
 date: '2021-01-22T01:12:34.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/16112182359611712605752846467685.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210115_123643-1.jpg

@@ -3,7 +3,8 @@ title: Prosinec ve školce :-)
 post_id: '82175'
 date: '2022-12-19T12:32:39.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221206_064725-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20221206_064931-1.jpg

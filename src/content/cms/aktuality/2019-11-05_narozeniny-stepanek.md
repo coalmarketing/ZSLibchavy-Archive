@@ -3,7 +3,8 @@ title: Narozeniny Štěpánek
 post_id: '27642'
 date: '2019-11-05T07:05:16.000Z'
 author: Martina Ferklová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2241.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSCF2242.jpg

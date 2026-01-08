@@ -3,7 +3,8 @@ title: Charitativní projekt Červená stužka
 post_id: '5783'
 date: '2014-11-30T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

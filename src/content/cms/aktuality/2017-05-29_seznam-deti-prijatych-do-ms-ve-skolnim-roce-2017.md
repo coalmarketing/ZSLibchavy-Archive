@@ -3,7 +3,8 @@ title: Seznam dětí přijatých do MŠ ve školním roce 2017,
 post_id: '590'
 date: '2017-05-29T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

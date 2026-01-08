@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,MOJE MAMINKA MÁ SVÁTEK"'
 post_id: '57223'
 date: '2021-05-10T12:23:54.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-10.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-8.jpeg

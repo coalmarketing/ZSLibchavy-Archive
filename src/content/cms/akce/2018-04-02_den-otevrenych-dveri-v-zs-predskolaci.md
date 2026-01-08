@@ -3,7 +3,8 @@ title: Den otevřených dveří v ZŠ (předškoláci)
 post_id: '9833'
 date: '2018-04-02T18:38:46.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180327_090546_1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180327_090603_1.jpg

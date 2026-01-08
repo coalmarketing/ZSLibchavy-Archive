@@ -3,7 +3,8 @@ title: Tělocvik na bruslích
 post_id: '65490'
 date: '2021-12-14T19:21:35.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211213_135709.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211213_135723.jpg

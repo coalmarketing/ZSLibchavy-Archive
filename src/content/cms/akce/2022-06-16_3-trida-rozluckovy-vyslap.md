@@ -3,7 +3,8 @@ title: 3. třída - rozlučkový výšlap
 post_id: '75371'
 date: '2022-06-16T13:28:03.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/15-2.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/16-2.jpg

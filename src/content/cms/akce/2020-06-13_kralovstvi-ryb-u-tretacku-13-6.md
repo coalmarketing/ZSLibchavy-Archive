@@ -3,7 +3,8 @@ title: Království ryb u třeťáčků 13. 6.
 post_id: '40699'
 date: '2020-06-13T17:45:41.000Z'
 author: Mgr.Iva Kittlitz
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/101980042_607531203189975_8032176259496763602_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/103355710_195052438400326_3779817828352041193_n.jpg

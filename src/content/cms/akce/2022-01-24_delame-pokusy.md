@@ -3,7 +3,8 @@ title: Děláme pokusy:-)
 post_id: '67447'
 date: '2022-01-24T13:56:58.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220121_090351.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220121_090408.jpg

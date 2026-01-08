@@ -3,7 +3,8 @@ title: První dny ve školce
 post_id: '5738'
 date: '2014-08-31T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

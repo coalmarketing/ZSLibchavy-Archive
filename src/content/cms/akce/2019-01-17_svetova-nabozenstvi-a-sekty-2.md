@@ -3,7 +3,8 @@ title: Světová náboženství a sekty
 post_id: '18315'
 date: '2019-01-17T19:31:19.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

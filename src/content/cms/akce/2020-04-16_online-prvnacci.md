@@ -3,7 +3,8 @@ title: Online prvňáčci
 post_id: '34629'
 date: '2020-04-16T10:26:36.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/16.4.-_1.png
 tags:

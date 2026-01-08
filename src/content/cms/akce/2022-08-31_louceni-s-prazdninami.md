@@ -3,7 +3,8 @@ title: Loučení s předškoláky a prázdninami
 post_id: '76637'
 date: '2022-08-31T16:43:05.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/131DABA9-6F2F-4F8E-8D99-3D95E9C67C3F.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/3365A33A-13AA-4A59-A6CD-9751C7EE188A.jpeg

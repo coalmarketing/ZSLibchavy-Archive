@@ -3,7 +3,8 @@ title: VÁNOČNÍ NADÍLKA V MŠ
 post_id: '6977'
 date: '2017-12-21T08:26:18.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20171218_091135.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20171218_091143_1.jpg

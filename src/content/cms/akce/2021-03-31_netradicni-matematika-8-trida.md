@@ -3,7 +3,8 @@ title: Netradiční matematika - 8. třída
 post_id: '55336'
 date: '2021-03-31T20:58:11.000Z'
 author: Mgr. Veronika Vaňousová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1617127242779.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20210331_085454.jpg

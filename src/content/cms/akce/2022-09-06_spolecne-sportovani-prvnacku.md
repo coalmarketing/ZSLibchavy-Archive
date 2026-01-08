@@ -3,7 +3,8 @@ title: Společné sportování prvňáčků
 post_id: '76839'
 date: '2022-09-06T18:51:50.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20220906_090913.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20220906_090945.jpg

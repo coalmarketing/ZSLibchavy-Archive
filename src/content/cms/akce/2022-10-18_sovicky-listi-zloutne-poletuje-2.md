@@ -3,7 +3,8 @@ title: 'SOVIČKY: ,,LISTÍ ŽLOUTNE POLETUJE"'
 post_id: '78755'
 date: '2022-10-18T12:07:47.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-4-2.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-3-5.jpeg

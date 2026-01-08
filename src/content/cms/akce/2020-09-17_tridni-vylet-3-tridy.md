@@ -3,7 +3,8 @@ title: Třídní výlet 3. třídy
 post_id: '42305'
 date: '2020-09-17T21:24:13.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200917_075639.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20200917_081611.jpg

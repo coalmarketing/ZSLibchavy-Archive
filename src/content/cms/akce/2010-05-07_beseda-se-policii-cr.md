@@ -3,7 +3,8 @@ title: Beseda se Policií  ČR
 post_id: '5146'
 date: '2010-05-07T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

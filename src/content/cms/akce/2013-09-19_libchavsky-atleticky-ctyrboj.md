@@ -3,7 +3,8 @@ title: Libchavský atletický čtyřboj
 post_id: '5600'
 date: '2013-09-19T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

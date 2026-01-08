@@ -3,7 +3,8 @@ title: '"Loučení s předškoláky" III. (krátké video ukázky)'
 post_id: '76231'
 date: '2022-06-29T12:34:57.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

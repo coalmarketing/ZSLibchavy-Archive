@@ -3,7 +3,8 @@ title: Výlet do Potštejna
 post_id: '5587'
 date: '2013-06-10T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - akce

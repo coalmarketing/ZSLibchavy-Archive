@@ -3,7 +3,8 @@ title: Kreslíř v MŠ
 post_id: '12930'
 date: '2018-06-25T13:10:02.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180625_101756.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180625_101758.jpg

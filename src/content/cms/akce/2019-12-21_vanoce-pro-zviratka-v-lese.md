@@ -3,7 +3,8 @@ title: Vánoce pro zvířátka v lese
 post_id: '29788'
 date: '2019-12-21T20:22:20.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191219-WA0001.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG-20191219-WA0002.jpg

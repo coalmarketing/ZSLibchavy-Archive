@@ -3,7 +3,8 @@ title: Přehlídka strojírenských firem
 post_id: '8211'
 date: '2018-01-23T19:10:43.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0137.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0138.jpg

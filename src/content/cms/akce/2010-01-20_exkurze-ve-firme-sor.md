@@ -3,7 +3,8 @@ title: Exkurze ve firmě SOR
 post_id: '5100'
 date: '2010-01-20T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

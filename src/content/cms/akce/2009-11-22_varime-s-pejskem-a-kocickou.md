@@ -3,7 +3,8 @@ title: Vaříme s pejskem a kočičkou
 post_id: '5062'
 date: '2009-11-22T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

@@ -3,7 +3,8 @@ title: Preventivní program v 2. A
 post_id: '10211'
 date: '2018-04-16T23:01:47.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180409_081541-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180409_081617-1.jpg

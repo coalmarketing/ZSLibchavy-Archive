@@ -3,7 +3,8 @@ title: Prvňáčci v Obecní knihovně v Libchavách
 post_id: '26955'
 date: '2019-10-17T12:05:45.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191014_102643.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20191014_104829.jpg

@@ -3,7 +3,8 @@ title: Martinovo poselství
 post_id: '79376'
 date: '2022-10-25T11:04:14.000Z'
 author: Alena Pulkrábková
-section: MŠ Korálek
+section:
+  - MŠ Korálek
 images: []
 tags:
 - aktuality

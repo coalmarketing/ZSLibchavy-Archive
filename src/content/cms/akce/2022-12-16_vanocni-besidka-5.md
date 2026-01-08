@@ -3,7 +3,8 @@ title: vánoční besídka
 post_id: '82100'
 date: '2022-12-16T13:56:10.000Z'
 author: Monika Frimlová
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1-2-13.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/10-2-10.jpeg

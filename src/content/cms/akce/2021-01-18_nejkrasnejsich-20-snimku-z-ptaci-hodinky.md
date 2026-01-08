@@ -3,7 +3,8 @@ title: Nejkrásnějších 20 snímků z "Ptačí hodinky"
 post_id: '50704'
 date: '2021-01-18T18:15:31.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/138052486_406186274020884_8094128223723522101_n-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/139618663_295327978602144_8019385951189084383_n.jpg

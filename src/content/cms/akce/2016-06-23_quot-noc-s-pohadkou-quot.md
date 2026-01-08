@@ -3,7 +3,8 @@ title: '&quot;Noc s pohádkou&quot;'
 post_id: '6121'
 date: '2016-06-23T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

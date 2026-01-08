@@ -3,7 +3,8 @@ title: Vycházka za ovečkami a jejich jehňátky
 post_id: '9095'
 date: '2018-02-22T17:14:55.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180221_100549_1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20180221_100610_1.jpg

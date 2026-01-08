@@ -3,7 +3,8 @@ title: Barevný týden - ponožkový pátek
 post_id: '61211'
 date: '2021-09-10T17:06:54.000Z'
 author: Mgr. Lenka Ludvíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_2605.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_2615.jpg

@@ -3,7 +3,8 @@ title: Okresní kolo ve florbale st. H
 post_id: '17058'
 date: '2018-12-11T21:01:57.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/001-6.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/002-6.jpg

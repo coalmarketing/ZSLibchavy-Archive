@@ -3,7 +3,8 @@ title: 'Klokánci: "kde žijeme"'
 post_id: '28034'
 date: '2019-11-13T06:28:59.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/08679452-18A9-47E5-B0D6-1340E61D317B.jpeg
 - url: https://zslibchavycz.b-cdn.net/wp/151DD2E0-E899-49A7-B628-BD2E198DF845.jpeg

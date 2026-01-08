@@ -3,7 +3,8 @@ title: Noc ve škole
 post_id: '73216'
 date: '2022-05-17T10:22:01.000Z'
 author: Mgr. Karolína Moravcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/1652614238252.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20220507_015640.jpg

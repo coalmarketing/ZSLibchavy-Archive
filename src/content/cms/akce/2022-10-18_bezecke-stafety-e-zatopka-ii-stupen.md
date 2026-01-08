@@ -3,7 +3,8 @@ title: Běžecké štafety E. Zátopka - II. stupeň
 post_id: '78877'
 date: '2022-10-18T19:50:42.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1528.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_1530.jpg

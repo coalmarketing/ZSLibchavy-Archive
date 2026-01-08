@@ -3,7 +3,8 @@ title: Zahájení plavecké výuky ve 2. a 3. třídě
 post_id: '30773'
 date: '2020-02-04T13:33:14.000Z'
 author: Mgr.Eva Adamcová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/P2040374.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/P2040375.jpg

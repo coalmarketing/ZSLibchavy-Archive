@@ -3,7 +3,8 @@ title: Vycházka do Údolí sejfů
 post_id: '5682'
 date: '2014-04-02T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

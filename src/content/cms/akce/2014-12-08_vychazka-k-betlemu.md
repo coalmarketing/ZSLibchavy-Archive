@@ -3,7 +3,8 @@ title: Vycházka k Betlému
 post_id: '5788'
 date: '2014-12-08T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

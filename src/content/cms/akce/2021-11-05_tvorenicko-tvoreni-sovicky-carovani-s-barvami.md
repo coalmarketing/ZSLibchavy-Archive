@@ -3,7 +3,8 @@ title: 'Tvořeníčko, tvoření: Sovičky "čarování s barvami" :-)'
 post_id: '63431'
 date: '2021-11-05T12:38:23.000Z'
 author: Bc. Renata Krejčová, Dis
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211104_071709.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_20211104_071728.jpg

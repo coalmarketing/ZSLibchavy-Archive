@@ -3,7 +3,8 @@ title: Březen - I. oddělení
 post_id: '20464'
 date: '2019-03-31T07:09:24.000Z'
 author: lic. Pavlína Vítková,Dis.
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6020.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_6021.jpg

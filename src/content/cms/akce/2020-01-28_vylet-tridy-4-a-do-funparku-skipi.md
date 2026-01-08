@@ -3,7 +3,8 @@ title: Výlet třídy 4.A do Funparku SkiPi
 post_id: '30503'
 date: '2020-01-28T18:50:32.000Z'
 author: Mgr.Eva Krummer
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

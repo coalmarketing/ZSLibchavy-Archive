@@ -3,7 +3,8 @@ title: Návštěva Fitness centra Uno v Ústí nad Orlicí
 post_id: '9300'
 date: '2018-03-01T08:48:52.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/012-3.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/013-5.jpg

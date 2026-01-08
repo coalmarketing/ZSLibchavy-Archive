@@ -3,7 +3,8 @@ title: KOUZELNÍK V MŠ
 post_id: '6059'
 date: '2016-03-21T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: MŠ Kamarád
+section:
+  - MŠ Kamarád
 images: []
 tags:
 - akce

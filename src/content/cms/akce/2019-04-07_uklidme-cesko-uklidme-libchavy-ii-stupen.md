@@ -3,7 +3,8 @@ title: „UKLIĎME ČESKO-UKLIĎME LIBCHAVY“ - II. stupeň
 post_id: '20664'
 date: '2019-04-07T23:59:03.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/114.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/115-2.jpg

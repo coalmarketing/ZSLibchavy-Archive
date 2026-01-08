@@ -3,7 +3,8 @@ title: Projekt "AMÉLIE" pro FN Olomouc
 post_id: '8392'
 date: '2018-01-31T14:43:55.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - aktuality

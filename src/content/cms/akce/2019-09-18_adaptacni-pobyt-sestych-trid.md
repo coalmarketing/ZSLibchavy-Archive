@@ -3,7 +3,8 @@ title: Adaptační pobyt šestých tříd
 post_id: '25776'
 date: '2019-09-18T19:20:15.000Z'
 author: Mgr.Kateřina Kulhavá
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

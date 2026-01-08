@@ -3,7 +3,8 @@ title: Soutěž odborných dovedností žáků ZŠ
 post_id: '28205'
 date: '2019-11-15T12:34:14.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/kluci.jpg
 tags:

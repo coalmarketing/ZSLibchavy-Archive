@@ -3,7 +3,8 @@ title: Hry hraní malování - to nás pořad baví I. oddělení
 post_id: '6311'
 date: '2017-05-30T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Družina
+section:
+  - Družina
 images: []
 tags:
 - akce

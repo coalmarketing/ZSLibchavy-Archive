@@ -3,7 +3,8 @@ title: Školní výlet 6. třídy
 post_id: '13049'
 date: '2018-05-24T21:15:36.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_0002.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/DSC_0008.jpg

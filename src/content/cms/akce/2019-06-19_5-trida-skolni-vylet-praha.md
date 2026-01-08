@@ -3,7 +3,8 @@ title: 5. třída - školní výlet Praha
 post_id: '24685'
 date: '2019-06-19T20:02:38.000Z'
 author: Mgr. Martina Sokolová
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/65043566_658793224596186_4164522464841302016_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/65179612_2034465056862597_4735175635381518336_n.jpg

@@ -3,7 +3,8 @@ title: TLAPKY v Českė Třebové
 post_id: '64267'
 date: '2021-11-22T08:45:15.000Z'
 author: Světlana Roubíčková
-section: Družina
+section:
+  - Družina
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/258174214_4312179962220861_7721323676233850090_n.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/258183710_959742307967432_8142473354203207966_n.jpg

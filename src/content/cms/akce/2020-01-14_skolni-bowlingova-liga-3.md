@@ -3,7 +3,8 @@ title: Školní bowlingová liga
 post_id: '30010'
 date: '2020-01-14T00:28:11.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - akce

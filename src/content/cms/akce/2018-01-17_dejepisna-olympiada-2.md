@@ -3,7 +3,8 @@ title: Dějepisná olympiáda
 post_id: '7965'
 date: '2018-01-17T17:14:12.000Z'
 author: Mgr.Zuzana Novotná
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/IMG_0012.jpg
 tags:

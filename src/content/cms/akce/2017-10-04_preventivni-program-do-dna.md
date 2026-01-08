@@ -3,7 +3,8 @@ title: Preventivní program "Do dna"
 post_id: '4153'
 date: '2017-10-04T22:20:38.000Z'
 author: PaedDr.Hana Šťovíčková
-section: Škola
+section:
+  - Škola
 images:
 - url: https://zslibchavycz.b-cdn.net/wp/20171004_105904-1.jpg
 - url: https://zslibchavycz.b-cdn.net/wp/20171004_110316-1.jpg

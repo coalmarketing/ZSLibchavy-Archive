@@ -3,7 +3,8 @@ title: Volba zástupců z řad rodičů do  ŠKOLSKÉ RADY
 post_id: '485'
 date: '2010-10-22T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
-section: Škola
+section:
+  - Škola
 images: []
 tags:
 - aktuality
