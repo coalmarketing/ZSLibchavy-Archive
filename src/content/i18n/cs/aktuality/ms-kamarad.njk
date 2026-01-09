@@ -13,7 +13,7 @@ const pagination = {
     reverse: true,
     alias: 'posts',
     before: function (paginationData, fullData) {
-      return paginationData.filter((d) => d.data.section === "MŠ Kamarád");
+      return paginationData.filter((d) => d.data.section.includes("MŠ Kamarád"));
     }
   };
   

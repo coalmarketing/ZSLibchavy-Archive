@@ -65,11 +65,16 @@
               {# Check whether the page has any children #}
               {% set sidebarItem = sidebar.archiv.items | findWhere({"text": entry.key}) %}
 
+              {# Check whether the page is selected #}
+              {% set isCurrent = (entry.url === page.url) %}
+              {% set isParent = (entry.url !== '/' and page.url.startsWith(entry.url)) %}
+              {% set isSpolecne = (entry.url === '/spolecne/aktuality/' and page.url.includes('/spolecne/')) %}
+
               <li class="group relative">
                 <a href="{{ entry.url }}"
                 class="flex items-center h-full group-[.scroll]/body:h-full py-2 px-4 border-b-2 border-category text-center text-sm font-medium text-gray-800 dark:text-gray-200 whitespace-nowrap hover:text-gray-950 dark:hover:text-white transition-[height] duration-300"
                 data-category="{{ entry.data.category }}"
-                {%- if page.url.startsWith(entry.url) and entry.url !== "/" -%} aria-current="page" {% elif entry.url === page.url %} aria-current="page" {%- endif -%}>
+                {%- if isCurrent or isParent or isSpolecne -%} aria-current="page" {%- endif -%}>
                   {{ entry.key }}
                 </a>
 
