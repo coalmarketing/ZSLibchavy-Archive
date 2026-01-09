@@ -158,7 +158,21 @@
                         </div>
 
                         {% if albumUrl %}
-                            <a href="{{ albumUrl }}" target="_blank" class="btn btn-sm">Zobrazit více fotek</a>
+                            <a href="{{ albumUrl }}" target="_blank" class="btn btn-sm self-end">
+                                <span>Zobrazit více fotek</span>
+
+                                <div>
+                                    <img
+                                        src="/assets/svgs/arrow_outward_dark.svg"
+                                        alt="Ikona šipky směřující nahoru"
+                                        width="20"
+                                        height="20"
+                                        loading="lazy"
+                                        decoding="async"
+                                        aria-hidden="true"
+                                        draggable="false">
+                                </div>
+                            </a>
                         {% endif %}
                     </div>
                 {% endif %}
