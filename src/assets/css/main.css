@@ -2603,12 +2603,12 @@ ul#subnavigation a[data-category="jidelna"][aria-current="page"]:where(.dark, .d
   row-gap: 0.25rem;
 }
 
-.gap-y-8 {
-  row-gap: 2rem;
-}
-
 .gap-y-2 {
   row-gap: 0.5rem;
+}
+
+.gap-y-8 {
+  row-gap: 2rem;
 }
 
 .-space-y-8 > :not([hidden]) ~ :not([hidden]) {
@@ -2757,11 +2757,6 @@ ul#subnavigation a[data-category="jidelna"][aria-current="page"]:where(.dark, .d
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
 }
 
-.bg-gray-800 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(31 41 55 / var(--tw-bg-opacity, 1));
-}
-
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
@@ -2793,6 +2788,11 @@ ul#subnavigation a[data-category="jidelna"][aria-current="page"]:where(.dark, .d
 
 .p-8 {
   padding: 2rem;
+}
+
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 .px-3 {
@@ -2894,6 +2894,10 @@ ul#subnavigation a[data-category="jidelna"][aria-current="page"]:where(.dark, .d
   font-weight: 600;
 }
 
+.\!leading-\[1\.1\] {
+  line-height: 1.1 !important;
+}
+
 .\!leading-\[1\.2\] {
   line-height: 1.2 !important;
 }
@@ -2908,10 +2912,6 @@ ul#subnavigation a[data-category="jidelna"][aria-current="page"]:where(.dark, .d
 
 .leading-none {
   line-height: 1;
-}
-
-.\!leading-\[1\.1\] {
-  line-height: 1.1 !important;
 }
 
 .text-black {
@@ -3087,6 +3087,11 @@ ul#subnavigation a[data-category="jidelna"][aria-current="page"]:where(.dark, .d
   line-height: clamp(2rem,1.29rem + 1.79vw,3rem)/* fluid from 2rem at 40rem to 3rem at 96rem */;
 }
 
+.\~text-4xl\/6xl {
+  font-size: clamp(2.25rem,1.18rem + 2.68vw,3.75rem)/* fluid type from 2.25rem at 40rem to 3.75rem at 96rem */;
+  line-height: clamp(2.5rem,1.61rem + 2.23vw,3.75rem)/* fluid from 2.5rem at 40rem to 3.75rem at 96rem */;
+}
+
 .\~text-\[1\.125rem\]\/\[1\.375rem\] {
   font-size: clamp(1.125rem,0.946rem + 0.446vw,1.375rem)/* fluid type from 1.125rem at 40rem to 1.375rem at 96rem */;
 }
@@ -3109,16 +3114,6 @@ ul#subnavigation a[data-category="jidelna"][aria-current="page"]:where(.dark, .d
 .\~text-sm\/lg {
   font-size: clamp(0.875rem,0.696rem + 0.446vw,1.125rem)/* fluid type from 0.875rem at 40rem to 1.125rem at 96rem */;
   line-height: clamp(1.25rem,0.89rem + 0.89vw,1.75rem)/* fluid from 1.25rem at 40rem to 1.75rem at 96rem */;
-}
-
-.\~text-4xl\/7\.5xl {
-  font-size: clamp(2.25rem,0.11rem + 5.36vw,5.25rem)/* fluid type from 2.25rem at 40rem to 5.25rem at 96rem */;
-  line-height: clamp(2.5rem,0.54rem + 4.91vw,5.25rem)/* fluid from 2.5rem at 40rem to 5.25rem at 96rem */;
-}
-
-.\~text-4xl\/6xl {
-  font-size: clamp(2.25rem,1.18rem + 2.68vw,3.75rem)/* fluid type from 2.25rem at 40rem to 3.75rem at 96rem */;
-  line-height: clamp(2.5rem,1.61rem + 2.23vw,3.75rem)/* fluid from 2.5rem at 40rem to 3.75rem at 96rem */;
 }
 
 .\~h-16\/20 {
@@ -3145,20 +3140,16 @@ ul#subnavigation a[data-category="jidelna"][aria-current="page"]:where(.dark, .d
   max-width: clamp(32rem,24.86rem + 17.86vw,42rem)/* fluid from 32rem at 40rem to 42rem at 96rem */;
 }
 
+.\~max-w-md\/2xl {
+  max-width: clamp(28rem,18rem + 25vw,42rem)/* fluid from 28rem at 40rem to 42rem at 96rem */;
+}
+
 .\~max-w-sm\/md {
   max-width: clamp(24rem,21.14rem + 7.14vw,28rem)/* fluid from 24rem at 40rem to 28rem at 96rem */;
 }
 
 .\~max-w-sm\/xl {
   max-width: clamp(24rem,15.43rem + 21.43vw,36rem)/* fluid from 24rem at 40rem to 36rem at 96rem */;
-}
-
-.\~max-w-md\/3xl {
-  max-width: clamp(28rem,13.71rem + 35.71vw,48rem)/* fluid from 28rem at 40rem to 48rem at 96rem */;
-}
-
-.\~max-w-md\/2xl {
-  max-width: clamp(28rem,18rem + 25vw,42rem)/* fluid from 28rem at 40rem to 42rem at 96rem */;
 }
 
 .\~gap-0 /* error - Missing end value */ {
